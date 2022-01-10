@@ -1,0 +1,57 @@
+{
+  "english": "student",
+  "phat_am": "['stju:dnt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người học để lấy một học vị, bằng cấp... tại một trường đại học, cao đẳng hoặc đào tạo kỹ thuật cao cấp; sinh viên",
+          "list_en_vn": [
+            {
+              "full_en": "a BA student",
+              "full_vn": "một sinh viên học lấy bằng cử nhân văn chương"
+            },
+            {
+              "full_en": "student politics",
+              "full_vn": "hoạt động chính trị của sinh viên"
+            },
+            {
+              "full_en": "a student nurse , teacher",
+              "full_vn": "y tá thực tập, giáo sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) nữ sinh, nam sinh"
+        },
+        {
+          "m_full_vn": "nhà nghiên cứu (người đang nghiên cứu hoặc có một sự quan tâm đặc biệt đến cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a student of politics , human nature , theology",
+              "full_vn": "nhà nghiên cứu chính trị, nhân chủng học, thần học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078945_aee5105804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078945_aa686d91aa_o.png",
+      "id_image": "student_195817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078895_45b8e214e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078895_7e8756ae4e_o.png",
+      "id_image": "student_773388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386507_1b2bb21530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386507_3d018491ef_o.png",
+      "id_image": "student_949570"
+    }
+  ]
+}

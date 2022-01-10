@@ -1,0 +1,96 @@
+{
+  "english": "tour",
+  "phat_am": "[tuə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc đi du lịch, chuyến đi du lịch",
+          "list_en_vn": [
+            {
+              "full_en": "a tour round the world",
+              "full_vn": "cuộc đi vòng quanh thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc đi dạo, cuộc đi thăm ngắn tới một địa điểm, qua một địa điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to go for a tour round the town",
+              "full_vn": "đi dạo chơi thăm thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc kinh lý",
+          "list_en_vn": [
+            {
+              "full_en": "tour of inspection",
+              "full_vn": "cuộc đi kinh lý kiểm tra"
+            },
+            {
+              "full_en": "theatrical tour",
+              "full_vn": "cuộc đi biểu diễn ở nhiều nơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian thực hiện nhiệm vụ ở nước ngoài"
+        },
+        {
+          "m_full_vn": "cuộc đi ngoại giao"
+        },
+        {
+          "m_full_vn": "cuộc thao diễn quân sự"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + in something ) đi du lịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "on tour",
+              "list_im": [
+                {
+                  "im_full_vn": "đang đi lưu diễn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387462_d79336ceb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387462_38bfbe7529_o.png",
+      "id_image": "tour_1373090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457223_8fe8080dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457223_f2bc0c3548_o.png",
+      "id_image": "tour_2569874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697774_fda660cbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697774_cdd98802a9_o.png",
+      "id_image": "tour_293848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387387_54fffe2a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387387_b14b9c308a_o.png",
+      "id_image": "tour_5293953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387517_33199fa54e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387517_2d95d5e3e4_o.png",
+      "id_image": "tour_827056"
+    }
+  ]
+}

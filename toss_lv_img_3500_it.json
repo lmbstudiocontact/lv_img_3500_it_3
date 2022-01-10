@@ -1,0 +1,185 @@
+{
+  "english": "toss",
+  "phat_am": "[tɔs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự buông, sự quăng, sự thả, sự ném, sự tung"
+        },
+        {
+          "m_full_vn": "trò chơi sấp ngửa",
+          "list_en_vn": [
+            {
+              "full_en": "to win the toss",
+              "full_vn": "đoán đúng trong trò chơi sấp ngửa; thắng lợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hất; cái hất (đầu, hàm...)",
+          "list_en_vn": [
+            {
+              "full_en": "a toss of the head",
+              "full_vn": "cái hất đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngã ngựa",
+          "list_one_mean": [
+            {
+              "id_full_en": "not give a toss",
+              "list_im": [
+                {
+                  "im_full_vn": "không hề quan tâm, để ý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take a toss",
+              "full_vn": "ngã ngựa; (nghĩa bóng) thất bại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ tossed , tost",
+      "list_m": [
+        {
+          "m_full_vn": "buông, quăng, thả, ném, tung",
+          "list_en_vn": [
+            {
+              "full_en": "to toss the ball",
+              "full_vn": "tung quả bóng"
+            },
+            {
+              "full_en": "to toss money about",
+              "full_vn": "quẳng tiền qua cửa sổ, ăn tiêu hoang phí"
+            },
+            {
+              "full_en": "to toss up a coin",
+              "full_vn": "tung đồng tiền (chơi sấp ngửa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hất (ai) lên bằng sừng (con bò..)"
+        },
+        {
+          "m_full_vn": "hất (đầu..; nhất là tỏ ý coi (thường), thờ ơ)",
+          "list_en_vn": [
+            {
+              "full_en": "to toss the head",
+              "full_vn": "hất đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho chòng chành, làm cho đu đưa, làm cho lắc lư"
+        },
+        {
+          "m_full_vn": "gieo, tung (đồng tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "there's only one pillow - I'll toss you for it",
+              "full_vn": "chỉ có duy nhất một cái gối - tôi sẽ tung đồng tiền với anh để xem ai được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi sấp ngửa"
+        },
+        {
+          "m_full_vn": "chòng chành, lắc lư, đu đưa",
+          "list_en_vn": [
+            {
+              "full_en": "the ship tossed on the sea",
+              "full_vn": "con tàu chòng chành trên biển cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lật đi lật lại; trở mình trằn trọc",
+          "list_en_vn": [
+            {
+              "full_en": "he tossed about in his bed",
+              "full_vn": "anh ta trở mình trằn trọc trên giường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỗ bập bềnh (sóng)"
+        },
+        {
+          "m_full_vn": "tung bóng lên (quần vợt)"
+        },
+        {
+          "m_full_vn": "gieo tiền, tung tiền",
+          "list_en_vn": [
+            {
+              "full_en": "who's going to cook tonight ? Let's toss up",
+              "full_vn": "ai sẽ nấu ăn tối nay?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chúng ta tung đồng tiền xem là ai nhé",
+          "list_one_mean": [
+            {
+              "id_full_en": "to toss about",
+              "list_im": [
+                {
+                  "im_full_vn": "vứt lung tung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toss away",
+              "list_im": [
+                {
+                  "im_full_vn": "ném đi, vứt đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toss off",
+              "list_im": [
+                {
+                  "im_full_vn": "nốc (rượu..) một hơi"
+                },
+                {
+                  "im_full_vn": "giải quyết nhanh chóng (công việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toss (oneself ) off",
+              "list_im": [
+                {
+                  "im_full_vn": "thủ dâm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080215_94dbe6de8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080215_d9d086599d_o.png",
+      "id_image": "toss_5488509"
+    }
+  ]
+}

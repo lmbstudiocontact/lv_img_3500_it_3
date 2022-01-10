@@ -1,0 +1,134 @@
+{
+  "english": "smash",
+  "phat_am": "[smæ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vỡ ra từng mảnh; sự đập vỡ ra từng mảnh; tiếng đập vỡ"
+        },
+        {
+          "m_full_vn": "sự va mạnh, sự đâm mạnh vào",
+          "list_en_vn": [
+            {
+              "full_en": "there's a smash on the road",
+              "full_vn": "có tai nạn xe đâm nhau ở đường cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú sì-mát, cú đập bóng (trong quần vợt)"
+        },
+        {
+          "m_full_vn": "sự phá sản, sự thua lỗ liên tiếp"
+        },
+        {
+          "m_full_vn": "rượu mạnh ướp đá"
+        },
+        {
+          "m_full_vn": "ô tô đâm nhau (như) smash-up"
+        },
+        {
+          "m_full_vn": "sự thành công bất ngờ (như) smash-hit"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập tan ra từng mảnh"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đập mạnh (bóng)"
+        },
+        {
+          "m_full_vn": "phá, phá tan; đập tan (kế hoạch), làm tan rã (quân địch)",
+          "list_en_vn": [
+            {
+              "full_en": "to smash a record",
+              "full_vn": "phá một kỷ lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm phá sản"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỡ tan ra từng mảnh"
+        },
+        {
+          "m_full_vn": "va mạnh vào, đâm mạnh vào",
+          "list_en_vn": [
+            {
+              "full_en": "car smashes into a tree",
+              "full_vn": "xe ôtô đâm mạnh vào cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thất bại, phá sản (kế hoạch)"
+        },
+        {
+          "m_full_vn": "(từ lóng) lưu hành bạc đồng giả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to smash in",
+              "list_im": [
+                {
+                  "im_full_vn": "phá mà vào, đột nhập vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to smash in a door",
+                      "full_vn": "phá cửa mà vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smash up",
+              "list_im": [
+                {
+                  "im_full_vn": "đập tan ra từng mảnh; vỡ tan ra từng mảnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "với một tiếng động mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "the car ran smash into the tram",
+              "full_vn": "chiếc ô tô đâm sầm một cái vào xe điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331631_7b7c944cd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331631_b1738be772_o.png",
+      "id_image": "smash_2867437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686619_22e51a3f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686619_3c711a336c_o.png",
+      "id_image": "smash_3295344"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "soil",
+  "phat_am": "[sɔil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đất trồng",
+          "list_en_vn": [
+            {
+              "full_en": "good soil",
+              "full_vn": "đất tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết bẩn, vết nhơ"
+        },
+        {
+          "m_full_vn": "chất bẩn, cặn bã; rác rưỡi"
+        },
+        {
+          "m_full_vn": "sự làm nhơ bẩn"
+        },
+        {
+          "m_full_vn": "đất nước; vùng đất",
+          "list_en_vn": [
+            {
+              "full_en": "one's native soil",
+              "full_vn": "nơi chôn nhau cắt rốn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bẩn, làm dơ, vấy bẩn",
+          "list_en_vn": [
+            {
+              "full_en": "I would not soil my hands with it",
+              "full_vn": "(nghĩa bóng) tôi không muốn nhúng vào việc đó cho bẩn tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ô nhiễm"
+        },
+        {
+          "m_full_vn": "làm mất thanh danh"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên bẩn thỉu, gây bẩn; dễ bẩn",
+          "list_en_vn": [
+            {
+              "full_en": "this stuff soils easily",
+              "full_vn": "vải len này dễ bẩn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho (súc vật) ăn cỏ tươi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063795_f493d473bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063795_a6f5de92ef_o.png",
+      "id_image": "soil_2458067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326871_121b33ca15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326871_7dcdbe7bfa_o.png",
+      "id_image": "soil_3382647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441858_1b1f6830c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441858_949e49d453_o.png",
+      "id_image": "soil_5016674"
+    }
+  ]
+}

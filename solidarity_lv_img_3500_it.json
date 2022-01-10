@@ -1,0 +1,43 @@
+{
+  "english": "solidarity",
+  "phat_am": "[,sɔli'dærəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thống nhất (cảm giác và hành động); tính thống nhất"
+        },
+        {
+          "m_full_vn": "sự đoàn kết; tình đoàn kết",
+          "list_en_vn": [
+            {
+              "full_en": "national solidarity in the face of danger",
+              "full_vn": "sự đoàn kết dân tộc trước mối đe doạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phụ thuộc lẫn nhau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326206_1e877e4ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326206_c02ebc6b05_o.png",
+      "id_image": "solidarity_1590670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062985_25d2fa8312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062985_119d480dbf_o.png",
+      "id_image": "solidarity_2871671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326201_44f8b4c21d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326201_c630d41947_o.png",
+      "id_image": "solidarity_5208472"
+    }
+  ]
+}

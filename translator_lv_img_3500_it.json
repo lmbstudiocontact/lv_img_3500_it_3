@@ -1,0 +1,46 @@
+{
+  "english": "translator",
+  "phat_am": "[træns'leitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dịch (nhất là dịch viết)"
+        },
+        {
+          "m_full_vn": "máy truyền tin (bưu điện)"
+        },
+        {
+          "m_full_vn": "máy dịch"
+        },
+        {
+          "m_full_vn": "bộ chuyển đổi",
+          "list_en_vn": [
+            {
+              "full_en": "translator code",
+              "full_vn": "bộ dịch mã"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692724_ece59af16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692724_fd3476c59c_o.png",
+      "id_image": "translator_309257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337386_ae3c129436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337386_fd45065ddb_o.png",
+      "id_image": "translator_4016168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337356_97d833cf36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337356_44bf5b6d70_o.png",
+      "id_image": "translator_6091120"
+    }
+  ]
+}

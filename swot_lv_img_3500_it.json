@@ -1,0 +1,56 @@
+{
+  "english": "swot",
+  "phat_am": "[swɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự học gạo"
+        },
+        {
+          "m_full_vn": "người học gạo (như) swotter"
+        },
+        {
+          "m_full_vn": "bài học khó; công việc khó",
+          "list_en_vn": [
+            {
+              "full_en": "what a swot !",
+              "full_vn": "bài khó kinh khủng!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) học gạo; cày; đọc sách miệt mài (nhất là để chuẩn bị thi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "SWOT (viết tắt của Strengths , Weaknesses , Opportunities , Threats )",
+              "list_im": [
+                {
+                  "im_full_vn": "Ưu điểm, Nhược điểm, Cơ hội, Mối đe doạ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686409_fc8684782d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686409_28e65bcbcf_o.png",
+      "id_image": "swot_3997484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376047_ac242986e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376047_35b7c2f540_o.png",
+      "id_image": "swot_3997565"
+    }
+  ]
+}

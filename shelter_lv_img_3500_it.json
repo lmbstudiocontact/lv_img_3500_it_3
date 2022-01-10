@@ -1,0 +1,115 @@
+{
+  "english": "shelter",
+  "phat_am": "['∫eltə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nương tựa, sự che chở, sự ẩn náu"
+        },
+        {
+          "m_full_vn": "chỗ nương tựa, chỗ che chở, chỗ ẩn náu",
+          "list_en_vn": [
+            {
+              "full_en": "to give shelter to somebody",
+              "full_vn": "cho ai nương náu, bảo vệ ai"
+            },
+            {
+              "full_en": "Anderson shelter",
+              "full_vn": "hầm An-đe-xon, hầm sắt lưu động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) chỗ xây để che chắn (nhất là tránh mưa, gió, tấn công..)",
+          "list_en_vn": [
+            {
+              "full_en": "an air-raid shelter",
+              "full_vn": "hầm trú ẩn (máy bay ném bom)"
+            },
+            {
+              "full_en": "a bus shelter",
+              "full_vn": "nơi (có mái che) chờ xe búyt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) nhà cho người ta tạm nương thân (nhất là những người vô gia cư)"
+        },
+        {
+          "m_full_vn": "lầu, chòi"
+        },
+        {
+          "m_full_vn": "phòng, cabin (người lái)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che (mưa, gió..)",
+          "list_en_vn": [
+            {
+              "full_en": "to shelter someone from the rain",
+              "full_vn": "che cho ai khỏi mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che chở, bảo vệ (người)"
+        },
+        {
+          "m_full_vn": "cho ( ai/cái gì) chỗ ẩn náu",
+          "list_en_vn": [
+            {
+              "full_en": "the wall sheltered the soldiers from gunfire",
+              "full_vn": "bức tường che chắn đạn cho những người lính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + from ) tìm chỗ ẩn náu; tìm chỗ nương tựa",
+          "list_en_vn": [
+            {
+              "full_en": "to shelter under a trees",
+              "full_vn": "trú dưới các cây"
+            },
+            {
+              "full_en": "to shelter from the rain",
+              "full_vn": "trú mưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460103_01705ffae9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460103_d1b6572625_o.png",
+      "id_image": "shelter_1590680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082725_5e231a8402_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082725_4658b80d7a_o.png",
+      "id_image": "shelter_4706918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345211_c32cbabaac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345211_a2ab9fba9f_o.png",
+      "id_image": "shelter_5256392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082765_c74f5eac48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082765_43a834b10c_o.png",
+      "id_image": "shelter_980782"
+    }
+  ]
+}

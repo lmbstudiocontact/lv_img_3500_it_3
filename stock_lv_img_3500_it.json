@@ -1,0 +1,304 @@
+{
+  "english": "stock",
+  "phat_am": "[stɔk]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều stocks",
+      "list_m": [
+        {
+          "m_full_vn": "kho dự trữ, kho; hàng cất trong kho; hàng tồn kho; nguồn cung cấp",
+          "list_en_vn": [
+            {
+              "full_en": "in stock",
+              "full_vn": "tồn kho, cất trong kho"
+            },
+            {
+              "full_en": "a good stock of shoes",
+              "full_vn": "một kho dự trữ giày đầy đủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vốn (của một công ty kinh doanh)",
+          "list_en_vn": [
+            {
+              "full_en": "bank stock",
+              "full_vn": "vốn của một ngân hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) cổ phần",
+          "list_en_vn": [
+            {
+              "full_en": "to invest in stocks and shares",
+              "full_vn": "đầu tư vào cổ phần và cổ phiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng họ tổ tiên của con người; dòng họ gia đình; thành phần xuất thân",
+          "list_en_vn": [
+            {
+              "full_en": "a woman of Irish stock",
+              "full_vn": "người đàn bà dòng dõi Ai-len"
+            },
+            {
+              "full_en": "born of farming stock",
+              "full_vn": "sinh ra trong một gia đình nông thôn"
+            },
+            {
+              "full_en": "to come of a good stock",
+              "full_vn": "xuất thân từ thành phần tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa vị, danh tiếng của một người trong suy nghĩ của người khác",
+          "list_en_vn": [
+            {
+              "full_en": "his stock is high",
+              "full_vn": "danh vọng của ông ấy cao (tức là anh ấy được mọi người nghĩ tốt)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) thân chính"
+        },
+        {
+          "m_full_vn": "(thực vật học) gốc"
+        },
+        {
+          "m_full_vn": "gốc ghép (để ghép một nhánh vào)"
+        },
+        {
+          "m_full_vn": "cổ cồn (vòng vải cứng, rộng đeo quanh cổ đàn ông)"
+        },
+        {
+          "m_full_vn": "ca-vát của bộ đồ cưỡi ngựa theo thể thức"
+        },
+        {
+          "m_full_vn": "dải đeo (mảnh vải đen hoặc tím của giáo sĩ đeo từ cổ áo phủ phía trước áo sơ mi)"
+        },
+        {
+          "m_full_vn": "cây hoàng anh"
+        },
+        {
+          "m_full_vn": "đế, bệ đỡ, tay cầm (của một công cụ, dụng cụ..)",
+          "list_en_vn": [
+            {
+              "full_en": "stock of anvil",
+              "full_vn": "đế đe"
+            },
+            {
+              "full_en": "the stock of a rifle",
+              "full_vn": "báng súng"
+            },
+            {
+              "full_en": "the stock of a plough",
+              "full_vn": "cán cày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên vật liệu (sẵn sàng được dùng để chế tạo cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "paper stock",
+              "full_vn": "nguyên vật liệu để làm giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật nuôi, thú nuôi, gia súc trang trại (như) livestock"
+        },
+        {
+          "m_full_vn": "(sinh vật học) thể quần tập, tập đoàn"
+        },
+        {
+          "m_full_vn": "công trái (tiền cho chính phủ vay với một lãi suất cố định)",
+          "list_en_vn": [
+            {
+              "full_en": "government stock",
+              "full_vn": "trái phiếu chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất lỏng được tạo ra do hầm xương (thịt.. dùng làm nước xúp..)",
+          "list_en_vn": [
+            {
+              "full_en": "sauce made with chicken stock",
+              "full_vn": "nước xốt làm bằng nước hầm gà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) giàn tàu",
+          "list_en_vn": [
+            {
+              "full_en": "on the stocks",
+              "full_vn": "đang đóng, đang sửa (tàu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (sử học) cái cùm",
+          "list_one_mean": [
+            {
+              "id_full_en": "a stock argument",
+              "list_im": [
+                {
+                  "im_full_vn": "lý lẽ tủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have in stock",
+              "list_im": [
+                {
+                  "im_full_vn": "có sẵn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take stock in",
+              "list_im": [
+                {
+                  "im_full_vn": "mua cổ phần của (công ty...)"
+                },
+                {
+                  "im_full_vn": "chú trọng (cái gì), lưu tâm đến (cái gì)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tin ở (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take stock (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "kiểm kê (hàng hoá trong kho..)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) nhận xét, đánh giá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be ) in /out of stock",
+              "list_im": [
+                {
+                  "im_full_vn": "có sẵn/không có sẵn (trong cửa hàng..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the stocks",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được xây dựng, đang được chuẩn bị"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "be put in the stocks",
+              "full_vn": "bị cùm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp (hàng hoá cho một cửa hàng, súc vật cho một trang trại...)"
+        },
+        {
+          "m_full_vn": "tích trữ, cất (hàng) trong kho",
+          "list_en_vn": [
+            {
+              "full_en": "we do not stock the outsizes",
+              "full_vn": "chúng tôi không tích trữ loại ngoại cỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắp báng vào (súng...), lắp cán vào, lắp chuôi vào"
+        },
+        {
+          "m_full_vn": "trồng cỏ (lên một mảnh đất)"
+        },
+        {
+          "m_full_vn": "(sử học) cùm"
+        },
+        {
+          "m_full_vn": "trang bị"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm chồi (cây)"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) để vào kho, cất vào kho)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có sẵn trong kho",
+          "list_en_vn": [
+            {
+              "full_en": "stock sizes",
+              "full_vn": "các cỡ có sẵn"
+            },
+            {
+              "full_en": "one of our stock items",
+              "full_vn": "một trong những mặt hàng có sẵn của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhàm; cũ rích; thường được dùng; dùng quá nhiều; thườnng lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "a stock argument",
+              "full_vn": "lý lẽ nhàm chán"
+            },
+            {
+              "full_en": "she's tired of her husband's stock jokes",
+              "full_vn": "cô ấy đã chán ngấy những trò đùa cũ rích của ông chồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390917_eaf2fe7cd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390917_ab9d02cb9c_o.png",
+      "id_image": "stock_179150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460678_ae1f547d30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460678_4cc7dc7118_o.png",
+      "id_image": "stock_2361757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345926_dde3b8c464_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345926_2c5d17762f_o.png",
+      "id_image": "stock_819483"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "wafer",
+  "phat_am": "['weifə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh xốp (bánh quy ngọt, giòn và rất mỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "an ice-cream wafer",
+              "full_vn": "một chiếc bánh kem xốp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu xi (niêm phong bì); vòng giấy niêm (để niêm các văn kiện (pháp lý))"
+        },
+        {
+          "m_full_vn": "(tôn giáo) bánh thánh"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất mỏng, mỏng tang ( wafer-thin )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gắn xi (vào chai, thư...)"
+        },
+        {
+          "m_full_vn": "niêm, niêm phong (bằng dấu xi, bằng vòng giấy)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339836_a9a006008a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339836_74da9fb29c_o.png",
+      "id_image": "wafer_2218708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339766_dcbd4444d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339766_e3d47a51a5_o.png",
+      "id_image": "wafer_2269361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454683_303b48dfb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454683_df9fbfec4a_o.png",
+      "id_image": "wafer_3200505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384632_8522100df8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384632_6593296ba5_o.png",
+      "id_image": "waffle_1999906"
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "english": "set",
+  "phat_am": "[set]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ",
+          "list_en_vn": [
+            {
+              "full_en": "a set of chair",
+              "full_vn": "một bộ ghế"
+            },
+            {
+              "full_en": "a set of artificial teeth",
+              "full_vn": "một bộ răng giả"
+            },
+            {
+              "full_en": "a carpentry set",
+              "full_vn": "một bộ đồ mộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) tập hợp",
+          "list_en_vn": [
+            {
+              "full_en": "set of points",
+              "full_vn": "tập hợp điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ván, xét (quần vợt...)",
+          "list_en_vn": [
+            {
+              "full_en": "to win the first set",
+              "full_vn": "thắng ván đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người giao du lâu bền với nhau hoặc có phong vị và quyền lợi giống nhau; giới",
+          "list_en_vn": [
+            {
+              "full_en": "the literary set",
+              "full_vn": "giới văn chương, làng văn"
+            },
+            {
+              "full_en": "the political set",
+              "full_vn": "giới chính trị; chính giới"
+            },
+            {
+              "full_en": "the racing , golfing set",
+              "full_vn": "giới đua ngựa, chơi gôn"
+            },
+            {
+              "full_en": "the smart set",
+              "full_vn": "giới sang trọng"
+            },
+            {
+              "full_en": "the fast set",
+              "full_vn": "làng chơi (những kẻ đánh bạc, ăn chơi hoang phí...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cành chiết, cành giăm; quả mới đậu"
+        },
+        {
+          "m_full_vn": "(thơ ca) chiều tà, lúc mặt trời lặn",
+          "list_en_vn": [
+            {
+              "full_en": "set of day",
+              "full_vn": "lúc chiều tà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiều hướng, khuynh hướng",
+          "list_en_vn": [
+            {
+              "full_en": "the set of the public feeling",
+              "full_vn": "chiều hướng, tình cảm của quần chúng, chiều hướng dư luận quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình thể, dáng dấp, kiểu cách",
+          "list_en_vn": [
+            {
+              "full_en": "the set of the hills",
+              "full_vn": "hình thể những quả đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp vữa ngoài (của tường)"
+        },
+        {
+          "m_full_vn": "cột gỗ chống hâm (mỏ than)"
+        },
+        {
+          "m_full_vn": "lứa trứng"
+        },
+        {
+          "m_full_vn": "tảng đá (để lát đường)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) máy; nhóm máy; thiết bị"
+        },
+        {
+          "m_full_vn": "(sân khấu) cảnh dựng"
+        },
+        {
+          "m_full_vn": "máy thu thanh (như) radio set ; wireless set ; máy truyền hình (như) television set"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ set",
+      "list_m": [
+        {
+          "m_full_vn": "để, đặt",
+          "list_en_vn": [
+            {
+              "full_en": "to set foot on",
+              "full_vn": "đặt chân lên"
+            },
+            {
+              "full_en": "to set someone among the great writers",
+              "full_vn": "đặt ai vào hàng những nhà văn lớn"
+            },
+            {
+              "full_en": "to set pen to paper",
+              "full_vn": "đặt bút lên giấy"
+            },
+            {
+              "full_en": "to set a glass to one's lips",
+              "full_vn": "đưa cốc lên môi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bố trí, để, đặt lại cho đúng",
+          "list_en_vn": [
+            {
+              "full_en": "to set the (a ) watch",
+              "full_vn": "bố trí sự canh phòng"
+            },
+            {
+              "full_en": "to set one's clock",
+              "full_vn": "để lại đồng hồ, lấy lại đồng hồ"
+            },
+            {
+              "full_en": "to set alarm",
+              "full_vn": "để đồng hồ báo thức"
+            },
+            {
+              "full_en": "to set a hen",
+              "full_vn": "cho gà ấp"
+            },
+            {
+              "full_en": "to set eggs",
+              "full_vn": "để trứng gà cho ấp"
+            },
+            {
+              "full_en": "to set up type",
+              "full_vn": "sắp chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gieo, trồng",
+          "list_en_vn": [
+            {
+              "full_en": "to set seed",
+              "full_vn": "gieo hạt giống"
+            },
+            {
+              "full_en": "to set plant",
+              "full_vn": "trồng cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp, dọn, bày (bàn ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "to set things in order",
+              "full_vn": "sắp xếp các thứ lại cho có ngăn nắp"
+            },
+            {
+              "full_en": "to set the table",
+              "full_vn": "bày bàn ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mài, giũa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to set a chisel",
+              "list_im": [
+                {
+                  "im_full_vn": "màu đục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set saw",
+                      "full_vn": "giũa cưa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nắn, nối, buộc, đóng; dựng, đặt (niềm tin); định, quyết định",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set a bone",
+                      "full_vn": "nắn xương"
+                    },
+                    {
+                      "full_en": "to set a joint",
+                      "full_vn": "nắn khớp xương"
+                    },
+                    {
+                      "full_en": "to set a fracture",
+                      "full_vn": "bó chỗ xương gãy"
+                    },
+                    {
+                      "full_en": "to set a stake in ground",
+                      "full_vn": "đóng cọc xuống đất"
+                    },
+                    {
+                      "full_en": "to set one' heart (mind , hopes ) on",
+                      "full_vn": "trông mong, chờ đợi, hy vọng; quyết đạt cho được; quyết lấy cho được"
+                    },
+                    {
+                      "full_en": "to set price on",
+                      "full_vn": "đặt giá, định giá"
+                    },
+                    {
+                      "full_en": "to set September 30 as the dead-line",
+                      "full_vn": "định ngày 30 tháng 9 là hạn cuối cùng"
+                    },
+                    {
+                      "full_en": "to set one's teeth",
+                      "full_vn": "nghiến răng; (nghĩa bóng) quyết chí, quyết tâm"
+                    },
+                    {
+                      "full_en": "to set a scene",
+                      "full_vn": "dựng cảnh (trên (sân khấu))"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sửa, uốn (tóc)"
+                },
+                {
+                  "im_full_vn": "cho hoạt động",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set company laughing ; to set company on in a roar",
+                      "full_vn": "làm cho mọi người cười phá lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt làm, ép (ai) làm (việc gì); giao việc; xắn tay áo bắt đầu (làm việc)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set somebody to a task",
+                      "full_vn": "ép ai làm việc; giao việc cho ai"
+                    },
+                    {
+                      "full_en": "to set to work",
+                      "full_vn": "bắt tay vào việc"
+                    },
+                    {
+                      "full_en": "to set somebody to work at his English",
+                      "full_vn": "bắt ai phải chăm học tiếng Anh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nêu, giao, đặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set a good example",
+                      "full_vn": "nêu gương tốt"
+                    },
+                    {
+                      "full_en": "to set someone a problem",
+                      "full_vn": "nêu cho ai một vấn đề để giải quyết"
+                    },
+                    {
+                      "full_en": "to set the fashion",
+                      "full_vn": "đề ra một mốt (quần áo)"
+                    },
+                    {
+                      "full_en": "to set paper",
+                      "full_vn": "đặt câu hỏi thi (cho thí sinh)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "phổ nhạc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set a poem to music",
+                      "full_vn": "phổ nhạc một bài thơ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gắn, dát, nạm (lên bề mặt)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to set gold with gems",
+                      "full_vn": "dát đá quý lên vàng"
+                    },
+                    {
+                      "full_en": "to set top of wall with broken glass",
+                      "full_vn": "gắn mảnh thuỷ tinh vỡ lên đầu tường"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to set a razor",
+              "full_vn": "liếc dao cạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết lại, se lại, đặc lại; ổn định (tính tình...)",
+          "list_en_vn": [
+            {
+              "full_en": "blossom sets",
+              "full_vn": "hoa kết thành quả"
+            },
+            {
+              "full_en": "trees set",
+              "full_vn": "cây ra quả"
+            },
+            {
+              "full_en": "plaster sets",
+              "full_vn": "thạch cao se lại"
+            },
+            {
+              "full_en": "the jelly has set",
+              "full_vn": "thạch đã đông lại"
+            },
+            {
+              "full_en": "his character has set",
+              "full_vn": "tính tình anh ta đã ổn định"
+            },
+            {
+              "full_en": "face sets",
+              "full_vn": "mặt nghiêm lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lặn",
+          "list_en_vn": [
+            {
+              "full_en": "sun sets",
+              "full_vn": "mặt trời lặn"
+            },
+            {
+              "full_en": "his star has set",
+              "full_vn": "(nghĩa bóng) hắn đã hết thời oanh liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chảy (dòng nước)",
+          "list_en_vn": [
+            {
+              "full_en": "tide sets in",
+              "full_vn": "nước triều lên"
+            },
+            {
+              "full_en": "current sets strongly",
+              "full_vn": "dòng nước chảy mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày tỏ (ý kiến dư luận)",
+          "list_en_vn": [
+            {
+              "full_en": "opinion is setting against it",
+              "full_vn": "dư luận phản đối vấn đề đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vừa vặn (quần áo)"
+        },
+        {
+          "m_full_vn": "định điểm được thua"
+        },
+        {
+          "m_full_vn": "ấp (gà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to set against",
+              "list_im": [
+                {
+                  "im_full_vn": "so sánh, đối chiếu"
+                },
+                {
+                  "im_full_vn": "làm cho chống lại với, làm cho thù địch với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set apart",
+              "list_im": [
+                {
+                  "im_full_vn": "dành riêng ra, để dành"
+                },
+                {
+                  "im_full_vn": "bãi, bãi bỏ, xoá bỏ, huỷ bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set at",
+              "list_im": [
+                {
+                  "im_full_vn": "xông vào, lăn xả vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set back",
+              "list_im": [
+                {
+                  "im_full_vn": "vặn chậm lại (kim đồng hồ)"
+                },
+                {
+                  "im_full_vn": "ngăn cản, cản trở bước tiến của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set by",
+              "list_im": [
+                {
+                  "im_full_vn": "để dành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set down",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt xuống, để xuống"
+                },
+                {
+                  "im_full_vn": "ghi lại, chép lại"
+                },
+                {
+                  "im_full_vn": "cho là, đánh giá là, giải thích là; gán cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set forth",
+              "list_im": [
+                {
+                  "im_full_vn": "công bố, đưa ra, đề ra, nêu ra, trình bày"
+                },
+                {
+                  "im_full_vn": "lên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set forward",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đẩy mạnh lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set in",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "winter has set in",
+                      "full_vn": "mùa đông đã bắt đầu"
+                    },
+                    {
+                      "full_en": "it sets in to rain",
+                      "full_vn": "trời bắt đầu mưa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trở thành cái mốt, trở thành thị hiếu"
+                },
+                {
+                  "im_full_vn": "đã ăn vào, đã ăn sâu vào"
+                },
+                {
+                  "im_full_vn": "thổi vào bờ (gió); dâng lên (thuỷ triều)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set off",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nổi sắc đẹp, làm tăng lên, làm nổi bật lên; làm ai bật cười, làm cho ai bắt đầu nói đến một đề tài thích thú"
+                },
+                {
+                  "im_full_vn": "bắt đầu lên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set on",
+              "list_im": [
+                {
+                  "im_full_vn": "khích, xúi"
+                },
+                {
+                  "im_full_vn": "tấn công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set out",
+              "list_im": [
+                {
+                  "im_full_vn": "tô điểm, sắp đặt, trưng bày, phô trương, phô bày, bày tỏ, trình bày"
+                },
+                {
+                  "im_full_vn": "bắt đầu lên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu lao vào (cuộc tranh luận, cuộc đấu tranh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set up",
+              "list_im": [
+                {
+                  "im_full_vn": "yết lên, nêu lên, dựng lên, giương lên"
+                },
+                {
+                  "im_full_vn": "đưa ra (một thuyết); bắt đầu (một nghề); mở (trường học), thành lập (một uỷ ban, một tổ chức)"
+                },
+                {
+                  "im_full_vn": "gầy dựng, cung cấp đầy đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his father will set him up as an engineer",
+                      "full_vn": "cha anh ta sẽ cho anh ta ăn học thành kỹ sư"
+                    },
+                    {
+                      "full_en": "I am set up with necessary books fot the school year",
+                      "full_vn": "tôi có đủ sách học cần thiết cho cả năm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt đầu (kêu la, phản đối)"
+                },
+                {
+                  "im_full_vn": "bình phục"
+                },
+                {
+                  "im_full_vn": "tập tành cho nở nang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set up for",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm ra vẻ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he sets up for a scholar",
+                      "full_vn": "anh ta làm ra vẻ học giả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set someone at ease",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai yên tâm, làm cho ai đỡ ngượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set liberty ; to set free",
+              "list_im": [
+                {
+                  "im_full_vn": "thả, trả tự do"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set at nought",
+              "list_im": [
+                {
+                  "im_full_vn": "chế giễu, coi thường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set the axe to",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu phá, bắt đầu chặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set by ; to set store by ; to set much by",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set oneself to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "quyết tâm làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's face like a flint",
+              "list_im": [
+                {
+                  "im_full_vn": "vẻ mặt cương quyết; quyết tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's hand to a document",
+              "list_im": [
+                {
+                  "im_full_vn": "ký một văn kiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's hand to a task",
+              "list_im": [
+                {
+                  "im_full_vn": "khởi công làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's life on a chance",
+              "list_im": [
+                {
+                  "im_full_vn": "liều một keo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set someone on his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "đỡ ai đứng dậy"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) dẫn dắt ai, kèm cặp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set on foot",
+              "list_im": [
+                {
+                  "im_full_vn": "phát động (phong trào)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set by the ears (at variance ; at loggerheads )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho mâu thuẫn với nhau; làm cho cãi nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set right",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp đặt lại cho ngăn nắp, sửa sang lại cho chỉnh tề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's wits to another's",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu trí với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's wits to a question",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng giải quyết một vấn đề"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to set about",
+              "full_vn": "bắt đầu, bắt đầu làm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêm nghị, nghiêm trang",
+          "list_en_vn": [
+            {
+              "full_en": "a set look",
+              "full_vn": "vẻ nghiêm trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố định, chầm chậm, bất động",
+          "list_en_vn": [
+            {
+              "full_en": "set eyes",
+              "full_vn": "mắt nhìn không chớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã định, cố ý, nhất định, kiên quyết, không thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "set purpose",
+              "full_vn": "mục đích nhất định"
+            },
+            {
+              "full_en": "set time",
+              "full_vn": "thời gian đã định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã sửa soạn trước, sẵn sàng",
+          "list_en_vn": [
+            {
+              "full_en": "a set speech",
+              "full_vn": "bài diễn văn đã soạn trước"
+            },
+            {
+              "full_en": "set forms of prayers",
+              "full_vn": "những bài kinh viết sẵn"
+            },
+            {
+              "full_en": "to get set",
+              "full_vn": "chuẩn bị sẵn sàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "set fair",
+              "full_vn": "đẹp, tốt (thời tiết)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348711_23aa5622dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348711_0061167656_o.png",
+      "id_image": "set_1068221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393517_50e64a8e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393517_a87061cd4a_o.png",
+      "id_image": "set_2270982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348636_e5fe4d6c1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348636_58de046df4_o.png",
+      "id_image": "set_2270984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463403_0d58c82e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463403_49d641d640_o.png",
+      "id_image": "set_6040435"
+    }
+  ]
+}

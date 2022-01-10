@@ -1,0 +1,115 @@
+{
+  "english": "search",
+  "phat_am": "[sə:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tìm kiếm; sự khám xét; sự lục soát",
+          "list_one_mean": [
+            {
+              "id_full_en": "in search of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "để tìm kiếm ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "right of search",
+              "full_vn": "(pháp lý) quyền khám tàu"
+            },
+            {
+              "full_en": "a search for a missing aircraft",
+              "full_vn": "cuộc tìm kiếm chiếc máy bay mất tích"
+            },
+            {
+              "full_en": "to make repeated searches for concealed weapons",
+              "full_vn": "khám đi khám lại để tìm vũ khí cất giấu"
+            },
+            {
+              "full_en": "search of a house",
+              "full_vn": "sự khám nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to search somebody / something for somebody / something ) ( to search through something for something ) lục soát; khám xét",
+          "list_one_mean": [
+            {
+              "id_full_en": "search me !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tôi không biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to search one's heart /conscience",
+              "list_im": [
+                {
+                  "im_full_vn": "tự vấn lương tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to search somebody /something out",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm ra ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to search the house for weapons",
+              "full_vn": "khám nhà để tìm vũ khí"
+            },
+            {
+              "full_en": "to search all the woods for jailbreakers",
+              "full_vn": "lục soát tất cả các khu rừng để tìm bọn tù vượt ngục"
+            },
+            {
+              "full_en": "to search (through ) the drawers for the missing birth certificate",
+              "full_vn": "lục hết các hộc tủ để tìm tờ giấy khai sinh bị thất lạc"
+            },
+            {
+              "full_en": "the police searched her for drugs",
+              "full_vn": "cảnh sát khám xét cô ta để tìm ma túy"
+            },
+            {
+              "full_en": "try to search your memory !",
+              "full_vn": "hãy cố lục lại trong trí nhớ anh xem! (hãy cố nhớ lại (xem)!)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680254_213815923d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680254_fd9d535df8_o.png",
+      "id_image": "search_122920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440068_13f7c89814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440068_905e7bb0f5_o.png",
+      "id_image": "search_281408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369902_f929244cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369902_f3f83798a1_o.png",
+      "id_image": "search_326915"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "spiritual",
+  "phat_am": "['spirit∫uəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tâm hồn/linh hồn con người; không phải vật chất",
+          "list_en_vn": [
+            {
+              "full_en": "Concerned about somebody's spiritual welfare",
+              "full_vn": "Quan tâm đến lợi ích tinh thần của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) giáo hội; (thuộc) tôn giáo",
+          "list_en_vn": [
+            {
+              "full_en": "The Pope is the spiritual leader of many Christians",
+              "full_vn": "Đức giáo hoàng là nhà lãnh đạo tôn giáo của nhiều tín đồ cơ đốc giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) Chúa, từ Chúa; thiêng liêng, thần thánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's spiritual home",
+              "list_im": [
+                {
+                  "im_full_vn": "chốn thiêng liêng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dân ca tôn giáo (thuộc loại của những người nô lệ da đen ở châu Mỹ hát trước tiên) (như) Negro spiritual"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708264_4e7c79bfa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708264_64bd5b7883_o.png",
+      "id_image": "spiritual_1900286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353531_2033aa101a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353531_6d0cda2718_o.png",
+      "id_image": "spiritual_3700222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090940_f9c2dfc082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090940_804cc63870_o.png",
+      "id_image": "spiritual_5100568"
+    }
+  ]
+}

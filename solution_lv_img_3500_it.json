@@ -1,0 +1,85 @@
+{
+  "english": "solution",
+  "phat_am": "[sə'lu:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hoà tan",
+          "list_en_vn": [
+            {
+              "full_en": "the solution of sugar in tea",
+              "full_vn": "sự hoà tan đường trong nước chè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dung dịch; trạng thái được hoà tan",
+          "list_en_vn": [
+            {
+              "full_en": "a solution of salt in water",
+              "full_vn": "dung dịch muối trong nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giải quyết; giải pháp, cách giải quyết; lời giải, bài giải (một vấn đề, câu hỏi, khó khăn..)",
+          "list_en_vn": [
+            {
+              "full_en": "she can find no solution to her financial troubles",
+              "full_vn": "bà ta không tìm được cách giải quyết những khó khăn về tài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp án"
+        },
+        {
+          "m_full_vn": "sự phân tán, tình trạng phân tán"
+        },
+        {
+          "m_full_vn": "cao su hoà tan (như) rubber solution"
+        },
+        {
+          "m_full_vn": "(y học) thuốc nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in solution",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong tình trạng không ổn định (ý kiến...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ một lớp cao su hoà tan"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441058_e0f4a0ab5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441058_c1b46d0b63_o.png",
+      "id_image": "solution_421680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062860_1f84697efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062860_6b069d6eba_o.png",
+      "id_image": "solution_4833903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326101_c6feda482f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326101_68bb6e94d1_o.png",
+      "id_image": "solution_536921"
+    }
+  ]
+}

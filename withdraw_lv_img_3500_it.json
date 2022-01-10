@@ -1,0 +1,104 @@
+{
+  "english": "withdraw",
+  "phat_am": "[wið'drɔ:; wiθ'drɔ:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ withdrew , withdrawn",
+      "list_m": [
+        {
+          "m_full_vn": "rút, rút khỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw the hand from the pocket",
+              "full_vn": "rút tay ra khỏi túi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút, rút lui",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw troops from a position",
+              "full_vn": "rút quân khỏi một vị trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw a sum of money",
+              "full_vn": "rút một số tiền ra"
+            },
+            {
+              "full_en": "to withdraw a child from school",
+              "full_vn": "cho một đứa bé thôi học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút lại (lời đề nghị, lời hứa..)",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw an accusation",
+              "full_vn": "rút một lời tố cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rời khỏi, rút khỏi"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự huỷ bỏ; sự thu hồi",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw an order",
+              "full_vn": "huỷ bỏ một lệnh; huỷ bỏ một đơn đặt hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo (màn)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rút lui (khỏi một nơi)",
+          "list_en_vn": [
+            {
+              "full_en": "after dinner they withdrew",
+              "full_vn": "sau bữa com họ rút lui"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) rút quân"
+        },
+        {
+          "m_full_vn": "ra, rút ra",
+          "list_en_vn": [
+            {
+              "full_en": "to withdraw from a society",
+              "full_vn": "rút ra khỏi một hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072605_a967bb73be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072605_84ccfa6e18_o.png",
+      "id_image": "withdraw_4292470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690869_3dd6327379_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690869_4d21a682ea_o.png",
+      "id_image": "withdraw_6159823"
+    }
+  ]
+}

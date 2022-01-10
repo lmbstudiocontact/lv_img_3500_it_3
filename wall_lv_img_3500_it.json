@@ -1,0 +1,167 @@
+{
+  "english": "wall",
+  "phat_am": "[wɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tường, vách",
+          "list_en_vn": [
+            {
+              "full_en": "blank wall",
+              "full_vn": "tường liền không cửa; tường không trang trí"
+            },
+            {
+              "full_en": "a wall of partition",
+              "full_vn": "vách ngăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành, thành luỹ, thành quách",
+          "list_en_vn": [
+            {
+              "full_en": "the Great Wall of China",
+              "full_vn": "vạn lý trường thành"
+            },
+            {
+              "full_en": "within the wall",
+              "full_vn": "ở trong thành"
+            },
+            {
+              "full_en": "without the wall",
+              "full_vn": "ở ngoại thành"
+            },
+            {
+              "full_en": "a wall of bayonet",
+              "full_vn": "(nghĩa bóng) một bức thành lưỡi lê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối đi sát tường nhà trên hè đường",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody the wall",
+              "full_vn": "nhường lối đi sát bờ tường trên hè đường cho ai; nhường lối đi tốt cho ai; nhường bước cho ai"
+            },
+            {
+              "full_en": "to take the wall of",
+              "full_vn": "tranh lấy lối đi tốt của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rặng cây ăn quả dựa vào tường; bức tường có cây ăn quả dựa vào"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) vách ngoài vỉa"
+        },
+        {
+          "m_full_vn": "(giải phẫu) thành",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go to the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "bị gạt bỏ"
+                },
+                {
+                  "im_full_vn": "bị phá sản, khánh kiệt; thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push (drive ) somebody to the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "dồn ai vào chân tường, dồn ai vào thế bí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run one's head against a wall",
+              "list_im": [
+                {
+                  "im_full_vn": "húc đầu vào tường ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the weakest goes to the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn sống vống chết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "wall of the heart",
+              "full_vn": "thành tim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây tường bao quanh, xây thành bao quanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wall in",
+              "list_im": [
+                {
+                  "im_full_vn": "xây tường xung quanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wall off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn bằng một bức tường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wall up",
+              "list_im": [
+                {
+                  "im_full_vn": "xây bịt lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to wall up an aperture",
+                      "full_vn": "xây bịt một lỗ hổng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075620_0494564c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075620_634de6df90_o.png",
+      "id_image": "wall_270067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075585_b17db248a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075585_218e0fd35f_o.png",
+      "id_image": "wall_3417087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383417_d466cf3b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383417_1d5d28d638_o.png",
+      "id_image": "wall_5234284"
+    }
+  ]
+}

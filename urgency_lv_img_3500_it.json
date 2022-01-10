@@ -1,0 +1,40 @@
+{
+  "english": "urgency",
+  "phat_am": "['ə:dʒənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gấp rút, sự khẩn cấp, sự cấp bách",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of great urgency",
+              "full_vn": "một việc khẩn cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khẩn nài, sự năn nỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to yield to someone's urgency",
+              "full_vn": "nhượng bộ trước sự khẩn nài của ai"
+            },
+            {
+              "full_en": "I detected a note of urgency in her voice",
+              "full_vn": "tôi nhận thấy một vẻ khẩn nài trong giọng nói của cô ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705799_343bc3802a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705799_43055feee0_o.png",
+      "id_image": "urgency_3079298"
+    }
+  ]
+}

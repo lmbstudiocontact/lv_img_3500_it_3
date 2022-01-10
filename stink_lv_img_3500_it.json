@@ -1,0 +1,112 @@
+{
+  "english": "stink",
+  "phat_am": "[stiηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) mùi hôi thối, mùi khó chịu"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ lóng) hoá học; tự nhiên học"
+        },
+        {
+          "m_full_vn": "sự phiền toái; sự om sòm; sự nhặng xị; sự rắc rối",
+          "list_one_mean": [
+            {
+              "id_full_en": "to raise a stink",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bới thối ra, làm toáng lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like stink",
+              "list_im": [
+                {
+                  "im_full_vn": "căng thẳng; rất vất vả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ stank , stunk ; stunk",
+      "list_m": [
+        {
+          "m_full_vn": "có mùi rất khó chịu, có mùi hôi thối",
+          "list_en_vn": [
+            {
+              "full_en": "that rotten fish stinks",
+              "full_vn": "con cá ươn đó bốc mùi thối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of something ) dường như rất khó ưa, tồi; bất lương",
+          "list_en_vn": [
+            {
+              "full_en": "the whole business stinks (of corruption )",
+              "full_vn": "toàn bộ công việc kinh doanh này xem ra là thối nát (vì tham nhũng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) làm thối um"
+        },
+        {
+          "m_full_vn": "(từ lóng) nhận thấy, trông thấy, ngửi thấy",
+          "list_en_vn": [
+            {
+              "full_en": "he can stink it a kilometer off",
+              "full_vn": "xa một không kilômet nó cũng nhận ra điều đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + something out ) tràn ngập (một nơi) bằng mùi rất khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stink out",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bốc hơi thối để đuổi (ai) ra; đuổi (ai) ra bằng hơi thối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stink of money",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) giàu sụ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he stank the whole house out with his tobacco smoke",
+              "full_vn": "anh ấy đã làm nồng nặc cả ngôi nhà bằng khói thuốc lá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346361_c75ced6132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346361_ed2440517f_o.png",
+      "id_image": "stink_4694798"
+    }
+  ]
+}

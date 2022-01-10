@@ -1,0 +1,63 @@
+{
+  "english": "sketch",
+  "phat_am": "[sket∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bức vẽ phác, bức phác hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "to make a sketch of a scene",
+              "full_vn": "vẽ phác một cảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản tóm tắt"
+        },
+        {
+          "m_full_vn": "bản phác thảo (một kế hoạch)"
+        },
+        {
+          "m_full_vn": "vở ca kịch ngắn"
+        },
+        {
+          "m_full_vn": "bản nhạc nhịp đơn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ phác, phác hoạ; phác thảo",
+          "list_en_vn": [
+            {
+              "full_en": "to go out sketching",
+              "full_vn": "đi lấy phác hoạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380987_10d39e50dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380987_eab1fba3a7_o.png",
+      "id_image": "sketch_1589269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450853_f5a7523356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450853_ed259d3cba_o.png",
+      "id_image": "sketch_2722267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335946_966cdd12e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335946_09ed762297_o.png",
+      "id_image": "sketch_448718"
+    }
+  ]
+}

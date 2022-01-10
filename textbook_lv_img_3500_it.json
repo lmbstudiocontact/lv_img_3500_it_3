@@ -1,0 +1,27 @@
+{
+  "english": "textbook",
+  "phat_am": "['tekstbuk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sách giáo khoa",
+          "list_en_vn": [
+            {
+              "full_en": "an algebra textbook",
+              "full_vn": "sách giáo khoa đại số học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395667_8858f43e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395667_7a4cd891f2_o.png",
+      "id_image": "textbook_1690992"
+    }
+  ]
+}

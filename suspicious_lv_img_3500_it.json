@@ -1,0 +1,58 @@
+{
+  "english": "suspicious",
+  "phat_am": "[sə'spi∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( suspicious about / of somebody / something ) có sự nghi ngờ, tỏ ra có sự nghi ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "a suspicious look /attitude",
+              "full_vn": "một cái nhìn/thái độ nghi ngờ"
+            },
+            {
+              "full_en": "I'm always suspicious about his kindness",
+              "full_vn": "Bao giờ tôi cũng nghi ngờ lòng tốt của hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ra nghi ngờ; đáng ngờ, khả nghi; ám muội, mập mờ (thái độ...)",
+          "list_en_vn": [
+            {
+              "full_en": "under suspicious circumstances",
+              "full_vn": "trong những tình huống đáng ngờ"
+            },
+            {
+              "full_en": "a suspicious action",
+              "full_vn": "một hành động khả nghi"
+            },
+            {
+              "full_en": "it's suspicious that he has been the sweetheart of the victim",
+              "full_vn": "điều đáng ngờ là hắn từng là người yêu của nạn nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449898_3e15a105a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449898_a7c9d7ab45_o.png",
+      "id_image": "suspicious_260247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689884_091bc1d46a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689884_9cf784f819_o.png",
+      "id_image": "suspicious_2920104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449798_7e2880fa65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449798_48be4fb603_o.png",
+      "id_image": "suspicious_2977979"
+    }
+  ]
+}

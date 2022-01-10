@@ -1,0 +1,172 @@
+{
+  "english": "travel",
+  "phat_am": "['trævl]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lại, đi du lịch; du hành",
+          "list_en_vn": [
+            {
+              "full_en": "to travel by sea",
+              "full_vn": "đi du lịch bằng đường biển"
+            },
+            {
+              "full_en": "to travel light",
+              "full_vn": "đi du lịch mang theo ít hành lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "di chuyển, đi",
+          "list_en_vn": [
+            {
+              "full_en": "light travels faster than sound",
+              "full_vn": "ánh sáng đi nhanh hơn âm thanh"
+            },
+            {
+              "full_en": "to travel out of the record",
+              "full_vn": "đi ra ngoài đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi từ nơi này tới nơi khác để chào hàng",
+          "list_en_vn": [
+            {
+              "full_en": "he travels in silks",
+              "full_vn": "anh ta đi chào hàng tơ lụa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không bị hỏng vì đi lâu trên đường (rượu..)",
+          "list_en_vn": [
+            {
+              "full_en": "lighter wines often travel badly",
+              "full_vn": "rượu nhẹ đem đi xa thường hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) di động rất nhanh"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đưa nhìn, nhìn khắp (mắt); lan truyền đi (tin tức); suy nghĩ lan man (óc)",
+          "list_en_vn": [
+            {
+              "full_en": "his eyes travelled over the street",
+              "full_vn": "anh ta đưa mắt nhìn khắp phố"
+            },
+            {
+              "full_en": "the news travelled swiftly",
+              "full_vn": "những tin đó lan đi mau lẹ"
+            },
+            {
+              "full_en": "his thoughts travelled over all that had happened",
+              "full_vn": "óc anh ta điểm lại tất cả những việc đã xảy ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi, du lịch; vượt qua (một khoảng cách) trong khi đi; đi qua, đi nhanh.. (một vùng)",
+          "list_en_vn": [
+            {
+              "full_en": "he's travelled the whole world",
+              "full_vn": "nó đã đi khắp thế gian"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa đi xa",
+          "list_one_mean": [
+            {
+              "id_full_en": "travel light",
+              "list_im": [
+                {
+                  "im_full_vn": "đi với hành lý gọn nhẹ tối thiểu"
+                },
+                {
+                  "im_full_vn": "tìm cách tránh trách nhiệm, vấn đề.."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to travel the cattle",
+              "full_vn": "đưa vật nuôi đi"
+            },
+            {
+              "full_en": "to travel Europe from end to end",
+              "full_vn": "đi khắp châu Âu"
+            },
+            {
+              "full_en": "to travel a hundred miles a day",
+              "full_vn": "đi một trăm dặm một ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều travels",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi (nhất là ra nước ngoài)",
+          "list_en_vn": [
+            {
+              "full_en": "the cost of travel",
+              "full_vn": "phí tổn của chuyến đi"
+            },
+            {
+              "full_en": "travel books",
+              "full_vn": "sách về du lịch"
+            },
+            {
+              "full_en": "to go on a travel",
+              "full_vn": "đi du lịch, du hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những chuyến đi (nhất là ra nước ngoài)"
+        },
+        {
+          "m_full_vn": "phạm vi chuyển động, tốc độ chuyển động, kiểu chuyển động (của một bộ phận máy)"
+        },
+        {
+          "m_full_vn": "sự chạy đi chạy lại; đường chạy (của máy, pittông...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073155_8417a20bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073155_c8904ae79b_o.png",
+      "id_image": "travel_1911866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336231_b7dd3e0469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336231_310ca2520a_o.png",
+      "id_image": "travel_2832064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451218_9cefb8c953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451218_5e597e88d0_o.png",
+      "id_image": "travel_661687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381257_c34971bc5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381257_62e558dbd4_o.png",
+      "id_image": "travel_907346"
+    }
+  ]
+}

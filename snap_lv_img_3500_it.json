@@ -1,0 +1,306 @@
+{
+  "english": "snap",
+  "phat_am": "[snæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắn (chó), sự táp, sự đớp"
+        },
+        {
+          "m_full_vn": "tiếng tách tách (bật ngón tay); tiếng vút (của roi); tiếng gãy răng rắc (của cạnh cây)"
+        },
+        {
+          "m_full_vn": "khoá (dây đồng hồ, vòng...)"
+        },
+        {
+          "m_full_vn": "bánh quy giòn"
+        },
+        {
+          "m_full_vn": "lối chơi bài xnáp"
+        },
+        {
+          "m_full_vn": "đợt rét đột ngột (như) cold snap"
+        },
+        {
+          "m_full_vn": "tính sinh động (văn); sự hăng hái, sự nhiệt tình",
+          "list_en_vn": [
+            {
+              "full_en": "the performers seemed to have no snap",
+              "full_vn": "những người biểu diễn hầu như không có chút nhiệt tình nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ảnh chụp nhanh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) việc ngon ơ"
+        },
+        {
+          "m_full_vn": "(sân khấu) sự thuê mượn ngắn hạn (diễn viên)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người dễ bảo, người dễ sai khiến"
+        },
+        {
+          "m_full_vn": "( định ngữ) đột xuất, bất thần",
+          "list_en_vn": [
+            {
+              "full_en": "snap debate",
+              "full_vn": "cuộc tranh luận đột xuất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) (từ Mỹ,nghĩa Mỹ), (từ lóng) ngon ơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "not a snap",
+              "list_im": [
+                {
+                  "im_full_vn": "không một chút nào, không một tí nào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a snap task",
+              "full_vn": "việc ngon ơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "táp, đớp",
+          "list_en_vn": [
+            {
+              "full_en": "the dog snapped a chop",
+              "full_vn": "con chó táp một cục sườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bật tách tách (ngón tay); quất vun vút (roi); bẻ gãy tách; đóng tách",
+          "list_en_vn": [
+            {
+              "full_en": "to snap one's fingers",
+              "full_vn": "bật ngón tay tách tách"
+            },
+            {
+              "full_en": "to snap a stick",
+              "full_vn": "bẻ gãy cái gậy đánh tách một cái"
+            },
+            {
+              "full_en": "to snap a clasp",
+              "full_vn": "đóng cái móc tách một cái"
+            },
+            {
+              "full_en": "to snap one's teeth together",
+              "full_vn": "răng đập vào nhau cầm cập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thả, bò; bắn",
+          "list_en_vn": [
+            {
+              "full_en": "to snap a spring",
+              "full_vn": "thả lò xo"
+            },
+            {
+              "full_en": "to snap a pistol",
+              "full_vn": "bắt súng lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chụp nhanh (ảnh)"
+        },
+        {
+          "m_full_vn": "nhặt vội, nắm lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to snap a bargain",
+              "full_vn": "nắm lấy một món hời, chộp lấy một cơ hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngắt lời",
+          "list_en_vn": [
+            {
+              "full_en": "to snap a speaker",
+              "full_vn": "ngắt lời một diễn giả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắn (chó), táp, đớp",
+          "list_en_vn": [
+            {
+              "full_en": "to snap at someone",
+              "full_vn": "định cắn ai (chó)"
+            },
+            {
+              "full_en": "the fish snapped at the bait",
+              "full_vn": "cá đớp mồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói cáu kỉnh, cắn cảu"
+        },
+        {
+          "m_full_vn": "gãy tách",
+          "list_en_vn": [
+            {
+              "full_en": "stick snaps",
+              "full_vn": "gậy gãy tách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng tách",
+          "list_en_vn": [
+            {
+              "full_en": "door snaps",
+              "full_vn": "cửa đóng tách một cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổ",
+          "list_en_vn": [
+            {
+              "full_en": "pistol snaps",
+              "full_vn": "súng lục nổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chộp lấy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to snap off",
+              "list_im": [
+                {
+                  "im_full_vn": "táp, cắn (vật gì)"
+                },
+                {
+                  "im_full_vn": "làm gãy"
+                },
+                {
+                  "im_full_vn": "gãy đánh tách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap up",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt lấy, chộp lấy"
+                },
+                {
+                  "im_full_vn": "cắt ngang, ngắt lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap one's fingers at",
+              "list_im": [
+                {
+                  "im_full_vn": "thách thức, bất chấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap someone's nose off x nose snap into it !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bắt đầu đi nhanh lên!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap out of it",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chừa một thói quen, bỏ một tính xấu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to snap at a chance",
+              "full_vn": "chộp lấy một cơ hội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "với một tiếng tách"
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) được nói trong chơi bài xnáp khi thấy có quân bài giống nhau được hạ xuống"
+        },
+        {
+          "m_full_vn": "(thông tục) nói để lưu ý đến sự giống nhau giữa hai vật",
+          "list_en_vn": [
+            {
+              "full_en": "snap ! you've got the same shoes as me",
+              "full_vn": "ơ này! anh đi đôi giày giống y như đôi giày của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đột xuất, bất thần",
+          "list_en_vn": [
+            {
+              "full_en": "a snap election",
+              "full_vn": "một cuộc bầu cử đột xuất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685019_cf88bf54bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685019_ab4a6d0b60_o.png",
+      "id_image": "snap_3798305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329996_178acd3bf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329996_87c6c5ac01_o.png",
+      "id_image": "snap_4151741"
+    }
+  ]
+}

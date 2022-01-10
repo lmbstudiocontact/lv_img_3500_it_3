@@ -1,0 +1,60 @@
+{
+  "english": "torpedo",
+  "phat_am": "[tɔ:'pi:dou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều torpedoes",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá đuối điện"
+        },
+        {
+          "m_full_vn": "ngư lôi (quả đạn hình ống, chứa thuốc nổ, chạy ở dưới nước, do các tàu ngầm, máy bay hoặc tàu nổi bắn vào các tàu bè)",
+          "list_en_vn": [
+            {
+              "full_en": "aerial torpedo",
+              "full_vn": "ngư lôi phóng từ máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) pháo hiệu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tấn công bằng ngư lôi, phá hủy bằng ngư lôi, đánh đắm bằng ngư lôi; phóng ngư lôi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm tê liệt, làm tan vỡ; phá hoại (một chính sách, sự kiện..)",
+          "list_en_vn": [
+            {
+              "full_en": "to torpedo an agreement",
+              "full_vn": "phá hoại một hiệp định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387917_5900a4dbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387917_be4f611e99_o.png",
+      "id_image": "torpedo_1461914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387957_ea05d4b7a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387957_84b329aebf_o.png",
+      "id_image": "torpedo_238551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342911_6d0bce4af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342911_79191b5e7f_o.png",
+      "id_image": "torpedo_3191019"
+    }
+  ]
+}

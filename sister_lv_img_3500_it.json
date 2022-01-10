@@ -1,0 +1,69 @@
+{
+  "english": "sister",
+  "phat_am": "['sistə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) sis chị, em gái",
+          "list_en_vn": [
+            {
+              "full_en": "sister german",
+              "full_vn": "chị (em) ruột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chị em (nhất là dùng bởi một phụ nữ theo thuyết nam nữ bình quyền)",
+          "list_en_vn": [
+            {
+              "full_en": "they supported their sisters in the dispute",
+              "full_vn": "họ ủng hộ các chị em trong cuộc tranh chấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bạn gái thân (coi (như) chị em gái)"
+        },
+        {
+          "m_full_vn": "( Sister ) (viết tắt) Sr nữ tu sĩ; bà xơ",
+          "list_en_vn": [
+            {
+              "full_en": "Sister of mercy",
+              "full_vn": "bà phước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nữ y tá trưởng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) bà chị, cô em (dùng để nói với một phụ nữ)",
+          "list_en_vn": [
+            {
+              "full_en": "come on , sister , hurry along !",
+              "full_vn": "đi thôi, bà chị, nhanh nhanh lên!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc ngữ) cùng một mẫu, cùng một kiểu (một tàu thủy, một tổ chức..)",
+          "list_en_vn": [
+            {
+              "full_en": "our sister college in Cambridge",
+              "full_vn": "trường cao đẳng kiểu như chúng ta ở Cambridge"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073910_e0d3782b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073910_3697e32e0f_o.png",
+      "id_image": "sister_4842391"
+    }
+  ]
+}

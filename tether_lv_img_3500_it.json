@@ -1,0 +1,44 @@
+{
+  "english": "tether",
+  "phat_am": "['teðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây dắt (dây thừng, xích buộc một con vật khi nó đang ăn cỏ)"
+        },
+        {
+          "m_full_vn": "phạm vi, giới hạn (hiểu biết, chịu đựng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be at the end of one's tether",
+              "full_vn": "kiệt sức, hết hơi; hết phương kế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc, cột bằng dây",
+          "list_en_vn": [
+            {
+              "full_en": "to tether a horse to a tree",
+              "full_vn": "buộc ngựa vào cây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351156_71b92698e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351156_7a66bc6d7b_o.png",
+      "id_image": "tether_4610964"
+    }
+  ]
+}

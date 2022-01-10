@@ -1,0 +1,97 @@
+{
+  "english": "sow",
+  "phat_am": "[sou]",
+  "list_type": [
+    {
+      "type": "ngoại động từ sowed ; sown , sowed",
+      "list_m": [
+        {
+          "m_full_vn": "gieo hạt, xạ",
+          "list_en_vn": [
+            {
+              "full_en": "to sow land with maize",
+              "full_vn": "gieo ngô lên đất trồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gieo rắc, gây mầm, đưa ra (cảm xúc, ý kiến..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "sow the wind and reap the whirlwind",
+              "list_im": [
+                {
+                  "im_full_vn": "gieo gió gặt bão"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sow one's wild oats",
+              "list_im": [
+                {
+                  "im_full_vn": "trải qua một thời kỳ theo đuổi những thú vui bừa bãi lúc còn trẻ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he sowed all his wild oats before he married",
+                      "full_vn": "cậu ta đã chơi bời trác táng trước khi lấy vợ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sow the seeds of dissension",
+              "full_vn": "gieo mối chia rẽ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợn nái; lợn cái hoàn toàn trưởng thành"
+        },
+        {
+          "m_full_vn": "(động vật học) mọt gỗ (như) sow-bug"
+        },
+        {
+          "m_full_vn": "rãnh (cho kim loại nấu chảy ra khuôn); kim loại cứng lại ở rãnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "as drunk as a sow",
+              "list_im": [
+                {
+                  "im_full_vn": "say bí tỉ, say tuý luý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (take ) the wrong sow by the ear",
+              "list_im": [
+                {
+                  "im_full_vn": "râu ông nọ cắm cằm bà kia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440308_0c5e667f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440308_abf810dc70_o.png",
+      "id_image": "sow_3319281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440273_c1f484aa0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440273_205e025f85_o.png",
+      "id_image": "sow_6041419"
+    }
+  ]
+}

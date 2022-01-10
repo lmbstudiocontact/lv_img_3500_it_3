@@ -1,0 +1,54 @@
+{
+  "english": "tray",
+  "phat_am": "[trei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái khay, cái mâm (dùng để bưng hoặc đựng đồ vật, nhất là thức ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a tea-tray",
+              "full_vn": "khay trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn hòm; ngăn (trong vali)"
+        },
+        {
+          "m_full_vn": "bàn xeo giấy, khung xeo giấy; khay tài liệu (dùng để đựng giấy tờ.. của một người trong một văn phòng)"
+        },
+        {
+          "m_full_vn": "đĩa ( tuabin)"
+        },
+        {
+          "m_full_vn": "máng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450643_f4af825713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450643_c7cdcd384b_o.png",
+      "id_image": "tray_2204172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072550_1ff2230e41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072550_29b87d4b34_o.png",
+      "id_image": "tray_2323819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690974_0d5e1a4bec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690974_c629d4dd43_o.png",
+      "id_image": "tray_333427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450673_8c3c5ac040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450673_73207c1821_o.png",
+      "id_image": "tray_376525"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "shepherd",
+  "phat_am": "['∫epəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chăn cừu"
+        },
+        {
+          "m_full_vn": "người chăm nom, săn sóc; người hướng dẫn"
+        },
+        {
+          "m_full_vn": "linh mục, mục sư",
+          "list_en_vn": [
+            {
+              "full_en": "the good Shepherd",
+              "full_vn": "Chúa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chăn (cừu)"
+        },
+        {
+          "m_full_vn": "trông nom săn sóc; hướng dẫn, dẫn dắt",
+          "list_en_vn": [
+            {
+              "full_en": "a guide shepherded the tourists into the coach",
+              "full_vn": "một hướng dẫn viên lùa khách du lịch lên xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xua, dẫn, đuổi (một đám đông)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390142_c8f97faa3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390142_d4a1b0406f_o.png",
+      "id_image": "shepherd_1983425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390112_c8d602f1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390112_8e43e0252e_o.png",
+      "id_image": "shepherd_4033077"
+    }
+  ]
+}

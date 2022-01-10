@@ -1,0 +1,54 @@
+{
+  "english": "source",
+  "phat_am": "[sɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nguồn; điểm bắt đầu của một con sông (suối..)"
+        },
+        {
+          "m_full_vn": "nguồn (nơi mà từ đó cái gì đến hoặc thu được)",
+          "list_en_vn": [
+            {
+              "full_en": "reliable source of information",
+              "full_vn": "nguồn tin tức đáng tin cậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nguồn (tài liệu..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at source",
+              "list_im": [
+                {
+                  "im_full_vn": "ở điểm gốc, ở điểm bắt đầu; từ gốc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "source material",
+              "full_vn": "tư liệu gốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062180_20241866a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062180_d0e2c8ef08_o.png",
+      "id_image": "source_1838027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440448_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440448_f28a76b11a_o.png",
+      "id_image": "source_3966885"
+    }
+  ]
+}

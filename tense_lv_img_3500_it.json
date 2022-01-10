@@ -1,0 +1,100 @@
+{
+  "english": "tense",
+  "phat_am": "[tens]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) thời (của động từ)",
+          "list_en_vn": [
+            {
+              "full_en": "the present tense",
+              "full_vn": "thời hiện tại"
+            },
+            {
+              "full_en": "the past tense",
+              "full_vn": "thời quá khứ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "căng",
+          "list_en_vn": [
+            {
+              "full_en": "a tense wire",
+              "full_vn": "sợi dây căng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căng, căng thẳng (vì lo lắng..)",
+          "list_en_vn": [
+            {
+              "full_en": "faces tense with anxiety",
+              "full_vn": "những khuôn mặt căng thẳng vì lo lắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bồn chồn, hồi hộp, không thể thư giãn được"
+        },
+        {
+          "m_full_vn": "găng, gây ra sự căng thẳng (về tình hình, cuộc họp..)",
+          "list_en_vn": [
+            {
+              "full_en": "tense situation",
+              "full_vn": "tình hình căng thẳng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho căng (sợi dây..)"
+        },
+        {
+          "m_full_vn": "làm cho căng thẳng (vì lo lắng..)"
+        },
+        {
+          "m_full_vn": "làm cho bồn chồn, làm cho hồi hộp"
+        },
+        {
+          "m_full_vn": "làm cho (tình hình..) găng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên căng"
+        },
+        {
+          "m_full_vn": "trở nên căng thẳng"
+        },
+        {
+          "m_full_vn": "trở nên bồn chồn, trở nên hồi hộp"
+        },
+        {
+          "m_full_vn": "trở nên găng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706779_98a74deb14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706779_e3a1b40587_o.png",
+      "id_image": "tense_3362407"
+    }
+  ]
+}

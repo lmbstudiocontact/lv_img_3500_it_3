@@ -1,0 +1,178 @@
+{
+  "english": "trail",
+  "phat_am": "[treil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vạch, vệt dài",
+          "list_en_vn": [
+            {
+              "full_en": "a trail of blood",
+              "full_vn": "một vệt máu dài"
+            },
+            {
+              "full_en": "a trail of light",
+              "full_vn": "một vệt sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường, đường mòn (nhất là xuyên qua vùng đất gồ ghề)",
+          "list_en_vn": [
+            {
+              "full_en": "a trail through the forest",
+              "full_vn": "đường mòn xuyên rừng"
+            },
+            {
+              "full_en": "a nature trail",
+              "full_vn": "đường mòn tự nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) đuôi, vệt",
+          "list_en_vn": [
+            {
+              "full_en": "the trail of a meteor",
+              "full_vn": "đuôi một sao băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu vết, mùi, vết (lần theo khi đi săn..)",
+          "list_en_vn": [
+            {
+              "full_en": "the police are on the escaped convict's trail",
+              "full_vn": "cảnh sát đang theo dấu vết của người tù vượt ngục (đang truy lùng anh ta)"
+            },
+            {
+              "full_en": "the trail of a snail",
+              "full_vn": "vết của một con ốc sên"
+            },
+            {
+              "full_en": "hot on the trail",
+              "full_vn": "theo sát, theo riết, không rời dấu vết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vết chân, đường đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the trail",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) xách súng lõng thõng (thân súng song song với mặt đất)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "on the trail of ...",
+              "full_vn": "theo vết chân của..., theo đường của..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo, kéo lê",
+          "list_en_vn": [
+            {
+              "full_en": "the child trails his toy",
+              "full_vn": "đứa bé kéo lê cái đồ chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo dấu vết, đuổi theo dấu vết, lùng, truy nã",
+          "list_en_vn": [
+            {
+              "full_en": "to trail a tiger",
+              "full_vn": "đuổi theo dấu vết một con hổ"
+            },
+            {
+              "full_en": "to trail a murderer",
+              "full_vn": "truy nã một kẻ giết người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở một con đường mòn (trong rừng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị kéo lê, quét",
+          "list_en_vn": [
+            {
+              "full_en": "her skirt trailed along the ground",
+              "full_vn": "váy cô ta quét đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bò; leo (cây cối)",
+          "list_en_vn": [
+            {
+              "full_en": "roses trailing over the walls",
+              "full_vn": "những cây hồng leo trùm lên tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi kéo lê, lết bước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trail arms",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) xách súng lõng thõng (thân súng song song với mặt đất)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trail one's coat-tails",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm chuyện, gây sự cãi nhau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to trail along",
+              "full_vn": "bước một cách nặng nề, lê bước"
+            },
+            {
+              "full_en": "to trail behind someone",
+              "full_vn": "lê bước tụt lại đằng sau ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384982_26cc7aecdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384982_dbd33172f5_o.png",
+      "id_image": "trail_3684380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454948_8ff86d2bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454948_258f60efef_o.png",
+      "id_image": "trail_4559875"
+    }
+  ]
+}

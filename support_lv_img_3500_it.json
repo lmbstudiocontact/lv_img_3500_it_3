@@ -1,0 +1,156 @@
+{
+  "english": "support",
+  "phat_am": "[sə'pɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chống đỡ; sự được chống đỡ"
+        },
+        {
+          "m_full_vn": "vật chống, cột chống"
+        },
+        {
+          "m_full_vn": "sự ủng hộ",
+          "list_en_vn": [
+            {
+              "full_en": "to give support to somebody",
+              "full_vn": "ủng hộ ai"
+            },
+            {
+              "full_en": "to require support",
+              "full_vn": "cần được sự ủng hộ"
+            },
+            {
+              "full_en": "to speak in support of somebody",
+              "full_vn": "phát biểu ý kiến ủng hộ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người ủng hộ; người cổ vũ",
+          "list_en_vn": [
+            {
+              "full_en": "the chief support of the cause",
+              "full_vn": "người ủng hộ chính của sự nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người trông cậy, nơi nương tựa, cột trụ (của gia đình...); nguồn sinh sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "in support",
+              "list_im": [
+                {
+                  "im_full_vn": "đội dự bị (trong bóng đá..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in support of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "ủng hộ ai/cái gì; giúp đỡ ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the sole support of one's old age",
+              "full_vn": "người nhờ cậy độc nhất trong lúc tuổi già"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chịu, chống, đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "a beam support a roof",
+              "full_vn": "một cái dầm đỡ mái nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền sức mạnh, khuyến khích",
+          "list_en_vn": [
+            {
+              "full_en": "what supported him was hope",
+              "full_vn": "điều khuyến khích anh ta là nguồn hy vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng, dung thứ",
+          "list_en_vn": [
+            {
+              "full_en": "to support fatigue well",
+              "full_vn": "chịu đựng mệt giỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi nấng, cấp dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "to support a family",
+              "full_vn": "nuôi nấng gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ủng hộ; cổ vũ",
+          "list_en_vn": [
+            {
+              "full_en": "to support a policy",
+              "full_vn": "ủng hộ một chính sách"
+            },
+            {
+              "full_en": "to support an institution",
+              "full_vn": "ủng hộ (tiền) cho một tổ chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứng minh, xác nhận (một lý thuyết..)",
+          "list_en_vn": [
+            {
+              "full_en": "to support a charge",
+              "full_vn": "chứng minh lời kết tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chu cấp (thức ăn, tiền..)"
+        },
+        {
+          "m_full_vn": "(sân khấu) đóng giỏi (một vai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381387_ac2c6bdfb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381387_645634cdc3_o.png",
+      "id_image": "support_307954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691679_38738b5d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691679_d79ba905d2_o.png",
+      "id_image": "support_706209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073270_b0eeba90a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073270_f36a89d9fa_o.png",
+      "id_image": "support_943648"
+    }
+  ]
+}

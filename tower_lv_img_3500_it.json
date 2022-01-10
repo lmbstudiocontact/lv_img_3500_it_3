@@ -1,0 +1,79 @@
+{
+  "english": "tower",
+  "phat_am": "['tauə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tháp (ở lâu đài, nhà thờ)",
+          "list_en_vn": [
+            {
+              "full_en": "ivory tower",
+              "full_vn": "tháp ngà (của những người trí thức thoát ly thực tế)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tháp (ở nhà máy)"
+        },
+        {
+          "m_full_vn": "đồn luỹ, pháo đài (có tháp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a tower of strength",
+              "list_im": [
+                {
+                  "im_full_vn": "người có thể nhờ vả để có được sự che chở bảo vệ, sức mạnh hoặc sự an ủi trong lúc khó khăn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + above ) vượt hẳn lên, cao hơn rất nhiều (so với những cái khác gần đó)",
+          "list_en_vn": [
+            {
+              "full_en": "the castle towered above the valley",
+              "full_vn": "toà lâu đài vượt hẳn lên cao hơn thung lũng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt xa người khác (về khả năng, phẩm chất, danh tiếng..)",
+          "list_en_vn": [
+            {
+              "full_en": "Shakespeare towered above all his contemporaries",
+              "full_vn": "Sếch-xpia vượt xa những nhà văn cùng thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bay vọt lên, vút lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079260_22ecc1d790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079260_d1d1504de0_o.png",
+      "id_image": "tower_1835019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341771_a4943a8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341771_4df8e22510_o.png",
+      "id_image": "tower_4458936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456608_4f0cf9da53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456608_ed9caa38b0_o.png",
+      "id_image": "tower_5559362"
+    }
+  ]
+}

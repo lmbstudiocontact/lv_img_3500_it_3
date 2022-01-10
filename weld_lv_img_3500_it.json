@@ -1,0 +1,67 @@
+{
+  "english": "weld",
+  "phat_am": "[weld]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) mối hàn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) hàn; hàn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to weld parts together",
+              "full_vn": "hàn các bộ phận lại với nhau"
+            },
+            {
+              "full_en": "to weld a boiler",
+              "full_vn": "hàn một nồi hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thống nhất, gắn chặt, gắn kết (người, vật) thành một tổng thể có hiệu quả",
+          "list_en_vn": [
+            {
+              "full_en": "arguments closely welded",
+              "full_vn": "những lý lẽ gắn bó với nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) chịu hàn, có thể hàn được (sắt..)",
+          "list_en_vn": [
+            {
+              "full_en": "brass welds with difficulty",
+              "full_vn": "đồng khó hàn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447418_c1091d5f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447418_84fb354776_o.png",
+      "id_image": "weld_1839200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447458_565cf9ee3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447458_dcf86dfc2d_o.png",
+      "id_image": "weld_827657"
+    }
+  ]
+}

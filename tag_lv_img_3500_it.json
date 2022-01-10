@@ -1,0 +1,123 @@
+{
+  "english": "tag",
+  "phat_am": "[tæg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miếng sắt nhỏ bịt đầu dây giày"
+        },
+        {
+          "m_full_vn": "nhãn (hàng, giá)"
+        },
+        {
+          "m_full_vn": "mép khuy giày ủng"
+        },
+        {
+          "m_full_vn": "thẻ ghi tên và địa chỉ (buộc vào va li...)",
+          "list_en_vn": [
+            {
+              "full_en": "price tag",
+              "full_vn": "thẻ ghi giá tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ, cụm từ thêm vào một câu để nhấn mạnh"
+        },
+        {
+          "m_full_vn": "mảnh (vải, giấy, da...) buộc lòng thòng"
+        },
+        {
+          "m_full_vn": "đầu (cái) đuôi (thú vật)"
+        },
+        {
+          "m_full_vn": "túm lông (trên lưng cừu)"
+        },
+        {
+          "m_full_vn": "(sân khấu) lời nói bế mạc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) câu nói lặp đi lặp lại; câu nói sáo",
+          "list_en_vn": [
+            {
+              "full_en": "old tag",
+              "full_vn": "ngạn ngữ, tục ngữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn điệp (của bài hát), câu điệp (của bài thơ); vài hát nhai đi nhai lại"
+        },
+        {
+          "m_full_vn": "trò chơi đuổi bắt (của trẻ con) (như) tig"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bịt đầu (dây giày...)"
+        },
+        {
+          "m_full_vn": "buộc thẻ ghi địa chỉ vào"
+        },
+        {
+          "m_full_vn": "buộc, khâu, đính",
+          "list_en_vn": [
+            {
+              "full_en": "to tag together",
+              "full_vn": "buộc vào (khâu vào, đính vào) với nhau"
+            },
+            {
+              "full_en": "to tag something on",
+              "full_vn": "buộc nối vật này vào vật khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạm phải, bắt (trong trò chơi đuổi bắt)"
+        },
+        {
+          "m_full_vn": "tìm vần, trau chuốt (bài thơ)"
+        },
+        {
+          "m_full_vn": "thêm lời nói bế mạc (sau buổi diễn)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + after ) theo lẽo đẽo, bám sát gót, theo như hình với bóng",
+          "list_en_vn": [
+            {
+              "full_en": "he tagged after his mother",
+              "full_vn": "nói cữ lẽo đẽo theo sau mẹ nó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328101_c2607466aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328101_31b9321dce_o.png",
+      "id_image": "tag_122918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443118_a9637d4f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443118_29e0743bcb_o.png",
+      "id_image": "tag_413859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064745_98915d4a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064745_732726752e_o.png",
+      "id_image": "tag_445294"
+    }
+  ]
+}

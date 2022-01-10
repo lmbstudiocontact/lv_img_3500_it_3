@@ -1,0 +1,177 @@
+{
+  "english": "trace",
+  "phat_am": "[treis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu, vết, vết tích, dấu hiệu (thể hiện cái gì đã tồn tại, đã xảy ra)",
+          "list_en_vn": [
+            {
+              "full_en": "the traces of an ancient civilization",
+              "full_vn": "những vết tích của một nền văn minh cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chút, chút ít; số lượng rất nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "traces of poison in the water",
+              "full_vn": "có chút thuốc độc trong nước"
+            },
+            {
+              "full_en": "not to show a trace of fear",
+              "full_vn": "không để lộ ra một chút gì là sợ hãi cả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo, lần theo; phát hiện ra, tìm thấy (dấu vết..)",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot trace the letter to which you refer",
+              "full_vn": "tôi không lần ra được lá thư mà anh đã đề cập đến"
+            },
+            {
+              "full_en": "the criminal was traced to Glasgow",
+              "full_vn": "tên tội phạm đã bị phát hiện tung tích ở Glasgow"
+            },
+            {
+              "full_en": "to trace an influence",
+              "full_vn": "tìm thấy dấu vết của một ảnh hưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mô tả sự phát triển của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a book which traces the decline of the Roman empire",
+              "full_vn": "cuốn sách nói về sự suy tàn của đế chế La mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truy nguyên, tìm thấy nguồn gốc của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "her fear of water can be traced back to a childhood accident",
+              "full_vn": "sự sợ nước của cô ấy có thể truy nguyên thấy bắt nguồn từ một tai nạn thời thơ ấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạch, kẻ; vạch ra, chỉ ra, định ra",
+          "list_en_vn": [
+            {
+              "full_en": "to trace a line of conduct",
+              "full_vn": "vạch ra một lối cư xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phác hoạ, kẻ theo vạch, chỉ theo đường, lần ra đường nét",
+          "list_en_vn": [
+            {
+              "full_en": "to trace the line with one's finger",
+              "full_vn": "lấy ngón tay chỉ theo đường kẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo, đi theo",
+          "list_en_vn": [
+            {
+              "full_en": "to trace a shady way",
+              "full_vn": "đi dọc theo con đường râm mát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẽ can, đồ lại (một bản vẽ..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trace back to",
+              "list_im": [
+                {
+                  "im_full_vn": "truy nguyên đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trace off",
+              "list_im": [
+                {
+                  "im_full_vn": "vẽ phóng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trace out",
+              "list_im": [
+                {
+                  "im_full_vn": "vạch; phát hiện, tìm ra; xác định (ngày tháng, nguồn gốc, vị trí, kích thước...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trace over",
+              "list_im": [
+                {
+                  "im_full_vn": "đồ lại (một bức hoạ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) số nhiều) dây kéo (ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in the traces",
+              "list_im": [
+                {
+                  "im_full_vn": "đang thắng cương (đen & bóng)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696534_c521019c82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696534_6c0a1b17dd_o.png",
+      "id_image": "trace_1548341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456068_5a7762ca9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456068_6f5cb53b47_o.png",
+      "id_image": "trace_1772536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341341_6a9025951f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341341_eaa9589493_o.png",
+      "id_image": "trace_583647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078730_38b2414356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078730_d2e0f1873e_o.png",
+      "id_image": "trace_593528"
+    }
+  ]
+}

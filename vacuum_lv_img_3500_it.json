@@ -1,0 +1,76 @@
+{
+  "english": "vacuum",
+  "phat_am": "['vækjuəm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều vacuums , vacua",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) chân không (khoảng không hoàn toàn không có mọi vật chất hoặc khí)"
+        },
+        {
+          "m_full_vn": "(vật lý) khoảng không trong một đồ đựng mà không khí đã được rút ra hoàn toàn hoặc một phần"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự rỗng tuếch; sự vô nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "there has been a vacuum in her life since her husband died",
+              "full_vn": "từ khi chồng cô ta qua đời thì cuộc đời cô ta như vô nghĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) máy hút bụi (như) vacuum cleaner , vac",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a vacuum",
+              "list_im": [
+                {
+                  "im_full_vn": "xa rời mọi người, xa rời mọi việc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live in a vacuum",
+                      "full_vn": "sống xa rời mọi người"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) làm sạch (cái gì) bằng một máy hút bụi",
+          "list_en_vn": [
+            {
+              "full_en": "to vacuum the stairs",
+              "full_vn": "hút bụi cầu thang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704294_7993e43d3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704294_2cb88dea41_o.png",
+      "id_image": "vacuum_1288256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349691_871e2d433d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349691_c614a050e3_o.png",
+      "id_image": "vacuum_452708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464343_991d0b99e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464343_8df44f92f1_o.png",
+      "id_image": "vacuum_578001"
+    }
+  ]
+}

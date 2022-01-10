@@ -1,0 +1,197 @@
+{
+  "english": "wish",
+  "phat_am": "[wi∫]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều wishes",
+      "list_m": [
+        {
+          "m_full_vn": "sự ước mong, sự mong mỏi; lòng mong muốn, lòng ao ước, lòng thèm muốn",
+          "list_en_vn": [
+            {
+              "full_en": "she expressed a wish to be alone",
+              "full_vn": "cô ấy tỏ ý mong muốn được ở một mình"
+            },
+            {
+              "full_en": "her wish came true",
+              "full_vn": "ước mong của cô ấy đã thành sự thật"
+            },
+            {
+              "full_en": "to express a wish",
+              "full_vn": "tỏ lòng mong ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lời chúc; những hy vọng cho hạnh phúc, những hy vọng cho sức khoẻ của ai",
+          "list_en_vn": [
+            {
+              "full_en": "with best wishes",
+              "full_vn": "với những lời chúc tốt đẹp nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý muốn; lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "in obedience to your wishes",
+              "full_vn": "theo lệnh của ông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều mong ước, nguyện vọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "the wish is father to the thought",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) mong muốn là cha đẻ của ý tưởng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "your wish is my command",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) mong muốn của ông là mệnh lệnh đối với tôi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you will get your wish",
+              "full_vn": "anh sẽ đạt được mong ước của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ước gì, phải chi",
+          "list_en_vn": [
+            {
+              "full_en": "I wish you hadn't told me all this",
+              "full_vn": "phải chi anh đừng nói tất cả điều này với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yêu cầu; muốn, mong, hy vọng",
+          "list_en_vn": [
+            {
+              "full_en": "I'll do it if that's what you wish",
+              "full_vn": "tôi sẽ làm nếu đó là điều cô ấy muốn"
+            },
+            {
+              "full_en": "I wish to leave my property to my children",
+              "full_vn": "tôi muốn để lại tài sản cho các con tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chúc (nói là mình mong cho ai sẽ có được cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to wish someone well",
+              "full_vn": "chúc cho ai gặp điều tốt lành"
+            },
+            {
+              "full_en": "they wished us a pleasant journey",
+              "full_vn": "họ chúc chúng tôi một chuyến đi vui vẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chào, chào mừng",
+          "list_en_vn": [
+            {
+              "full_en": "to wish somebody good morning",
+              "full_vn": "chào ai buổi sáng"
+            },
+            {
+              "full_en": "to wish somebody happy birthday",
+              "full_vn": "chúc mừng sinh nhật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cầu ước"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + for ) ước mong",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wish something upon somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gán cho ai cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) as you wish",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sẵn sàng đồng ý với anh, tôi sẵn sàng làm những gì anh muốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wish somebody /something well /ill",
+              "list_im": [
+                {
+                  "im_full_vn": "mong, hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wish something away",
+              "list_im": [
+                {
+                  "im_full_vn": "gắng rũ bỏ cái gì bằng cách cầu mong nó không tồn tại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wish somebody /something on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đẩy cho, đùn cho (đẩy một nhiệm vụ, ông khách... không ưa, không thích cho ai)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "It's no use wishing for things you can't have",
+              "full_vn": "ước ao những cái mà anh không thể có (thì) thật vô ích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072755_b07046c28f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072755_c20b88dbb1_o.png",
+      "id_image": "wish_2773044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072810_350cc3b245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072810_4bc6e95eef_o.png",
+      "id_image": "wish_994643"
+    }
+  ]
+}

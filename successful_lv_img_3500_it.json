@@ -1,0 +1,46 @@
+{
+  "english": "successful",
+  "phat_am": "[sək'sesfl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành công; thắng lợi; thành đạt",
+          "list_en_vn": [
+            {
+              "full_en": "a successful businesswoman , career , plan",
+              "full_vn": "một nữ thương gia thành đạt, một sự nghiệp thành đạt, một kế hoạch thắng lợi"
+            },
+            {
+              "full_en": "a successful candidate",
+              "full_vn": "ứng cử viên trúng cử; thí sinh trúng tuyển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454293_de941148aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454293_987f43260a_o.png",
+      "id_image": "successful_2111149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076515_a40f408e5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076515_8f510d8540_o.png",
+      "id_image": "successful_4295888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384247_d64377a31c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384247_ac6e8be3b6_o.png",
+      "id_image": "successful_5521193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384232_43583d5a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384232_18073011ed_o.png",
+      "id_image": "successful_5521283"
+    }
+  ]
+}

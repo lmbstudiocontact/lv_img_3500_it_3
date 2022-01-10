@@ -1,0 +1,30 @@
+{
+  "english": "volumetric",
+  "phat_am": "[,vɔlju'metrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thể tích",
+          "list_en_vn": [
+            {
+              "full_en": "volumetric capacity",
+              "full_vn": "dung tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để đo thể tích"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455563_57d5d15d7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455563_095e86472d_o.png",
+      "id_image": "volumetric_1176213"
+    }
+  ]
+}

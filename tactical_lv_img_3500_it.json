@@ -1,0 +1,64 @@
+{
+  "english": "tactical",
+  "phat_am": "['tæktikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) chiến thuật; (thuộc) sách lược",
+          "list_en_vn": [
+            {
+              "full_en": "a tactical bombardment",
+              "full_vn": "một vụ ném bom chiến thuật"
+            },
+            {
+              "full_en": "tactical importance",
+              "full_vn": "giá trị chiến thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) khôn khéo, tài tình, mưu lược",
+          "list_en_vn": [
+            {
+              "full_en": "a tactical move",
+              "full_vn": "một bước đi tài tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng chống lại quân địch ở tầm ngắn, được tiến hành chống lại quân địch ở tầm ngắn (về vũ khí, ném bom..)",
+          "list_en_vn": [
+            {
+              "full_en": "tactical missiles",
+              "full_vn": "tên lửa chiến thuật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328326_4e0f7b96bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328326_28bb1cf229_o.png",
+      "id_image": "tactical_1285680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443318_28a064ea2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443318_29758bdf1b_o.png",
+      "id_image": "tactical_2369453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065040_417430f662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065040_dc52ebd274_o.png",
+      "id_image": "tactics_165077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683249_9b9e50ecd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683249_df71219ffc_o.png",
+      "id_image": "tactics_2752057"
+    }
+  ]
+}

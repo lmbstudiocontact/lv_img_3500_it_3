@@ -1,0 +1,66 @@
+{
+  "english": "vast",
+  "phat_am": "[vɑ:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rộng lớn, mênh mông, bao la (về diện tích, cỡ, số lượng, mức độ), vô bờ",
+          "list_en_vn": [
+            {
+              "full_en": "a vast expanse of water",
+              "full_vn": "một vùng nước mênh mông"
+            },
+            {
+              "full_en": "a vast mountain",
+              "full_vn": "quả núi lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) rất lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a vast fortune",
+              "full_vn": "gia tài kếch xù"
+            },
+            {
+              "full_en": "vast reading",
+              "full_vn": "sự hiểu biết rộng; sự đọc rộng"
+            },
+            {
+              "full_en": "a vast difference",
+              "full_vn": "một sự khác biệt rất lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca); (văn học) khoảng rộng bao la",
+          "list_en_vn": [
+            {
+              "full_en": "the vast of ocean",
+              "full_vn": "đại dương rộng bao la"
+            },
+            {
+              "full_en": "the vast of heaven",
+              "full_vn": "bầu trời rộng bao la"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462763_f52543970d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462763_3faa52accb_o.png",
+      "id_image": "vast_2472369"
+    }
+  ]
+}

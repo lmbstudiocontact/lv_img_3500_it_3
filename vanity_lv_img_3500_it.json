@@ -1,0 +1,53 @@
+{
+  "english": "vanity",
+  "phat_am": "['væniti]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều vanities",
+      "list_m": [
+        {
+          "m_full_vn": "tính vô nghĩa/rỗng tuếch/hư ảo"
+        },
+        {
+          "m_full_vn": "( số nhiều) chuyện phù hoa, hư hảo; sự hão huyền",
+          "list_en_vn": [
+            {
+              "full_en": "these things are vanities",
+              "full_vn": "những cái đó là những chuyện phù hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính kiêu căng tự phụ, lòng tự cao tự đại",
+          "list_en_vn": [
+            {
+              "full_en": "to say without vanity",
+              "full_vn": "nói không kiêu căng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phù phiếm; sự vô dụng"
+        },
+        {
+          "m_full_vn": "ví đựng đồ trang điểm (như) vanity bag"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bàn trang điểm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463233_baff81ff24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463233_8f565574ef_o.png",
+      "id_image": "vanity_699303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393297_f4ac21e8c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393297_57aac041f7_o.png",
+      "id_image": "vanity_699304"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "suspension",
+  "phat_am": "[sə'spen∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đình chỉ; sự đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "the suspension of a rule",
+              "full_vn": "sự đình chỉ một quy định"
+            },
+            {
+              "full_en": "suspension of hostilities",
+              "full_vn": "sự đình chiến"
+            },
+            {
+              "full_en": "the suspension of indisciplined pupils from school",
+              "full_vn": "việc đuổi học những học sinh vô kỷ luật ra khỏi trường"
+            },
+            {
+              "full_en": "she appealed against her suspension",
+              "full_vn": "cô ta kháng cáo việc cô ta bị đình chỉ công tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống giảm xóc, hệ thống treo",
+          "list_en_vn": [
+            {
+              "full_en": "the poor suspension gives a rather bumpy ride",
+              "full_vn": "hệ thống treo kém nên ngồi xe khá xóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) (tình trạng của một) chất lỏng có những hạt chất rắn nhỏ li ti lơ lửng trong đó; thể vẩn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071985_08ff850224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071985_666a5cb98d_o.png",
+      "id_image": "suspended_2808469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689989_796dcf23e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689989_383e390371_o.png",
+      "id_image": "suspension_3003679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690054_0d18bc9732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690054_24f70399e2_o.png",
+      "id_image": "suspension_560708"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "english": "walk",
+  "phat_am": "[wɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi bộ; sự bước; cuộc đi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to come at a walk",
+              "full_vn": "đi bộ đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dạo chơi",
+          "list_en_vn": [
+            {
+              "full_en": "to go for (to take ) a walk",
+              "full_vn": "đi dạo chơi, đi dạo một vòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách đi bộ, kiểu đi bộ; dáng đi",
+          "list_en_vn": [
+            {
+              "full_en": "to know someone by his walk",
+              "full_vn": "nhận ra một người qua dáng đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quãng đường đi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "the station is only a short walk from my house",
+              "full_vn": "ga chỉ cách nhà một quãng ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối để đi bộ, đường để đi bộ, đường đi dạo",
+          "list_en_vn": [
+            {
+              "full_en": "this is my favourite walk",
+              "full_vn": "đây là con đường đi dạo ưa thích của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường đi, vòng đi thường lệ",
+          "list_en_vn": [
+            {
+              "full_en": "the walk of a hawker",
+              "full_vn": "vòng đi thường lệ của người bán hàng rong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc đi bộ thi"
+        },
+        {
+          "m_full_vn": "bãi rào (chăn nuôi); sân nuôi (gà vịt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a walk of life",
+              "list_im": [
+                {
+                  "im_full_vn": "tầng lớp xã hội, địa vị xã hội, nghề nghiệp, việc làm; lĩnh vực hoạt động (của một người)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the different walks of life",
+                      "full_vn": "những nghề nghiệp khác nhau; những tầng lớp xã hội khác nhau"
+                    },
+                    {
+                      "full_en": "the walks of literature",
+                      "full_vn": "lĩnh vực văn chương"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi, đi bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to walk home",
+              "full_vn": "đi bộ về nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi bách bộ, đi tản bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to walk one hour",
+              "full_vn": "đi tản bộ một tiếng đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện ra, xuất hiện (ma, quỉ..)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sống, ăn ở, cư xử",
+          "list_en_vn": [
+            {
+              "full_en": "to walk in peace",
+              "full_vn": "sống hoà bình với nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi, đi bộ, đi lang thang",
+          "list_en_vn": [
+            {
+              "full_en": "to walk the streets",
+              "full_vn": "đi lang thang ngoài phố; làm đĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cùng đi với; bắt đi; tập cho đi, dắt đi, dẫn đi",
+          "list_en_vn": [
+            {
+              "full_en": "I'll walk you home",
+              "full_vn": "tôi cùng đi với anh về nhà"
+            },
+            {
+              "full_en": "the policeman walked off the criminal",
+              "full_vn": "người cảnh sát dẫn tội phạm đi"
+            },
+            {
+              "full_en": "to walk a horse",
+              "full_vn": "dắt (cưỡi) ngựa đi từng bước"
+            },
+            {
+              "full_en": "to walk a baby",
+              "full_vn": "tập đi cho một em bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi trên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to run before one can walk",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa biết đi đã đòi chạy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk before one can run",
+              "list_im": [
+                {
+                  "im_full_vn": "đi từ dễ đến khó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a walking dictionary",
+              "list_im": [
+                {
+                  "im_full_vn": "từ điển sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk one's legs off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đi cho đến khi bị kiệt sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk somebody off his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bắt ai đi rạc cẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk tall",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngẩng cao đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk about",
+              "list_im": [
+                {
+                  "im_full_vn": "dạo chơi, đi dạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk along",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến bước, đi dọc theo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk away from somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng một cách dễ dàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to walk away from a competitor",
+                      "full_vn": "thắng địch thủ dễ dàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk /off with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đoạt được dễ dàng (một giải thưởng)"
+                },
+                {
+                  "im_full_vn": "ăn cắp, thó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk back",
+              "list_im": [
+                {
+                  "im_full_vn": "đi trở lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk down",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk in",
+              "list_im": [
+                {
+                  "im_full_vn": "đi vào, bước vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to ask sommeone to walk in",
+                      "full_vn": "mời người nào vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk into something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) sa vào, bị mắc vào (nhất là do không cẩn thận)"
+                },
+                {
+                  "im_full_vn": "(thông tục) được (việc làm) mà không mất công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk into something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm sầm vào, đụng phải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk off",
+              "list_im": [
+                {
+                  "im_full_vn": "rời bỏ đi"
+                },
+                {
+                  "im_full_vn": "(thông tục) ( + with ) lấy đi, nẫng đi (vật gì)"
+                },
+                {
+                  "im_full_vn": "to walk off one's lunch dạo chơi cho tiêu cơm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk on",
+              "list_im": [
+                {
+                  "im_full_vn": "(sân khấu) đóng vai phụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk out",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đình công, bãi công"
+                },
+                {
+                  "im_full_vn": "bỏ đi ra, đi ra khỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to walk out on someone",
+                      "full_vn": "(từ Mỹ,nghĩa Mỹ) bỏ ai mà đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( + with ) đi chơi với (ai); nhân tình với (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk over",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) thắng dễ dàng; thắng vì không có đối thủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk up",
+              "list_im": [
+                {
+                  "im_full_vn": "bước lại gần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to walk up to someone",
+                      "full_vn": "bước lại gần ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the board",
+              "list_im": [
+                {
+                  "im_full_vn": "là diễn viên sân khấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk one's beat",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) đi tuần canh gác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the hospitals",
+              "list_im": [
+                {
+                  "im_full_vn": "thực tập ở bệnh viện (học sinh y khoa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk the plank",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bịt mắt phải đi trên tấm ván đặt chênh vênh bên mạn tàu (một lối hành hạ của bọn cướp biển)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) bị bắt buộc phải từ chức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to walk the fields looking for wild flowers",
+              "full_vn": "đi trên cánh đồng kiếm hoa dại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693954_ca2af8e49b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693954_5690d8483f_o.png",
+      "id_image": "walk_1693000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453783_a7bfb0a799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453783_b77b88ae24_o.png",
+      "id_image": "walk_5147283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383737_7c610ed28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383737_13fbeb20ec_o.png",
+      "id_image": "walk_599542"
+    }
+  ]
+}

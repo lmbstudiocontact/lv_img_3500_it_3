@@ -1,0 +1,46 @@
+{
+  "english": "undersea",
+  "phat_am": "['ʌndəsi:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới mặt biển, ngầm dưới biển; chìm",
+          "list_en_vn": [
+            {
+              "full_en": "undersea exploration",
+              "full_vn": "thăm dò dưới mặt biển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới nước",
+          "list_en_vn": [
+            {
+              "full_en": "photographs taken undersea",
+              "full_vn": "ảnh chụp dưới nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091185_ee7d94e9ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091185_60e3a9e266_o.png",
+      "id_image": "undersea_2055682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353751_840c1e02d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353751_0cd29cb9b6_o.png",
+      "id_image": "undersea_2572011"
+    }
+  ]
+}

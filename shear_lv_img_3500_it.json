@@ -1,0 +1,115 @@
+{
+  "english": "shear",
+  "phat_am": "[∫iə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo lớn (để tỉa cây, xén lông cừu...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự xén (lông cừu...)",
+          "list_en_vn": [
+            {
+              "full_en": "a sheep of three shears",
+              "full_vn": "con cừu đã được xén lông ba lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lông cừu xén ra"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự trượt, sự dịch chuyển"
+        },
+        {
+          "m_full_vn": "( số nhiều) (hàng hải) cần trục nạng (như) sheers"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ sheared , (từ cổ,nghĩa cổ) shore ; shorn , (từ hiếm,nghĩa hiếm) sheared",
+      "list_m": [
+        {
+          "m_full_vn": "cắt lông cừu bằng kéo",
+          "list_en_vn": [
+            {
+              "full_en": "sheep shearing time",
+              "full_vn": "mùa xén lông cừu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị biến dạng, bị méo mó, bị đứt gãy (vật liệu...)"
+        },
+        {
+          "m_full_vn": "cắt, chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to shear through something",
+              "full_vn": "cắt đứt vật gì"
+            },
+            {
+              "full_en": "the plane sheared through the clouds",
+              "full_vn": "chiếc máy bay bay xuyên qua đám mây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm biến dạng, làm méo mó, làm đứt gãy",
+          "list_en_vn": [
+            {
+              "full_en": "the bar fell into the machinery and sheared a connecting-rod",
+              "full_vn": "thanh sắt rơi vào máy làm gãy thanh truyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xén, cắt, hớt (lông, tóc..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be shorn of something",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lấy đi, bị tước mất cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come home shorn",
+              "list_im": [
+                {
+                  "im_full_vn": "về nhà trần như nhộng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shear sheep",
+              "full_vn": "xén lông cừu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083590_db899148f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083590_8036c249f0_o.png",
+      "id_image": "shear_1571478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460878_b6cede0f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460878_277b701b57_o.png",
+      "id_image": "shear_2844480"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "traditional",
+  "phat_am": "[trə'di∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) truyền thống, theo truyền thống, là truyền thống",
+          "list_en_vn": [
+            {
+              "full_en": "It's traditional in England to eat turkey on Christmas Day",
+              "full_vn": "Ăn gà tây vào ngày Nô-en là truyền thống ở Anh"
+            },
+            {
+              "full_en": "country people in their traditional costumes",
+              "full_vn": "người dân nông thôn trong y phục truyền thống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385362_9b5fd2e460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385362_ef9cfb5464_o.png",
+      "id_image": "traditional_5333249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077680_cd0647e23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077680_9d926792e2_o.png",
+      "id_image": "traditional_6194048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077635_3cafb91910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077635_719a00c299_o.png",
+      "id_image": "traditional_6371075"
+    }
+  ]
+}

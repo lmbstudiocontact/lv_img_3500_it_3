@@ -1,0 +1,107 @@
+{
+  "english": "winter",
+  "phat_am": "['wintə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mùa đông",
+          "list_en_vn": [
+            {
+              "full_en": "in winter",
+              "full_vn": "về mùa đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) năm, tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "a man of sixty winters",
+              "full_vn": "một người sáu mươi tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) lúc tuổi già",
+          "list_en_vn": [
+            {
+              "full_en": "to stand on winter's verge",
+              "full_vn": "sắp về già"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) mùa đông; như mùa đông, thích hợp cho mùa đông",
+          "list_en_vn": [
+            {
+              "full_en": "winter season",
+              "full_vn": "mùa đông"
+            },
+            {
+              "full_en": "winter life",
+              "full_vn": "cuộc sống về mùa đông"
+            },
+            {
+              "full_en": "winter quarters",
+              "full_vn": "nơi đóng quân mùa đông"
+            },
+            {
+              "full_en": "winter sleep",
+              "full_vn": "sự ngủ đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trú đông, tránh rét",
+          "list_en_vn": [
+            {
+              "full_en": "birds wintering in the south",
+              "full_vn": "chim bay về phương Nam tránh rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải qua mùa đông, nghỉ đông (cây cỏ...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa đi trú đông, đưa đi tránh rét",
+          "list_en_vn": [
+            {
+              "full_en": "to winter the cattle",
+              "full_vn": "đưa vật nuôi đi tránh rét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451758_9c7052bff1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451758_401938c033_o.png",
+      "id_image": "winter_382570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336856_f7fc983f39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336856_1c912d8bf3_o.png",
+      "id_image": "winter_6249983"
+    }
+  ]
+}

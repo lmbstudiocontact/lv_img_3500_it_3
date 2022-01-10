@@ -1,0 +1,55 @@
+{
+  "english": "vibration",
+  "phat_am": "[vai'brei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều vibrations",
+      "list_m": [
+        {
+          "m_full_vn": "sự rung động, sự chuyển động; sự làm rung động, sự làm chuyển động"
+        },
+        {
+          "m_full_vn": "(vật lý) sự lúc lắc, sự chuyển động, dao động",
+          "list_en_vn": [
+            {
+              "full_en": "amplitude of vibration",
+              "full_vn": "độ biến chấn động"
+            },
+            {
+              "full_en": "forced vibration",
+              "full_vn": "chấn động cưỡng bức"
+            },
+            {
+              "full_en": "free vibration",
+              "full_vn": "chấn động tự do"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) sự rung cảm (về tinh thần) (như) vibes"
+        },
+        {
+          "m_full_vn": "sự chấn động",
+          "list_en_vn": [
+            {
+              "full_en": "a vibration of opinion",
+              "full_vn": "sự chấn động dư luận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390137_94bdee9e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390137_0476361ed3_o.png",
+      "id_image": "vibration_2646891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345151_27b7d706d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345151_aa5837453d_o.png",
+      "id_image": "vibration_6254024"
+    }
+  ]
+}

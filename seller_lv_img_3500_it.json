@@ -1,0 +1,54 @@
+{
+  "english": "seller",
+  "phat_am": "['selə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng trong từ ghép) người bán",
+          "list_en_vn": [
+            {
+              "full_en": "a bookseller",
+              "full_vn": "người bán sách"
+            },
+            {
+              "full_en": "the buyer and the seller",
+              "full_vn": "người mua và người bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đi sau một tính từ) thứ bán được, đồ bán được (theo một cách nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "this dictionary is a best seller",
+              "full_vn": "quyển tự điển này là thứ bán rất chạy"
+            },
+            {
+              "full_en": "this model is a poor seller",
+              "full_vn": "mẫu hàng này bán ế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705279_8e94841c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705279_ccd779f1bf_o.png",
+      "id_image": "seller_1028011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350731_aed705d594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350731_188fac5fe2_o.png",
+      "id_image": "seller_1441373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395457_f79ac00997_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395457_a968aa2bf1_o.png",
+      "id_image": "seller_4668539"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "umpire",
+  "phat_am": "['ʌmpaiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trọng tài (trong quần vợt, cricket..)"
+        },
+        {
+          "m_full_vn": "trọng tài, người phân xử (giữa hai bên bất đồng ý kiến với nhau)"
+        },
+        {
+          "m_full_vn": "người làm trung gian"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm trọng tài, làm người phân xử; làm trung gian",
+          "list_en_vn": [
+            {
+              "full_en": "to umpire a match",
+              "full_vn": "làm trọng tài một trận đấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354276_010703bcaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354276_7304550ff1_o.png",
+      "id_image": "umpire_6308728"
+    }
+  ]
+}

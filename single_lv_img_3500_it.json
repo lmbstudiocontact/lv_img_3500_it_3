@@ -1,0 +1,230 @@
+{
+  "english": "single",
+  "phat_am": "['siηgl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ có một, không có đôi, không có nhóm; đơn; đơn độc",
+          "list_en_vn": [
+            {
+              "full_en": "single game",
+              "full_vn": "(thể dục,thể thao) trận đánh đơn"
+            },
+            {
+              "full_en": "a single apple hanging from the tree",
+              "full_vn": "chỉ có một quả táo lủng lẳng trên cây"
+            },
+            {
+              "full_en": "a single layer of paint",
+              "full_vn": "chỉ có một lớp sơn"
+            },
+            {
+              "full_en": "one double and one single sink-unit",
+              "full_vn": "một bệ rửa bát hai chậu và một chậu"
+            },
+            {
+              "full_en": "a multitude inspired with a single purpose",
+              "full_vn": "muôn người cùng chung mục đích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn lẻ; riêng rẽ; từng cái một, từng người một",
+          "list_en_vn": [
+            {
+              "full_en": "the single most important event in the history of the world",
+              "full_vn": "sự kiện riêng biệt quan trọng nhất trong lịch sử thế giới"
+            },
+            {
+              "full_en": "she removed every single thing from the box",
+              "full_vn": "bà ta bỏ từng cái một trong hộp ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độc thân (không vợ hoặc không chồng)",
+          "list_en_vn": [
+            {
+              "full_en": "single life",
+              "full_vn": "cuộc sống độc thân"
+            },
+            {
+              "full_en": "single state",
+              "full_vn": "tình trạng độc thân"
+            },
+            {
+              "full_en": "to remain single",
+              "full_vn": "sống độc thân"
+            },
+            {
+              "full_en": "single men and women",
+              "full_vn": "những người đàn ông và phụ nữ độc thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhằm cho một người, được sử dụng bởi một người, được làm bởi một người",
+          "list_en_vn": [
+            {
+              "full_en": "a single bed",
+              "full_vn": "giừơng đơn"
+            },
+            {
+              "full_en": "a single sheet",
+              "full_vn": "chăn đơn"
+            },
+            {
+              "full_en": "to reserve one single and one double room",
+              "full_vn": "giữ một buồngcho một người và một buồng cho hai người (ở khách sạn...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) chỉ có một hàng cánh hoa",
+          "list_en_vn": [
+            {
+              "full_en": "a single tulip",
+              "full_vn": "hoa tulip đơn"
+            },
+            {
+              "full_en": "single flower",
+              "full_vn": "hoa đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ đi đến một nơi nào đó (không từ đó trở về) (như) one-way",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hang by a hair /a single thread",
+              "list_im": [
+                {
+                  "im_full_vn": "xem hang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(in ) single figures",
+              "list_im": [
+                {
+                  "im_full_vn": "những con số dưới mười; một con số",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "interest rates are in single figures",
+                      "full_vn": "lãi suất là một con số (dưới 10 %)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in single file",
+              "list_im": [
+                {
+                  "im_full_vn": "xem file"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a single fare , ticket",
+              "full_vn": "tiền xe, vé chỉ đi một lần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( singles ) (thể dục thể thao) trận đánh mỗi bên chỉ có một đấu thủ chứ không phải một cặp; trận đánh đơn",
+          "list_en_vn": [
+            {
+              "full_en": "the men's / women's singles in the golf tournament",
+              "full_vn": "những trận đánh đơn nam/nữ trong cuộc thi đấu golf"
+            },
+            {
+              "full_en": "a singles match",
+              "full_vn": "một trận đánh đơn"
+            },
+            {
+              "full_en": "to play (a ) singles",
+              "full_vn": "chơi một trận đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú đánh ghi được một điểm (trong cricket)",
+          "list_en_vn": [
+            {
+              "full_en": "to get a quick single",
+              "full_vn": "nhanh chóng giành được một điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú đánh làm cho người đánh chạm được góc thứ nhất (trong cricket) (như) base hit"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) vé chỉ đi một lần",
+          "list_en_vn": [
+            {
+              "full_en": "two second-class singles to Leeds",
+              "full_vn": "hai vé hạng nhì đi một chiều đến Leeds"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ, nghĩa Mỹ) những người không vợ hoặc không chồng; người độc thân",
+          "list_en_vn": [
+            {
+              "full_en": "a club for singles",
+              "full_vn": "câu lạc bộ của những người độc thân"
+            },
+            {
+              "full_en": "a singles bar , holiday",
+              "full_vn": "quầy rượu, chuyến đi nghỉ của những người độc thân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to single somebody / something out for something ) lựa chọn ai/cái gì ra trong số những người/cái khác (để đặc biệt chú ý..)",
+          "list_en_vn": [
+            {
+              "full_en": "which would you single out as the best",
+              "full_vn": "anh sẽ chọn ra cái nào là cái tốt nhất?"
+            },
+            {
+              "full_en": "he was singled out for punishment",
+              "full_vn": "nó đã bị chọn ra để chịu trừng phạt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337656_ef2ca85421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337656_be498b6563_o.png",
+      "id_image": "single_2442287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692899_8920b3a95b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692899_dcefa8810d_o.png",
+      "id_image": "single_5509321"
+    }
+  ]
+}

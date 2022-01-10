@@ -1,0 +1,54 @@
+{
+  "english": "shampoo",
+  "phat_am": "[∫æm'pu:]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều shampoos",
+      "list_m": [
+        {
+          "m_full_vn": "săng-poang; dầu gội đầu"
+        },
+        {
+          "m_full_vn": "dầu giặt thảm, dầu rửa xe"
+        },
+        {
+          "m_full_vn": "sự gội đầu, hành động gội đầu; sự lau chùi",
+          "list_en_vn": [
+            {
+              "full_en": "To give somebody a shampoo",
+              "full_vn": "Gội đầu cho ai bằng dầu gội đầu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ shampooed",
+      "list_m": [
+        {
+          "m_full_vn": "gội đầu"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) tẩm quất, xoa bóp (sau khi tắm nước nóng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462153_ab15ca5ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462153_6480827b29_o.png",
+      "id_image": "shampoo_4157623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392352_883f2b2837_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392352_6e2ed62ee8_o.png",
+      "id_image": "shampoo_4310660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462078_db6fc71532_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462078_c0551de0a9_o.png",
+      "id_image": "shampoo_6075408"
+    }
+  ]
+}

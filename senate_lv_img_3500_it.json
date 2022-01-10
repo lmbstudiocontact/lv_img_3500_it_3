@@ -1,0 +1,33 @@
+{
+  "english": "senate",
+  "phat_am": "['senit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Senate ) (viết tắt) Sen thượng nghị viện (của quốc hội lập pháp ở Pháp, Mỹ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a Senate committee",
+              "full_vn": "ủy ban của Thượng viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ban giám hiệu (ở trường đại học)"
+        },
+        {
+          "m_full_vn": "viện nguyên lão; hội đồng nhà nước cao nhất (ở thời cổ La Mã)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087530_d9c1b5c558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087530_0c071e8419_o.png",
+      "id_image": "senate_6333053"
+    }
+  ]
+}

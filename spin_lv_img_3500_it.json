@@ -1,0 +1,146 @@
+{
+  "english": "spin",
+  "phat_am": "[spin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quay tròn, sự xoay tròn"
+        },
+        {
+          "m_full_vn": "động tác bổ nhào quay"
+        },
+        {
+          "m_full_vn": "(hàng không) sự vừa đâm xuống vừa quay tròn"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự xoáy (bóng crickê)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự đi chơi; cuộc đi chơi ngắn, cuộc đi dạo loanh quanh (bằng xe đạp, thuyền...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a (flat ) spin",
+              "list_im": [
+                {
+                  "im_full_vn": "trong một trạng thái hoảng sợ, trong một trạng thái bối rối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go for a spin",
+              "full_vn": "đi dạo chơi; đi bơi thuyền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ spun ; (từ cổ,nghĩa cổ) span ; spun",
+      "list_m": [
+        {
+          "m_full_vn": "quay (tơ)"
+        },
+        {
+          "m_full_vn": "chăng (tơ), kéo (kén)"
+        },
+        {
+          "m_full_vn": "tiện (bằng máy)"
+        },
+        {
+          "m_full_vn": "xe (sợi, chỉ)",
+          "list_en_vn": [
+            {
+              "full_en": "she spins goat's hair into wool",
+              "full_vn": "cô ấy xe lông dê lại thành sợi len"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm quay tròn, đánh cho quay (con quay, người nào); làm lảo đảo",
+          "list_en_vn": [
+            {
+              "full_en": "he spun the wheel of his bicycle",
+              "full_vn": "anh ta quay cái bánh xe đạp"
+            },
+            {
+              "full_en": "to send somebody spinning",
+              "full_vn": "đánh ai lảo đảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đánh hỏng (thí sinh)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe chỉ, xe tơ"
+        },
+        {
+          "m_full_vn": "chăng tơ (nhện); kéo kén (tằm)"
+        },
+        {
+          "m_full_vn": "câu cá bằng mồi quay"
+        },
+        {
+          "m_full_vn": "quay tròn, lộn vòng; lảo đảo"
+        },
+        {
+          "m_full_vn": "làm nghề xe sợi, giải trí bằng việc xe sợi",
+          "list_en_vn": [
+            {
+              "full_en": "I enjoy spinning",
+              "full_vn": "tôi thích thú việc xe sợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt đi nhẹ nhàng (đi xe đạp)"
+        },
+        {
+          "m_full_vn": "( + along ) lướt đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spin out",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo dài (bài diễn văn, cuộc thảo luận, cuộc đời...)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) đánh xoáy bóng cho (đối thủ) không đỡ được ( crickê)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "spin (somebody ) a yarn",
+              "list_im": [
+                {
+                  "im_full_vn": "thêu dệt; kể một câu chuyện để lừa ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353971_253c2dc740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353971_6bb9f9e5fb_o.png",
+      "id_image": "spin_1547251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468683_3bd3817c44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468683_47d9c49776_o.png",
+      "id_image": "spin_2473177"
+    }
+  ]
+}

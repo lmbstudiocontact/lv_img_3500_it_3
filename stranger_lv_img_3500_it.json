@@ -1,0 +1,70 @@
+{
+  "english": "stranger",
+  "phat_am": "['streindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lạ, người không quen biết",
+          "list_en_vn": [
+            {
+              "full_en": "he is no stranger to me",
+              "full_vn": "tôi quen anh ta lắm"
+            },
+            {
+              "full_en": "he is a stranger to me",
+              "full_vn": "tôi không quen anh ta"
+            },
+            {
+              "full_en": "the little stranger",
+              "full_vn": "đứa trẻ mới đẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người xa lạ (người ở một nơi mới, nơi không quen thuộc, hay với những người anh ta không quen biết)",
+          "list_en_vn": [
+            {
+              "full_en": "to make a stranger of somebody",
+              "full_vn": "đối đãi với ai như người xa lạ"
+            },
+            {
+              "full_en": "I am a stranger here",
+              "full_vn": "tôi không quen biết vùng này"
+            },
+            {
+              "full_en": "he is a stranger to fear",
+              "full_vn": "sợ là một điều xa lạ đối với anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nước ngoài",
+          "list_one_mean": [
+            {
+              "id_full_en": "be a /no stranger to something",
+              "list_im": [
+                {
+                  "im_full_vn": "lạ/không lạ gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081405_508fb78279_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081405_f878abba63_o.png",
+      "id_image": "stranger_5778991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081350_4327a52313_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081350_cb4fecfe35_o.png",
+      "id_image": "stranger_5783745"
+    }
+  ]
+}

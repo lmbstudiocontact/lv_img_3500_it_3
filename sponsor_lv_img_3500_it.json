@@ -1,0 +1,55 @@
+{
+  "english": "sponsor",
+  "phat_am": "['spɔnsə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cha mẹ đỡ đầu"
+        },
+        {
+          "m_full_vn": "người bảo đảm"
+        },
+        {
+          "m_full_vn": "người đưa ra một đề nghị, người bảo lãnh cho một đề nghị (cho một luật mới..)"
+        },
+        {
+          "m_full_vn": "người bảo trợ"
+        },
+        {
+          "m_full_vn": "người thuê quảng cáo; hãng thuê quảng cáo (quảng cáo hàng của mình ở đài phát thanh hay truyền hình)"
+        },
+        {
+          "m_full_vn": "người góp tiền từ thiện để đáp lại một hoạt động cụ thể của người khác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỡ đầu, bảo trợ",
+          "list_en_vn": [
+            {
+              "full_en": "a government-sponsored cheap textbooks scheme",
+              "full_vn": "một kế hoạch xuất bản sách giáo khoa với giá rẻ được chính phủ bảo trợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707824_fc192d36b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707824_67a56e638b_o.png",
+      "id_image": "sponsor_2329325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090485_123158d678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090485_df5a684644_o.png",
+      "id_image": "sponsor_950592"
+    }
+  ]
+}

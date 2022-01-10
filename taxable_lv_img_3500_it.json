@@ -1,0 +1,48 @@
+{
+  "english": "taxable",
+  "phat_am": "['tæksəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể đánh thuế được",
+          "list_en_vn": [
+            {
+              "full_en": "a taxable article",
+              "full_vn": "một mặt hàng đánh thuế được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể phải đóng thuế, có trách nhiệm phải đóng thuế",
+          "list_en_vn": [
+            {
+              "full_en": "taxable earnings",
+              "full_vn": "những thu nhập phải đóng thuế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể quy cho trách nhiệm"
+        },
+        {
+          "m_full_vn": "chịu phí tổn",
+          "list_en_vn": [
+            {
+              "full_en": "the expenses of the transport are taxable to the sender",
+              "full_vn": "phí tổn chuyên chở cho người gửi chịu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091360_a6b69e017e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091360_89baf36040_o.png",
+      "id_image": "taxable_2170995"
+    }
+  ]
+}

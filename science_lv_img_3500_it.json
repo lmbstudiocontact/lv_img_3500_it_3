@@ -1,0 +1,68 @@
+{
+  "english": "science",
+  "phat_am": "['saiəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoa học",
+          "list_en_vn": [
+            {
+              "full_en": "man of science",
+              "full_vn": "nhà khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoa học tự nhiên"
+        },
+        {
+          "m_full_vn": "hệ thống kiến thức"
+        },
+        {
+          "m_full_vn": "sự nghiên cứu khoa học; ngành khoa học",
+          "list_en_vn": [
+            {
+              "full_en": "the science of optics",
+              "full_vn": "ngành quang học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ thuật cao"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) trí thức, kiến thức",
+          "list_one_mean": [
+            {
+              "id_full_en": "the dismal science",
+              "list_im": [
+                {
+                  "im_full_vn": "khoa kinh tế chính trị"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445153_133e2fe1b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445153_a66c6af3f2_o.png",
+      "id_image": "science_124789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445138_78767bf583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445138_f8a4fc849b_o.png",
+      "id_image": "science_212268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066955_e9687a3c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066955_ca32d2b8f5_o.png",
+      "id_image": "science_913926"
+    }
+  ]
+}

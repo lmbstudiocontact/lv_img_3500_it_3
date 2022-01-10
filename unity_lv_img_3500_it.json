@@ -1,0 +1,57 @@
+{
+  "english": "unity",
+  "phat_am": "['ju:nəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đơn nhất, tính duy nhất, tính đồng nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the unity of the painting",
+              "full_vn": "tính đồng nhất của bức tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thống nhất; cái thống nhất",
+          "list_en_vn": [
+            {
+              "full_en": "national unity",
+              "full_vn": "sự thống nhất quốc gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thống nhất, sự đoàn kết, sự hoà hợp, sự nhất trí (về tình cảm, mục đích, tư tưởng..)"
+        },
+        {
+          "m_full_vn": "(toán học) phần tử đơn vị, con số 1"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467328_0f09f9f78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467328_1b4ef1e3fb_o.png",
+      "id_image": "unity_1396598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397457_7c7f1732a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397457_02682435c5_o.png",
+      "id_image": "unity_1396605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707284_6e137f9ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707284_67f049417e_o.png",
+      "id_image": "unity_1622630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707269_47f4f44e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707269_1ae7ff1603_o.png",
+      "id_image": "unity_3480057"
+    }
+  ]
+}

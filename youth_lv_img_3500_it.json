@@ -1,0 +1,99 @@
+{
+  "english": "youth",
+  "phat_am": "[ju:θ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời kỳ đang trẻ (nhất là khoảng giữa thời thơ ấu và lúc trưởng thành); thời thanh niên; tuổi trẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a wasted youth",
+              "full_vn": "một thời thanhniên uổng phí"
+            },
+            {
+              "full_en": "I often went there in my youth",
+              "full_vn": "thời trẻ tôi thường đi đến đó"
+            },
+            {
+              "full_en": "the enthusiasm of youth",
+              "full_vn": "nhiệt tình của tuổi trẻ"
+            },
+            {
+              "full_en": "her youth gives her an advantage over the other runners",
+              "full_vn": "tuổi trẻ làm cho cô ấy có ưu thế hơn những tay đua khác"
+            },
+            {
+              "full_en": "she's full of youth and vitality",
+              "full_vn": "cô ấy tràn trề tuổi xuân và sức sống"
+            },
+            {
+              "full_en": "the youth of civilization",
+              "full_vn": "buổi ban đầu của nền văn minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp thanh niên; lứa tuổi thanh niên; (nói chung) thanh niên (cũng) the youth",
+          "list_en_vn": [
+            {
+              "full_en": "the youth of the country /the country's youth",
+              "full_vn": "thanh niên của đất nước"
+            },
+            {
+              "full_en": "the youth of today has /have greater opportunities than ever before",
+              "full_vn": "lớp trẻ/giới trẻ ngày nay có những cơ hội lớn hơn bao giờ hết so với trước đây"
+            },
+            {
+              "full_en": "youth club",
+              "full_vn": "câu lạc bộ thanh niên"
+            },
+            {
+              "full_en": "youth hostelling",
+              "full_vn": "sự nghỉ ngơi ở nhà trọ thanh niên"
+            },
+            {
+              "full_en": "The Communist Youth League",
+              "full_vn": "Đoàn thanh niên cộng sản"
+            },
+            {
+              "full_en": "The Ho Chi Minh Labour Youth Union",
+              "full_vn": "Đoàn thanh niên lao động Hồ Chí Minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chàng trai trẻ; chàng thanh niên",
+          "list_en_vn": [
+            {
+              "full_en": "a bevy of youths",
+              "full_vn": "một đám thanh niên"
+            },
+            {
+              "full_en": "the fight was started by some youths who had been drinking",
+              "full_vn": "cuộc ẩu đả xảy ra là do mấy thanh niên say rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374982_34f9e968b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374982_5cdca0c5a0_o.png",
+      "id_image": "youth_1312511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685364_bb53ea09f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685364_1121dc6823_o.png",
+      "id_image": "youth_3787893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330266_aea7175f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330266_37831348b0_o.png",
+      "id_image": "youth_4901028"
+    }
+  ]
+}

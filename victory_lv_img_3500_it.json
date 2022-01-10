@@ -1,0 +1,51 @@
+{
+  "english": "victory",
+  "phat_am": "['viktəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) V sự chiến thắng, sự thắng lợi (trong chiến tranh, cuộc thi..)",
+          "list_en_vn": [
+            {
+              "full_en": "to win glorious victories",
+              "full_vn": "giành được những chiến thắng vẻ vang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khắc phục được, sự chế ngự được",
+          "list_en_vn": [
+            {
+              "full_en": "victory over one's quick temper",
+              "full_vn": "sự chế ngự được tính nóng nảy của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082405_b99f8d6ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082405_88cc54db32_o.png",
+      "id_image": "victory_1403214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082375_7b267c2744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082375_a2854d678a_o.png",
+      "id_image": "victory_1610509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459763_e5b92e649a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459763_95918b5f3f_o.png",
+      "id_image": "victory_366452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699984_ffda313828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699984_7719978654_o.png",
+      "id_image": "victory_5521329"
+    }
+  ]
+}

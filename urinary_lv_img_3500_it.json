@@ -1,0 +1,36 @@
+{
+  "english": "urinary",
+  "phat_am": "['juərinəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nước thải, (thuộc) các bộ phận của cơ thể mà nước tiểu đi qua",
+          "list_en_vn": [
+            {
+              "full_en": "urinary infections",
+              "full_vn": "những sự nhiễm trùng đường tiết niệu"
+            },
+            {
+              "full_en": "urinary organs",
+              "full_vn": "cơ quan đường tiết niệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395852_376cce8648_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395852_db5bf39340_o.png",
+      "id_image": "urinary_2252850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088280_1a4f126169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088280_71cf11e625_o.png",
+      "id_image": "urinary_2375513"
+    }
+  ]
+}

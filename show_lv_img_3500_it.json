@@ -1,0 +1,292 @@
+{
+  "english": "show",
+  "phat_am": "[∫ou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bày tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to vote by show of hands",
+              "full_vn": "biểu quyết bằng giơ tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trưng bày; cuộc triển lãm"
+        },
+        {
+          "m_full_vn": "sự phô trương; sự khoe khoang",
+          "list_en_vn": [
+            {
+              "full_en": "a fine show of blossom",
+              "full_vn": "cảnh muôn hoa khoe sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) cuộc biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "a film show",
+              "full_vn": "một buổi chiếu phim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề ngoài, hình thức, sự giả đò, sự giả bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to do something for show",
+              "full_vn": "làm việc gì để lấy hình thức"
+            },
+            {
+              "full_en": "to be fond of show",
+              "full_vn": "chuộng hình thức"
+            },
+            {
+              "full_en": "his sympathy is mere show",
+              "full_vn": "vẻ thiện cảm của anh ta chỉ là giả đồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) cơ hội, dịp",
+          "list_en_vn": [
+            {
+              "full_en": "to have no show at all",
+              "full_vn": "không gặp dịp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) nước đầu ối"
+        },
+        {
+          "m_full_vn": "(từ lóng) việc, công việc kinh doanh, việc làm ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to run (boss ) the show",
+              "full_vn": "điều khiển mọi việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự), (từ lóng) trận đánh, chiến dịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give away the show x give good show !",
+              "list_im": [
+                {
+                  "im_full_vn": "khá lắm!, hay lắm!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ showed ; showed , shown",
+      "list_m": [
+        {
+          "m_full_vn": "cho xem, cho thấy, trưng bày, đưa cho xem; tỏ ra",
+          "list_en_vn": [
+            {
+              "full_en": "an aperture shows the inside",
+              "full_vn": "một khe hở cho ta thấy phía bên trong"
+            },
+            {
+              "full_en": "to show trained tress",
+              "full_vn": "trưng bày cây cảnh"
+            },
+            {
+              "full_en": "to show neither joy nor anger",
+              "full_vn": "không tỏ ra vui mà cũng không tỏ ra giận"
+            },
+            {
+              "full_en": "to favour to somebody",
+              "full_vn": "tỏ sự chiếu cố đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ ra, tỏ rõ",
+          "list_en_vn": [
+            {
+              "full_en": "to show intelligence",
+              "full_vn": "tỏ ra thông minh"
+            },
+            {
+              "full_en": "to show the authenticity of the tale",
+              "full_vn": "tỏ rõ câu chuyện là có thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ, bảo, dạy",
+          "list_en_vn": [
+            {
+              "full_en": "to show someone the way",
+              "full_vn": "chỉ đường cho ai"
+            },
+            {
+              "full_en": "to show someone how to read",
+              "full_vn": "dạy ai đọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn, dắt",
+          "list_en_vn": [
+            {
+              "full_en": "to show someone round the house",
+              "full_vn": "dẫn ai đi quanh nhà"
+            },
+            {
+              "full_en": "to show someone to his room",
+              "full_vn": "dẫn ai về phòng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện ra, xuất hiện, trông rõ, ra trước công chúng, (thông tục) ló mặt, lòi ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to show in",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào, dẫn vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show off",
+              "list_im": [
+                {
+                  "im_full_vn": "gây ấn tượng với người khác bằng cách khoe khoang, phô trương của cải, tài năng... của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show out",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra, dẫn ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show up",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ ra, lộ mặt nạ (ai)"
+                },
+                {
+                  "im_full_vn": "(thông tục) xuất hiện, ló mặt ra, xuất đầu lộ diện; có mặt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm cho xấu hổ; làm cho ngượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show a clean pair of heels",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show the cloven hoof",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hoof"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show one's colours",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ bản chất của mình; để lộ đảng phái của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show fight",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fight"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộ ý đồ của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show a leg",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) leg"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show the white feather",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) feather"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "buds are just showing",
+              "full_vn": "nụ hoa đang nhú ra"
+            },
+            {
+              "full_en": "he never shows [up ] at big meetings",
+              "full_vn": "hắn không bao giờ ló mặt ra ở các cuộc họp lớn"
+            },
+            {
+              "full_en": "your shirt's tails are showing",
+              "full_vn": "đuôi áo sơ mi anh lòi ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697484_8eedd095ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697484_a483d6435a_o.png",
+      "id_image": "show_1082656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387262_86926ff27a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387262_f395ea4b4b_o.png",
+      "id_image": "show_1624393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457058_1c9626fc5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457058_88f977cf63_o.png",
+      "id_image": "show_4647083"
+    }
+  ]
+}

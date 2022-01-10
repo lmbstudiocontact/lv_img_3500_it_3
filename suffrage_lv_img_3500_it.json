@@ -1,0 +1,39 @@
+{
+  "english": "suffrage",
+  "phat_am": "['sʌfridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bỏ phiếu; quyền đi bầu",
+          "list_en_vn": [
+            {
+              "full_en": "universal suffrage",
+              "full_vn": "sự đầu phiếu phổ thông (tức là quyền đi bầu của tất cả những người đến tuổi)"
+            },
+            {
+              "full_en": "women had to fight for their suffrage",
+              "full_vn": "phụ nữ đã phải đấu tranh giành quyền bầu cử của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kinh cầu thánh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338961_5a1c320b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338961_66efa2dc8a_o.png",
+      "id_image": "suffrage_1425432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453908_d37c85c288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453908_882597218f_o.png",
+      "id_image": "suffrage_5234470"
+    }
+  ]
+}

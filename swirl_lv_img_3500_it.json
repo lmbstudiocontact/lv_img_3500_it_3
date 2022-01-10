@@ -1,0 +1,56 @@
+{
+  "english": "swirl",
+  "phat_am": "[swə:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + off ) sự xoáy, sự cuộn"
+        },
+        {
+          "m_full_vn": "chỗ nước xoáy, chỗ nước cuộn"
+        },
+        {
+          "m_full_vn": "gió xoáy, gió lốc"
+        },
+        {
+          "m_full_vn": "hình xoáy, hình xoắn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn, xoáy; cuốn đi",
+          "list_en_vn": [
+            {
+              "full_en": "smoke swirled up the chimney",
+              "full_vn": "khói cuồn cuộn bốc lên từ ống khói"
+            },
+            {
+              "full_en": "the log was swirled away downstream by the current",
+              "full_vn": "khúc gỗ bị cuốn xuôi dòng nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cuộn, làm cho xoáy (nước, không khí..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331856_e9f4dc3fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331856_d0c4d9bd2f_o.png",
+      "id_image": "swirl_6006266"
+    }
+  ]
+}

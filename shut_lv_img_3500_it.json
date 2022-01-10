@@ -1,0 +1,166 @@
+{
+  "english": "shut",
+  "phat_am": "[∫ʌt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng, khép, đậy, nút",
+          "list_en_vn": [
+            {
+              "full_en": "to shut a door",
+              "full_vn": "đóng cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhắm lại, ngậm lại (nhất là mắt, miệng)",
+          "list_en_vn": [
+            {
+              "full_en": "to shut one's mouth",
+              "full_vn": "ngậm miệng lại, câm miệng"
+            },
+            {
+              "full_en": "to shut one's eyes",
+              "full_vn": "nhắm mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gập, gấp lại (cái gì đang mở)",
+          "list_en_vn": [
+            {
+              "full_en": "to shut a book",
+              "full_vn": "gập sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẹp, chẹt"
+        },
+        {
+          "m_full_vn": "đóng cửa, ngừng hoạt động kinh doanh (một công ty.., nhất là tạm thời)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shut down",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo (cửa) xuống; đóng cửa (nhà máy)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) chấm dứt, hết sức hạn chế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut in",
+              "list_im": [
+                {
+                  "im_full_vn": "giam, nhốt"
+                },
+                {
+                  "im_full_vn": "bao, bao bọc, che"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut off",
+              "list_im": [
+                {
+                  "im_full_vn": "khoá (máy nước); tắt, ngắt, cắt (điện)"
+                },
+                {
+                  "im_full_vn": "ngăn cách ra; tách ra khỏi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut out",
+              "list_im": [
+                {
+                  "im_full_vn": "không cho vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to shut somebody out",
+                      "full_vn": "không cho ai vào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "loại trừ (khả năng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut to",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng chặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut up",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng chặt, khoá chặt"
+                },
+                {
+                  "im_full_vn": "giam, nhốt"
+                },
+                {
+                  "im_full_vn": "cất, giấu (của)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut the door upon something",
+              "list_im": [
+                {
+                  "im_full_vn": "không xét đến việc gì; làm cho không thực hiện được việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut one's ears (one's eyes ) to something",
+              "list_im": [
+                {
+                  "im_full_vn": "bịt tai (nhắm mắt) làm ngơ cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "shut up !",
+              "list_im": [
+                {
+                  "im_full_vn": "câm mồm!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "shut somebody's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bịt miệng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078380_cb48178bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078380_9226af8d76_o.png",
+      "id_image": "shut_1933079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455843_1c51f4bddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455843_31806c5921_o.png",
+      "id_image": "shut_214235"
+    }
+  ]
+}

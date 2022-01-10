@@ -1,0 +1,135 @@
+{
+  "english": "tide",
+  "phat_am": "[taid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "triều, thuỷ triều; con nước, nước thủy triều",
+          "list_en_vn": [
+            {
+              "full_en": "swimmers should beware of strong tides",
+              "full_vn": "những người đi bơi phải cẩn thận đề phòng nước triều mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng nước, dòng chảy, dòng",
+          "list_en_vn": [
+            {
+              "full_en": "the tide of blood",
+              "full_vn": "dòng máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xu hướng, trào lưu, xu thế",
+          "list_en_vn": [
+            {
+              "full_en": "the tide of the battle",
+              "full_vn": "chiều hướng của cuộc chiến đấu"
+            },
+            {
+              "full_en": "the tide of the time",
+              "full_vn": "trào lưu của thời đại"
+            },
+            {
+              "full_en": "to swin with (down ) the tide",
+              "full_vn": "gió chiều nào theo chiều ấy, theo thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong từ ghép) mùa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take the tide at the flood",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng cơ hội"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "yule-tide",
+              "full_vn": "mùa Giáng Sinh"
+            },
+            {
+              "full_en": "Whitsun-tide",
+              "full_vn": "mùa sau Lễ Phục sinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuốn theo, lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to be tided back",
+              "full_vn": "bị lôi cuốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + over ) vượt, khắc phục",
+          "list_en_vn": [
+            {
+              "full_en": "to tide over difficulties",
+              "full_vn": "khắc phục khó khăn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi theo thuỷ triều",
+          "list_en_vn": [
+            {
+              "full_en": "to tide in",
+              "full_vn": "vào khi thuỷ triều lên"
+            },
+            {
+              "full_en": "to tide up",
+              "full_vn": "ngược lên khi thuỷ triều lên"
+            },
+            {
+              "full_en": "to tide down",
+              "full_vn": "xuôi theo thuỷ triều xuống"
+            },
+            {
+              "full_en": "to tide out",
+              "full_vn": "ra khỏi nhờ thuỷ triều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347996_c22a2e0586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347996_778bbf1eb8_o.png",
+      "id_image": "tide_1207570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702684_28b730abf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702684_d5d9ae112e_o.png",
+      "id_image": "tide_2628772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462773_e38c4bf4b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462773_0a108bcec4_o.png",
+      "id_image": "tide_5903488"
+    }
+  ]
+}

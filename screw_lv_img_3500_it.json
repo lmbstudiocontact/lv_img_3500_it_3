@@ -1,0 +1,184 @@
+{
+  "english": "screw",
+  "phat_am": "[skru:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngựa ốm, ngựa hom hem kiệt sức"
+        },
+        {
+          "m_full_vn": "đinh vít, đinh ốc"
+        },
+        {
+          "m_full_vn": "chân vịt (của tàu thuỷ, thuyền máy), cánh quạt (của máy bay) (như) screw propeller ; tàu có chân vịt (như) screw steamer"
+        },
+        {
+          "m_full_vn": "sự xoay, sự quay"
+        },
+        {
+          "m_full_vn": "sự siết con vít",
+          "list_en_vn": [
+            {
+              "full_en": "give it another screw",
+              "full_vn": "siết thêm một ít nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bủn xỉn, người keo cú; người bòn rút"
+        },
+        {
+          "m_full_vn": "lương, tiền công",
+          "list_en_vn": [
+            {
+              "full_en": "be on a good screw",
+              "full_vn": "được hưởng lương hậu"
+            },
+            {
+              "full_en": "be paid a good screw",
+              "full_vn": "được trả lương hậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gói nhỏ (thuốc lá, chè...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cai ngục, người coi ngục"
+        },
+        {
+          "m_full_vn": "sự giao cấu; người bạn cùng giao cấu",
+          "list_one_mean": [
+            {
+              "id_full_en": "have a screw loose",
+              "list_im": [
+                {
+                  "im_full_vn": "hơi gàn; lập dị",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there is a screw loose",
+                      "full_vn": "có cái gì không ổn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "put the screw (s) on (somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "gây sức ép"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "have a screw with somebody",
+              "full_vn": "giao cấu với ai"
+            },
+            {
+              "full_en": "be a good screw",
+              "full_vn": "là người bạn tình hợp ý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt vít; gắn chặt, xiếc chặt vào bằng vít; vít chặt cửa",
+          "list_en_vn": [
+            {
+              "full_en": "to screw someone up",
+              "full_vn": "vít chặt cửa không cho ai ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vặn chặt; được gắn vào bằng cách xoáy"
+        },
+        {
+          "m_full_vn": "lừa đảo ai"
+        },
+        {
+          "m_full_vn": "siết vít, vặn vít, ky cóp"
+        },
+        {
+          "m_full_vn": "( + out of ) bòn rút, bóp nặn (tiền); ép cho được (sự đồng ý)",
+          "list_en_vn": [
+            {
+              "full_en": "to screw the truth out of someone",
+              "full_vn": "bắt ép ai phải nói sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cau (mặt), nheo (mắt), mím (môi)",
+          "list_en_vn": [
+            {
+              "full_en": "to screw up one's eyes",
+              "full_vn": "nheo mắt"
+            },
+            {
+              "full_en": "to screw up one's lips",
+              "full_vn": "mím môi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) lên dây cót"
+        },
+        {
+          "m_full_vn": "( + something out of ) bóp nặn; buộc ai phải đưa ra cái gì"
+        },
+        {
+          "m_full_vn": "xoáy (vít)",
+          "list_one_mean": [
+            {
+              "id_full_en": "crew up one's courage",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy hết can đảm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to screw to the right",
+              "full_vn": "xoáy sang bên phải"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giao cấu với nhau (về hai người)"
+        },
+        {
+          "m_full_vn": "( + up ) xử lý một tình thế rất kém"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441983_28b13de53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441983_b768e9f273_o.png",
+      "id_image": "screw_1678192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326916_e19bab9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326916_1a42ba0ea1_o.png",
+      "id_image": "screw_3275806"
+    }
+  ]
+}

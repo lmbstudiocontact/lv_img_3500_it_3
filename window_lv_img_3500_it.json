@@ -1,0 +1,102 @@
+{
+  "english": "window",
+  "phat_am": "['windou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cửa sổ",
+          "list_en_vn": [
+            {
+              "full_en": "French window",
+              "full_vn": "cửa sổ sát mặt đất"
+            },
+            {
+              "full_en": "blank (blind , false ) window",
+              "full_vn": "cửa sổ giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một khoang hở giống như cửa sổ (về hình dạng và chức năng)",
+          "list_en_vn": [
+            {
+              "full_en": "the window of an envelope",
+              "full_vn": "cửa sổ (chỗ trổ) của chiếc phong bì (chỗ trong suốt để có thể đọc được địa chỉ ở bên trong)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tấm kính gắn vào khung cửa sổ",
+          "list_en_vn": [
+            {
+              "full_en": "the ball smashed a window",
+              "full_vn": "quả bóng đập vỡ tấm kính cửa sổ"
+            },
+            {
+              "full_en": "to lower (open ) the window",
+              "full_vn": "hạ kính xuống"
+            },
+            {
+              "full_en": "to raise (close ) the window",
+              "full_vn": "nâng kính lên"
+            },
+            {
+              "full_en": "rear window",
+              "full_vn": "kính hậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ô kính bày hàng",
+          "list_en_vn": [
+            {
+              "full_en": "in the window",
+              "full_vn": "bày ở tủ kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa sổ, hình biểu hiện (trong máy tính)"
+        },
+        {
+          "m_full_vn": "(quân sự), (hàng không) vật thả xuống để nhiễu xạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have all one's goods in the window",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra hời hợt nông cạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly /go out of the window",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không được xem xét đến nữa; biến mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a window on the world",
+              "list_im": [
+                {
+                  "im_full_vn": "cửa sổ nhìn ra thế giới (cách quan sát và học tập người khác; đặc biệt người ở các nước khác)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373832_f936178993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373832_c60da1a048_o.png",
+      "id_image": "window_313110"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "summary",
+  "phat_am": "['sʌməri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được làm hoặc cho ngay tức khắc; giản lược (không chú ý đến chi tiết; được miễn những thủ tục không cần thiết, được bớt những chi tiết không cần thiết...)",
+          "list_en_vn": [
+            {
+              "full_en": "summary punishment",
+              "full_vn": "sự trừng phạt tức khắc"
+            },
+            {
+              "full_en": "summary justice",
+              "full_vn": "công lý chiếu lệ"
+            },
+            {
+              "full_en": "summary methods",
+              "full_vn": "các phương pháp giản lược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tóm tắt; sơ lược",
+          "list_en_vn": [
+            {
+              "full_en": "a summary account",
+              "full_vn": "một bài báo cáo sơ lược"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản tóm tắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "in summary",
+              "list_im": [
+                {
+                  "im_full_vn": "nói tóm lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "And so I would say , in summary , that the campaign has been a great success",
+                      "full_vn": "Và như vậy, tóm lại, tôi có thể nói là cuộc vận động đã thắng lợi lớn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "here is a summary of the news /a news summary",
+              "full_vn": "đây là một bản tóm tắt tin tức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453048_15ca33fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453048_c0265813c8_o.png",
+      "id_image": "summary_4833961"
+    }
+  ]
+}

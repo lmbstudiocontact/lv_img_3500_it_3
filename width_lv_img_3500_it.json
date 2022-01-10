@@ -1,0 +1,72 @@
+{
+  "english": "width",
+  "phat_am": "[widθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chất rộng",
+          "list_en_vn": [
+            {
+              "full_en": "a road of great width",
+              "full_vn": "con đường rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề rộng, bề ngang",
+          "list_en_vn": [
+            {
+              "full_en": "10 metres in width",
+              "full_vn": "rộng 10 mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khổ (vải)",
+          "list_en_vn": [
+            {
+              "full_en": "double width",
+              "full_vn": "khổ dôi"
+            },
+            {
+              "full_en": "to join two widths of cloth",
+              "full_vn": "nối hai khổ vải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tính chất rộng rãi",
+          "list_en_vn": [
+            {
+              "full_en": "width of mind",
+              "full_vn": "óc rộng rãi"
+            },
+            {
+              "full_en": "width of views",
+              "full_vn": "quan điểm rộng rãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374197_e07607fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374197_af0b11be85_o.png",
+      "id_image": "width_3094422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684494_450a8aafe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684494_e0a20ec53c_o.png",
+      "id_image": "width_3393354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444483_ee535ab3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444483_6d60d1562c_o.png",
+      "id_image": "width_5558581"
+    }
+  ]
+}

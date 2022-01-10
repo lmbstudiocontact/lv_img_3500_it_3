@@ -1,0 +1,61 @@
+{
+  "english": "trumpet",
+  "phat_am": "['trʌmpit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) kèn trôm-pét"
+        },
+        {
+          "m_full_vn": "tiếng kèn trôm-pét"
+        },
+        {
+          "m_full_vn": "người thổi trôm-pét (ở ban nhạc)"
+        },
+        {
+          "m_full_vn": "vật có hình tựa kèn trôm-pét (hoa súng đã nở..)"
+        },
+        {
+          "m_full_vn": "tiếng kêu như tiếng kèn trôm-pét (tiếng voi rống..)"
+        },
+        {
+          "m_full_vn": "ống nghe (của người nghễnh ngãng) (như) ear-trumpet"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thổi kèn để loan báo (việc gì); công bố, loan báo",
+          "list_en_vn": [
+            {
+              "full_en": "he's always trumpeting his own opinions",
+              "full_vn": "anh ta luôn luôn bô bô những ý kiến riêng của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thổi kèn trôm-pét"
+        },
+        {
+          "m_full_vn": "rống lên (voi...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446378_ac9bebd603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446378_d0ffd38427_o.png",
+      "id_image": "trumpet_820175"
+    }
+  ]
+}

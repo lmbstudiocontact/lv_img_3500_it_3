@@ -1,0 +1,222 @@
+{
+  "english": "vote",
+  "phat_am": "[vout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( vote for / against somebody / something ) ( vote on something ) sự bỏ phiếu, sự bầu cử; lá phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the vote",
+              "full_vn": "đi bỏ phiếu"
+            },
+            {
+              "full_en": "to cast /record one's vote",
+              "full_vn": "bỏ/ghi lá phiếu của mình"
+            },
+            {
+              "full_en": "to take /hold a vote on the motion",
+              "full_vn": "tổ chức một cuộc bỏ phiếu về kiến nghị đó"
+            },
+            {
+              "full_en": "to settle /decide /resolve the matter by a vote",
+              "full_vn": "dàn xếp/quyết định/giải quyết vấn đề bằng cách bỏ phiếu"
+            },
+            {
+              "full_en": "a majority /minority vote",
+              "full_vn": "số phiếu chiếm đa số/thiểu số"
+            },
+            {
+              "full_en": "counting /sorting /checking the votes",
+              "full_vn": "đếm/phân loại/kiểm tra các lá phiếu"
+            },
+            {
+              "full_en": "postal votes",
+              "full_vn": "các lá phiếu bầu qua đường bưu điện"
+            },
+            {
+              "full_en": "the Tory candidate received /polled 8000 votes",
+              "full_vn": "ứng cử viên Đảng bảo thủ chiếm được 8000 phiếu"
+            },
+            {
+              "full_en": "the measure was passed /defeated by 9 votes to 6",
+              "full_vn": "biện pháp đã được thông qua/bị bác bỏ với 9 phiếu so với 6"
+            },
+            {
+              "full_en": "the vote went against him /against accepting the plan",
+              "full_vn": "cuộc bỏ phiếu đã chống lại ông ấy/không chấp nhận kế hoạch đó"
+            },
+            {
+              "full_en": "a vote of confidence /censure",
+              "full_vn": "sự bỏ phiếu tín nhiệm/không tín nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the vote ) (các phiếu do một nhóm nào đó bỏ hoặc bỏ cho một nhóm nào đó) số phiếu bầu",
+          "list_en_vn": [
+            {
+              "full_en": "attempts to win the teenage /immigrant vote",
+              "full_vn": "các cố gắng chiếm lấy số phiếu của thanh niên/người nhập cư"
+            },
+            {
+              "full_en": "to increase /decrease the Tory vote by 5%",
+              "full_vn": "số phiếu bầu cho Đảng Bảo thủ tăng lên/giảm xuống 5 %"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the vote ) quyền bầu cử; quyền bỏ phiếu (nhất là trong các cuộc bầu cử (chính trị))",
+          "list_en_vn": [
+            {
+              "full_en": "UK nationals get the vote at 18",
+              "full_vn": "các kiều dân Anh có quyền đi bầu cử ở tuổi 18"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngân sách (do quốc hội quyết định)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put something to the vote",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra biểu quyết (một vấn đề..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a vote of thanks",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cổ vũ (nhất là bằng cách vỗ tay hoan hô)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the army vote",
+              "full_vn": "ngân sách cho quân đội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bầu, bỏ phiếu, biểu quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to vote an appropriation",
+              "full_vn": "bỏ phiếu thông qua một khoản chi"
+            },
+            {
+              "full_en": "to vote by ballot /proxy /post",
+              "full_vn": "bỏ phiếu kín/do sự ủy nhiệm/qua bưu điện"
+            },
+            {
+              "full_en": "to vote against /for the motion",
+              "full_vn": "bỏ phiếu chống/tán thành một kiến nghị"
+            },
+            {
+              "full_en": "if we cannot agree , let's vote on it",
+              "full_vn": "nếu chúng ta không nhất trí, hãy biểu quyết vấn đề đó"
+            },
+            {
+              "full_en": "we voted to continue the strike",
+              "full_vn": "chúng tôi đã biểu quyết tiếp tục cuộc đình công"
+            },
+            {
+              "full_en": "I voted \"No \" in the referendum",
+              "full_vn": "tôi đã bỏ phiếu \" Không tán thành\" trong cuộc trưng cầu dân ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầu, chọn (ai) vào một chức vụ bằng một đa số phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "I was voted chairman",
+              "full_vn": "tôi đã được bầu làm chủ tịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu quyết trợ cấp (cấp cho một số tiền.. bằng cách bỏ phiếu)",
+          "list_en_vn": [
+            {
+              "full_en": "the hospital was voted 100.000pound for research",
+              "full_vn": "bệnh viện đã được bỏ phiếu tán thành trợ cấp 100. 000 pao cho nghiên cứu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đồng thanh tuyên bố (tuyên bố cái gì là tốt, xấu.. do sự thoả thuận chung)",
+          "list_en_vn": [
+            {
+              "full_en": "the show was voted a success",
+              "full_vn": "buổi biểu diễn được đồng thanh tuyên bố là thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) gợi ý, đề nghị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to vote somebody in /out /on /off ; to vote somebody into /out of /onto /off something",
+              "list_im": [
+                {
+                  "im_full_vn": "bầu cho ai; bỏ phiếu chống ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to vote somebody /something down",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ phiếu chống ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to vote something through",
+              "list_im": [
+                {
+                  "im_full_vn": "thông qua, tán thành"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I vote we stay here",
+              "full_vn": "tôi đề nghị chúng ta ở lại đây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077575_bfdfdaa7f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077575_c8c394b667_o.png",
+      "id_image": "vote_1666098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695589_71fa0c0aca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695589_8389f5847b_o.png",
+      "id_image": "vote_1666102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077505_0432f7e376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077505_d81d5eb770_o.png",
+      "id_image": "vote_2529798"
+    }
+  ]
+}

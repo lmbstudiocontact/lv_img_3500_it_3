@@ -1,0 +1,49 @@
+{
+  "english": "stopper",
+  "phat_am": "['stɔpə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người làm ngừng, người chặn lại; vật làm ngừng, vật chặn lại",
+          "list_en_vn": [
+            {
+              "full_en": "to put a stopper on something",
+              "full_vn": "đình chỉ một việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nút, nút chai"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây buộc; móc sắt (để buộc, móc dây cáp)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nút lại, đóng lại bằng nút"
+        },
+        {
+          "m_full_vn": "(hàng hải) buộc chặt bằng dây buộc; móc vào móc sắt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700324_5f1aecfd15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700324_df8714b08d_o.png",
+      "id_image": "stopper_2867443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700289_63e8b5475f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700289_5e6648c663_o.png",
+      "id_image": "stopper_3295358"
+    }
+  ]
+}

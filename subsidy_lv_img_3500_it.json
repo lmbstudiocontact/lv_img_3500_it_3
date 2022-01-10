@@ -1,0 +1,31 @@
+{
+  "english": "subsidy",
+  "phat_am": "['sʌbsidi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền do chính phủ chi ra để hỗ trợ một ngành công nghiệp, ủng hộ nghệ thuật, giữ cho giá cả không tăng lên; tiền trợ cấp",
+          "list_en_vn": [
+            {
+              "full_en": "food subsidies",
+              "full_vn": "tiền trợ cấp lương thức (để trợ giá cho nông dân, nghĩa là bình ổn giá cả nông sản)"
+            },
+            {
+              "full_en": "to increase /reduce the level of subsidy",
+              "full_vn": "tăng/giảm mức trợ cấp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695064_d10567f2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695064_f4c95d2fcf_o.png",
+      "id_image": "subsidy_5605905"
+    }
+  ]
+}

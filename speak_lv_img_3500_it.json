@@ -1,0 +1,220 @@
+{
+  "english": "speak",
+  "phat_am": "[spi:k]",
+  "list_type": [
+    {
+      "type": "nội động từ spoke , (từ cổ,nghĩa cổ) spake ; spoken",
+      "list_m": [
+        {
+          "m_full_vn": "nói, phát ra lời nói",
+          "list_en_vn": [
+            {
+              "full_en": "to learn to speak",
+              "full_vn": "tập nói"
+            },
+            {
+              "full_en": "he can't speak",
+              "full_vn": "anh ta không nói được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói với, nói lên; nói chuyện; diễn đạt bằng lời nói",
+          "list_en_vn": [
+            {
+              "full_en": "I will speak to him about it",
+              "full_vn": "tôi sẽ nói chuyện với anh ta về vấn đề đó"
+            },
+            {
+              "full_en": "actions speak louder than words",
+              "full_vn": "việc làm nói lên nhiều hơn lời nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát biểu, diễn thuyết, đọc diễn văn (ở hội nghị)"
+        },
+        {
+          "m_full_vn": "sủa (chó)"
+        },
+        {
+          "m_full_vn": "nổ (súng)"
+        },
+        {
+          "m_full_vn": "kêu (nhạc khí)"
+        },
+        {
+          "m_full_vn": "giống như thật, trông giống như thật",
+          "list_en_vn": [
+            {
+              "full_en": "this portrait speaks",
+              "full_vn": "bức ảnh giống như thật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói được, biết được (một thứ tiếng)",
+          "list_en_vn": [
+            {
+              "full_en": "he can speak English",
+              "full_vn": "nó nói được tiếng Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói",
+          "list_en_vn": [
+            {
+              "full_en": "to speak the truth",
+              "full_vn": "nói sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói rõ, chứng tỏ",
+          "list_en_vn": [
+            {
+              "full_en": "this speaks him generous",
+              "full_vn": "điều đó chứng tỏ anh ta rộng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) gọi, nói chuyện với (tàu thuỷ... bằng (rađiô))",
+          "list_one_mean": [
+            {
+              "id_full_en": "to speak at",
+              "list_im": [
+                {
+                  "im_full_vn": "ám chỉ (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak for",
+              "list_im": [
+                {
+                  "im_full_vn": "biện hộ cho (ai)"
+                },
+                {
+                  "im_full_vn": "là người phát ngôn (của ai)"
+                },
+                {
+                  "im_full_vn": "nói rõ, chứng minh cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that speaks much for your courage",
+                      "full_vn": "điều đó nói rõ lòng can đảm của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak of",
+              "list_im": [
+                {
+                  "im_full_vn": "nói về, đề cập đến; viết đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nothing to speak of",
+                      "full_vn": "chẳng có gì đáng nói"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak out",
+              "list_im": [
+                {
+                  "im_full_vn": "nói to, nói lớn"
+                },
+                {
+                  "im_full_vn": "nói thẳng, nói toạc ý kiến của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to speak out one's mind",
+                      "full_vn": "nghĩ sao nói vậy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak to",
+              "list_im": [
+                {
+                  "im_full_vn": "nói về (điều gì) (với ai)"
+                },
+                {
+                  "im_full_vn": "khẳng định (điều gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can speak to his having been there",
+                      "full_vn": "tôi có thể khẳng định là anh ta có đến đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak up",
+              "list_im": [
+                {
+                  "im_full_vn": "nói to hơn"
+                },
+                {
+                  "im_full_vn": "nói thẳng, nói toạc ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to speak without book",
+              "list_im": [
+                {
+                  "im_full_vn": "nói không cần sách, nhớ mà nói ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "(trong từ ghép) (thông tục) ngôn ngữ, biệt ngữ (nhất là của một nhóm hay một tổ chức nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "computerspeak",
+              "full_vn": "ngôn ngữ máy tính"
+            },
+            {
+              "full_en": "newspeak",
+              "full_vn": "ngôn ngữ tuyên truyền (mập mờ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324756_b905303e16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324756_573034fe00_o.png",
+      "id_image": "speak_1442369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679954_fc7c7e184a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679954_d173d78ca6_o.png",
+      "id_image": "speak_4462909"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "shrink",
+  "phat_am": "[∫riηk]",
+  "list_type": [
+    {
+      "type": "nội động từ shrank (hoặc) shrunk , shrunk",
+      "list_m": [
+        {
+          "m_full_vn": "co lại, rút lại, ngắn lại; co vào, rút vào",
+          "list_en_vn": [
+            {
+              "full_en": "this cloth shrinks in the wash",
+              "full_vn": "vải này giặt sẽ co"
+            },
+            {
+              "full_en": "to shrink into oneself",
+              "full_vn": "co vào cái vỏ ốc của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lùi lại, lùi bước, chùn lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "a shrinking violet",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) con người nhút nhát, người hay xấu hổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "shrink from something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "lưỡng lự làm cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shrink from difficulties",
+              "full_vn": "lùi bước trước khó khăn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm co (vải...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự co lại"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (đùa cợt) bác sĩ tâm thần"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386357_d1c909e71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386357_7057b6fa92_o.png",
+      "id_image": "shrink_2142442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386302_7cde0e2e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386302_30f27e36c4_o.png",
+      "id_image": "shrink_3043349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386287_3ed84a9572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386287_3c4da04a7a_o.png",
+      "id_image": "shrink_4116740"
+    }
+  ]
+}

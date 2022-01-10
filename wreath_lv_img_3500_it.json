@@ -1,0 +1,41 @@
+{
+  "english": "wreath",
+  "phat_am": "[ri:θ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều wreaths",
+      "list_m": [
+        {
+          "m_full_vn": "vòng hoa; vòng hoa tang"
+        },
+        {
+          "m_full_vn": "vành hoa, vành lá, tràng hoa (đội trên đầu hoặc khoác ở cổ ai (như) một biểu hiện của vinh dự)",
+          "list_en_vn": [
+            {
+              "full_en": "a laurel wreath",
+              "full_vn": "một vòng nguyệt quế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luồng (khói) cuồn cuộn; đám (mây) cuồn cuộn"
+        },
+        {
+          "m_full_vn": "(thơ ca) vòng người xem, vòng người nhảy múa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377717_dc55a4c8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377717_0872eccef1_o.png",
+      "id_image": "wreath_6247672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069645_57d160f812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069645_d070fd390e_o.png",
+      "id_image": "wreath_6280076"
+    }
+  ]
+}

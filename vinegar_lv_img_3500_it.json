@@ -1,0 +1,44 @@
+{
+  "english": "vinegar",
+  "phat_am": "['vinigə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tính chanh chua, tính đanh đá, tính khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "a vinegar tongue",
+              "full_vn": "miệng lưỡi chua như giấm"
+            },
+            {
+              "full_en": "a vinegar face",
+              "full_vn": "bộ mặt câng câng khó chịu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698814_c2abd31ec8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698814_149de92783_o.png",
+      "id_image": "vinegar_129206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388517_2aecb73436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388517_2436c620af_o.png",
+      "id_image": "vinegar_184494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458258_e0aba577f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458258_1bbc0290de_o.png",
+      "id_image": "vinegar_2166168"
+    }
+  ]
+}

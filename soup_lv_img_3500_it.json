@@ -1,0 +1,76 @@
+{
+  "english": "soup",
+  "phat_am": "[su:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xúp; canh; cháo",
+          "list_en_vn": [
+            {
+              "full_en": "meat soup",
+              "full_vn": "cháo thịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) Nitroglyxerin"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) trời mây mù dày đặc và có mưa (máy bay không bay được...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) khả năng chạy nhanh",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the soup",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đang trong tình trạng rắc rối, đang gặp khó khăn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this new car has plenty of soup",
+              "full_vn": "chiếc xe ô tô mới này chạy nhanh lắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) (thông tục) tăng công suất của (xe ô tô...) bằng cách cải tiến động cơ",
+          "list_en_vn": [
+            {
+              "full_en": "a souped-up old mini",
+              "full_vn": "một chiếc xe con cũ kỹ được cải tiến để chạy nhanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440493_721f1ec89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440493_ff3a8743a5_o.png",
+      "id_image": "soup_129358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680519_749725a4d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680519_153cf62012_o.png",
+      "id_image": "soup_184447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370287_fa9ed07b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370287_dd6d980e46_o.png",
+      "id_image": "soup_570729"
+    }
+  ]
+}

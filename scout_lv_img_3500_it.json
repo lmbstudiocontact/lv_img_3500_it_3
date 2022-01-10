@@ -1,0 +1,78 @@
+{
+  "english": "scout",
+  "phat_am": "[skaut]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) người trinh sát, người do thám; sự đi trinh sát, sự do thám",
+          "list_en_vn": [
+            {
+              "full_en": "to be on the scout",
+              "full_vn": "đi trinh sát, đi do thám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tàu trinh sát, tàu do thám"
+        },
+        {
+          "m_full_vn": "máy bay nhỏ và nhanh"
+        },
+        {
+          "m_full_vn": "(động vật học) chim anca; chim rụt cổ"
+        },
+        {
+          "m_full_vn": "hướng đạo sinh (như) boy scout"
+        },
+        {
+          "m_full_vn": "người chiêu mộ (mời những nghệ sĩ, cầu thủ.. tài năng về làm việc)",
+          "list_en_vn": [
+            {
+              "full_en": "a talent scout",
+              "full_vn": "một người đi chiêu mộ kẻ có tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (từ lóng) gã, anh chàng"
+        },
+        {
+          "m_full_vn": "người phục vụ ở một trường cao đẳng ở Oxford"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo dõi, theo sát, do thám"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lùng tìm, tìm kiếm"
+        },
+        {
+          "m_full_vn": "bác bỏ một cách khinh miệt, nhạo báng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683439_f142f7f0a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683439_a63eeb6a20_o.png",
+      "id_image": "scout_2333339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443308_e616721958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443308_40f4f28e66_o.png",
+      "id_image": "scout_4002825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065060_3a53b66a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065060_d30f14b0ef_o.png",
+      "id_image": "scout_4615341"
+    }
+  ]
+}

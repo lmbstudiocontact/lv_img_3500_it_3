@@ -1,0 +1,32 @@
+{
+  "english": "timer",
+  "phat_am": "['taimə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) trong từ ghép) người bấm giờ; thiết bị bấm giờ",
+          "list_en_vn": [
+            {
+              "full_en": "an egg-timer",
+              "full_vn": "một máy bấm giờ luộc trứng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084760_0fcd74822f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084760_464bd594e6_o.png",
+      "id_image": "timer_165056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462163_2895da0c1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462163_b95971e196_o.png",
+      "id_image": "timer_601661"
+    }
+  ]
+}

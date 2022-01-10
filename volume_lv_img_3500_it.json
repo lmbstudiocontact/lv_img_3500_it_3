@@ -1,0 +1,77 @@
+{
+  "english": "volume",
+  "phat_am": "['vɔlju:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) vol quyển, tập, cuốn sách (nhất là thuộc một bộ hay một loạt gắn với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "a work in three volumes",
+              "full_vn": "một tác phẩm gồm ba tập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) vol dung tích; thể tích"
+        },
+        {
+          "m_full_vn": "khối, khối lượng; số rất nhiều, số lượng lớn cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the sheer volume of business",
+              "full_vn": "khối lượng lớn công việc kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) âm lượng (sức mạnh hay năng lượng của âm thanh); cái nút (trên (rađiô)..) để điều chỉnh âm lượng",
+          "list_en_vn": [
+            {
+              "full_en": "the TV was on at full volume",
+              "full_vn": "máy thu hình đã được mở với âm lượng lớn nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) làn, đám, cuộn, khối tròn (của khói, mây...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to speak (tell , express ) volumes for",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lên một cách hùng hồn, chứng minh một cách hùng hồn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "volumes of smoke",
+              "full_vn": "cuộn khói"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455648_a4f746b03a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455648_70cbfa361d_o.png",
+      "id_image": "volume_227193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385677_16eb7ae227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385677_8f07bb3f92_o.png",
+      "id_image": "volume_227194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340716_eeb3403a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340716_5434b61cdb_o.png",
+      "id_image": "volume_227196"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "wool",
+  "phat_am": "[wul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "len (lớp lông mịn bên ngoài của cừu, dê và vài loài khác (như) lạc đà không bướu lama và alcapa)"
+        },
+        {
+          "m_full_vn": "sợi len, hàng len",
+          "list_en_vn": [
+            {
+              "full_en": "ball of wool",
+              "full_vn": "cuộn len"
+            },
+            {
+              "full_en": "the wool trade",
+              "full_vn": "nghề buôn bán len, mậu dịch len"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng giống len"
+        },
+        {
+          "m_full_vn": "(thông tục) tóc dày và quăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lose one's wool",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nổi giận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull the wool over a person's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "lừa ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379332_3b2f957275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379332_c5325503f8_o.png",
+      "id_image": "wool_1589241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379437_7b6d0609e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379437_dcc914f7c8_o.png",
+      "id_image": "wool_387868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449493_79f03e7fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449493_f3f5f3ae45_o.png",
+      "id_image": "wool_588416"
+    }
+  ]
+}

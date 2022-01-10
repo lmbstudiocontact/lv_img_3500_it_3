@@ -1,0 +1,37 @@
+{
+  "english": "surgeon",
+  "phat_am": "['sə:dʒən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bác sĩ thực hiện những cuộc phẫu thuật; bác sĩ phẫu thuật; nhà phẫu thuật,",
+          "list_en_vn": [
+            {
+              "full_en": "a heart surgeon",
+              "full_vn": "bác sĩ phẫu thuật tim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450688_41c4d21713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450688_4d6e27f6cd_o.png",
+      "id_image": "surgeon_3974913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072730_09a8ce7283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072730_61d3599ca8_o.png",
+      "id_image": "surgeon_736842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072700_e9b9067da2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072700_8786a56171_o.png",
+      "id_image": "surgeon_771393"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "solomon",
+  "phat_am": "['sɔləmən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người khôn ngoan",
+          "list_en_vn": [
+            {
+              "full_en": "he is no solomon",
+              "full_vn": "anh ta không phải là người khôn đâu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441103_17e6670f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441103_35e21dcf49_o.png",
+      "id_image": "solomon_2917556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681219_b5c1bbe1b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681219_10453feb18_o.png",
+      "id_image": "solomon_3497562"
+    }
+  ]
+}

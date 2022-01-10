@@ -1,0 +1,86 @@
+{
+  "english": "skeleton",
+  "phat_am": "['skelitn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ xương",
+          "list_en_vn": [
+            {
+              "full_en": "the child was reduced to a skeleton",
+              "full_vn": "đứa bé chỉ còn là một bộ xương; đứa bé trông quá gầy"
+            },
+            {
+              "full_en": "ape skeletons in the museum",
+              "full_vn": "những bộ xương vượn người trong bảo tàng viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khung; sườn",
+          "list_en_vn": [
+            {
+              "full_en": "the block is still just a skeleton of girders",
+              "full_vn": "toà nhà chỉ mới là một bộ khung cột thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ khung; nòng cốt (số lượng người, xe cộ... ít nhất cần cho một hoạt động)",
+          "list_en_vn": [
+            {
+              "full_en": "a skeleton crew",
+              "full_vn": "bộ khung của đội thủy thủ"
+            },
+            {
+              "full_en": "a skeleton staff",
+              "full_vn": "bộ khung của một cơ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những nét đại cương có thể thêm chi tiết vào; dàn bài; sườn",
+          "list_one_mean": [
+            {
+              "id_full_en": "skeleton at the feast",
+              "list_im": [
+                {
+                  "im_full_vn": "điều làm cho cụt hứng; điều làm mất vui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a skeleton in the cupboard",
+              "list_im": [
+                {
+                  "im_full_vn": "việc xấu xa phải giấu giếm; việc ô nhục phải che đậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "bribery of officials and other skeletons in the government's cupboard",
+                      "full_vn": "nạn ăn hối lộ của các quan chức và những vụ bê bối khác của chính phủ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "her notes give us just the bare skeleton of her theory",
+              "full_vn": "những ghi chú của bà ấy cho chúng ta thấy cái dàn bài trơ trụi về lý thuyết của bà ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381047_1190e14d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381047_b8462187ca_o.png",
+      "id_image": "skeleton_421619"
+    }
+  ]
+}

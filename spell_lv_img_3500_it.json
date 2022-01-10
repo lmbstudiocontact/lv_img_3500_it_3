@@ -1,0 +1,171 @@
+{
+  "english": "spell",
+  "phat_am": "[spel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu thần chú; bùa mê",
+          "list_en_vn": [
+            {
+              "full_en": "under a spell",
+              "full_vn": "bị bùa mê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thu hút, sự làm say mê, sự quyến rũ; sức quyến rũ; ảnh hưởng mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to cast a spell on",
+              "full_vn": "làm say mê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng, điều kiện do niệm thần chú gây ra (đặc biệt chỉ dùng trong những thành ngữ sau)",
+          "list_one_mean": [
+            {
+              "id_full_en": "be under a spell",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bùa mê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cast /put a spell on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "phù chú cho ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ spelled , spelt",
+      "list_m": [
+        {
+          "m_full_vn": "viết vần, đánh vần; viết theo chính tả",
+          "list_en_vn": [
+            {
+              "full_en": "to spell in full",
+              "full_vn": "viết nguyên chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có nghĩa; báo hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spell backward",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh vần ngược (một từ)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) hiểu nhầm, hiểu sai; thuyết minh sai"
+                },
+                {
+                  "im_full_vn": "xuyên tạc ý nghĩa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spell out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) giải thích rõ ràng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to spell ruin to",
+              "full_vn": "báo hiệu sự suy tàn của"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một đợt",
+          "list_en_vn": [
+            {
+              "full_en": "a cold spell",
+              "full_vn": "một đợt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỳ, lượt, phiên",
+          "list_en_vn": [
+            {
+              "full_en": "to work by spells",
+              "full_vn": "thay phiên nhau làm việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "to rest for a spell",
+              "full_vn": "nghỉ một thời gian ngắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) cơn ngắn (bệnh)"
+        },
+        {
+          "m_full_vn": "( Uc) thời gian nghỉ ngắn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) thay phiên (cho ai)"
+        },
+        {
+          "m_full_vn": "( Uc) cho nghỉ (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Uc) nghỉ một lát"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679454_ea42376cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679454_94fdc1e90e_o.png",
+      "id_image": "spell_1617776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679434_74a24ffa5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679434_5be927ec38_o.png",
+      "id_image": "spell_4209632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679424_795ab9467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679424_23c4b1c1ea_o.png",
+      "id_image": "spell_5345565"
+    }
+  ]
+}

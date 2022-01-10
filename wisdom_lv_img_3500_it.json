@@ -1,0 +1,50 @@
+{
+  "english": "wisdom",
+  "phat_am": "['wizdəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự từng trải, sự, sự hiểu biết, sự thông thái; tính chất tài giỏi, tính chất khôn ngoan",
+          "list_en_vn": [
+            {
+              "full_en": "she had acquired much wisdom during her long life",
+              "full_vn": "bà ta đã tích lũy được nhiều hiểu biết trong cả cuộc đời lâu dài của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự suy xét đúng, sự sáng suốt, lẽ phải thông thường",
+          "list_en_vn": [
+            {
+              "full_en": "events were to prove the wisdom of their decision",
+              "full_vn": "các biến cố hẳn đã minh chứng cho sự quyết định sáng suốt của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự uyên thâm; những châm ngôn (tục ngữ).. sáng suốt",
+          "list_en_vn": [
+            {
+              "full_en": "the wisdom of tha ancients",
+              "full_vn": "sự uyên thâm của người xưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335961_9f16cf4a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335961_9441730f87_o.png",
+      "id_image": "wisdom_2466719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691194_128245615a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691194_05a79b3d08_o.png",
+      "id_image": "wisdom_2466780"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "english": "taste",
+  "phat_am": "[teist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vị",
+          "list_en_vn": [
+            {
+              "full_en": "sweet taste",
+              "full_vn": "vị ngọt"
+            },
+            {
+              "full_en": "to have no taste",
+              "full_vn": "không có vị, nhạt (rượu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị giác (giác quan để nhận biết vị)"
+        },
+        {
+          "m_full_vn": "sự nếm (thức ăn..)",
+          "list_en_vn": [
+            {
+              "full_en": "just have a taste of this cheese !",
+              "full_vn": "hãy nếm thử một chút phó mát này!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nếm mùi, sự thưởng thức, sự trải qua, sự nếm trải",
+          "list_en_vn": [
+            {
+              "full_en": "her first taste of life in a big city",
+              "full_vn": "sự nếm trải đầu tiên của cô ta về cuộc sống ở một thành phố lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chút (đồ ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a taste of sugar",
+              "full_vn": "một chút đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ưa thích; sở thích, thị hiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to have a taste for music",
+              "full_vn": "thích nhạc"
+            },
+            {
+              "full_en": "matter of taste",
+              "full_vn": "vấn đề sở thích, vấn đề thị hiếu"
+            },
+            {
+              "full_en": "everyone to his taste",
+              "full_vn": "tuỳ sở thích riêng của mỗi người"
+            },
+            {
+              "full_en": "to add salt to taste",
+              "full_vn": "thêm muối theo sở thích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khiếu thẩm mỹ; sự tinh tế ý nhị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to taste",
+              "list_im": [
+                {
+                  "im_full_vn": "với số lượng tùy thích (nhất là trong các công thức làm món ăn..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a man of taste",
+              "full_vn": "người có khiếu thẩm mỹ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(không dùng các thời tiếp diễn, (thường) dùng với can) có khả năng nhận thức (vị)",
+          "list_en_vn": [
+            {
+              "full_en": "can you taste the garlic in this stew ?",
+              "full_vn": "anh thấy có mùi tỏi trong món thịt hầm này không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nếm, thử nghiệm vị",
+          "list_en_vn": [
+            {
+              "full_en": "to taste sugar",
+              "full_vn": "nếm đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trải qua, nếm mùi, thưởng thức, hưởng, biết mùi (đau khổ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to taste the joy of freedom",
+              "full_vn": "hưởng niềm vui sướng của tự do"
+            },
+            {
+              "full_en": "to taste power",
+              "full_vn": "nếm mùi quyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có một vị nào đó (được nói rõ)",
+          "list_en_vn": [
+            {
+              "full_en": "to taste sour",
+              "full_vn": "có vị chua"
+            },
+            {
+              "full_en": "to taste bitter",
+              "full_vn": "có vị đắng"
+            },
+            {
+              "full_en": "to taste sweet",
+              "full_vn": "có vị ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn, uống",
+          "list_en_vn": [
+            {
+              "full_en": "the sick boy hadn't tasted food for three days",
+              "full_vn": "em bé ốm đã ba ngày không ăn tí gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nghĩa bóng) nếm mùi, biết mùi, hưởng, trải qua",
+          "list_en_vn": [
+            {
+              "full_en": "to taste of happiness",
+              "full_vn": "hưởng hạnh phúc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354291_10426f513c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354291_c1e56b648b_o.png",
+      "id_image": "taste_4785966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468973_4dd7945551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468973_4edb6855d4_o.png",
+      "id_image": "taste_4799086"
+    }
+  ]
+}

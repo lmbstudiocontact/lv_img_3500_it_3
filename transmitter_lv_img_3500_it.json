@@ -1,0 +1,43 @@
+{
+  "english": "transmitter",
+  "phat_am": "[trænz'mitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người truyền; vật truyền, sinh vật truyền (bệnh, thông tin..)",
+          "list_en_vn": [
+            {
+              "full_en": "the anopheles is the transmitter of malaria",
+              "full_vn": "muỗi anôphen truyền bệnh sốt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy phát (tín hiệu truyền thông)"
+        },
+        {
+          "m_full_vn": "ống nói (của máy điện thoại)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382197_bc6008cbc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382197_a0b74580d1_o.png",
+      "id_image": "transmitter_4579044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451998_305b6c5ecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451998_475720e758_o.png",
+      "id_image": "transmitter_6276054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451973_30d70fde7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451973_1c9814303f_o.png",
+      "id_image": "transmitting_2649838"
+    }
+  ]
+}

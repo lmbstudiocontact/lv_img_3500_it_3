@@ -1,0 +1,57 @@
+{
+  "english": "veto",
+  "phat_am": "['vi:tou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều vetoes",
+      "list_m": [
+        {
+          "m_full_vn": "quyền phủ quyết; sự phủ quyết, sự bác bỏ; lời tuyên bố bác bỏ (một đạo luật..)",
+          "list_en_vn": [
+            {
+              "full_en": "power (right ) of veto",
+              "full_vn": "quyền phủ quyết"
+            },
+            {
+              "full_en": "to put (set ) a veto on a bill",
+              "full_vn": "bác bỏ một đạo luật dự thảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nghiêm cấm; lời tuyên bố nghiêm cấm",
+          "list_en_vn": [
+            {
+              "full_en": "to put a veto on narcotics",
+              "full_vn": "nghiêm cấm các loại thuốc ngủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ quyết, bác bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the President vetoed the tax cuts",
+              "full_vn": "tổng thống đã bác bỏ việc cắt giảm thuế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiêm cấm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700394_9442b1e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700394_2b8bdb71d1_o.png",
+      "id_image": "veto_2473207"
+    }
+  ]
+}

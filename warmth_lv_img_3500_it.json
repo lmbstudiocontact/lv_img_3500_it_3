@@ -1,0 +1,55 @@
+{
+  "english": "warmth",
+  "phat_am": "[wɔ:mθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái ấm, sự ấm áp (như) warmness",
+          "list_en_vn": [
+            {
+              "full_en": "the warmth of the climate",
+              "full_vn": "sự ấm áp của khí hậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơi ấm, sức nóng vừa phải",
+          "list_en_vn": [
+            {
+              "full_en": "warmth is needed for the seeds to germinate",
+              "full_vn": "hơi ấm cần cho hạt để nẩy mầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiệt tình, sự sôi nổi, độ mạnh của tình cảm",
+          "list_en_vn": [
+            {
+              "full_en": "he was touched by the warmth of their welcome",
+              "full_vn": "anh ấy cảm động vì nhiệt tình tiếp đón của họ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337351_1870bdf2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337351_0629f1da20_o.png",
+      "id_image": "warmth_2280462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337316_002ebf0062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337316_290545c773_o.png",
+      "id_image": "warmth_5783735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074360_00f5df1300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074360_09d83c7a60_o.png",
+      "id_image": "warmth_5783771"
+    }
+  ]
+}

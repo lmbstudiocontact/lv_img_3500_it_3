@@ -1,0 +1,108 @@
+{
+  "english": "star",
+  "phat_am": "[stɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngôi sao, tinh tú",
+          "list_en_vn": [
+            {
+              "full_en": "fixed star",
+              "full_vn": "định tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) tinh cầu (bất cứ quả cầu lớn nào trong vũ trụ, cấu thành bởi hơi và toả ra ánh sáng, (như) mặt trời)"
+        },
+        {
+          "m_full_vn": "vật hình sao; hình trang trí ngôi sao"
+        },
+        {
+          "m_full_vn": "(ngành in) dấu sao; dấu hoa thị"
+        },
+        {
+          "m_full_vn": "đốm trắng ở trán ngựa"
+        },
+        {
+          "m_full_vn": "nhân vật nổi tiếng, nghệ sĩ nổi tiếng, ngôi sao (điện ảnh).."
+        },
+        {
+          "m_full_vn": "sao chiếu mệnh, tướng tinh"
+        },
+        {
+          "m_full_vn": "( số nhiều) số mệnh, số phận; lá số tử vi",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's bright particular star",
+              "list_im": [
+                {
+                  "im_full_vn": "mục tiêu mà mình dốc toàn tâm toàn ý để thực hiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see stars",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nổ đom đóm mắt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be born under an unlucky star",
+              "full_vn": "sinh vào giờ xấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dán sao, trang trí bằng hình ngôi sao"
+        },
+        {
+          "m_full_vn": "đánh dấu sao (vào một bản danh sách...)"
+        },
+        {
+          "m_full_vn": "có (diễn viên...) đóng vai chính",
+          "list_en_vn": [
+            {
+              "full_en": "a film starring a famous actor",
+              "full_vn": "một phim có một diễn viên nổi tiếng đóng vai chính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng vai chính"
+        },
+        {
+          "m_full_vn": "trội hẳn, xuất sắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394207_2092a23be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394207_df743015d8_o.png",
+      "id_image": "star_292616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704119_28f12147d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704119_98a6892f91_o.png",
+      "id_image": "star_560896"
+    }
+  ]
+}

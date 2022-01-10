@@ -1,0 +1,44 @@
+{
+  "english": "user",
+  "phat_am": "['ju:zə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dùng, người sử dụng; cái gì dùng, cái gì sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "telephone-user",
+              "full_vn": "người dùng điện thoại"
+            },
+            {
+              "full_en": "drug-users , road-users",
+              "full_vn": "những người dùng ma túy, những người sử dụng đường sá"
+            },
+            {
+              "full_en": "I'm a great user of public transport",
+              "full_vn": "tôi là người rất thường xuyên sử dụng phương tiện vận chuyển công cộng"
+            },
+            {
+              "full_en": "the steel industry is one of Britain's greatest users of coal",
+              "full_vn": "ngành thép là một trong những ngành dùng than nhiều nhất ở nước Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705349_d8b0db539b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705349_1b7fc61e9d_o.png",
+      "id_image": "user_282133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705314_b33982e5fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705314_5c10ff720f_o.png",
+      "id_image": "user_391102"
+    }
+  ]
+}

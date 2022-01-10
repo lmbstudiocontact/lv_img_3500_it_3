@@ -1,0 +1,49 @@
+{
+  "english": "yarn",
+  "phat_am": "[jɑ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sợi, chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "yarn of nylon",
+              "full_vn": "sợi ni lông, chỉ ni lông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chuyện huyên thuyên; chuyện bịa",
+          "list_en_vn": [
+            {
+              "full_en": "to spin a yarn",
+              "full_vn": "kể chuyện huyên thuyên; kể chuyện bịa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) nói chuyện huyên thuyên; kể chuyện bịa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067995_31644aff6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067995_282b8557cf_o.png",
+      "id_image": "yarn_5617607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686329_75b3ebaff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686329_85032ceec8_o.png",
+      "id_image": "yarn_588425"
+    }
+  ]
+}

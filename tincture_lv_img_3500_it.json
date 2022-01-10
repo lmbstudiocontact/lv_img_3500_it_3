@@ -1,0 +1,50 @@
+{
+  "english": "tincture",
+  "phat_am": "['tiηkt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắc nhẹ, màu nhẹ"
+        },
+        {
+          "m_full_vn": "(y học) cồn thuốc (thuốc hoà tan trong cồn)",
+          "list_en_vn": [
+            {
+              "full_en": "tincture of iodine",
+              "full_vn": "cồn i-ốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hương thoảng, vị thoảng, nét thoáng; kiến thức sơ sài",
+          "list_en_vn": [
+            {
+              "full_en": "to have a shallow tincture of history",
+              "full_vn": "có kiến thức sơ sài về lịch sử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bôi màu; tô màu; nhuốm màu, làm cho có vẻ"
+        },
+        {
+          "m_full_vn": "làm tăng thêm hương vị, tác động nhẹ lên cái gì (bằng một chất gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084535_d0232b6691_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084535_f90c28480c_o.png",
+      "id_image": "tincture_3753272"
+    }
+  ]
+}

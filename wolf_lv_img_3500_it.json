@@ -1,0 +1,85 @@
+{
+  "english": "wolf",
+  "phat_am": "[wulf]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều wolves",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chó sói"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người tham tàn, người độc ác, người hung tàn (như) con sói"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người hay chim gái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be as hungry as a wolf",
+              "list_im": [
+                {
+                  "im_full_vn": "đói ngấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (hold ) the wolf by the ears",
+              "list_im": [
+                {
+                  "im_full_vn": "ở vào tình thế nguy hiểm, tiến lui đều khó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the wolf from the door",
+              "list_im": [
+                {
+                  "im_full_vn": "có đủ tiền để khỏi đói và không túng thiếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a wolf in sheep's clothing",
+              "list_im": [
+                {
+                  "im_full_vn": "chó sói đội lốt cừu non; kẻ giả nhân giả nghĩa, kẻ khẩu phật tâm xà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) ngốn, ăn ngấu nghiến",
+          "list_en_vn": [
+            {
+              "full_en": "to wolf down one's food",
+              "full_vn": "nuốt ngấu nghiến đồ ăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380317_40365f709e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380317_d3a48197a2_o.png",
+      "id_image": "wolf_185704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335221_19d5e07187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335221_09455af139_o.png",
+      "id_image": "wolf_292686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690374_5aa433d174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690374_265d4180c0_o.png",
+      "id_image": "wolf_4727715"
+    }
+  ]
+}

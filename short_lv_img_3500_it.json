@@ -1,0 +1,308 @@
+{
+  "english": "short",
+  "phat_am": "[∫ɔ:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngắn, cụt",
+          "list_en_vn": [
+            {
+              "full_en": "a short story",
+              "full_vn": "truyện ngắn"
+            },
+            {
+              "full_en": "a short way off",
+              "full_vn": "không xa"
+            },
+            {
+              "full_en": "to have a short memory",
+              "full_vn": "có trí nhớ kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lùn, thấp, dưới chiều cao trung bình (người)"
+        },
+        {
+          "m_full_vn": "không tồn tại lâu"
+        },
+        {
+          "m_full_vn": "không đạt được chuẩn mực thông thường (về cân nặng, chiều cao..)",
+          "list_en_vn": [
+            {
+              "full_en": "water is short at this time of year",
+              "full_vn": "nước thiếu vào thời gian này trong năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiển cận, chỉ thấy việc trước mắt",
+          "list_en_vn": [
+            {
+              "full_en": "to take short views",
+              "full_vn": "quan điểm thiển cận, không nhìn xa trông rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiếu, không có nhiều, không có đủ; thiếu sót",
+          "list_en_vn": [
+            {
+              "full_en": "short of tea",
+              "full_vn": "thiếu chè"
+            },
+            {
+              "full_en": "to be short of hands",
+              "full_vn": "thiếu nhân công"
+            },
+            {
+              "full_en": "this book is short of satisfactory",
+              "full_vn": "quyển sách này còn nhiều thiếu sót"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( short for something ) là chữ viết tắt của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "' Ben' is usually short for ' Benjamin'",
+              "full_vn": "'Ben' thường là cách gọi tắt của 'Benjamin'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on something ) (thông tục) thiếu (phẩm chất nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "he's short on tact",
+              "full_vn": "anh ấy thiếu sự khéo léo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with somebody ) vô lễ, xấc, cộc lốc, lấc cấc (người)",
+          "list_en_vn": [
+            {
+              "full_en": "to be short with somebody",
+              "full_vn": "vô lễ với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn tả trong một vài từ; ngắn gọn; vắn tắt (về lời nhận xét..)",
+          "list_en_vn": [
+            {
+              "full_en": "in short",
+              "full_vn": "nói tóm lại"
+            },
+            {
+              "full_en": "he is called Bob for short",
+              "full_vn": "người ta gọi tắt nó là Bóp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giòn (bánh)"
+        },
+        {
+          "m_full_vn": "khá gần vận động viên cricket (về người chặn bóng hoặc vị trí của anh ta trong môn cricket)"
+        },
+        {
+          "m_full_vn": "nảy lên khá gần người chơi bóng (quả bóng được ném trong môn cricket)"
+        },
+        {
+          "m_full_vn": "mạnh (rượu)",
+          "list_en_vn": [
+            {
+              "full_en": "I rarely have short drinks",
+              "full_vn": "tôi hiếm khi uống rượu mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa đến kỳ hạn trả tiền (hoá đơn mua bán.. trong kinh doanh)",
+          "list_en_vn": [
+            {
+              "full_en": "a short bill",
+              "full_vn": "hối phiếu chưa đến hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) ngắn (nguyên âm, âm tiết)",
+          "list_one_mean": [
+            {
+              "id_full_en": "an escape short of marvellous",
+              "list_im": [
+                {
+                  "im_full_vn": "một sự trốn thoát thật là kỳ lạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "short and sweet",
+              "list_im": [
+                {
+                  "im_full_vn": "ngắn gọn nhưng dễ hiểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short order",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh và không ồn ào, om xòm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short supply",
+              "list_im": [
+                {
+                  "im_full_vn": "không nhiều; hiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng một vài lời; tóm lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for short",
+              "list_im": [
+                {
+                  "im_full_vn": "viết tắt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "her name is ' Francis', or ' Fran' for short",
+                      "full_vn": "tên cô ấy là 'Francis', hoặc viết tắt là 'Fran'"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đột nhiên, đột ngột; bất thình lình, bất chợt",
+          "list_en_vn": [
+            {
+              "full_en": "to bring (pull ) up short",
+              "full_vn": "ngừng lại bất thình lình"
+            },
+            {
+              "full_en": "to stop short",
+              "full_vn": "chấm dứt bất thình lình, không tiếp tục đến cùng; chặn đứng đột ngột"
+            },
+            {
+              "full_en": "to take somebody up short ; to cut somebody short",
+              "full_vn": "bất thình lình ngắt lời ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trước thời hạn thông thường, trước thời hạn chờ đợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "be caught /taken short",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đột nhiên cảm thấy cần phải đi vệ sinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fall short of something",
+              "list_im": [
+                {
+                  "im_full_vn": "không đạt tới cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go short (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không có đủ (cái gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sell short",
+              "full_vn": "bán non, bán trước khi có hàng để giao"
+            },
+            {
+              "full_en": "short of",
+              "full_vn": "trừ, trừ phi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) nguyên âm ngắn; âm tiết ngắn"
+        },
+        {
+          "m_full_vn": "chữ viết tắt"
+        },
+        {
+          "m_full_vn": "phim ngắn"
+        },
+        {
+          "m_full_vn": "(điện học) mạch ngắn, mạch chập (như) short circuit"
+        },
+        {
+          "m_full_vn": "cú bắn không tới đích"
+        },
+        {
+          "m_full_vn": "cốc rượu mạnh nhỏ"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần soóc"
+        },
+        {
+          "m_full_vn": "( số nhiều) những mảnh thừa, những mảnh vụn (cắt ra khi sản xuất cái gì)"
+        },
+        {
+          "m_full_vn": "sự bán non, sự bán trước khi có hàng để giao"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ & nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) (như) short-circuit"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698194_129b52fccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698194_e741fb52a9_o.png",
+      "id_image": "short_184060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387922_118d44d610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387922_6efc303f9a_o.png",
+      "id_image": "short_2405662"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "versus",
+  "phat_am": "['və:səs]",
+  "list_type": [
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tiếng Latin) (viết tắt) v , vs chống, chống lại, đấu với (nhất là trong thi đấu thể thao)",
+          "list_en_vn": [
+            {
+              "full_en": "Robinson versus Brown",
+              "full_vn": "(pháp lý) Rô-bin-xơn kiện chống lại Brao"
+            },
+            {
+              "full_en": "Arsenal versus Manchester City",
+              "full_vn": "(thể dục,thể thao) đội ác-xơ-nơn đấu với đội thành Man-si-xtơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083370_dd313ec28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083370_e2ec0548a4_o.png",
+      "id_image": "versus_1888095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460688_c6a4b264e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460688_4c1ef8d15c_o.png",
+      "id_image": "versus_496577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083310_8e7c57ab4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083310_0f34596bb0_o.png",
+      "id_image": "versus_4968315"
+    }
+  ]
+}

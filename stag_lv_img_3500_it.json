@@ -1,0 +1,78 @@
+{
+  "english": "stag",
+  "phat_am": "[stæg]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều stags",
+      "list_m": [
+        {
+          "m_full_vn": "hươu đực, nai đực đã trưởng thành"
+        },
+        {
+          "m_full_vn": "bò đực thiến"
+        },
+        {
+          "m_full_vn": "người đầu cơ cổ phần (của công ty mới mở)"
+        },
+        {
+          "m_full_vn": "(từ lóng) người buôn bán cổ phần thất thường"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người (đàn ông) đi dự hội một mình không kèm theo đàn bà; buổi hội họp (liên hoan, tiệc tùng...) toàn đàn ông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go stag",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đi dự hội một mình không kèm theo đàn bà"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) rình mò, bí mật theo dõi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi dự hội một mình không kèm theo đàn bà"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ dành cho đàn ông",
+          "list_en_vn": [
+            {
+              "full_en": "a stag night at the golf club",
+              "full_vn": "một lối dành riêng cho đàn ông ở câu lạc bộ đánh gôn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395427_83bc4d2fe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395427_6be735ec3c_o.png",
+      "id_image": "stag_1403873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705164_4e02c2db20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705164_372ed09110_o.png",
+      "id_image": "stag_4145041"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "serpent",
+  "phat_am": "['sə:pənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con rắn",
+          "list_en_vn": [
+            {
+              "full_en": "the [old ] Serpent",
+              "full_vn": "con quỷ; (nghĩa bóng) người luồn lọt"
+            },
+            {
+              "full_en": "thiên the Serpent",
+              "full_vn": "chòm sao Bắc, chòm sao Thiên hà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) Trompet cổ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086715_9910b4f52e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086715_5b1c69860e_o.png",
+      "id_image": "serpent_1451524"
+    }
+  ]
+}

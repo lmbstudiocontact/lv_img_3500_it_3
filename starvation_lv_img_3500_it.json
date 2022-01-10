@@ -1,0 +1,45 @@
+{
+  "english": "starvation",
+  "phat_am": "[stɑ:'vei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đói, sự thiếu ăn; sự chết đói",
+          "list_en_vn": [
+            {
+              "full_en": "to die of starvation",
+              "full_vn": "chết đói"
+            },
+            {
+              "full_en": "starvation wages",
+              "full_vn": "đồng lương chết đói"
+            },
+            {
+              "full_en": "starvation diet",
+              "full_vn": "một chế độ ăn uống chết đói (chỉ vừa đủ để sống)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703824_bb05c5d82f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703824_88b0370d20_o.png",
+      "id_image": "starvation_3382504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086320_06e3315dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086320_c085d61816_o.png",
+      "id_image": "starvation_5256113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703774_d26b6e9c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703774_147cdb3da6_o.png",
+      "id_image": "starvation_5256709"
+    }
+  ]
+}

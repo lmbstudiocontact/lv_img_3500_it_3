@@ -1,0 +1,82 @@
+{
+  "english": "serious",
+  "phat_am": "['siəriəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đứng đắn, nghiêm trang, nghiêm nghị",
+          "list_en_vn": [
+            {
+              "full_en": "a serious young person",
+              "full_vn": "một thanh niên đứng đắn"
+            },
+            {
+              "full_en": "to have a serious look",
+              "full_vn": "có vẻ nghiêm trang, trông nghiêm nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ trọng, quan trọng, không thể coi thường được; nghiêm trọng, trầm trọng, nặng",
+          "list_en_vn": [
+            {
+              "full_en": "this is a serious matter",
+              "full_vn": "đây là một vấn đề quan trọng"
+            },
+            {
+              "full_en": "serious illness",
+              "full_vn": "bệnh nặng, bệnh trầm trọng"
+            },
+            {
+              "full_en": "serious defeat",
+              "full_vn": "sự thất bại nặng"
+            },
+            {
+              "full_en": "serious casualties",
+              "full_vn": "tổn thương nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng sợ, đáng gờm",
+          "list_en_vn": [
+            {
+              "full_en": "a serious rival",
+              "full_vn": "một đối thủ đáng gờm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành thật, thật sự, không đùa",
+          "list_en_vn": [
+            {
+              "full_en": "are you serious ?",
+              "full_vn": "anh có nói thật không?"
+            },
+            {
+              "full_en": "a serious attempt",
+              "full_vn": "một cố gắng thật sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) tôn giáo, (thuộc) đạo lý"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464293_553ccdf0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464293_3e11fc7dc6_o.png",
+      "id_image": "serious_260249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704264_ef04634fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704264_89828db962_o.png",
+      "id_image": "serious_312243"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "english": "touch",
+  "phat_am": "[tʌt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sờ, sự mó, sự đụng, sự chạm"
+        },
+        {
+          "m_full_vn": "xúc giác (khả năng nhận thức được sự vật hoặc đặc tính của chúng bằng cách sờ vào chúng)",
+          "list_en_vn": [
+            {
+              "full_en": "blind people rely a lot on touch",
+              "full_vn": "người mù dựa nhiều vào xúc giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy cái gì khi sờ vào",
+          "list_en_vn": [
+            {
+              "full_en": "soft to the touch",
+              "full_vn": "sờ vào thấy mềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi tiết nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "humorous touches",
+              "full_vn": "những chi tiết hài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét (vẽ); ngón (đàn); bút pháp, văn phong, phong cách (biểu diễn..)",
+          "list_en_vn": [
+            {
+              "full_en": "a bold touch",
+              "full_vn": "một nét vẽ táo bạo"
+            },
+            {
+              "full_en": "to add a few finishing touches",
+              "full_vn": "hoàn chỉnh, thêm vào một vài nét hoàn chỉnh"
+            },
+            {
+              "full_en": "the touch of a master",
+              "full_vn": "bút pháp của một nghệ sĩ bậc thầy"
+            },
+            {
+              "full_en": "his work lacks that professional touch",
+              "full_vn": "tác phẩm của anh ấy thiếu phong cách chuyên nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ năng đặc biệt của con người"
+        },
+        {
+          "m_full_vn": "một chút, một ít, số lượng rất ít",
+          "list_en_vn": [
+            {
+              "full_en": "a touch of jealousy",
+              "full_vn": "hơi ghen"
+            },
+            {
+              "full_en": "a touch of salt",
+              "full_vn": "một chút muối"
+            },
+            {
+              "full_en": "a touch of indigestion",
+              "full_vn": "hơi bị đầy bụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiếp xúc, sự giao thiệp; quan hệ; sự dính líu, sự dính dáng",
+          "list_en_vn": [
+            {
+              "full_en": "to keep in touch with",
+              "full_vn": "giữ quan hệ với; có dính líu với"
+            },
+            {
+              "full_en": "to be out of touch with",
+              "full_vn": "không có quan hệ với, mất liên lạc với"
+            },
+            {
+              "full_en": "to lose touch with",
+              "full_vn": "mất liên lạc với, tiếp xúc đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) phần sân ngoài đường biên (trong môn bóng đá, bóng bầu dục)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) lối bấm phím"
+        },
+        {
+          "m_full_vn": "(y học) phép thăm bệnh bằng cách sờ"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự thử thách, sự thử; đá thử",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a touch",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu như động nhẹ vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the machine stops and starts at a touch",
+                      "full_vn": "chiếc máy đó chỉ cần chạm nhẹ vào là khởi động hoặc tắt ngay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /out of touch (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "còn/không còn liên lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /out of touch with something",
+              "list_im": [
+                {
+                  "im_full_vn": "có/không có tin tức về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a touch",
+              "list_im": [
+                {
+                  "im_full_vn": "hơi, một chút"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put to the touch",
+              "full_vn": "đem thử thách"
+            },
+            {
+              "full_en": "true as touch",
+              "full_vn": "rất chính xác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạm, tiếp xúc, để không còn khoảng không ở giữa",
+          "list_en_vn": [
+            {
+              "full_en": "one of the branches was just touching the water",
+              "full_vn": "một cành cây chạm mặt nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sờ, mó, đụng, chạm; ấn, đánh (bằng tay..)",
+          "list_en_vn": [
+            {
+              "full_en": "don't touch that dish - it's very hot !",
+              "full_vn": "đừng có đụng chạm vào chiếc đĩa đó - nó rất nóng"
+            },
+            {
+              "full_en": "he touched me on the arm",
+              "full_vn": "anh ta đập nhẹ vào vai tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến, đạt tới (mức độ.. nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "I can touch the ceiling",
+              "full_vn": "tôi có thể với tới trần"
+            },
+            {
+              "full_en": "the thermometer touched 37o yesterday",
+              "full_vn": "hôm qua nhiệt biểu lên tới 37 o"
+            },
+            {
+              "full_en": "to touch bottom",
+              "full_vn": "xuống dốc đến cùng cực"
+            },
+            {
+              "full_en": "to touch the spot",
+              "full_vn": "(thông tục) gãi đúng chỗ ngứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần, kề, sát bên, liền",
+          "list_en_vn": [
+            {
+              "full_en": "his garden touches ours",
+              "full_vn": "vườn của anh ta sát liền ngay với vườn của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đả động đến, đề cập đến, đụng chạm, can thiệp vào; làm hại",
+          "list_en_vn": [
+            {
+              "full_en": "to touch on a subject in the conversation",
+              "full_vn": "đả động đến một vấn đề trong khi nói chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gõ nhẹ, đánh nhẹ (chuông), gảy (đàn); bấm (phím đàn)",
+          "list_en_vn": [
+            {
+              "full_en": "to touch the piano",
+              "full_vn": "bấm phím đàn pianô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đụng vào, dính vào, mó vào, vầy vào, vọc vào",
+          "list_en_vn": [
+            {
+              "full_en": "please do not touch my papers",
+              "full_vn": "xin đừng mó vào giấy tờ của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên quan, có quan hệ với, dính dáng, dính líu",
+          "list_en_vn": [
+            {
+              "full_en": "the question touched your interests",
+              "full_vn": "vấn đề có dính líu đến quyền lợi của anh"
+            },
+            {
+              "full_en": "what happens to him doesn't touch me at all",
+              "full_vn": "những việc xảy đến với nó không có liên quan gì tới tôi cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đụng đến, ăn, uống, dùng đến",
+          "list_en_vn": [
+            {
+              "full_en": "he promises not to touch alcohol",
+              "full_vn": "hắn hứa là không đụng đến một giọt rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cảm động, làm mủi lòng, gợi mối thương tâm, làm xúc động",
+          "list_en_vn": [
+            {
+              "full_en": "his grief touched us deeply",
+              "full_vn": "nỗi đau buồn của anh ta làm chúng tôi vô cùng xúc động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm mếch lòng, làm phật lòng, chạm lòng tự ái, xúc phạm, đụng chạm (tình cảm)",
+          "list_en_vn": [
+            {
+              "full_en": "that touched him home",
+              "full_vn": "điều đó làm anh ta hết sức phật lòng; điều đó chạm lòng tự ái của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có ảnh hưởng, có tác dụng, dính dáng đến",
+          "list_en_vn": [
+            {
+              "full_en": "nothing you can say will touch him",
+              "full_vn": "tất cả những điều anh có thể nói sẽ chả có tác dụng gì đối với nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hư nhẹ, gây thiệt hại nhẹ, làm hỏng nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "the frost has touched the vines",
+              "full_vn": "sương giá làm hư hại nhẹ những giàn nho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sánh kịp, bằng, ngang tài, ngang phẩm chất",
+          "list_en_vn": [
+            {
+              "full_en": "nobody can touch him in causticity",
+              "full_vn": "không ai có thể sánh kịp ông ta về lối châm biếm chua cay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) cặp, ghé (bến...)",
+          "list_en_vn": [
+            {
+              "full_en": "the ship touched Colombo",
+              "full_vn": "con tàu cặp bến Cô-lom-bô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) gõ, vay",
+          "list_en_vn": [
+            {
+              "full_en": "he touched me for 10 d",
+              "full_vn": "nó gõ tôi lấy mười đồng, nó vay tôi mười đồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạm nhau, đụng nhau, tiếp xúc nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the two wires were touching",
+              "full_vn": "hai dây điện chập nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần sát, kề nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to touch at",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) cặp, ghé, đỗ vào (bến...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to touch at a port",
+                      "full_vn": "cặp bến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch down",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) chạm đường biên ngang"
+                },
+                {
+                  "im_full_vn": "(hàng không) hạ cánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch in",
+              "list_im": [
+                {
+                  "im_full_vn": "vẽ phác, phác hoạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to touch in the eyebrows of the portrait",
+                      "full_vn": "vẽ phác đôi lông mày của bức chân dung"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch off",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt đứt (đường dây điện thoại, sự liên lạc bằng điện thoại)"
+                },
+                {
+                  "im_full_vn": "vẽ phác, phác hoạ"
+                },
+                {
+                  "im_full_vn": "bắn, nổ, xả, nhả (đạn)"
+                },
+                {
+                  "im_full_vn": "gây ra, phát động (phong trào phản đối...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn đến, đả động đến, nói đến, đề cập đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to touch on (upon ) a subject",
+                      "full_vn": "đề cập đến một vấn đề"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch up",
+              "list_im": [
+                {
+                  "im_full_vn": "tô, sửa qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to touch up a drawing",
+                      "full_vn": "sửa qua bức vẽ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "quất roi vào (ngựa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch with",
+              "list_im": [
+                {
+                  "im_full_vn": "nhuốm, đượm, ngụ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "praise touched with jealousy",
+                      "full_vn": "lời khen ngợi thoáng ngụ ý ghen tuông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "chạm tới đáy của cái gì chứa nước"
+                },
+                {
+                  "im_full_vn": "xuống đến bùn đen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch somebody on the raw",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tổn thương cảm xúc của ai do đã đề cập đến cái gì nhạy cảm với anh ta; chạm tự ái; chạm nóc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch the right chord",
+              "list_im": [
+                {
+                  "im_full_vn": "gãi đúng chỗ ngứa; nói trúng tâm lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch at something",
+              "list_im": [
+                {
+                  "im_full_vn": "cặp, ghé (tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to touch somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "chạm vào ai một cách khiêu gợi hoặc kích dục"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697894_c0478f6c70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697894_d26b3f1152_o.png",
+      "id_image": "touch_2723077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457488_4e2ef5889f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457488_e7cb92cd64_o.png",
+      "id_image": "touch_408428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697854_9cb661a673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697854_f6316dd024_o.png",
+      "id_image": "touch_5772919"
+    }
+  ]
+}

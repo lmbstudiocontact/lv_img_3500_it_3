@@ -1,0 +1,80 @@
+{
+  "english": "thunder",
+  "phat_am": "['θʌndə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sấm, sét; tiếng sấm, tiếng sét",
+          "list_en_vn": [
+            {
+              "full_en": "a clap of thunder",
+              "full_vn": "tiếng sét ổn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng ầm vang như sấm",
+          "list_en_vn": [
+            {
+              "full_en": "thunder of applause",
+              "full_vn": "tiếng vỗ tay như sấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chỉ trích; sự đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "to fear the thunders of the press",
+              "full_vn": "sợ những lời chỉ trích của báo chí"
+            },
+            {
+              "full_en": "to look as black as thunder",
+              "full_vn": "trông có vẻ hầm hầm đe doạ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi sấm, sấm động, ầm ầm tiếng sấm",
+          "list_en_vn": [
+            {
+              "full_en": "It thundered all night",
+              "full_vn": "trời ầm ầm tiếng sấm suốt đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ầm ầm như sấm, gây ra tiếng động như sấm; vang to",
+          "list_en_vn": [
+            {
+              "full_en": "the cannon thundered",
+              "full_vn": "súng đại bác nổ ầm ầm như sấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "la lối, nạt nộ, chửi mắng; lớn tiếng (đe doạ..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463408_51c5aacc47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463408_cc950bdd00_o.png",
+      "id_image": "thunder_1146804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463433_6cd0805856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463433_7a92563412_o.png",
+      "id_image": "thunder_391523"
+    }
+  ]
+}

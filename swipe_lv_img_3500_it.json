@@ -1,0 +1,57 @@
+{
+  "english": "swipe",
+  "phat_am": "[swaip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đánh mạnh và liều ( crikê)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh mạnh và liều ( crikê)"
+        },
+        {
+          "m_full_vn": "làm việc vất vả"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) vụt, đập",
+          "list_en_vn": [
+            {
+              "full_en": "he swiped the ball into the grandstand",
+              "full_vn": "anh ta vụt quả bóng bay vào khán đài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh mạnh và liều ( (nghĩa bóng) crickê)"
+        },
+        {
+          "m_full_vn": "(đùa cợt) xoáy, ăn cắp; cướp giật"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686979_6d6e291256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686979_47cc84a25e_o.png",
+      "id_image": "swipe_2121059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376757_0966d90fbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376757_915d9cc802_o.png",
+      "id_image": "swipe_219658"
+    }
+  ]
+}

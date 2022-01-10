@@ -1,0 +1,93 @@
+{
+  "english": "vegetable",
+  "phat_am": "['vedʒtəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thực vật",
+          "list_en_vn": [
+            {
+              "full_en": "vegetable kingdom",
+              "full_vn": "giới thực vật"
+            },
+            {
+              "full_en": "vegetable physiology",
+              "full_vn": "sinh lý thực vật"
+            },
+            {
+              "full_en": "to lead a vegetable existence",
+              "full_vn": "sống đời sống thực vật"
+            },
+            {
+              "full_en": "vegetable oils",
+              "full_vn": "dầu thực vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) rau",
+          "list_en_vn": [
+            {
+              "full_en": "vegetable soup",
+              "full_vn": "xúp rau"
+            },
+            {
+              "full_en": "a vegetable curry , garden , knife",
+              "full_vn": "cari nấu rau, vườn rau, dao thái rau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(một phần của nhiều loại) cây dùng để ăn như thức ăn, ví dụ như khoai tây, đậu, hành...; rau",
+          "list_en_vn": [
+            {
+              "full_en": "green vegetables",
+              "full_vn": "rau xanh"
+            },
+            {
+              "full_en": "a salad of raw vegetables",
+              "full_vn": "món rau sống trộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người về thể chất thì còn sống, nhưng không còn hoạt động về tinh thần vì bệnh tật, bị thương hoặc không bình thường; người mất trí; người sống một cuộc đời tẻ nhạt đơn điệu",
+          "list_en_vn": [
+            {
+              "full_en": "severe brain damage turned him into a vegetable",
+              "full_vn": "tổn thương nặng nề về não đã biến anh ta thành kẻ mất trí"
+            },
+            {
+              "full_en": "stuck at home like this , she felt like a vegetable",
+              "full_vn": "ngồi chết dí ở nhà như thế này, cô ta cảm thấy cuộc đời tẻ nhạt đơn điệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084910_b685376aa6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084910_a34db632d2_o.png",
+      "id_image": "vegetable_1198308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347576_9394fe2363_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347576_e036cb6741_o.png",
+      "id_image": "vegetable_3527108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462353_8bbe362d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462353_2756a92290_o.png",
+      "id_image": "vegetable_549126"
+    }
+  ]
+}

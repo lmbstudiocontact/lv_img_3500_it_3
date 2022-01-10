@@ -1,0 +1,67 @@
+{
+  "english": "team",
+  "phat_am": "[ti:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội, nhóm (các đấu thủ trong các trò chơi, trong thể thao)",
+          "list_en_vn": [
+            {
+              "full_en": "a football team",
+              "full_vn": "một đội bóng"
+            },
+            {
+              "full_en": "team spirit",
+              "full_vn": "tinh thần đồng đội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đội, nhóm, tổ (những người cùng làm việc với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "a sales team",
+              "full_vn": "tổ bán hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cỗ (hai hay nhiều hơn con vật cùng kéo một chiếc xe, cái cày..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắng (ngựa...) vào xe"
+        },
+        {
+          "m_full_vn": "hợp thành đội, hợp thành tổ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) ( with somebody ) cùng làm việc (với ai); hợp sức (với ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708224_6b573952ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708224_ac33445625_o.png",
+      "id_image": "team_228369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398442_791d5feee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398442_6a29594518_o.png",
+      "id_image": "team_470235"
+    }
+  ]
+}

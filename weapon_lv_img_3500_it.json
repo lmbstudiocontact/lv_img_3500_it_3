@@ -1,0 +1,50 @@
+{
+  "english": "weapon",
+  "phat_am": "['wepən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vũ khí (vật làm ra hoặc dùng để gây tác hại về thân thể; súng, dao, gươm..)",
+          "list_en_vn": [
+            {
+              "full_en": "weapon of defence",
+              "full_vn": "vũ khí tự vệ"
+            },
+            {
+              "full_en": "a deadly weapon",
+              "full_vn": "vũ khí giết người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vũ khí (hành động hoặc thủ tục dùng để tự vệ hoặc thắng ai trong một cuộc đấu tranh hoặc thi đua)",
+          "list_en_vn": [
+            {
+              "full_en": "armed with the weapon of Marxism-Leninism",
+              "full_vn": "vũ trang bằng lý luận Mác-Lênin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449453_c960ceb9b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449453_c5b530044b_o.png",
+      "id_image": "weapon_1033008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071365_b6f5e76a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071365_b2085dbb12_o.png",
+      "id_image": "weapon_1033009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689429_42d3719332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689429_df34459fa1_o.png",
+      "id_image": "weapon_2670501"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "solar",
+  "phat_am": "['soulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) mặt trời, có liên quan đến mặt trời, quan hệ đến mặt trời; tính theo mặt trời (lịch, thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "solar eclipse",
+              "full_vn": "nhật thực"
+            },
+            {
+              "full_en": "solar system",
+              "full_vn": "hệ mặt trời"
+            },
+            {
+              "full_en": "solar time",
+              "full_vn": "thời gian tính theo hệ mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sử dụng năng lượng mặt trời",
+          "list_en_vn": [
+            {
+              "full_en": "solar-powered",
+              "full_vn": "chạy bằng năng lượng mặt trời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063710_449cef8aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063710_3a6d1d5a10_o.png",
+      "id_image": "solar_438753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326681_3c4ceded55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326681_5641d3bf42_o.png",
+      "id_image": "solar_4657812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441753_270e4f20ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441753_31a3e37b5d_o.png",
+      "id_image": "solar_804562"
+    }
+  ]
+}

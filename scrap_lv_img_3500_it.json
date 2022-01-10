@@ -1,0 +1,66 @@
+{
+  "english": "scrap",
+  "phat_am": "[skræp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mảnh nhỏ, mảnh rời"
+        },
+        {
+          "m_full_vn": "( số nhiều) đầu thừa đuôi thẹo, mấu thừa"
+        },
+        {
+          "m_full_vn": "đoạn cắt, ảnh cắt (cắt ở báo để đóng thành tập)"
+        },
+        {
+          "m_full_vn": "kim loại vụn; phế liệu"
+        },
+        {
+          "m_full_vn": "tóp mỡ, bã cá (để ép hết dầu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập vụn ra"
+        },
+        {
+          "m_full_vn": "thải ra, loại ra, bỏ đi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cuộc đánh nhau; sự cãi cọ; sự ẩu đả",
+          "list_en_vn": [
+            {
+              "full_en": "to have a bit of a scrap with somebody",
+              "full_vn": "ẩu đả với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + with ) (thông tục) ẩu đả, đấu đá, cãi cọ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328096_74dd769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328096_3656a43a97_o.png",
+      "id_image": "scrap_4465715"
+    }
+  ]
+}

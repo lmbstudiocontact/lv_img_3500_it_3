@@ -1,0 +1,55 @@
+{
+  "english": "usher",
+  "phat_am": "['ʌ∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dẫn chỗ, người chỉ chỗ ngồi (trong rạp hát, rạp chiếu bóng)"
+        },
+        {
+          "m_full_vn": "người gác cửa (ở toà án..)"
+        },
+        {
+          "m_full_vn": "(nghĩa xấu) trợ giáo"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa, dẫn; đi kèm ai để chỉ chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to usher into",
+              "full_vn": "dẫn vào, đưa vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) báo hiệu, mở ra; đánh dấu sự khởi đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to usher in a new period of prosperity",
+              "full_vn": "mở ra một thời kỳ thịnh vượng mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350681_2d0b48c2dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350681_6ed194eeb3_o.png",
+      "id_image": "usher_6413973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350646_7094649a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350646_4e9e2e8b5e_o.png",
+      "id_image": "usher_6413992"
+    }
+  ]
+}

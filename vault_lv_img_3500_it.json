@@ -1,0 +1,122 @@
+{
+  "english": "vault",
+  "phat_am": "[vɔ:lt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) cái nhảy qua (hàng rào, ngựa gỗ...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy qua, nhảy tót lên; nhảy sào",
+          "list_en_vn": [
+            {
+              "full_en": "to vault over a gate",
+              "full_vn": "nhảy qua cổng"
+            },
+            {
+              "full_en": "to vault into the saddle",
+              "full_vn": "nhảy tót lên yên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy qua"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vòm, mái vòm, khung vòm",
+          "list_en_vn": [
+            {
+              "full_en": "the vault of the church",
+              "full_vn": "mái vòm của nhà thờ"
+            },
+            {
+              "full_en": "the vault of heaven",
+              "full_vn": "vòm trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hầm (để cất trữ rượu...)"
+        },
+        {
+          "m_full_vn": "hầm mộ",
+          "list_en_vn": [
+            {
+              "full_en": "family vault",
+              "full_vn": "hầm mộ gia đình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây thành vòm, xây cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to vault a passage",
+              "full_vn": "xây khung vòm một lối đi"
+            },
+            {
+              "full_en": "a vaulted roof",
+              "full_vn": "mái vòm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che phủ bằng vòm",
+          "list_en_vn": [
+            {
+              "full_en": "vaulted with fire",
+              "full_vn": "bị lửa phủ kín"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuốn thành vòm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347861_3dbf27b57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347861_4b58aea4d5_o.png",
+      "id_image": "vault_1088946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702549_2538745d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702549_f235d5190f_o.png",
+      "id_image": "vault_2563006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462643_2219596714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462643_43b6192961_o.png",
+      "id_image": "vault_3898040"
+    }
+  ]
+}

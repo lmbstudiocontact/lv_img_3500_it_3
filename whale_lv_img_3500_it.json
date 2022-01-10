@@ -1,0 +1,73 @@
+{
+  "english": "whale",
+  "phat_am": "[weil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá voi",
+          "list_one_mean": [
+            {
+              "id_full_en": "a whale on (at , for ) something",
+              "list_im": [
+                {
+                  "im_full_vn": "một tay cừ về cái gì; một người ham thích cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a whale of a time",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất thích thú, có thời gian vui chơi thoả thích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a whale of a city",
+                      "full_vn": "một thành phố mênh mông"
+                    },
+                    {
+                      "full_en": "we had a whale of a time",
+                      "full_vn": "chúng ta đã vui chơi thoả thích"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn cá voi",
+          "list_en_vn": [
+            {
+              "full_en": "to go whaling",
+              "full_vn": "đi săn cá voi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376597_8a529f7ed9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376597_b002f9abce_o.png",
+      "id_image": "whale_123995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068460_35b056dce4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068460_d981a249d3_o.png",
+      "id_image": "whale_184369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376522_be78b33999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376522_ff3d2dff58_o.png",
+      "id_image": "whale_616681"
+    }
+  ]
+}

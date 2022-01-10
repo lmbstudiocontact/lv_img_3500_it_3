@@ -1,0 +1,51 @@
+{
+  "english": "sunshine",
+  "phat_am": "['sʌn∫ain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng mặt trời, ánh nắng; nắng",
+          "list_en_vn": [
+            {
+              "full_en": "in the sunshine",
+              "full_vn": "trong ánh nắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự hân hoan, sự vui tươi, sự hớn hở"
+        },
+        {
+          "m_full_vn": "(thông tục) niềm vui"
+        },
+        {
+          "m_full_vn": "( định ngữ) nắng",
+          "list_en_vn": [
+            {
+              "full_en": "sunshine recorder",
+              "full_vn": "máy ghi thời gian nắng"
+            },
+            {
+              "full_en": "sunshine roof",
+              "full_vn": "mái che nắng (ở ô tô)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452143_9e8950601e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452143_8dfc3ca7a8_o.png",
+      "id_image": "sunshine_327432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452133_c420842598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452133_e30c2f3b9d_o.png",
+      "id_image": "sunshine_3989615"
+    }
+  ]
+}

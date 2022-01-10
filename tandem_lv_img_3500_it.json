@@ -1,0 +1,67 @@
+{
+  "english": "tandem",
+  "phat_am": "['tændəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe hai ngựa thắng con trước con sau"
+        },
+        {
+          "m_full_vn": "xe tăng-đem (xe đạp có yên và bàn đạp cho hai hoặc nhiều người, người nọ ngồi sau người kia cùng nhau đạp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in tandem",
+              "list_im": [
+                {
+                  "im_full_vn": "người nọ ngồi sau người kia",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to drive /ride in tandem",
+                      "full_vn": "lái xe/cưỡi ngựa người nọ ngồi sau người kia"
+                    },
+                    {
+                      "full_en": "he and his wife run the business in tandem",
+                      "full_vn": "ông ta và vợ cộng tác điều hành doanh nghiệp"
+                    },
+                    {
+                      "full_en": "the two systems are designed to work in tandem",
+                      "full_vn": "hai hệ thống được trù tính hoạt động song song với nhau"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắng con trước con sau (ngựa), đặt cái trước cái sau",
+          "list_en_vn": [
+            {
+              "full_en": "to drive tandem",
+              "full_vn": "thắng ngựa con trước con sau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441993_95b135f646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441993_bcac6d821d_o.png",
+      "id_image": "tandem_1473268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371687_07bfafed02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371687_11db69afe1_o.png",
+      "id_image": "tandem_923795"
+    }
+  ]
+}

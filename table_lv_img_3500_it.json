@@ -1,0 +1,186 @@
+{
+  "english": "table",
+  "phat_am": "['teibl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái bàn",
+          "list_en_vn": [
+            {
+              "full_en": "a dining-table",
+              "full_vn": "bàn ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to lay (set ) the table",
+              "full_vn": "bày bàn ăn"
+            },
+            {
+              "full_en": "to clear the table",
+              "full_vn": "dọn bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thức ăn bày ra bàn, mâm cỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a good table",
+              "full_vn": "ăn sang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những người ngồi quanh bàn, những người ngồi ở bàn (ăn..)",
+          "list_en_vn": [
+            {
+              "full_en": "to set all the table laughing",
+              "full_vn": "làm cho tất cả những người quanh bàn cười"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình nguyên; vùng cao nguyên (khu vực đất rộng ở bình độ cao) (như) tableland"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bàn máy"
+        },
+        {
+          "m_full_vn": "bảng (gỗ, đá...)",
+          "list_en_vn": [
+            {
+              "full_en": "table of stone",
+              "full_vn": "bảng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảng, bản, biểu",
+          "list_en_vn": [
+            {
+              "full_en": "table of contents",
+              "full_vn": "bảng mục lục"
+            },
+            {
+              "full_en": "asironomical table",
+              "full_vn": "bản thiên văn"
+            },
+            {
+              "full_en": "alphabetical table",
+              "full_vn": "bảng chữ cái"
+            },
+            {
+              "full_en": "table of prices",
+              "full_vn": "bảng giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt (của hạt ngọc)"
+        },
+        {
+          "m_full_vn": "lòng bàn tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lay a bill on the table",
+              "list_im": [
+                {
+                  "im_full_vn": "hoãn bàn về một dự luật không thời hạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie on the table",
+              "list_im": [
+                {
+                  "im_full_vn": "bị hoãn bàn không thời hạn (dự luật)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the tables on (upon ) someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) giành lại ưu thế so với ai, làm đảo lộn lại tình thế đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at table",
+              "list_im": [
+                {
+                  "im_full_vn": "đang ăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the table",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra để suy nghĩ, đưa ra để thảo luận"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) hoãn bàn; để bàn sau (về một đề nghị..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the tables (on somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "giành lại thế thượng phong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the table",
+              "list_im": [
+                {
+                  "im_full_vn": "dấm dúi, trao bí mật (tiền; nhất là để hối lộ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt lên bàn, để lên bàn"
+        },
+        {
+          "m_full_vn": "đệ trình (một đề nghị..) để thảo luận, đưa ra để thảo luận, đưa ra để xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "to table a motion",
+              "full_vn": "đưa ra một đề nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hoãn lại (một dự luật...) chưa bàn; để bàn sau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374077_db2085eb92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374077_5163a98f25_o.png",
+      "id_image": "table_170934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684344_5e0cfd8725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684344_f2200f38bb_o.png",
+      "id_image": "table_638214"
+    }
+  ]
+}

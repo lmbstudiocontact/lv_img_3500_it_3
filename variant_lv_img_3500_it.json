@@ -1,0 +1,52 @@
+{
+  "english": "variant",
+  "phat_am": "['veəriənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khác nhau (về dạng hoặc chi tiết)",
+          "list_en_vn": [
+            {
+              "full_en": "variant reading",
+              "full_vn": "cách đọc khác nhau"
+            },
+            {
+              "full_en": "variant form",
+              "full_vn": "dạng khác nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hay thay đổi, hay biến đổi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "biến thể (điều khác với những điều khác hoặc với tiêu chuẩn)",
+          "list_en_vn": [
+            {
+              "full_en": "variants of word",
+              "full_vn": "các biến thể của một từ"
+            },
+            {
+              "full_en": "the story has many variants",
+              "full_vn": "câu chuyện có nhiều biến thể (tức là có nhiều cách kể lại khác nhau)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348316_e4b0baa37f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348316_39e247fb09_o.png",
+      "id_image": "variant_5264994"
+    }
+  ]
+}

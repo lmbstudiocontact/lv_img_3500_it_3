@@ -1,0 +1,98 @@
+{
+  "english": "worship",
+  "phat_am": "['wə:∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tôn giáo) sự thờ phụng, sự tôn kính, sự tôn sùng, sự kính trọng; tình yêu đối Chúa trời, thần thánh",
+          "list_en_vn": [
+            {
+              "full_en": "freedom of worship",
+              "full_vn": "sự tự do thờ cúng"
+            },
+            {
+              "full_en": "a place of worship",
+              "full_vn": "nơi thờ cúng, nhà thờ, đền thờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động thờ cúng, nghi lễ thờ cúng",
+          "list_en_vn": [
+            {
+              "full_en": "a service of divine worship",
+              "full_vn": "một buổi lễ thờ cúng thần thánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sùng bái, sự khâm phục, lòng tôn sùng, lòng yêu quí",
+          "list_one_mean": [
+            {
+              "id_full_en": "your , his .. Worship",
+              "list_im": [
+                {
+                  "im_full_vn": "ngài (cách xưng hô hoặc thưa gửi trịnh trọng khi nói với một thẩm phán hoặc thị trưởng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hero-worship",
+              "full_vn": "sự tôn sùng anh hùng"
+            },
+            {
+              "full_en": "to win worship",
+              "full_vn": "được tôn kính, được tôn sùng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thờ, thờ phụng, tôn thờ ( Chúa trời)"
+        },
+        {
+          "m_full_vn": "sùng bái, tôn thờ (nhất đến mức không nhìn thấy khuyết điểm của nó)",
+          "list_en_vn": [
+            {
+              "full_en": "he worships the ground she walks on",
+              "full_vn": "anh ta tôn thờ đến cả chỗ đất cô ấy đặt chân lên (tức là yêu cô ta mãnh liệt)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lễ, dự một buổi lễ nhà thờ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688349_2e966f427e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688349_66e2b6c2ba_o.png",
+      "id_image": "worship_4334595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688324_cd631d8076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688324_679c013f58_o.png",
+      "id_image": "worship_4839287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333296_dfbb8793ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333296_6517fff810_o.png",
+      "id_image": "worship_594728"
+    }
+  ]
+}

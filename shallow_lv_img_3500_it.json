@@ -1,0 +1,60 @@
+{
+  "english": "shallow",
+  "phat_am": "[∫ælou]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nông, cạn, không sâu",
+          "list_en_vn": [
+            {
+              "full_en": "shallow water",
+              "full_vn": "nước nông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nông cạn, hời hợt",
+          "list_en_vn": [
+            {
+              "full_en": "a shallow love",
+              "full_vn": "tình yêu hời hợt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ nông, chỗ cạn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm (nước..) cạn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cạn đi; trở nên nông (nước..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392422_d5dc7f4c58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392422_24ee753da5_o.png",
+      "id_image": "shallow_4745395"
+    }
+  ]
+}

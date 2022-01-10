@@ -1,0 +1,48 @@
+{
+  "english": "sprint",
+  "phat_am": "[sprint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chạy nhanh, sự chạy nước rút; cách chạy nước rút"
+        },
+        {
+          "m_full_vn": "sự bơi nước rút, sự đạp xe nước rút.."
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy nước rút, chạy hết tốc lực",
+          "list_en_vn": [
+            {
+              "full_en": "she sprinted the length of the road",
+              "full_vn": "cô ấy đã mở hết tốc lực suốt quãng đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397042_b285a8b0f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397042_aa1ac0f5f5_o.png",
+      "id_image": "sprint_1934014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466798_5c6a2fc6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466798_48b717b7e5_o.png",
+      "id_image": "sprint_2620681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706774_76782e5394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706774_a6d51b5fc7_o.png",
+      "id_image": "sprint_3965798"
+    }
+  ]
+}

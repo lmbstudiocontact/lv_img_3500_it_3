@@ -1,0 +1,37 @@
+{
+  "english": "stationery",
+  "phat_am": "['stei∫ənri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dùng văn phòng (giấy, bút, phong bì..)",
+          "list_en_vn": [
+            {
+              "full_en": "a stationery cupboard",
+              "full_vn": "tủ đựng đồ dùng văn phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085980_0895b901fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085980_ab96f39c9b_o.png",
+      "id_image": "stationery_2070917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393492_1395487598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393492_60615a80b7_o.png",
+      "id_image": "stationery_2249535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393537_dd7313fed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393537_31b4191d83_o.png",
+      "id_image": "stationery_470980"
+    }
+  ]
+}

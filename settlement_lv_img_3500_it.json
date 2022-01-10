@@ -1,0 +1,64 @@
+{
+  "english": "settlement",
+  "phat_am": "['setlmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giải quyết, sự dàn xếp, sự hoà giải; sự thoả thuận (để giải quyết việc gì..)",
+          "list_en_vn": [
+            {
+              "full_en": "the strikers have reached a settlement with the employers",
+              "full_vn": "những người đình công đã đạt được một thoả thuận với các ông chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thanh toán; sự được thanh toán",
+          "list_en_vn": [
+            {
+              "full_en": "the settlement of a debt",
+              "full_vn": "việc thanh toán một món nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đến ở, sự định cư, sự an cư lạc nghiệp; khu định cư, khu đất mới có người đến ở lập nghiệp"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự chuyển gia tài; tiền, tài sản được chuyển"
+        },
+        {
+          "m_full_vn": "sự làm lắng xuống; sự lắng xuống, sự lún xuống (mặt nhà, tường, đất)"
+        },
+        {
+          "m_full_vn": "sự chiếm làm thuộc địa; thuộc địa, nơi thực dân đã định cư",
+          "list_one_mean": [
+            {
+              "id_full_en": "in settlement (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "để thanh toán (cho cái gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "penal settlements in Australia",
+              "full_vn": "những vùng lưu đày ở Australia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703094_94b6ed8670_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703094_ebe3854514_o.png",
+      "id_image": "settlement_1411848"
+    }
+  ]
+}

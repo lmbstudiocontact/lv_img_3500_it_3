@@ -1,0 +1,40 @@
+{
+  "english": "toad",
+  "phat_am": "[toud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con cóc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người ghê tởm, người đáng ghét, người đáng khinh (nhất là dùng để xúc phạm)",
+          "list_en_vn": [
+            {
+              "full_en": "you repulsive little toad !",
+              "full_vn": "mày thật là một thằng nhóc ghê tởm!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346221_205d4e429a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346221_9c7e5a1c28_o.png",
+      "id_image": "toad_1571906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391237_402db8ea78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391237_0c3893b637_o.png",
+      "id_image": "toad_218308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701184_b0b894ee09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701184_ea44e0cafe_o.png",
+      "id_image": "toad_371963"
+    }
+  ]
+}

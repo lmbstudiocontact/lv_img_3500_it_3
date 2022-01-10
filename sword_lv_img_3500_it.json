@@ -1,0 +1,91 @@
+{
+  "english": "sword",
+  "phat_am": "[sɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gươm, kiếm, đao",
+          "list_en_vn": [
+            {
+              "full_en": "double-edged sword",
+              "full_vn": "gươm hai lưỡi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đọ kiếm; sự đánh nhau; sự cải nhau; sự tranh chấp công khai",
+          "list_en_vn": [
+            {
+              "full_en": "to draw the sword",
+              "full_vn": "rút gươm ra, bắt đầu cuộc binh đao"
+            },
+            {
+              "full_en": "to sheathe the sword",
+              "full_vn": "tra gươm vào vỏ, chấm dứt cuộc binh đao"
+            },
+            {
+              "full_en": "to put somebody to sword",
+              "full_vn": "giết ai"
+            },
+            {
+              "full_en": "fire and sword",
+              "full_vn": "sự cướp phá (của quân xăm lăng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the sword ) chiến tranh; sự phân định bằng chiến tranh"
+        },
+        {
+          "m_full_vn": "( the sword ) quân quyền, uy quyền"
+        },
+        {
+          "m_full_vn": "(quân sự), (từ lóng) lưỡi lê",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at swords' points",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng đánh nhau, sẵn sàng đâm chém nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sword of the spirit",
+              "list_im": [
+                {
+                  "im_full_vn": "lời phán của Chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put somebody to the sword",
+              "list_im": [
+                {
+                  "im_full_vn": "giết ai bằng gươm, kiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sword of Damocles",
+              "list_im": [
+                {
+                  "im_full_vn": "thanh gươm Damocles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686539_7b91bdb4f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686539_3297b1ecba_o.png",
+      "id_image": "sword_942409"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "english": "sea",
+  "phat_am": "[si:]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều seas",
+      "list_m": [
+        {
+          "m_full_vn": "( the sea , seas ) ( số nhiều) biển",
+          "list_en_vn": [
+            {
+              "full_en": "by sea",
+              "full_vn": "bằng đường biển"
+            },
+            {
+              "full_en": "mistress of the seas",
+              "full_vn": "cường quốc làm chủ mặt biển"
+            },
+            {
+              "full_en": "sea like a looking-glass",
+              "full_vn": "biển yên gió lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Sea ) vùng biển riêng (nhỏ hơn đại dương); hồ nước ngọt, hồ nước mặn lớn nằm trong đất liền",
+          "list_en_vn": [
+            {
+              "full_en": "the Mediterranean Sea",
+              "full_vn": "Địa Trung Hải"
+            },
+            {
+              "full_en": "the Caspian Sea",
+              "full_vn": "biển Caxpi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự chuyển động của sóng biển",
+          "list_en_vn": [
+            {
+              "full_en": "a heavy sea",
+              "full_vn": "biển động"
+            },
+            {
+              "full_en": "a light sea",
+              "full_vn": "biển lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sóng biển",
+          "list_en_vn": [
+            {
+              "full_en": "to ship a sea",
+              "full_vn": "bị một ngọn sóng làm ngập (tàu...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biển (khoảng rộng (như) biển); nhiều (về số lượng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at sea",
+              "list_im": [
+                {
+                  "im_full_vn": "trên biển"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) hoang mang, bối rối, không hiểu ra thế nào, không biết làm thế nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to sea",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành thuỷ thủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow the sea",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nghề thuỷ thủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (out ) to sea",
+              "list_im": [
+                {
+                  "im_full_vn": "ra khơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "half seas over",
+              "list_im": [
+                {
+                  "im_full_vn": "quá chén"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the seven seas",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp bốn biển"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sea of flame",
+              "full_vn": "một biển lửa"
+            },
+            {
+              "full_en": "seas of blood",
+              "full_vn": "máu chảy thành sông; (nghĩa bóng) sự chém giết tàn nhẫn"
+            },
+            {
+              "full_en": "a sea of troubles",
+              "full_vn": "nhiều chuyện phiền hà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680804_0e70312dbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680804_fea01cc774_o.png",
+      "id_image": "sea_1867451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370472_cc4f9f1be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370472_46f3e98a8f_o.png",
+      "id_image": "sea_2507565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325616_25db719038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325616_0443e91933_o.png",
+      "id_image": "sea_5398376"
+    }
+  ]
+}

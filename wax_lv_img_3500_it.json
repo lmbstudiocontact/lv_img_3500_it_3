@@ -1,0 +1,155 @@
+{
+  "english": "wax",
+  "phat_am": "[wæks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáp ong (chất mềm, dính, màu vàng do ong sản sinh ra để làm tổ) (như) beeswax"
+        },
+        {
+          "m_full_vn": "sáp, chất sáp (sáp ong đã được tẩy trắng và lọc để làm nến, để nặn...)",
+          "list_en_vn": [
+            {
+              "full_en": "vegetable wax",
+              "full_vn": "sáp thực vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất kỳ chất nào mềm, dính hoặc nhờn, dễ chảy (có được từ dầu lửa) dùng để làm nến, xi...",
+          "list_en_vn": [
+            {
+              "full_en": "sealing wax",
+              "full_vn": "xi gắn"
+            },
+            {
+              "full_en": "wax polish",
+              "full_vn": "xi bằng sáp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ráy tai (chất màu vàng giống (như) sáp, tiết ra ở trong tai)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đĩa hát",
+          "list_one_mean": [
+            {
+              "id_full_en": "like wax in someone's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "bị ai sai khiến, cho tròn được tròn bắt méo phải méo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bóng bằng sáp; bôi sáp, bọc sáp, vuốt sáp, phủ sáp lên",
+          "list_en_vn": [
+            {
+              "full_en": "to wax a table",
+              "full_vn": "đánh bóng bàn bằng sáp"
+            },
+            {
+              "full_en": "to wax a thread",
+              "full_vn": "vuốt sáp một sợi chỉ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) cơn giận",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a wax",
+              "full_vn": "đang nổi giận"
+            },
+            {
+              "full_en": "to get in a wax",
+              "full_vn": "nổi giận"
+            },
+            {
+              "full_en": "to put someone in a wax",
+              "full_vn": "làm cho ai nổi giận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tròn dần, bớt khuyết (mặt trăng)",
+          "list_en_vn": [
+            {
+              "full_en": "the moon waxes and wanes",
+              "full_vn": "mặt trăng khi tròn khi khuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng trưởng"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) trở nên, trở thành",
+          "list_one_mean": [
+            {
+              "id_full_en": "wax and wane",
+              "list_im": [
+                {
+                  "im_full_vn": "tăng lên rồi giảm xuống về sức mạnh hoặc tầnm quan trọng; thịnh suy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Throughout history , empires have waxed and waned",
+                      "full_vn": "Trong quá trình lịch sử, các đế quốc đã có lúc thịnh lúc suy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wax merry",
+              "full_vn": "trở nên vui vẻ"
+            },
+            {
+              "full_en": "to wax indignant",
+              "full_vn": "nổi cơn phẫn nộ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690304_ecfbfc3866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690304_b2f9efa4df_o.png",
+      "id_image": "wax_1965931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450138_d7db508874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450138_3b22a8cb25_o.png",
+      "id_image": "wax_2928324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072050_6854f3f8c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072050_4f5a9a214b_o.png",
+      "id_image": "wax_3460304"
+    }
+  ]
+}

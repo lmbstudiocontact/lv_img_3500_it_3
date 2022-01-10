@@ -1,0 +1,45 @@
+{
+  "english": "woodland",
+  "phat_am": "['wudlənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miền rừng, vùng rừng"
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) rừng",
+          "list_en_vn": [
+            {
+              "full_en": "woodland choir",
+              "full_vn": "chim chóc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379807_31e6428617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379807_08ea082048_o.png",
+      "id_image": "woodland_1566640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379792_cb0da9620d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379792_8d08d52663_o.png",
+      "id_image": "woodland_1780304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449828_f1ae22ede4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449828_ac4609f916_o.png",
+      "id_image": "woodland_2933728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334741_bcc6a3216e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334741_8aba08e820_o.png",
+      "id_image": "woodland_3075162"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "english": "worm",
+  "phat_am": "[wə:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) giun, sâu, trùng"
+        },
+        {
+          "m_full_vn": "( số nhiều) giun, lãi (sống ký sinh trong ruột người hoặc động vật và gây bệnh)"
+        },
+        {
+          "m_full_vn": "(nhất là trong từ ghép) sâu (trong trái cây, gỗ...)",
+          "list_en_vn": [
+            {
+              "full_en": "woodworm",
+              "full_vn": "con mọt gỗ"
+            },
+            {
+              "full_en": "silkworm",
+              "full_vn": "con tằm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đường ren (của vít)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người đáng khinh bỉ, đồ giun dế",
+          "list_one_mean": [
+            {
+              "id_full_en": "I am a worm today",
+              "list_im": [
+                {
+                  "im_full_vn": "hôm nay tôi không được khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "even a worm will turn",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) con giun xéo lắm cũng quằn (ngay cả một người bình (thường) vẫn lặng lẽ không than phiền (cũng) phải đòi quyền lợi của mình hoặc phản kháng trong một tình huống không thể chịu đựng nổi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the worm of conscience",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cắn rứt của lương tâm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bò"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chui vào, luồn vào, lẻn vào"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tẩy giun",
+          "list_en_vn": [
+            {
+              "full_en": "we'll have to worm the dog",
+              "full_vn": "chúng ta sẽ phải tẩy giun cho con chó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt sâu, trừ sâu (ở luống rau...)"
+        },
+        {
+          "m_full_vn": "bò vào; lần vào, chui vào, luồn qua ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to worm one's way through the bushes",
+              "full_vn": "luồn qua các bụi rậm"
+            },
+            {
+              "full_en": "to worm oneself into",
+              "full_vn": "lần vào"
+            },
+            {
+              "full_en": "to worm oneself into someone's favour",
+              "full_vn": "khéo lấy lòng ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ren (một vít)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) moi",
+          "list_en_vn": [
+            {
+              "full_en": "to worm a secret out of someone",
+              "full_vn": "moi ở người nào một điều bí mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448538_7c4447aa7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448538_2277304dd7_o.png",
+      "id_image": "worm_2959415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688509_d045f31463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688509_af487034f7_o.png",
+      "id_image": "worm_350973"
+    }
+  ]
+}

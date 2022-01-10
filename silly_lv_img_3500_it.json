@@ -1,0 +1,91 @@
+{
+  "english": "silly",
+  "phat_am": "['sili]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngờ nghệch, ngớ ngẩn, khờ dại, xuẩn ngốc",
+          "list_en_vn": [
+            {
+              "full_en": "to say silly things",
+              "full_vn": "nói điều ngớ ngẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lố bịch, lố lăng trong vẻ ngoài (hành vi..)"
+        },
+        {
+          "m_full_vn": "đứng sát thủ thành (đấu thủ chặn bóng trong cricket)"
+        },
+        {
+          "m_full_vn": "choáng váng, mê mẩn",
+          "list_en_vn": [
+            {
+              "full_en": "to knock somebody silly",
+              "full_vn": "đánh ai choáng váng"
+            },
+            {
+              "full_en": "to go silly over a woman",
+              "full_vn": "quá say mê một người đàn bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ngây thơ; đơn giản, giản dị; yếu đuối",
+          "list_one_mean": [
+            {
+              "id_full_en": "the silly season",
+              "list_im": [
+                {
+                  "im_full_vn": "mùa bàn chuyện dớ dẩn, tầm phào (vào tháng 8, tháng 9, lúc báo chí thiếu tin phải bàn chuyện dớ dẩn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "play silly buggers",
+              "list_im": [
+                {
+                  "im_full_vn": "cư xử xuẩn ngốc, vô trách nhiệm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) người ngờ nghệch, người ngớ ngẩn, người khờ dại (thường) dùng với trẻ em hoặc do trẻ em",
+          "list_en_vn": [
+            {
+              "full_en": "of course I won't leave you alone , you silly !",
+              "full_vn": "ngốc ơi là ngốc, tất nhiên là mẹ sẽ không để con ở nhà một mình!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075655_c46db4e5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075655_af02297ee0_o.png",
+      "id_image": "silly_1815407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453603_5247e71485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453603_855264fcc3_o.png",
+      "id_image": "silly_1815446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338551_73ac4942e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338551_7bd618e581_o.png",
+      "id_image": "silly_4126266"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "turf",
+  "phat_am": "[tə:f]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều turfs , turves",
+      "list_m": [
+        {
+          "m_full_vn": "lớp đất mặt, lớp đất có cỏ",
+          "list_en_vn": [
+            {
+              "full_en": "clipped turf",
+              "full_vn": "lớp đất mặt đã bị xén"
+            },
+            {
+              "full_en": "to lay turf",
+              "full_vn": "trải đất mặt (để làm bãi cỏ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mảng đất mặt, mảng đất có cỏ"
+        },
+        {
+          "m_full_vn": "than bùn để đốt (ở Ireland)"
+        },
+        {
+          "m_full_vn": "( the turf ) trường đua ngựa; cuộc đua ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "one of the most familiar faces on the turf",
+              "full_vn": "một trong những bộ mặt quen nhất trên trường đua ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) hàng xóm láng giềng hoặc đất đai riêng của mình",
+          "list_en_vn": [
+            {
+              "full_en": "on my own turf",
+              "full_vn": "trên chính đất đai của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lát bằng mảng đất có cỏ mọc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to turf somebody /something out (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tống khứ; vứt bỏ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to turf someone out",
+                      "full_vn": "tống cổ ai ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a newly-turfed lawn",
+              "full_vn": "một bãi cỏ mới được trải đất mặt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443713_2819b9b1b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443713_513fe917b1_o.png",
+      "id_image": "turf_2296441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373447_7656099519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373447_5c51cb4a4b_o.png",
+      "id_image": "turf_4977795"
+    }
+  ]
+}

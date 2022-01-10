@@ -1,0 +1,150 @@
+{
+  "english": "shell",
+  "phat_am": "[∫el]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỏ; mai (của trứng, hạt, quả, và một số động vật : tôm, cua, sò hến, rùa..)",
+          "list_en_vn": [
+            {
+              "full_en": "to retire into one's shell",
+              "full_vn": "rút vào vỏ của mình"
+            },
+            {
+              "full_en": "empty coconut shells",
+              "full_vn": "dốc hết nước trong vỏ quả dừa ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấu trúc tạo nên khung hoặc vỏ vững chãi; sườn, hộp",
+          "list_en_vn": [
+            {
+              "full_en": "the metal shell of the aircraft engine",
+              "full_vn": "vỏ bọc bằng kim loại của động cơ máy bay"
+            },
+            {
+              "full_en": "the rigid body shell of a car",
+              "full_vn": "khung sườn rắn chắc của cái ô tô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỏ tàu; tường nhà (chưa tô)"
+        },
+        {
+          "m_full_vn": "vẻ bề ngoài"
+        },
+        {
+          "m_full_vn": "(quân sự) quả đạn pháo, đạn súng cối; (từ Mỹ,nghĩa Mỹ) đạn"
+        },
+        {
+          "m_full_vn": "đốc kiếm"
+        },
+        {
+          "m_full_vn": "áo bluzông (của sĩ quan) (như) shell-jacket"
+        },
+        {
+          "m_full_vn": "(vật lý); (hoá học) vỏ, lớp (điện tích)",
+          "list_en_vn": [
+            {
+              "full_en": "ion shell",
+              "full_vn": "vỏ ion"
+            },
+            {
+              "full_en": "electron shell",
+              "full_vn": "lớp electron"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét đại cương (một kế hoạch)"
+        },
+        {
+          "m_full_vn": "(thơ ca) đàn lia",
+          "list_one_mean": [
+            {
+              "id_full_en": "come out of one's shell",
+              "list_im": [
+                {
+                  "im_full_vn": "ra khỏi vỏ cái vỏ của mình, chan hoà với mọi người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go /retire /withdraw into one's shell",
+              "list_im": [
+                {
+                  "im_full_vn": "chui vào cái vỏ của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bóc vỏ, lột vỏ (quả đậu, tôm...) (như) shuck",
+          "list_en_vn": [
+            {
+              "full_en": "to shell peas",
+              "full_vn": "bóc vỏ đậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phủ vỏ sò, lát bằng vỏ sò"
+        },
+        {
+          "m_full_vn": "bắn pháo, nã pháo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shell off",
+              "list_im": [
+                {
+                  "im_full_vn": "tróc ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shell out (something ) (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trả tiền ( (thường) là miễn cưỡng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shell the enemy positions",
+              "full_vn": "nã pháo vào các vị trí địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082980_46af911274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082980_44f7cbe305_o.png",
+      "id_image": "shell_184328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700644_1dfd937506_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700644_10bc183128_o.png",
+      "id_image": "shell_4516023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700669_9cf6836f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700669_dc95da9dab_o.png",
+      "id_image": "shell_874945"
+    }
+  ]
+}

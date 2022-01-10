@@ -1,0 +1,34 @@
+{
+  "english": "teenage",
+  "phat_am": "['ti:neidʒ]",
+  "list_type": [
+    {
+      "type": "tính từ (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thanh thiếu niên; cho thanh thiếu niên"
+        },
+        {
+          "m_full_vn": "ở tuổi thanh thiếu niên, có tính cách của tuổi thanh thiếu niên",
+          "list_en_vn": [
+            {
+              "full_en": "teenage fashions",
+              "full_vn": "thời trang thanh thiếu niên"
+            },
+            {
+              "full_en": "teenage problems",
+              "full_vn": "những vấn đề của thanh thiếu niên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090405_5684166907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090405_5cc5a52383_o.png",
+      "id_image": "teenage_6263845"
+    }
+  ]
+}

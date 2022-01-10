@@ -1,0 +1,264 @@
+{
+  "english": "waste",
+  "phat_am": "[weist]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ hoang, không có người ở, không canh tác, không sử dụng, không thích hợp để sử dụng (đất)",
+          "list_en_vn": [
+            {
+              "full_en": "waste land",
+              "full_vn": "đất hoang"
+            },
+            {
+              "full_en": "to lie waste",
+              "full_vn": "để hoang; bị bỏ hoang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị tàn phá",
+          "list_en_vn": [
+            {
+              "full_en": "to lay waste",
+              "full_vn": "tàn phá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ đi, vô giá trị, không được dùng nữa, bị thải đi",
+          "list_en_vn": [
+            {
+              "full_en": "waste gas ; waste steam",
+              "full_vn": "khí thừa"
+            },
+            {
+              "full_en": "waste paper",
+              "full_vn": "giấy lộn, giấy vứt đi"
+            },
+            {
+              "full_en": "waste water",
+              "full_vn": "nước thải, nước bẩn đổ đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô vị, buồn tẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "lay something waste",
+              "list_im": [
+                {
+                  "im_full_vn": "phá hủy mùa màng, tàn phá (đất.. nhất là trong chiến tranh)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the waste periods of history",
+              "full_vn": "những thời kỳ vô vị của lịch sử"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) số nhiều) hoang mạc, vùng hoang vu; sa mạc",
+          "list_en_vn": [
+            {
+              "full_en": "the arid wastes of the Sahara",
+              "full_vn": "sa mạc khô cằn Sahara"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) cảnh thê lương, cảnh buồn thảm",
+          "list_en_vn": [
+            {
+              "full_en": "the derelict waste of disused factories",
+              "full_vn": "cảnh thuê lương, bỏ hoang của những nhà máy không còn hoạt động nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rác rưởi, đồ thải, thức ăn thừa",
+          "list_en_vn": [
+            {
+              "full_en": "radioactive waste from nuclear power stations",
+              "full_vn": "chất thải phóng xạ của các nhà máy điện hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vật thải ra, vật vô giá trị không dùng nữa",
+          "list_en_vn": [
+            {
+              "full_en": "printing waste",
+              "full_vn": "giấy in còn lại; giấy vụn sau khi đóng sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phung phí, sự lãng phí; sự bị lãng phí, sự bị phung phí",
+          "list_one_mean": [
+            {
+              "id_full_en": "go /run to waste",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lãng phí; uổng phí"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it's a sheer waste of time",
+              "full_vn": "thật chỉ phí thì giờ"
+            },
+            {
+              "full_en": "to run (go ) to waste",
+              "full_vn": "uổng phí đi"
+            },
+            {
+              "full_en": "to prevent a waste of gas",
+              "full_vn": "để ngăn ngừa sự hao phí hơi đốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lãng phí, uổng phí",
+          "list_en_vn": [
+            {
+              "full_en": "to waste one's time",
+              "full_vn": "lãng phí thì giờ"
+            },
+            {
+              "full_en": "to waste one's words",
+              "full_vn": "nói uổng lời"
+            },
+            {
+              "full_en": "waste not , want not",
+              "full_vn": "không phung phí thì không túng thiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không sử dụng đầy đủ (một người hoặc những khả năng của anh ra)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bỏ qua, để lỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to waste one's chance",
+              "full_vn": "để lỡ cơ hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ hoang (đất đai)"
+        },
+        {
+          "m_full_vn": "tàn phá"
+        },
+        {
+          "m_full_vn": "làm hao mòn; làm yếu đi, làm gầy đi",
+          "list_en_vn": [
+            {
+              "full_en": "a wasting disease",
+              "full_vn": "một bệnh làm hao mòn sức khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) làm hư hỏng, làm mất phẩm chất (của vật gì)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lãng phí, uổng phí",
+          "list_en_vn": [
+            {
+              "full_en": "don't let water waste",
+              "full_vn": "đừng để nước chảy phí đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hao mòn",
+          "list_en_vn": [
+            {
+              "full_en": "to waste away",
+              "full_vn": "gầy mòn ốm yếu đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) trôi qua (ngày, tháng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the day wastes",
+              "full_vn": "ngày trôi qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + away ) ốm yếu gầy mòn đi (người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to waste one's breath (on somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "phí lời, hoài hơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "waste not , want not",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không phung phí thì không túng thiếu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336111_1c338629f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336111_e4c87977e4_o.png",
+      "id_image": "waste_2372112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336161_f7a68d2d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336161_a4d2055862_o.png",
+      "id_image": "waste_315286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691469_91f26bdab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691469_13e28c962d_o.png",
+      "id_image": "waste_416237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691364_c22242b939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691364_9a131301ee_o.png",
+      "id_image": "waste_4465658"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "yawn",
+  "phat_am": "[jɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cử chỉ ngáp",
+          "list_en_vn": [
+            {
+              "full_en": "to give a yawn",
+              "full_vn": "ngáp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khe hở"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "há miệng, toác ra, mở ra (đồ vật)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vừa nói vừa ngáp",
+          "list_en_vn": [
+            {
+              "full_en": "to yawn goodnight",
+              "full_vn": "vừa ngáp vừa chào để đi ngủ"
+            },
+            {
+              "full_en": "\"its' very late \", he yawned",
+              "full_vn": "anh ta vừa ngáp vừa nói \"khuya lắm rồi\""
+            },
+            {
+              "full_en": "to yawn one's head off",
+              "full_vn": "ngáp sái quai hàm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446223_3b6453653b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446223_71558d0bfd_o.png",
+      "id_image": "yawn_1128905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686234_b1b02020e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686234_ee161247ab_o.png",
+      "id_image": "yawn_1128961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686189_c342a944f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686189_6f63606c98_o.png",
+      "id_image": "yawn_5509051"
+    }
+  ]
+}

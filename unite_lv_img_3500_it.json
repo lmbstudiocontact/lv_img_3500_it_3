@@ -1,0 +1,70 @@
+{
+  "english": "unite",
+  "phat_am": "[ju:'nait]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to unite somebody / something with somebody / something ) làm cho nhiều người hoặc vật trở thành một; hợp lại; kết hợp; hợp nhất; đoàn kết",
+          "list_en_vn": [
+            {
+              "full_en": "to unite one town with another",
+              "full_vn": "hợp nhất hai thành phố"
+            },
+            {
+              "full_en": "to unite bricks with cement",
+              "full_vn": "dùng xi măng kết những viên gạch lại"
+            },
+            {
+              "full_en": "the two parties have united to form a coalition",
+              "full_vn": "hai đảng đã kết hợp để lập ra một liên minh"
+            },
+            {
+              "full_en": "after three years in prison , he was again united with his wife and family",
+              "full_vn": "sau ba năm ở tù, nó lại đoàn tụ với vợ và gia đình"
+            },
+            {
+              "full_en": "the common interests that united our two countries",
+              "full_vn": "quyền lợi chung đã đoàn kết hai nước chúng ta lại"
+            },
+            {
+              "full_en": "workers of the world , unite !",
+              "full_vn": "vô sản toàn thế giới, liên hiệp lại!"
+            },
+            {
+              "full_en": "let's unite to fight our common enemy",
+              "full_vn": "chúng ta hãy đoàn kết lại để chiến đấu chống kẻ thù chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to unite in something / doing something ) cùng nhau hành động hoặc làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "we should unite in fighting /unite to fight poverty and disease",
+              "full_vn": "chúng ta phải cùng nhau hành động đấu tranh chống nạn đói nghèo và bệnh tật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707419_5ffe539df0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707419_072e26a491_o.png",
+      "id_image": "unite_232954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707384_aaf6089474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707384_25b15ee093_o.png",
+      "id_image": "unite_2844578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707364_3a47224953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707364_c6a43300c2_o.png",
+      "id_image": "unite_5376888"
+    }
+  ]
+}

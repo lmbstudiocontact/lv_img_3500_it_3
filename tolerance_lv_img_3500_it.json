@@ -1,0 +1,61 @@
+{
+  "english": "tolerance",
+  "phat_am": "['tɔlərəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khoan dung, lòng khoan dung; sự tha thứ",
+          "list_en_vn": [
+            {
+              "full_en": "religious /racial tolerance",
+              "full_vn": "sự khoan dung tôn giáo/chủng tộc"
+            },
+            {
+              "full_en": "to show great tolerance",
+              "full_vn": "tỏ ra khoan dung đại lượng"
+            },
+            {
+              "full_en": "as the addict's tolerance increases , he requires ever larger doses of the drug",
+              "full_vn": "do sức chịu đựng của người nghiện tăng lên, anh ta đòi hỏi các liều ma túy ngày càng lớn hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chịu đựng; sức chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "tolerance of heat",
+              "full_vn": "sự chịu đựng sức nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự chịu được thuốc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) dung sai (kích cỡ, khối lượng.. của một bộ phận có thể dao động mà không gây tác hại)",
+          "list_en_vn": [
+            {
+              "full_en": "working to a tolerance of 0.0001 of an inch /to very fine tolerances",
+              "full_vn": "hoạt động với độ dung sai 0, 0001 inxơ/với độ dung sai rất nhỏ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389882_0d003fc492_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389882_e5186f2677_o.png",
+      "id_image": "tolerance_6032489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459778_0a37e690de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459778_b88bb79a62_o.png",
+      "id_image": "tolerance_708655"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "submit",
+  "phat_am": "[səb'mit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trình, đệ trình, đưa ra để xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "to submit an essay to one's tutor",
+              "full_vn": "đưa bài tiểu luận cho thầy hướng dẫn xem"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) biện hộ; lập luận; gợi ý",
+          "list_en_vn": [
+            {
+              "full_en": "the case , I would submit , is not proven",
+              "full_vn": "tôi xin nêu lên là vụ này không có chứng cớ gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chịu phục tùng, qui phục, ngừng phản kháng",
+          "list_en_vn": [
+            {
+              "full_en": "to submit to discipline",
+              "full_vn": "phục tùng kỷ luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu, trải qua (một quá trình..)",
+          "list_en_vn": [
+            {
+              "full_en": "to submit to defeat",
+              "full_vn": "cam chịu thất bại"
+            },
+            {
+              "full_en": "will never submit",
+              "full_vn": "không bao giờ chịu quy phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trịnh trọng trình bày",
+          "list_en_vn": [
+            {
+              "full_en": "that , I submit , is a false inference",
+              "full_vn": "tôi xin trịnh trọng trình bày rằng đó là một sự suy luận sai lầm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385227_edb7e038d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385227_ea87471407_o.png",
+      "id_image": "submit_2680985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340226_dd4a2fe7af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340226_9cfbd5b1f5_o.png",
+      "id_image": "submit_4047156"
+    }
+  ]
+}

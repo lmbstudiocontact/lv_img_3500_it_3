@@ -1,0 +1,42 @@
+{
+  "english": "utensil",
+  "phat_am": "[ju:'tensl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dùng, dụng cụ, cái đựng (chủ yếu là để dùng hàng ngày trong gia đình)",
+          "list_en_vn": [
+            {
+              "full_en": "kitchen (cooking ) utensils",
+              "full_vn": "đồ dùng nhà bếp, đồ dùng nấu ăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395347_e1fa8d5a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395347_ec53067610_o.png",
+      "id_image": "utensil_2130800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465098_e7f1f8243c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465098_95bf15c8ce_o.png",
+      "id_image": "utensil_3468434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087705_3ace4eb39d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087705_daf05d43c8_o.png",
+      "id_image": "utensil_4975063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087670_b9d807e133_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087670_d1f47b204a_o.png",
+      "id_image": "utensil_4975077"
+    }
+  ]
+}

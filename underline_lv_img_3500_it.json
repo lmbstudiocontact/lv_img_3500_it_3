@@ -1,0 +1,57 @@
+{
+  "english": "underline",
+  "phat_am": "[,ʌndə'lain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường gạch dưới, nét gạch dưới (một chữ trong văn bản)"
+        },
+        {
+          "m_full_vn": "(sân khấu) dòng quảng cáo (dưới một bức tranh quảng cáo kịch)"
+        },
+        {
+          "m_full_vn": "( số nhiều) tờ lồng; dòng kẻ (để viết giấy pơ-luya)"
+        },
+        {
+          "m_full_vn": "dòng đề, dòng thuyết minh (dưới bức tranh; bức vẽ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ (như) underscore",
+      "list_m": [
+        {
+          "m_full_vn": "gạch dưới (một chữ trong văn bản)",
+          "list_en_vn": [
+            {
+              "full_en": "to underlinen a sentence",
+              "full_vn": "gạch dưới một câu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng cường (một thái độ, một tình huống..); nhấn mạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353871_fef1003db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353871_1b4cb4e253_o.png",
+      "id_image": "underline_1994395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468653_686ee01878_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468653_f11c772572_o.png",
+      "id_image": "underline_264253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091240_e88fc3099f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091240_a8078c71ee_o.png",
+      "id_image": "underline_391338"
+    }
+  ]
+}

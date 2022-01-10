@@ -1,0 +1,122 @@
+{
+  "english": "tree",
+  "phat_am": "[tri:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây",
+          "list_en_vn": [
+            {
+              "full_en": "an oak tree",
+              "full_vn": "cây sồi"
+            },
+            {
+              "full_en": "an ash tree",
+              "full_vn": "cây tầng bì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là trong các từ ghép) miếng gỗ, vật liệu dùng vào những mục đích nào đó (cái nòng giày, cái cốt yên, trục bánh xe..)",
+          "list_en_vn": [
+            {
+              "full_en": "a shoe-tree",
+              "full_vn": "cái nòng giày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) giá chữ thập"
+        },
+        {
+          "m_full_vn": "biểu đồ hình cây, sơ đồ hình cây",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the top of the tree",
+              "list_im": [
+                {
+                  "im_full_vn": "ở bậc cao nhất của ngành nghề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up a treen",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) gặp khó khăn lúng túng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bark up the wrong tree",
+              "list_im": [
+                {
+                  "im_full_vn": "phạm hành động sai lầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up a tree",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) gặp khó khăn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a genealogical tree",
+              "full_vn": "cây phả hệ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ treed",
+      "list_m": [
+        {
+          "m_full_vn": "bắt phải nấp trên cây, bắt phải trốn trên cây",
+          "list_en_vn": [
+            {
+              "full_en": "the dog treed the cat",
+              "full_vn": "con chó làm cho con mèo phải trốn lên trên cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho nòng vào"
+        },
+        {
+          "m_full_vn": "hãm vào vòng khó khăn lúng túng",
+          "list_en_vn": [
+            {
+              "full_en": "to be treed",
+              "full_vn": "gặp bước khó khăn, gặp bước đường cùng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072020_10e2a973f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072020_eb9b8776bd_o.png",
+      "id_image": "tree_517620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450078_b18f1457bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450078_eaa4851352_o.png",
+      "id_image": "tree_520083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690164_09bb8a55b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690164_b80e1ba79b_o.png",
+      "id_image": "tree_622127"
+    }
+  ]
+}

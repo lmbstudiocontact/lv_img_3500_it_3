@@ -1,0 +1,66 @@
+{
+  "english": "sift",
+  "phat_am": "[sift]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giần, sàng, rây",
+          "list_en_vn": [
+            {
+              "full_en": "to sift the flour",
+              "full_vn": "rây bột mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rắc",
+          "list_en_vn": [
+            {
+              "full_en": "to sift sugar over a cake",
+              "full_vn": "rắc đường lên bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem xét, chọn lọc (sự kiện về mặt chính xác, thật hư); phân tích tính chất của"
+        },
+        {
+          "m_full_vn": "tách rời cái gì ra khỏi cái gì bằng sàng, rây, giần",
+          "list_en_vn": [
+            {
+              "full_en": "to sift the wheat from the chaff",
+              "full_vn": "sàng lúa mì để bỏ trấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơi lấm tấm như bột rây (mưa, tuyết)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077550_b0df889205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077550_ab59c5b192_o.png",
+      "id_image": "sieve_1027108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340231_04653ea4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340231_ba3c9a7ef1_o.png",
+      "id_image": "sieve_3690118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455103_87085047ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455103_fa3e330b88_o.png",
+      "id_image": "sieve_5900472"
+    }
+  ]
+}

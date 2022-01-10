@@ -1,0 +1,56 @@
+{
+  "english": "tropical",
+  "phat_am": "['trɔpikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nhiệt đới; có tính chất nhiệt đới, giống như vùng nhiệt đới, tìm thấy ở vùng nhiệt đới",
+          "list_en_vn": [
+            {
+              "full_en": "tropical fruit",
+              "full_vn": "trái cây vùng nhiệt đới"
+            },
+            {
+              "full_en": "tropical forest",
+              "full_vn": "rừng nhiệt đới"
+            },
+            {
+              "full_en": "a tropical climate",
+              "full_vn": "khí hậu nhiệt đới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nồng cháy, nồng nhiệt"
+        },
+        {
+          "m_full_vn": "(văn học) tá dụ; giả tá",
+          "list_one_mean": [
+            {
+              "id_full_en": "tropical year",
+              "list_im": [
+                {
+                  "im_full_vn": "năm dương lịch"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687304_73fd9436df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687304_15cdef54c0_o.png",
+      "id_image": "tropical_1890062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687234_5b2351f0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687234_207fa5c5ab_o.png",
+      "id_image": "tropical_3038816"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "translation",
+  "phat_am": "[træns'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dịch",
+          "list_en_vn": [
+            {
+              "full_en": "a good translation",
+              "full_vn": "một bản dịch tốt"
+            },
+            {
+              "full_en": "errors in translation",
+              "full_vn": "những sai lầm trong khi dịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản dịch, bài dịch; cái được dịch",
+          "list_en_vn": [
+            {
+              "full_en": "a literal translation",
+              "full_vn": "bản dịch từng chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển sang, sự biến thành"
+        },
+        {
+          "m_full_vn": "sự giải thích, sự coi là"
+        },
+        {
+          "m_full_vn": "sự thuyên chuyển (một giám mục) sang địa phận khác"
+        },
+        {
+          "m_full_vn": "sự truyền lại, sự truyền đạt lại (một bức điện)"
+        },
+        {
+          "m_full_vn": "(toán học); (kỹ thuật) sự tịnh tiến",
+          "list_one_mean": [
+            {
+              "id_full_en": "in translation",
+              "list_im": [
+                {
+                  "im_full_vn": "dịch sang tiếng khác; không phải nguyên ngữ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452338_9a9f8b598d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452338_bba145ce1d_o.png",
+      "id_image": "translation_6090999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382507_e8f39a50b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382507_23ee5df5f0_o.png",
+      "id_image": "translation_6091180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074510_4c1cd01d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074510_7d1a55727c_o.png",
+      "id_image": "translation_6091217"
+    }
+  ]
+}

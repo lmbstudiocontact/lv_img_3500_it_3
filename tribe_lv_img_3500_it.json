@@ -1,0 +1,42 @@
+{
+  "english": "tribe",
+  "phat_am": "[traib]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ tộc, bộ lạc (nhất là trong văn hoá nguyên thủy hoặc du mục)"
+        },
+        {
+          "m_full_vn": "lũ, bọn, tụi, nhóm"
+        },
+        {
+          "m_full_vn": "nhóm động vật, nhóm thực vật có liên quan"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (thông tục) (đùa cợt) số lượng rất đông người",
+          "list_en_vn": [
+            {
+              "full_en": "tribes of holiday-makers",
+              "full_vn": "những đám người đi nghỉ hè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) tông"
+        },
+        {
+          "m_full_vn": "giới, lớp người"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688844_1307348ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688844_5c2ee07c86_o.png",
+      "id_image": "tribe_3787994"
+    }
+  ]
+}

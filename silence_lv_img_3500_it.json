@@ -1,0 +1,137 @@
+{
+  "english": "silence",
+  "phat_am": "['sailidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự im lặng; sự nín thinh",
+          "list_en_vn": [
+            {
+              "full_en": "silence gives consent",
+              "full_vn": "làm thinh là đồng tình; im lặng là chấp thuận"
+            },
+            {
+              "full_en": "all my questions were met with silence from the prisoner of war",
+              "full_vn": "mọi câu hỏi của tôi đều được tên tù binh đáp lại bằng sự nín lặng (tên tù binh không trả lời câu hỏi nào của tôi cả)"
+            },
+            {
+              "full_en": "to reduce somebody to silence",
+              "full_vn": "khiến ai phải nín thinh"
+            },
+            {
+              "full_en": "after five years' silence , he began going into business",
+              "full_vn": "sau năm năm im hơi lặng tiếng, anh ta bắt đầu đi vào con đường kinh doanh"
+            },
+            {
+              "full_en": "to buy the silence of a witness",
+              "full_vn": "mua sự im lặng của một nhân chứng (trả tiền để người ấy khỏi nói sự thật)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự im hơi lặng tiếng; thời gian mà ai im lặng",
+          "list_en_vn": [
+            {
+              "full_en": "a tête-à-tête with many silences",
+              "full_vn": "một cuộc nói chuyện tay đôi với nhiều lúc im lặng"
+            },
+            {
+              "full_en": "there was a brief silence , followed by boos",
+              "full_vn": "tiếp theo một khoảng im lặng ngắn ngủi là những tiếng hò hét phản đối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự yên lặng; sự yên tĩnh; sự tĩnh mịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "in silence",
+              "list_im": [
+                {
+                  "im_full_vn": "không nói; không làm tiếng động; một cách im lặng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to listen to a song in silence",
+                      "full_vn": "im lặng lắng nghe một bài hát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "silence is golden",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) im lặng là vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a pregnant pause /silence",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pregnant"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the silence of the night",
+              "full_vn": "sự tĩnh mịch của đêm khuya"
+            },
+            {
+              "full_en": "a few shots shattered the silence",
+              "full_vn": "một vài phát súng phá tan bầu không khí tĩnh mịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt phải im; bắt phải câm họng; làm cho ai nín lặng",
+          "list_en_vn": [
+            {
+              "full_en": "to silence the enemy's batteries",
+              "full_vn": "bắt pháo địch phải câm họng"
+            },
+            {
+              "full_en": "to silence the best debaters",
+              "full_vn": "làm cho những vị tranh luận cừ khôi nhất cũng phải cứng họng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453893_27af60f42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453893_e577fa6104_o.png",
+      "id_image": "silence_1201895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075950_8f8b8f2a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075950_0060d9d231_o.png",
+      "id_image": "silence_1450731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453848_76f1dca1c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453848_b058d94e16_o.png",
+      "id_image": "silence_1464062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076070_74075e2450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076070_b35384b874_o.png",
+      "id_image": "silence_631751"
+    }
+  ]
+}

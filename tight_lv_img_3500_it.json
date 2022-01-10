@@ -1,0 +1,194 @@
+{
+  "english": "tight",
+  "phat_am": "[tait]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kín, không thấm, không rỉ",
+          "list_en_vn": [
+            {
+              "full_en": "a tight ship",
+              "full_vn": "một cái tàu kín nước không rỉ vào được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặt; khó cử động, khó cởi bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a tight knot",
+              "full_vn": "một nút thắt"
+            },
+            {
+              "full_en": "the cork is too tight",
+              "full_vn": "nút chai chặt quá"
+            },
+            {
+              "full_en": "a tight grasp",
+              "full_vn": "sự ôm chặt, sự ghì chặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chật, chặt, khít, bó sát",
+          "list_en_vn": [
+            {
+              "full_en": "tight shoes",
+              "full_vn": "giày chật"
+            },
+            {
+              "full_en": "tight trousers",
+              "full_vn": "quần bó sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong các tính từ ghép) làm cho một vật gì đó không lọt vào được, không thoát ra được",
+          "list_en_vn": [
+            {
+              "full_en": "airtight",
+              "full_vn": "kín hơi, kín gió"
+            },
+            {
+              "full_en": "watertight",
+              "full_vn": "kín nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có những vật xếp sát vào nhau, có những người xếp sát vào nhau",
+          "list_en_vn": [
+            {
+              "full_en": "a tight mass of fibres",
+              "full_vn": "một mớ sợi bó chặt"
+            },
+            {
+              "full_en": "a tight schedule",
+              "full_vn": "một thời gian biểu khít rịt (ít có thời gian rỗi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "căng hết mức; kéo căng",
+          "list_en_vn": [
+            {
+              "full_en": "a tight rope",
+              "full_vn": "một sợi dây thừng căng"
+            },
+            {
+              "full_en": "amy chest feels rather tight",
+              "full_vn": "tôi cảm thấy hơi khó thở (vì hen..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngang tài ngang sức, căng thẳng, gay go (về một cuộc đấu..)",
+          "list_en_vn": [
+            {
+              "full_en": "a tight match",
+              "full_vn": "một trận đấu căng thẳng (gay go)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó khăn; không dễ có được (về tiền; vay ngân hàng..)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a tight place (corner )",
+              "full_vn": "(nghĩa bóng) gặp hoàn cảnh khó khăn"
+            },
+            {
+              "full_en": "money is tight",
+              "full_vn": "tiền khó kiếm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khan hiếm, tín dụng rất hạn chế (về thị trường tiền tệ)"
+        },
+        {
+          "m_full_vn": "(thông tục) keo cú, biển lận",
+          "list_en_vn": [
+            {
+              "full_en": "she's tight with her money",
+              "full_vn": "bà ta rất chắt bóp đồng tiền của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) say",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep a tight rein on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "siết chặt; kiềm chế chặt chẽ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tight squeeze",
+              "list_im": [
+                {
+                  "im_full_vn": "tình huống tù túng hoặc chật chội, không tự do, không thoải mái"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to got a bit tight at the party",
+              "full_vn": "chuếnh choáng say tại bữa tiệc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "kín, sít, khít, khít khao",
+          "list_en_vn": [
+            {
+              "full_en": "to shut tight",
+              "full_vn": "đóng kín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặt (không đứng trước một phân từ quá khứ)",
+          "list_en_vn": [
+            {
+              "full_en": "hold tight !",
+              "full_vn": "hãy giữ cho chặt!"
+            },
+            {
+              "full_en": "to be packed as tight as herrings in a barrel",
+              "full_vn": "bị nhét chặt như cá hộp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462518_ca0fc4dcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462518_63c15d1516_o.png",
+      "id_image": "tights_2093998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462548_71b5e105da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462548_a335cd0afd_o.png",
+      "id_image": "tights_387415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085020_f2d7285a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085020_9d06e1e8c6_o.png",
+      "id_image": "tights_4321447"
+    }
+  ]
+}

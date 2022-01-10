@@ -1,0 +1,282 @@
+{
+  "english": "sleep",
+  "phat_am": "[sli:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấc ngủ; sự ngủ; thời gian ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "in one's sleep",
+              "full_vn": "trong khi ngủ"
+            },
+            {
+              "full_en": "the sleep of just",
+              "full_vn": "giấc ngủ ngon"
+            },
+            {
+              "full_en": "sleep that knows no breaking",
+              "full_vn": "giấc ngàn thu"
+            },
+            {
+              "full_en": "broken sleep",
+              "full_vn": "giấc ngủ trằn trọc"
+            },
+            {
+              "full_en": "to go to sleep",
+              "full_vn": "đi ngủ"
+            },
+            {
+              "full_en": "to fall on sleep",
+              "full_vn": "(từ cổ,nghĩa cổ) đi ngủ; (nghĩa bóng) chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nhử mắt (chất đọng lại ở khoé mắt trong giấc ngủ)"
+        },
+        {
+          "m_full_vn": "sự nghỉ ngơi, sự tĩnh dưỡng"
+        },
+        {
+          "m_full_vn": "sự chết",
+          "list_one_mean": [
+            {
+              "id_full_en": "go to sleep",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ"
+                },
+                {
+                  "im_full_vn": "(thông tục) bị tê dại vì không cử động được (chân, tay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put somebody to sleep",
+              "list_im": [
+                {
+                  "im_full_vn": "gây mê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put (an animal ) to sleep",
+              "list_im": [
+                {
+                  "im_full_vn": "chủ tâm giết (một con vật)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ slept",
+      "list_m": [
+        {
+          "m_full_vn": "ngủ, ở trong tình trạng ngủ"
+        },
+        {
+          "m_full_vn": "ngủ giấc ngàn thu"
+        },
+        {
+          "m_full_vn": "ngủ trọ, ngủ đỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to sleep at a boarding-house",
+              "full_vn": "ngủ ở nhà trọ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) ngủ, ăn nằm (với ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to sleep around",
+              "full_vn": "ăn nằm lang chạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nằm yên",
+          "list_en_vn": [
+            {
+              "full_en": "sword sleeps in scabbard",
+              "full_vn": "gươm nằm yên trong bao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngủ (một giấc ngủ)",
+          "list_en_vn": [
+            {
+              "full_en": "to sleep the sleep of the just",
+              "full_vn": "ngủ một giấc ngủ ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có đủ giừơng cho (một số người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sleep away",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ cho qua (ngày giờ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sleep hours away",
+                      "full_vn": "ngủ cho qua giờ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ đã sức"
+                },
+                {
+                  "im_full_vn": "ngủ cho hết (tác dụng của cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sleep off one's headache",
+                      "full_vn": "ngủ cho hết nhức đầu"
+                    },
+                    {
+                      "full_en": "to sleep it off",
+                      "full_vn": "ngủ cho giã rượu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep on ; to sleep upon ; to sleep over",
+              "list_im": [
+                {
+                  "im_full_vn": "gác đến ngày mai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sleep on a question",
+                      "full_vn": "gác một vấn đề đến ngày mai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the top sleeps",
+              "list_im": [
+                {
+                  "im_full_vn": "con cù quay tít"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let sleeping dogs lie",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đừng dính vào mà sinh chuyện; đừng đụng vào tổ kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep like a log /top",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngủ say như chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep rough",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ vạ vật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep the sleep of the just",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ ngáy o o"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep tight",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngủ say, ngủ yên (nhất là dạng mệnh lệnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep around",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lang chạ; quan hệ lăng nhăng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep through something",
+              "list_im": [
+                {
+                  "im_full_vn": "không bị đánh thức bởi (một tiếng động..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sleep out",
+              "list_im": [
+                {
+                  "im_full_vn": "không ngủ ở nhà, ngủ ngoài trời"
+                },
+                {
+                  "im_full_vn": "không ngủ ở nơi làm việc (đầy tớ, người hầu trước đây)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this lodging sleeps 50 men",
+              "full_vn": "chỗ trọ này có đủ chỗ ngủ cho 50 người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378912_dc7331dfc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378912_b1b26f4770_o.png",
+      "id_image": "sleep_1552312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071035_8b9563227d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071035_9dde1d8741_o.png",
+      "id_image": "sleep_2843712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689154_a38528a202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689154_2430be910c_o.png",
+      "id_image": "sleep_392786"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "wheelie",
+  "phat_am": "['wi:li]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi một bánh (hành động đi xe đạp hoặc mô tô trên một bánh sau, bánh trước nhấc khỏi mặt đất)",
+          "list_en_vn": [
+            {
+              "full_en": "do a wheelie",
+              "full_vn": "đi một bánh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375972_95d4e077d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375972_905d985d90_o.png",
+      "id_image": "wheelie_6010793"
+    }
+  ]
+}

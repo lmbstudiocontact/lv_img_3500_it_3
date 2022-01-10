@@ -1,0 +1,268 @@
+{
+  "english": "sick",
+  "phat_am": "[sik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không được khoẻ về thể xác hoặc tinh thần; ốm; bị bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "a sick person /animal /plant",
+              "full_vn": "người/con vật/cây mắc bệnh"
+            },
+            {
+              "full_en": "she has been sick for weeks",
+              "full_vn": "chị ấy bị ốm đã mấy tuần nay"
+            },
+            {
+              "full_en": "he's off (work ) sick",
+              "full_vn": "anh ấy nghỉ ốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ bị nôn; buồn nôn",
+          "list_en_vn": [
+            {
+              "full_en": "to feel sick",
+              "full_vn": "cảm thấy buồn nôn"
+            },
+            {
+              "full_en": "a sick feeling in the stomach",
+              "full_vn": "cảm giác nôn nao trong dạ dày"
+            },
+            {
+              "full_en": "you'll make yourself sick if you eat all those sweets",
+              "full_vn": "nếu ăn hết những chiếc kẹo này, con sẽ bị nôn nao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sick of somebody / something / doing something ) chán ngấy",
+          "list_en_vn": [
+            {
+              "full_en": "I'm sick of waiting around like this",
+              "full_vn": "tôi chán ngấy cái cảnh chờ đợi loanh quanh mãi thể này"
+            },
+            {
+              "full_en": "she has had the same job and is heartily sick of it",
+              "full_vn": "cô ta làm mãi một công việc đó suốt mấy năm và chán nó lắm rồi"
+            },
+            {
+              "full_en": "Get out ! I'm sick of the sight of you !",
+              "full_vn": "Đi ra! Tôi chán ngấy khi phải nhìn thấy anh!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sick at / about something / doing something ) đau khổ, chán ghét",
+          "list_en_vn": [
+            {
+              "full_en": "we were pretty sick about losing the match",
+              "full_vn": "chúng tôi khá đau khổ vì thua trận đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chướng tai gai mắt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be sick",
+              "list_im": [
+                {
+                  "im_full_vn": "nôn thức ăn ra khỏi dạ dày; nôn mửa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the cat's been sick on the carpet",
+                      "full_vn": "con mèo đã mửa ra thảm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat oneself sick",
+              "list_im": [
+                {
+                  "im_full_vn": "xem eat"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall sick (with something ); to take sick",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc bệnh; ốm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she fell sick with malaria on a trip to Africa",
+                      "full_vn": "cô ta ngã bệnh sốt rét trong một chuyến đi châu Phi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh oneself silly /sick",
+              "list_im": [
+                {
+                  "im_full_vn": "xem laugh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody sick",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mếch lòng ai; làm cho ai kinh tởm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his hypocrisy makes me sick",
+                      "full_vn": "thái độ đạo đức giả của nó khiến tôi kinh tởm"
+                    },
+                    {
+                      "full_en": "it makes me sick to see her being treated so badly",
+                      "full_vn": "tôi cảm thấy bị xúc phạm khi thấy nàng bị đối xử tệ đến thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the sick-list",
+              "list_im": [
+                {
+                  "im_full_vn": "vắng mặt vì ốm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as sick as a parrot",
+              "list_im": [
+                {
+                  "im_full_vn": "ghê tởm; chán ghét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sick at heart",
+              "list_im": [
+                {
+                  "im_full_vn": "đau buồn, khổ sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sick to death of /sick and tired of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chán/bực bội ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "sick to death of eating boiled cabbage with every meal",
+                      "full_vn": "bữa nào cũng ăn cải luộc chán muốn chết"
+                    },
+                    {
+                      "full_en": "I'm sick and tired of your constant complaints",
+                      "full_vn": "tôi quá nhàm chán những lời oán trách triền miên của anh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sick joke , mind",
+              "full_vn": "lời đùa chướng tai, đầu óc bệnh hoạn"
+            },
+            {
+              "full_en": "sick humour",
+              "full_vn": "khôi hài độc địa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những gì bị nôn mửa ra",
+          "list_en_vn": [
+            {
+              "full_en": "the basin was full of sick",
+              "full_vn": "cái chậu đầy những chất nôn mửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the sick ) những người ốm",
+          "list_en_vn": [
+            {
+              "full_en": "all the sick and wounded",
+              "full_vn": "tất cả những người ốm và người vị thương"
+            },
+            {
+              "full_en": "to visit the sick in hospital",
+              "full_vn": "đến thăm người ốm tại bệnh viện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to sick something up ) nôn (thức ăn) từ dạ dày; mửa; oẹ"
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "(tạo nên tính từ ghép) cảm thấy buồn nôn; say",
+          "list_en_vn": [
+            {
+              "full_en": "seasick",
+              "full_vn": "say sóng"
+            },
+            {
+              "full_en": "airsick",
+              "full_vn": "say máy bay"
+            },
+            {
+              "full_en": "travel-sick",
+              "full_vn": "say (do đi) đường xa"
+            },
+            {
+              "full_en": "carsick",
+              "full_vn": "say (do ngồi trong) xe hơi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385537_68417affa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385537_414f287772_o.png",
+      "id_image": "sick_1128913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340546_b17a85e234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340546_627bc9cbff_o.png",
+      "id_image": "sick_2707348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340601_7ef4e4b06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340601_d0dd6bfa84_o.png",
+      "id_image": "sick_501135"
+    }
+  ]
+}

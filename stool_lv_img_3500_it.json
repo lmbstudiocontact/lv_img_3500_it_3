@@ -1,0 +1,75 @@
+{
+  "english": "stool",
+  "phat_am": "[stu:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế đẩu",
+          "list_en_vn": [
+            {
+              "full_en": "a bar stool",
+              "full_vn": "một chiếc ghế cao ở quầy giải khát"
+            },
+            {
+              "full_en": "sitting on stools around the table",
+              "full_vn": "ngồi trên các ghế đẩu quanh bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) phân; chất thải rắn từ cơ thể (người)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) ngưỡng cửa sổ"
+        },
+        {
+          "m_full_vn": "gốc cây (bị đốn)"
+        },
+        {
+          "m_full_vn": "thanh (gỗ để) buộc chim mồi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (như) stool-pigeon",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fall betweeen two stools",
+              "list_im": [
+                {
+                  "im_full_vn": "lưỡng lự giữa hai con đường đâm thành xôi hỏng bỏng không"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mọc chồi gốc, đâm chồi gốc"
+        },
+        {
+          "m_full_vn": "đi tiêu; đi ỉa"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) làm cò mồi; làm chỉ điểm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345326_5f2e251bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345326_97a04947eb_o.png",
+      "id_image": "stool_123782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700459_8d1bcf7ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700459_2f3dc1f834_o.png",
+      "id_image": "stool_1930598"
+    }
+  ]
+}

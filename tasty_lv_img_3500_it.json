@@ -1,0 +1,32 @@
+{
+  "english": "tasty",
+  "phat_am": "['teisti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngon, đầy hương vị",
+          "list_en_vn": [
+            {
+              "full_en": "a tasty dish",
+              "full_vn": "một món ngon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354231_97d1611006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354231_2d3f13fe7d_o.png",
+      "id_image": "tasty_1612477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468893_842cbd8eb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468893_3e4c22cc41_o.png",
+      "id_image": "tasty_3508656"
+    }
+  ]
+}

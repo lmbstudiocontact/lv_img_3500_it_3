@@ -1,0 +1,37 @@
+{
+  "english": "visualization",
+  "phat_am": "[,vi∫uəlai'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hình dung, sự mường tượng (vật không thấy trước mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "powers of visualization",
+              "full_vn": "năng lực tưởng tượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386922_e8045c112a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386922_d7a88baf38_o.png",
+      "id_image": "visualization_2620706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079295_4bc6527029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079295_b52cde940b_o.png",
+      "id_image": "visualization_3308869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079350_8314649f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079350_000a8e539f_o.png",
+      "id_image": "visualization_538084"
+    }
+  ]
+}

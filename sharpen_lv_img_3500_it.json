@@ -1,0 +1,70 @@
+{
+  "english": "sharpen",
+  "phat_am": "['∫ɑ:pən]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mài, vót cho nhọn, làm cho sắc, làm cho nhọn, làm cho nhạy",
+          "list_en_vn": [
+            {
+              "full_en": "to sharpen a pencil",
+              "full_vn": "vót bút chì, chuốt viết chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mài sắc, làm cho nhạy bén",
+          "list_en_vn": [
+            {
+              "full_en": "to sharpen vigilance",
+              "full_vn": "mài sắc tinh thần cảnh giác"
+            },
+            {
+              "full_en": "to sharpen one's judgment",
+              "full_vn": "mài sắc óc phán đoán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tăng thêm, làm trầm trọng thêm, làm sâu sắc thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to sharpen a contradiction",
+              "full_vn": "thêm mâu thuẫn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên sắc, trở nên nhọn, trở nên nhạy"
+        },
+        {
+          "m_full_vn": "(âm nhạc) đánh dấu thăng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701494_797bcefa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701494_9dc3534e87_o.png",
+      "id_image": "sharpen_2280502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346596_cf16f969d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346596_ef3bdea2bf_o.png",
+      "id_image": "sharpen_4427902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    }
+  ]
+}

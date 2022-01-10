@@ -1,0 +1,35 @@
+{
+  "english": "ulcer",
+  "phat_am": "['ʌlsə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) chỗ loét (chứa đựng chất độc ở trên phần ngoài thân thể hoặc trên bề mặt của cơ quan nội tạng)",
+          "list_en_vn": [
+            {
+              "full_en": "leg ulcers",
+              "full_vn": "loét ở chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ung nhọt; ung độc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091760_4f1cd80184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091760_fddfdb09df_o.png",
+      "id_image": "ulcer_3411848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469133_fd833dfc57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469133_b50557e206_o.png",
+      "id_image": "ulcer_6146267"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "song",
+  "phat_am": "[sɔη]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hát; tiếng hát, thanh nhạc",
+          "list_en_vn": [
+            {
+              "full_en": "to burst forth into song",
+              "full_vn": "cất tiếng hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hót; tiếng hót",
+          "list_en_vn": [
+            {
+              "full_en": "the song of the birds",
+              "full_vn": "tiếng chim hót"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài hát, điệu hát",
+          "list_en_vn": [
+            {
+              "full_en": "love song",
+              "full_vn": "bản tình ca"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thơ ca",
+          "list_one_mean": [
+            {
+              "id_full_en": "nothing to make a song about",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất tầm thường, không có gì quan trọng (vấn đề)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not worth an old song",
+              "list_im": [
+                {
+                  "im_full_vn": "không đáng được một xu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "song and dance",
+              "list_im": [
+                {
+                  "im_full_vn": "hát múa"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lời nói có tính chất lẩn tránh, câu giải thích đánh trống lảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for a song",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) với giá rất hạ; rẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make a song and dance (about something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm om sòm ầm ĩ (về cái gì) thường là không cần thiết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370757_3dffc39e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370757_05b4f40d22_o.png",
+      "id_image": "song_1540646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325951_463e669cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325951_7b73516db0_o.png",
+      "id_image": "song_2002024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681049_f6a2d7d8c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681049_473b7b5ff9_o.png",
+      "id_image": "song_6135635"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "english": "size",
+  "phat_am": "[saiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quy mô; kích thước, độ lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to take the size of something",
+              "full_vn": "đo kích thước vật gì"
+            },
+            {
+              "full_en": "size matters less than quality",
+              "full_vn": "to nhỏ không quan trọng bằng chất lượng"
+            },
+            {
+              "full_en": "to be the size of an egg",
+              "full_vn": "lớn bằng quả trứng"
+            },
+            {
+              "full_en": "what's your size ?",
+              "full_vn": "anh cao bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cỡ, khổ, số (quần áo, được sản xuất)",
+          "list_en_vn": [
+            {
+              "full_en": "to be made in several sizes",
+              "full_vn": "được sản xuất theo nhiều cỡ"
+            },
+            {
+              "full_en": "of a size",
+              "full_vn": "cùng một cỡ"
+            },
+            {
+              "full_en": "to take size 40 in shoes",
+              "full_vn": "đi giày số 40"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ (để) đo ngọc"
+        },
+        {
+          "m_full_vn": "suất ăn, khẩu phần (ở đại học Căm-brít) (như) sizing"
+        },
+        {
+          "m_full_vn": "(sử học) chuẩn mực cân đo",
+          "list_one_mean": [
+            {
+              "id_full_en": "that's about the size of it ; that's about it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đầu đuôi câu chuyện đúng là như thế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp xếp theo cỡ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt suất ăn, đặt khẩu phần (ở đại học Căm-brít)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to size somebody /something up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đánh giá; ước lượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồ (để dán, để hồ vải...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phết hồ; hồ (quần áo)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381497_7b4b99e89c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381497_d99da68b71_o.png",
+      "id_image": "size_1026512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691754_55021f1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691754_c0c536f9be_o.png",
+      "id_image": "size_4559381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381417_4002272cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381417_3eba4c42b1_o.png",
+      "id_image": "size_4698533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073365_d1810b1d7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073365_42b05ca6d7_o.png",
+      "id_image": "size_5458488"
+    }
+  ]
+}

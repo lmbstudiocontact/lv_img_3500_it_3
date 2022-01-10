@@ -1,0 +1,27 @@
+{
+  "english": "tandoori",
+  "phat_am": "[tæn'duori]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểu thức ăn Ấn độ nấu trên than trong nồi đất",
+          "list_en_vn": [
+            {
+              "full_en": "tandoori chicken",
+              "full_vn": "gà tiềm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441988_f7f93b954f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441988_bd708beac2_o.png",
+      "id_image": "tandoori_4681945"
+    }
+  ]
+}

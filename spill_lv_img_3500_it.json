@@ -1,0 +1,139 @@
+{
+  "english": "spill",
+  "phat_am": "[spil]",
+  "list_type": [
+    {
+      "type": "ngoại động từ spilled , spilt",
+      "list_m": [
+        {
+          "m_full_vn": "làm tràn, làm đổ, đánh đổ (nước...)"
+        },
+        {
+          "m_full_vn": "làm ngã ngựa, làm rớt xuống",
+          "list_en_vn": [
+            {
+              "full_en": "horse spills rider",
+              "full_vn": "ngựa văng người cưỡi xuống đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) tiết lộ (tin tức..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "spill the beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) để lọt tin tức ra ngoài"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + over ) tràn ra, chảy ra, đổ ra (nước...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spill over",
+              "list_im": [
+                {
+                  "im_full_vn": "tràn ra vùng nông thôn (dân quá đông ở một thành phố)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill the beans",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) để lọt tin tức ra ngoài; để lộ tẩy, để lòi đuôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill blood",
+              "list_im": [
+                {
+                  "im_full_vn": "phạm tội gây đổ máu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill the blood of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "giết ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spill money",
+              "list_im": [
+                {
+                  "im_full_vn": "thua cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is no use crying over spilt milk",
+              "list_im": [
+                {
+                  "im_full_vn": "thôi đừng tiếc rẻ con gà quạ tha"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the meeting split over from the hall into the corridor",
+              "full_vn": "cuộc họp đông chật ních hội trường tràn cả ra hành lang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm tràn, sự làm đổ ra, sự đánh đổ ra"
+        },
+        {
+          "m_full_vn": "lượng (nước...) đánh đổ ra"
+        },
+        {
+          "m_full_vn": "sự ngã (ngựa, xe đạp...); sự ngã lộn cổ",
+          "list_en_vn": [
+            {
+              "full_en": "to have a nasty spill",
+              "full_vn": "bị ngã một cái đau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập tràn (như) spillway"
+        },
+        {
+          "m_full_vn": "cái đóm (để nhóm lửa)"
+        },
+        {
+          "m_full_vn": "cái nút nhỏ (để nút lỗ)"
+        },
+        {
+          "m_full_vn": "cái đinh nhỏ, cái chốt nhỏ, cái móc nhỏ (bằng kim loại)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398842_3ba9989460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398842_b2fd764ceb_o.png",
+      "id_image": "spill_5091318"
+    }
+  ]
+}

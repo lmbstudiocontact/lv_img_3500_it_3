@@ -1,0 +1,36 @@
+{
+  "english": "topic",
+  "phat_am": "['tɔpik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề tài, chủ đề (của một cuộc hội thảo, nói chuyện..)",
+          "list_en_vn": [
+            {
+              "full_en": "the topic of the day",
+              "full_vn": "vấn đề thời sự"
+            },
+            {
+              "full_en": "a topic of conversation",
+              "full_vn": "chủ đề của cuộc trò chuyện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343451_6107505e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343451_5b9f52f422_o.png",
+      "id_image": "topic_5455650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343421_2cd9e5d598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343421_d9364ca37b_o.png",
+      "id_image": "topic_5983898"
+    }
+  ]
+}

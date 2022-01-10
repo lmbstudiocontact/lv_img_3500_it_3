@@ -1,0 +1,47 @@
+{
+  "english": "wildlife",
+  "phat_am": "['waildlaif]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ) những thú vật, chim muông... hoang dã",
+          "list_one_mean": [
+            {
+              "id_full_en": "wildlife conservation",
+              "list_im": [
+                {
+                  "im_full_vn": "sự bảo tồn những loài thú, chim rừng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "wildlife sanctuary",
+                      "full_vn": "khu bảo tồn động vật hoang dã"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374072_6231782f4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374072_7d22c7c571_o.png",
+      "id_image": "wildlife_2191470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444403_241668fb54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444403_c727822329_o.png",
+      "id_image": "wildlife_2598200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066175_9e28059376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066175_7fd58820f1_o.png",
+      "id_image": "wildlife_5299874"
+    }
+  ]
+}

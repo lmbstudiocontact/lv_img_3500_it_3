@@ -1,0 +1,62 @@
+{
+  "english": "synthetic",
+  "phat_am": "[sin'θetik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổng hợp; nhân tạo",
+          "list_en_vn": [
+            {
+              "full_en": "synthetic rubber",
+              "full_vn": "cao su tổng hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) phương pháp tổng hợp"
+        },
+        {
+          "m_full_vn": "(thông tục) giả; giả tạo; không thật; không tự nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "synthetic enthusiasm",
+              "full_vn": "nhiệt tình giả tạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất tổng hợp; sợi tổng hợp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330101_7ccdbef8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330101_5f526b98c6_o.png",
+      "id_image": "synthetic_1466540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685044_4225a0df2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685044_0aabfe0ce7_o.png",
+      "id_image": "synthetic_1742038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684994_3c4e3d354a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684994_17f17804f2_o.png",
+      "id_image": "synthetic_5376466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374692_6c9afd70e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374692_56769ce226_o.png",
+      "id_image": "synthetic_5830331"
+    }
+  ]
+}

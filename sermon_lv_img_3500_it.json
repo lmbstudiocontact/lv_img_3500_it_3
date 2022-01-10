@@ -1,0 +1,36 @@
+{
+  "english": "sermon",
+  "phat_am": "['sə:mən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thuyết giáo; bài thuyết pháp",
+          "list_en_vn": [
+            {
+              "full_en": "a book of sermons",
+              "full_vn": "sách thuyết giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài nói dài dòng về những vấn đề đạo đức hoặc về lỗi lầm.... của ai; bài lên lớp; lời quở mắng",
+          "list_en_vn": [
+            {
+              "full_en": "we had to listen to a long sermon about not wasting money",
+              "full_vn": "chúng tôi đã phải nghe một bài lên lớp dài dòng về cái chuyện không được hoang phí tiền nong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394347_9244059bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394347_4f2222d52f_o.png",
+      "id_image": "sermon_1699163"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "english": "surface",
+  "phat_am": "['sə:fis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bề mặt",
+          "list_en_vn": [
+            {
+              "full_en": "the surface of the ball",
+              "full_vn": "bề mặt của một quả bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt",
+          "list_en_vn": [
+            {
+              "full_en": "a cube has six surfaces",
+              "full_vn": "hình lập phương có sáu mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "his politeness is only on (of ) the surface",
+              "full_vn": "sự lễ phép của nó chỉ là ngoài mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "the rough surface of the wall",
+              "full_vn": "mặt ngoài xù xì của bức tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt (của một thể lỏng; biển..)",
+          "list_en_vn": [
+            {
+              "full_en": "the submarine rose to the surface",
+              "full_vn": "chiếc tàu ngầm nổi lên trên mặt biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) bề ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "surface impressions",
+              "full_vn": "những ấn tượng bề ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) ở mặt biển",
+          "list_en_vn": [
+            {
+              "full_en": "surface craft",
+              "full_vn": "tàu mặt biển (đối lại với tàu ngầm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) mặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the surface",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoài mặt; nhìn bề ngoài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "plane surface",
+              "full_vn": "mặt phẳng"
+            },
+            {
+              "full_en": "surface of contact",
+              "full_vn": "mặt tiếp xúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rải; trát",
+          "list_en_vn": [
+            {
+              "full_en": "to surface a road (with tarmac )",
+              "full_vn": "phủ một con đường (bằng pê tông nhựa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang trí mặt ngoài"
+        },
+        {
+          "m_full_vn": "cho nổi lên mặt nước (tàu ngầm..)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi lên mặt nước (tàu ngầm, thợ lặn..)"
+        },
+        {
+          "m_full_vn": "(thông tục) lại xuất hiện; xuất đầu lộ diện"
+        },
+        {
+          "m_full_vn": "thức giấc; hồi tỉnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072925_7c856e602d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072925_ee663e8bf0_o.png",
+      "id_image": "surface_1808780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381012_8f6da61f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381012_28ed1b3eb9_o.png",
+      "id_image": "surface_3182027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450893_46d0463952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450893_d932c335db_o.png",
+      "id_image": "surface_6257725"
+    }
+  ]
+}

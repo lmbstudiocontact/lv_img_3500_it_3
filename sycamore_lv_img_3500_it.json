@@ -1,0 +1,38 @@
+{
+  "english": "sycamore",
+  "phat_am": "['sikəmɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây sung dâu (cây to thuộc họ cây thích); cây tiêu huyền"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) loại cây ngô đồng"
+        },
+        {
+          "m_full_vn": "gỗ cứng quí giá của cây sung dâu",
+          "list_en_vn": [
+            {
+              "full_en": "a sycamore desk",
+              "full_vn": "bàn bằng gỗ sung"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331301_a5bbfc6c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331301_e2fa7aa8b6_o.png",
+      "id_image": "sycamore_2033537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067985_de41fffed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067985_1330392fd5_o.png",
+      "id_image": "sycamore_2128703"
+    }
+  ]
+}

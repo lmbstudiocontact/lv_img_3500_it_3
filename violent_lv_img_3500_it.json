@@ -1,0 +1,82 @@
+{
+  "english": "violent",
+  "phat_am": "['vaiələnt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mãnh liệt, mạnh mẽ, hung dữ",
+          "list_en_vn": [
+            {
+              "full_en": "a violent attack",
+              "full_vn": "cuộc tấn công mãnh liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hung tợn, hung bạo, hung dữ",
+          "list_en_vn": [
+            {
+              "full_en": "a violent man",
+              "full_vn": "người hung bạo"
+            },
+            {
+              "full_en": "to lay violent hands on somebody",
+              "full_vn": "(pháp lý) hành hung ai"
+            },
+            {
+              "full_en": "to lay violent hands on something",
+              "full_vn": "(pháp lý) cưỡng đoạt cái gì"
+            },
+            {
+              "full_en": "to resort to violent means",
+              "full_vn": "dùng đến bạo lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trầm trọng, khắc nghiệt, dữ dội",
+          "list_en_vn": [
+            {
+              "full_en": "violent winds",
+              "full_vn": "những cơn gió dữ dội"
+            },
+            {
+              "full_en": "violent toothache",
+              "full_vn": "cơn đau răng ghê gớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kịch liệt, quá khích, quá đáng",
+          "list_en_vn": [
+            {
+              "full_en": "violent words",
+              "full_vn": "những lời quá khích"
+            },
+            {
+              "full_en": "violent colours",
+              "full_vn": "màu sắc quá sặc sỡ"
+            },
+            {
+              "full_en": "in a violent hurry",
+              "full_vn": "rất vội, rất khẩn cấp"
+            },
+            {
+              "full_en": "violent death",
+              "full_vn": "cái chết bất đắc kỳ tử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698354_7333cb8509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698354_ef0c32bdb5_o.png",
+      "id_image": "violent_6305773"
+    }
+  ]
+}

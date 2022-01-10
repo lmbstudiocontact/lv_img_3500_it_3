@@ -1,0 +1,120 @@
+{
+  "english": "surprise",
+  "phat_am": "[sə'praiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngạc nhiên; sự sửng sốt",
+          "list_en_vn": [
+            {
+              "full_en": "his surprise was visible",
+              "full_vn": "vẻ ngạc nhiên của anh ta lộ rõ ra"
+            },
+            {
+              "full_en": "to my great surprise",
+              "full_vn": "làm tôi rất ngạc nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bất ngờ, sự bất thình lình",
+          "list_en_vn": [
+            {
+              "full_en": "the post was taken by surprise",
+              "full_vn": "đồn bị chiếm bất ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều bất ngờ; điều làm ngạc nhiên"
+        },
+        {
+          "m_full_vn": "( định ngữ) bất ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "a surprise visit",
+              "full_vn": "cuộc đến thăm bất ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) ngạc nhiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "take somebody /something by surprise",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh chiếm bất ngờ; đánh úp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take somebody by surprise",
+              "list_im": [
+                {
+                  "im_full_vn": "thình lình xảy ra làm cho ai sửng sốt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "surprise packet",
+              "full_vn": "gói trong đó có những thứ mình không ngờ, gói \"ngạc nhiên\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ngạc nhiên, làm kinh ngạc",
+          "list_en_vn": [
+            {
+              "full_en": "more surprised than frightened",
+              "full_vn": "ngạc nhiên hơn là sợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đột kích, đánh úp; chộp thình lình, chộp bắt (ai); bắt quả tang (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to surprise someboby in the act",
+              "full_vn": "bắt ai quả tang"
+            },
+            {
+              "full_en": "we returned early and surprised the housebreakers searching through the safe",
+              "full_vn": "chúng tôi về sớm và bắt quả tang bọn trộm đang lục lọi két sắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất thình lình đẩy (ai) đến chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to surprise someone into consent",
+              "full_vn": "bất thình lình đẩy ai đến chỗ phải đồng ý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450553_4a6893cdfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450553_1b95581d54_o.png",
+      "id_image": "surprise_5020357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690739_dfa1f0744f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690739_c1a65e9ea1_o.png",
+      "id_image": "surprise_5020359"
+    }
+  ]
+}

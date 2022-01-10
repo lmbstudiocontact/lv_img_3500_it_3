@@ -1,0 +1,45 @@
+{
+  "english": "thyroid",
+  "phat_am": "['θairɔid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) (thuộc) tuyến giáp",
+          "list_en_vn": [
+            {
+              "full_en": "thyroid cartilage",
+              "full_vn": "sụn tuyến giáp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) tuyến giáp (tuyến to ở phía trước cổ, tạo ra hóomon điều khiển sự lớn lên và phát triển của thân thể) (như) thyroid gland"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348431_0b7c1e8a2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348431_0d300d92ba_o.png",
+      "id_image": "thyroid_2252847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703089_594fe50efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703089_cfa4983869_o.png",
+      "id_image": "thyroid_4482439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085645_bd0f861274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085645_c4ba030aba_o.png",
+      "id_image": "thyroid_5278162"
+    }
+  ]
+}

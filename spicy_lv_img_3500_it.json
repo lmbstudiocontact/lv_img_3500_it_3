@@ -1,0 +1,43 @@
+{
+  "english": "spicy",
+  "phat_am": "['spaisi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có gia vị, có mùi gia vị, có nêm gia vị"
+        },
+        {
+          "m_full_vn": "kích thích, gây thích thú (những chuyện gây tai tiếng..); tục, không đứng đắn",
+          "list_en_vn": [
+            {
+              "full_en": "spicy story",
+              "full_vn": "chuyện tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảnh bao, hào nhoáng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060730_bed0d2909b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060730_448acdfae6_o.png",
+      "id_image": "spicy_4589912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323821_cef68ffd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323821_57862983c3_o.png",
+      "id_image": "spicy_5495442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060705_d7d5fe03f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060705_3d5041632b_o.png",
+      "id_image": "spicy_5495572"
+    }
+  ]
+}

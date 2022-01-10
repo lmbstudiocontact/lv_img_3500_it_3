@@ -1,0 +1,206 @@
+{
+  "english": "trick",
+  "phat_am": "[trik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò gian trá; trò bịp bợm",
+          "list_en_vn": [
+            {
+              "full_en": "to play a trick on somebody",
+              "full_vn": "chơi xỏ ai; chơi khăm ai"
+            },
+            {
+              "full_en": "we need a trick to get past the guards",
+              "full_vn": "chúng ta phải bày mưu để vượt qua bọn lính gác"
+            },
+            {
+              "full_en": "you can't fool me with that old trick !",
+              "full_vn": "anh không thể lừa tôi bằng cái trò cũ rích ấy đâu!"
+            },
+            {
+              "full_en": "to be up to one's old tricks again",
+              "full_vn": "lại giở những trò xỏ lá; giở trò ma mãnh"
+            },
+            {
+              "full_en": "a trick of the light",
+              "full_vn": "ảo ảnh của ánh sáng"
+            },
+            {
+              "full_en": "a trick question",
+              "full_vn": "câu hỏi gài bẫy"
+            },
+            {
+              "full_en": "trick photography",
+              "full_vn": "thuật chụp ảnh ghép hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mánh lới; thủ thuật; bí quyết",
+          "list_en_vn": [
+            {
+              "full_en": "the trick is to hold your breath while you aim",
+              "full_vn": "bí quyết là phải nín thở khi nhắm bắn"
+            },
+            {
+              "full_en": "before artists had mastered the tricks of perspective",
+              "full_vn": "trước khi các hoạ sĩ nắm được thủ pháp về luật phối cảnh"
+            },
+            {
+              "full_en": "conjuring tricks",
+              "full_vn": "những mánh lới ảo thuật"
+            },
+            {
+              "full_en": "let me show you some card tricks",
+              "full_vn": "để tôi chỉ cho anh vài mánh lới đánh bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thói quen đặc trưng; kiểu cách; cung cách",
+          "list_en_vn": [
+            {
+              "full_en": "He has a queer trick of saying 'Very good ! ' after every sentence",
+              "full_vn": "Nó có cái thói quái dị là cứ nói 'Hay lắm! ' sau mỗi câu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(những quân bài trong) một ván bài",
+          "list_one_mean": [
+            {
+              "id_full_en": "tricks of fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "những trò trở trêu của số mệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do the job /trick",
+              "list_im": [
+                {
+                  "im_full_vn": "xem job"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every /any trick in the book",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi/bất cứ mánh khoé nào có thể dùng được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a trick up one's sleeve",
+              "list_im": [
+                {
+                  "im_full_vn": "có kế hoạch dự phòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "how's tricks ?",
+              "list_im": [
+                {
+                  "im_full_vn": "anh có mạnh khoẻ không?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to miss a trick",
+              "list_im": [
+                {
+                  "im_full_vn": "xem miss"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to teach an old dog new tricks",
+              "list_im": [
+                {
+                  "im_full_vn": "xem teach"
+                }
+              ]
+            },
+            {
+              "id_full_en": "trick or treat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (câu nói của trẻ em khi đi các nhà xin bánh kẹo và doạ sẽ phá phách nếu không cho)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the tricks of the trade",
+              "list_im": [
+                {
+                  "im_full_vn": "mánh lới nhà nghề; mánh khoé nghề nghiệp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take /win a trick",
+              "full_vn": "thắng một ván bài"
+            },
+            {
+              "full_en": "how many tricks did you lose ?",
+              "full_vn": "anh thua bao nhiêu ván rồi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lừa, đánh lừa, lừa gạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trick somebody /something out /up (in /with something )",
+              "list_im": [
+                {
+                  "im_full_vn": "trang trí; trang điểm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to trick someone into doing something",
+              "full_vn": "lừa ai khiến người đó phải làm gì"
+            },
+            {
+              "full_en": "to trick someone out of something",
+              "full_vn": "lừa gạt ai lấy cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070490_bfb424be82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070490_c44eac9b73_o.png",
+      "id_image": "trick_1299395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688624_4aaf0d66fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688624_d74995aba1_o.png",
+      "id_image": "trick_2446572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070520_8bfda25324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070520_7d1558ee38_o.png",
+      "id_image": "trick_849051"
+    }
+  ]
+}

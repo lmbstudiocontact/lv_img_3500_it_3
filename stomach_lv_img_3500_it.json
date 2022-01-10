@@ -1,0 +1,107 @@
+{
+  "english": "stomach",
+  "phat_am": "['stʌmək]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dạ dày",
+          "list_en_vn": [
+            {
+              "full_en": "a stomach upset",
+              "full_vn": "nôn nao ở dạ dày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bụng",
+          "list_en_vn": [
+            {
+              "full_en": "what a stomach !",
+              "full_vn": "bụng sao phệ thế!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thèm ăn",
+          "list_en_vn": [
+            {
+              "full_en": "to have a very small stomach",
+              "full_vn": "rất ít thèm ăn (nhất là người bệnh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for something ) sự ước muốn, sự hào hứng, sự thèm, sự mong muốn (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I had no stomach for a fight",
+              "full_vn": "tôi chẳng có bụng dạ nào mà đánh nhau nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần, bụng dạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be of a proud stomach",
+              "list_im": [
+                {
+                  "im_full_vn": "tự cao tự đại, tự kiêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "turn one's stomach",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai ghê tởm; làm cho ai chán ghét"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put stomach in someone",
+              "full_vn": "làm cho ai có tinh thần"
+            },
+            {
+              "full_en": "to have no stomach for the fight",
+              "full_vn": "không còn bụng dạ nào chiến đấu nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn mà không cảm thấy nôn",
+          "list_en_vn": [
+            {
+              "full_en": "I can't stomach seafood",
+              "full_vn": "tôi không thể ăn được hải sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chịu đựng, cam chịu; nhượng bộ; tha thứ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390687_152855781a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390687_e8fb95fd41_o.png",
+      "id_image": "stomach_4892287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390647_38b86d60ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390647_a3796a3117_o.png",
+      "id_image": "stomach_5180552"
+    }
+  ]
+}

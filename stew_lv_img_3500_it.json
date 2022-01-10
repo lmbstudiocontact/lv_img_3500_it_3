@@ -1,0 +1,118 @@
+{
+  "english": "stew",
+  "phat_am": "[stju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) nhà thổ ( (thường) the stews )"
+        },
+        {
+          "m_full_vn": "ao thả cá, bể thả cá (để giữ cho tươi)"
+        },
+        {
+          "m_full_vn": "bể nuôi trai"
+        },
+        {
+          "m_full_vn": "món hầm (thịt, rau..)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự hoảng hốt, sự bối rối",
+          "list_one_mean": [
+            {
+              "id_full_en": "get (oneself ) into /be in a stew (about something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đứng ngồi không yên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in a stew",
+              "full_vn": "đang lo âu, đang bối rối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hầm, ninh (thịt...); hãm (trà)",
+          "list_en_vn": [
+            {
+              "full_en": "stewing steak",
+              "full_vn": "thịt bò để hầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) học gạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to let someone stew in his own juice (grease )",
+              "list_im": [
+                {
+                  "im_full_vn": "để mặc kệ xác ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rất nóng; ngột ngạt; bị hầm nhừ (vì nóng); hầm (trời)",
+          "list_one_mean": [
+            {
+              "id_full_en": "let somebody stew",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) để mặc kệ (muốn làm gì thì làm mà không giúp đỡ, thông cảm..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stew in one's own juice",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị để mặc xác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "please open a window - we're stewing in here !",
+              "full_vn": "làm ơn mở cửa sổ ra, chúng tôi bị hầm nhừ ở đây rồi!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461798_2a156b7a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461798_c11f52ab15_o.png",
+      "id_image": "stew_3690235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084340_f6b3cc3d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084340_243486ced3_o.png",
+      "id_image": "stew_4834107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347006_cd4f519b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347006_b46999791e_o.png",
+      "id_image": "stew_661308"
+    }
+  ]
+}

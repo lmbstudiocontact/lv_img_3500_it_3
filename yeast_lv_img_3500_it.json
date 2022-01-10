@@ -1,0 +1,41 @@
+{
+  "english": "yeast",
+  "phat_am": "[ji:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "men; men bia",
+          "list_en_vn": [
+            {
+              "full_en": "brewer's yeast ; beer yeast",
+              "full_vn": "men bia"
+            },
+            {
+              "full_en": "baker's yeast",
+              "full_vn": "men làm bánh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445868_fe55d18a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445868_bcd2768cd9_o.png",
+      "id_image": "yeast_2534120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330891_4e44d435b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330891_1aea38fa71_o.png",
+      "id_image": "yeast_3348061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445778_f8a4a5da6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445778_35159829af_o.png",
+      "id_image": "yeast_3447812"
+    }
+  ]
+}

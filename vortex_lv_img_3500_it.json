@@ -1,0 +1,30 @@
+{
+  "english": "vortex",
+  "phat_am": "['vɔ:teks]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều vortexes , vortices",
+      "list_m": [
+        {
+          "m_full_vn": "gió cuộn, gió xoáy; xoáy nước; cơn lốc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cơn lốc",
+          "list_en_vn": [
+            {
+              "full_en": "the vortex of revolution",
+              "full_vn": "cơn lốc cách mạng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385297_400eb28f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385297_1e0be09f23_o.png",
+      "id_image": "vortex_3306656"
+    }
+  ]
+}

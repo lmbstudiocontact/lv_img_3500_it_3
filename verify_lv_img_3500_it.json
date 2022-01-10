@@ -1,0 +1,58 @@
+{
+  "english": "verify",
+  "phat_am": "['verifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẩm tra, kiểm lại",
+          "list_en_vn": [
+            {
+              "full_en": "to verify a statement",
+              "full_vn": "thẩm tra một lời tuyên bố"
+            },
+            {
+              "full_en": "to verify the items of a bill",
+              "full_vn": "kiểm lại các khoản của một hoá đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xác minh, xác nhận (sự ngờ vực..)",
+          "list_en_vn": [
+            {
+              "full_en": "to verify a witness",
+              "full_vn": "xác minh một lời khai làm chứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực hiện (lời tiên đoán, lời hứa...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460838_9935bb574d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460838_6a3b2041d9_o.png",
+      "id_image": "verify_1564260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391047_1fddf35499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391047_8a59dda765_o.png",
+      "id_image": "verify_4565072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346026_ff2d46126e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346026_e54a564228_o.png",
+      "id_image": "verify_5059625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701049_635e5a7b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701049_8333f7d276_o.png",
+      "id_image": "verify_5151183"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "english": "sell",
+  "phat_am": "[sel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự thất vọng",
+          "list_en_vn": [
+            {
+              "full_en": "what a sell !",
+              "full_vn": "thật là thất vọng!, thật là chán quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vố chơi khăm; sự đánh lừa, sự lường gạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "the hard /soft sell",
+              "list_im": [
+                {
+                  "im_full_vn": "bán cái gì một cách nhồi nhét/mời mọc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're certainly giving the book the hard sell , with advertisements every night on TV",
+                      "full_vn": "tối nào cũng quảng cáo trên ti vi, chắc họ định nhồi nhét để bán cho được quyển sách"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ, thì quá khứ và động tính từ quá khứ là sold",
+      "list_m": [
+        {
+          "m_full_vn": "( to sell something to somebody ; to sell at / for something ) bán; nhượng lại (hàng hoá)",
+          "list_en_vn": [
+            {
+              "full_en": "I won't sell (this book ) to a stranger",
+              "full_vn": "Tôi sẽ không bán (quyển sách này) cho một người lạ"
+            },
+            {
+              "full_en": "to sell something at a high price , a loss , a discount",
+              "full_vn": "bán cái gì với giá cao, lỗ vốn, hạ giá"
+            },
+            {
+              "full_en": "to sell one's computer for 1000 francs",
+              "full_vn": "bán máy tính của mình với giá 1000 quan"
+            },
+            {
+              "full_en": "to sell something by auction",
+              "full_vn": "bán đấu giá cái gì"
+            },
+            {
+              "full_en": "to sell somebody into slavery",
+              "full_vn": "bán ai làm nô lệ"
+            },
+            {
+              "full_en": "will you sell me your dictionary ?",
+              "full_vn": "anh để từ điển của anh lại cho tôi nhé?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trữ cái gì để bán; là người bán cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a shop that sells fruit , clothes , electrical goods",
+              "full_vn": "cửa hiệu bán trái cây, quần áo, đồ điện"
+            },
+            {
+              "full_en": "do you sell newspapers ?",
+              "full_vn": "ông có bán báo hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho người ta muốn mua cái gì; làm cho cái gì bán được; bán được; ăn khách",
+          "list_en_vn": [
+            {
+              "full_en": "it is not price but quality that sells our shoes",
+              "full_vn": "không phải là giá cả, mà chính chất lượng giúp cho giày dép của chúng tôi bán chạy"
+            },
+            {
+              "full_en": "her name will help to sell the film",
+              "full_vn": "tên tuổi cô ta sẽ giúp cho bộ phim ăn khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to sell something / somebody to somebody ) làm cho ai tin rằng ai/cái gì là tốt; thuyết phục",
+          "list_en_vn": [
+            {
+              "full_en": "you'll never sell changes like that to the work-force",
+              "full_vn": "anh sẽ không bao giờ được công nhân về những thay đổi như vậy đâu"
+            },
+            {
+              "full_en": "a big poster campaign selling the new party",
+              "full_vn": "một chiến dịch quảng cáo rầm rộ cho đảng mới"
+            },
+            {
+              "full_en": "you've to sell yourself at a job interview",
+              "full_vn": "anh phải lên gân vào (tỏ ra là người thích hợp cho công việc) trong cuộc phỏng vấn việc làm"
+            },
+            {
+              "full_en": "to sell somebody an excuse , story",
+              "full_vn": "làm cho ai tin lời biện bạch, câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lừa bịp",
+          "list_en_vn": [
+            {
+              "full_en": "You've been sold again . That car you bought is a wreck",
+              "full_vn": "Anh lại bị lừa nữa rồi. Chiếc xe anh mua là thứ đồng nát bạc vụn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to sell at / for something ) bán được, tìm được người mua",
+          "list_en_vn": [
+            {
+              "full_en": "goods that sell well",
+              "full_vn": "hàng hoá bán chạy"
+            },
+            {
+              "full_en": "to sell to sell like hot cakes",
+              "full_vn": "bán chạy như tôm tươi"
+            },
+            {
+              "full_en": "the group's record has sold millions",
+              "full_vn": "đĩa hát của nhóm ấy bán được hàng triệu bản"
+            },
+            {
+              "full_en": "the badges sell at 50p each",
+              "full_vn": "huy hiệu bán với giá 50 p một chiếc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bán rẻ; phản bội",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sell (something) up",
+              "list_im": [
+                {
+                  "im_full_vn": "bán (tất cả nhà cửa, tài sản... của mình trước khi rời đất nước hoặc về hưu chẳng hạn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell something off",
+              "list_im": [
+                {
+                  "im_full_vn": "bán (những mặt hàng ế hoặc không được ưa thích) với giá rẻ hơn bình thường; bán hạ giá; bán xon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell somebody down the river",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bán rẻ ai; phản bội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell one's life dearly",
+              "list_im": [
+                {
+                  "im_full_vn": "giết một số quân địch rồi mới hy sinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell somebody a pup",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bán đồ dỏm cho ai; bịp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell one's soul (to the devil )",
+              "list_im": [
+                {
+                  "im_full_vn": "bán linh hồn cho quỷ dữ; bán rẻ danh dự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell one's body",
+              "list_im": [
+                {
+                  "im_full_vn": "bán mình; làm đĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sold on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu thích ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sold out (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đã bán hết hẳn; bán hết sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're sold out of Saturday papers",
+                      "full_vn": "báo chủ nhật đã bán sạch rồi (không còn tờ nào nữa)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell out",
+              "list_im": [
+                {
+                  "im_full_vn": "được bán hết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the show has sold out",
+                      "full_vn": "buổi biểu diễn đã bán hết vé"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell out (to somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "phản lại nguyên tắc của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "phản bội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell (something ) out (to somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "bán tất cả hoặc một phần (cổ phần của mình trong một doanh nghiệp); sang nhượng; bán lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell something /somebody short",
+              "list_im": [
+                {
+                  "im_full_vn": "bán (các cổ phần..) mà ta chưa có trong tay với hy vọng là có thể mua lại ngay những thứ đó với giá hạ hơn"
+                },
+                {
+                  "im_full_vn": "không thừa nhận giá trị thực sự của cái gì/ai; đánh giá thấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell oneself (to somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận của đút lót (của ai) để làm điều xấu; bán rẻ mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the police had sold themselves to the gang leaders",
+                      "full_vn": "cảnh sát đã tự bán rẻ mình cho bọn trùm băng đảng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sell one's honour",
+              "full_vn": "bán rẻ danh dự"
+            },
+            {
+              "full_en": "to sell one's country",
+              "full_vn": "bán nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395582_82232a010a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395582_9ba1330a60_o.png",
+      "id_image": "sell_1610418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087975_c7351f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087975_3341d131fc_o.png",
+      "id_image": "sell_3163293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350816_44513ea8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350816_e6388a1493_o.png",
+      "id_image": "sell_5141650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465313_b162bb60f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465313_db10e29d89_o.png",
+      "id_image": "sell_6385216"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "version",
+  "phat_am": "['və:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản dịch sang một ngôn ngữ khác",
+          "list_en_vn": [
+            {
+              "full_en": "the revised version of Lenin's works",
+              "full_vn": "bản dịch đã soát lại các tác phẩm của Lê-nin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường) bài dịch"
+        },
+        {
+          "m_full_vn": "lối giải thích (theo một quan điểm riêng); sự kể lại, sự thuật lại",
+          "list_en_vn": [
+            {
+              "full_en": "the two versions of the same incident",
+              "full_vn": "hai cách giải thích của một sự việc"
+            },
+            {
+              "full_en": "your version on the affair",
+              "full_vn": "cách thuật lại của anh về việc ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu (dạng đặc biệt hoặc khác nhau chút ít của cái gì đã được chế tạo)",
+          "list_en_vn": [
+            {
+              "full_en": "the standard version of this car",
+              "full_vn": "kiểu tiêu chuẩn của chiếc ô tô này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản phóng tác (sự phỏng theo đặc biệt một cuốn sách, bản nhạc..)",
+          "list_en_vn": [
+            {
+              "full_en": "the film version of 'Jane Eyre'",
+              "full_vn": "bản phóng tác phim của tiểu thuyết ' Jane Eyre'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) thủ thuật xoay thai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083470_fd00e5e827_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083470_5e9d0d6cdd_o.png",
+      "id_image": "version_2620555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083450_abd57ed791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083450_4d277b921a_o.png",
+      "id_image": "version_2620998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460723_5b03faf39c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460723_d0da089ff2_o.png",
+      "id_image": "version_3098184"
+    }
+  ]
+}

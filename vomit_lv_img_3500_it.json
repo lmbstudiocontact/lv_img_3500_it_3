@@ -1,0 +1,70 @@
+{
+  "english": "vomit",
+  "phat_am": "['vɔmit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất nôn/mửa ra"
+        },
+        {
+          "m_full_vn": "dòng/lời phun ra/chửi ra"
+        },
+        {
+          "m_full_vn": "thuốc mửa; chất làm nôn mửa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nôn, mửa, tống (thức ăn.. từ dạ dày ra)",
+          "list_en_vn": [
+            {
+              "full_en": "to vomit blood",
+              "full_vn": "nôn ra máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuôn ra, khạc ra, phun ra (núi lửa..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phun ra, tuôn ra",
+          "list_en_vn": [
+            {
+              "full_en": "to vomit smoke",
+              "full_vn": "phun khói"
+            },
+            {
+              "full_en": "to vomit abuses",
+              "full_vn": "tuôn ra những lời chửi rủa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị buồn nôn, bị mửa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385452_972eb0afac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385452_6735939580_o.png",
+      "id_image": "vomit_1754091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455378_1bb128f584_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455378_368c77e6de_o.png",
+      "id_image": "vomit_2269014"
+    }
+  ]
+}

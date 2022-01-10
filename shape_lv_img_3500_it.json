@@ -1,0 +1,185 @@
+{
+  "english": "shape",
+  "phat_am": "[∫eip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình, hình dạng, hình thù",
+          "list_en_vn": [
+            {
+              "full_en": "spherical in shape",
+              "full_vn": "có dáng hình cầu"
+            },
+            {
+              "full_en": "a monster in human shape",
+              "full_vn": "con quỷ hình người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật khó nhìn thấy một cách chính xác; hình bóng mờ ảo"
+        },
+        {
+          "m_full_vn": "(thông tục) tình trạng; trạng thái"
+        },
+        {
+          "m_full_vn": "sự thể hiện cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "intention took shape in action",
+              "full_vn": "ý định thể hiện bằng hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại, kiểu, hình thức",
+          "list_en_vn": [
+            {
+              "full_en": "a reward in the shape of a sum of money",
+              "full_vn": "sự thưởng công dưới hình thức một món tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sắp xếp, sự sắp đặt",
+          "list_en_vn": [
+            {
+              "full_en": "to get one's ideas into shape",
+              "full_vn": "sắp xếp ý kiến của mình cho gọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bóng, bóng ma",
+          "list_en_vn": [
+            {
+              "full_en": "a shape loomend through the mist",
+              "full_vn": "có một bóng người hiện ra mờ mờ trong sương mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khuôn, mẫu"
+        },
+        {
+          "m_full_vn": "thạch bỏ khuôn, thịt đông bỏ khuôn"
+        },
+        {
+          "m_full_vn": "các (đê) đôn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in good shape",
+              "list_im": [
+                {
+                  "im_full_vn": "dư sức, sung sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of shape",
+              "list_im": [
+                {
+                  "im_full_vn": "méo mó"
+                },
+                {
+                  "im_full_vn": "không khoẻ mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick into shape",
+              "list_im": [
+                {
+                  "im_full_vn": "nặn thành hình"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) làm cho trông được; làm cho có hiệu lực; huấn luyện cho dùng được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in shape",
+              "list_im": [
+                {
+                  "im_full_vn": "có hình dáng đẹp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give shape to something",
+              "list_im": [
+                {
+                  "im_full_vn": "diễn đạt cái gì một cách rõ ràng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take shape",
+              "list_im": [
+                {
+                  "im_full_vn": "hình thành"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nặn, đẽo, gọt, tạo thành hình",
+          "list_en_vn": [
+            {
+              "full_en": "to shape the sand into a mound",
+              "full_vn": "đánh cát lên thành một cái ụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định hướng; quyết định bản chất của (cái gì); có ảnh hưởng lớn đối vối (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "these events helped to shape her future career",
+              "full_vn": "những sự kiện này đã giúp định hướng sự nghiệp của cô ấy trong tương lai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến triển; phát triển theo một hướng nhất định"
+        },
+        {
+          "m_full_vn": "làm cho (quần, áo) vừa với hình dáng của cơ thể"
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "( SHAPE , Shape ) Tổng hành dinh của các cường quốc đồng minh ở châu Âu ( Supreme headquarters of Allied Powers in Europe )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084645_6145968a90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084645_4a0c6f3bf5_o.png",
+      "id_image": "shape_1607349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702034_d3f573d50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702034_8d1dc0c3ab_o.png",
+      "id_image": "shape_2844476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392267_82502328c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392267_b9c25a5985_o.png",
+      "id_image": "shape_802078"
+    }
+  ]
+}

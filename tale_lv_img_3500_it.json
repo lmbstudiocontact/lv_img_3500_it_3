@@ -1,0 +1,77 @@
+{
+  "english": "tale",
+  "phat_am": "[teil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyện kể, truyện (nhất là truyện tưởng tượng)",
+          "list_en_vn": [
+            {
+              "full_en": "tales of adventure",
+              "full_vn": "truyện phiêu lưu mạo hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyện tào lao, chuyện bịa đặt, chuyện nói xấu"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) số lượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tell tales",
+              "list_im": [
+                {
+                  "im_full_vn": "mách lẻo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that tells its own tale",
+              "list_im": [
+                {
+                  "im_full_vn": "điều ấy đã rõ rồi, miễn phê bình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "twice-told tale",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện cũ rích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I want to tell my own tale",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi muốn nói lên quan điểm của tôi về vấn đề đó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064280_839304214c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064280_a276fea15b_o.png",
+      "id_image": "tale_1702339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327531_b9550aa866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327531_7677a70650_o.png",
+      "id_image": "tale_1747585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442528_d3864fb2bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442528_fbafcc2fac_o.png",
+      "id_image": "tale_1864009"
+    }
+  ]
+}

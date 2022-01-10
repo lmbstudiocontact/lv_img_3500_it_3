@@ -1,0 +1,43 @@
+{
+  "english": "teller",
+  "phat_am": "['telə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người kể chuyện, người hay kể chuyện; người tự thuật (nhất là trong từ ghép)",
+          "list_en_vn": [
+            {
+              "full_en": "a story-teller",
+              "full_vn": "một người hay kể chuyện dí dỏm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được chỉ định để kiểm phiếu (ở Hạ viện..)"
+        },
+        {
+          "m_full_vn": "người thu ngân (nhận và trả tiền ở ngân hàng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467403_71fe8981eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467403_29ddded60a_o.png",
+      "id_image": "teller_2834818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397502_607ff23d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397502_54220d1a04_o.png",
+      "id_image": "teller_2834881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467348_00416a6bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467348_f14586a784_o.png",
+      "id_image": "teller_6185300"
+    }
+  ]
+}

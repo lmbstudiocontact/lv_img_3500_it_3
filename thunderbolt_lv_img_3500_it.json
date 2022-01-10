@@ -1,0 +1,48 @@
+{
+  "english": "thunderbolt",
+  "phat_am": "['θʌndəboult]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng sét"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) việc bất ngờ; tin sét đánh",
+          "list_en_vn": [
+            {
+              "full_en": "the news came upon me like a thunderbolt",
+              "full_vn": "tin ấy đến với tôi như sét đánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lời doạ nạt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703254_8624010bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703254_29c105d57a_o.png",
+      "id_image": "thunderbolt_3426161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085770_77d9990672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085770_914a44397e_o.png",
+      "id_image": "thunderbolt_4669084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463288_b9c458c812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463288_d0c3908947_o.png",
+      "id_image": "thunderbolt_6183229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463363_d6a3428554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463363_c85cbfc347_o.png",
+      "id_image": "thunderbolt_689323"
+    }
+  ]
+}

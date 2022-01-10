@@ -1,0 +1,62 @@
+{
+  "english": "sprinkle",
+  "phat_am": "['spriηkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rắc, sự rải"
+        },
+        {
+          "m_full_vn": "mưa rào nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a sprinkle of rain",
+              "full_vn": "vài hạt mưa lắc rắc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tưới, rải, rắc, té, rưới",
+          "list_en_vn": [
+            {
+              "full_en": "to sprinkle a dish with pepper",
+              "full_vn": "rắc hạt tiêu vào món ăn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơi từng giọt, rơi lắc rắc (mưa..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466853_43ca04881e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466853_70bdf3d1c1_o.png",
+      "id_image": "sprinkle_1744341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706874_4b2e9d0f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706874_69d3436427_o.png",
+      "id_image": "sprinkle_1886686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466898_bdd4957684_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466898_11edc5be3a_o.png",
+      "id_image": "sprinkle_995890"
+    }
+  ]
+}

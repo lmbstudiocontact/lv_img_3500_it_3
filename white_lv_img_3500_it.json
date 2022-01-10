@@ -1,0 +1,155 @@
+{
+  "english": "white",
+  "phat_am": "[wait]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trắng, bạch, bạc",
+          "list_en_vn": [
+            {
+              "full_en": "white hair",
+              "full_vn": "tóc bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tái mét, xanh nhợt, trắng bệch",
+          "list_en_vn": [
+            {
+              "full_en": "to turn (go ) white",
+              "full_vn": "tái đi, nhợt nhạt"
+            },
+            {
+              "full_en": "to bleed somebody white",
+              "full_vn": "(nghĩa bóng) lấy sạch tiền của ai"
+            },
+            {
+              "full_en": "to be as white as a sheet",
+              "full_vn": "xanh như tàu lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong, không màu sắc (nước, không khí...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ngây thơ, trong trắng; tinh, sạch, sạch sẽ; (nghĩa bóng) vô tội",
+          "list_en_vn": [
+            {
+              "full_en": "to have white hands",
+              "full_vn": "có tay sạch; (nghĩa bóng) vô tội; lương thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) (thuộc) phái quân chủ; phản cách mạng, phản động",
+          "list_one_mean": [
+            {
+              "id_full_en": "white elephant",
+              "list_im": [
+                {
+                  "im_full_vn": "voi trắng"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) vật cồng kềnh đắt tiền mà không có ích gì lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show the white feather",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) feather"
+                }
+              ]
+            },
+            {
+              "id_full_en": "white light",
+              "list_im": [
+                {
+                  "im_full_vn": "ánh sáng mặt trời"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) nhận xét khách quan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "white war",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến tranh không đổ máu, chiến tranh kinh tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "while witch",
+              "list_im": [
+                {
+                  "im_full_vn": "thầy phù thuỷ chỉ làm điều thiện"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu trắng"
+        },
+        {
+          "m_full_vn": "sắc tái, sự tái nhợt",
+          "list_en_vn": [
+            {
+              "full_en": "her face was a deadly white",
+              "full_vn": "mặt cô ta tái nhợt di như thây ma"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải trắng, quần áo trắng, đồ trắng",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed in white",
+              "full_vn": "mặc đồ trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng trắng (trứng); tròng trắng (mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "the white of an egg",
+              "full_vn": "lòng trắng trứng"
+            },
+            {
+              "full_en": "the white of the eye",
+              "full_vn": "tròng trắng mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bột trắng (mì, đại mạch...)"
+        },
+        {
+          "m_full_vn": "người da trắng"
+        },
+        {
+          "m_full_vn": "(y học) khí hư"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685344_17777f887e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685344_b7ca89b331_o.png",
+      "id_image": "white_3944295"
+    }
+  ]
+}

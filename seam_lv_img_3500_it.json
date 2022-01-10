@@ -1,0 +1,66 @@
+{
+  "english": "seam",
+  "phat_am": "[si:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường nối (của hai mép vải..)"
+        },
+        {
+          "m_full_vn": "đường may nổi"
+        },
+        {
+          "m_full_vn": "vết sẹo"
+        },
+        {
+          "m_full_vn": "đường phân giới"
+        },
+        {
+          "m_full_vn": "(giải phẫu) sự khâu nổi vết thương; đường khâu nổi vết thương"
+        },
+        {
+          "m_full_vn": "lớp (than đá, quặng...); vỉa than"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối (hai mảnh vải..) bằng đường khâu nối"
+        },
+        {
+          "m_full_vn": "( (thường) động tính từ quá khứ) có nhiều đường khâu; có nhiều sẹo (mặt)",
+          "list_en_vn": [
+            {
+              "full_en": "face seamed with scars",
+              "full_vn": "mặt chằng chịt những sẹo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) khâu nối lại, máy nối lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325266_c2982acae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325266_6092d35919_o.png",
+      "id_image": "seam_2570418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325211_1e6556e50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325211_378138ae26_o.png",
+      "id_image": "seam_3461274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370082_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370082_c8992eb01c_o.png",
+      "id_image": "seam_4301489"
+    }
+  ]
+}

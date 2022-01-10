@@ -1,0 +1,61 @@
+{
+  "english": "tension",
+  "phat_am": "['ten∫n]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều tensions",
+      "list_m": [
+        {
+          "m_full_vn": "sự căng, tình trạng căng, độ căng; sự được căng, tình trạng được căng",
+          "list_en_vn": [
+            {
+              "full_en": "adjust the tension of a violin string",
+              "full_vn": "chỉnh độ căng của dây đàn violông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự căng thẳng (về tinh thần, cảm xúc, thần kinh); tình trạng căng thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "tension is a major cause of heart disease",
+              "full_vn": "tình trạng căng thẳng là nguyên nhân chủ yếu của bệnh tim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sức ép, áp lực (của hơi...); ứng suất"
+        },
+        {
+          "m_full_vn": "(điện học) điện thế; thế hiệu, sức điện động",
+          "list_en_vn": [
+            {
+              "full_en": "high-tension cables",
+              "full_vn": "những dây cáp cao thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tình trạng căng thẳng (về tình cảm, quan hệ giữa nhiều người, nhóm người..)",
+          "list_en_vn": [
+            {
+              "full_en": "racia tensions",
+              "full_vn": "tình trạng căng thẳng về chủng tộc"
+            },
+            {
+              "full_en": "political tensions",
+              "full_vn": "tình trạng căng thẳng về chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352246_25700391b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352246_d5c283f16a_o.png",
+      "id_image": "tension_6433905"
+    }
+  ]
+}

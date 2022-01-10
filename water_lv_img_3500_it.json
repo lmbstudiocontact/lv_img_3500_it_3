@@ -1,0 +1,416 @@
+{
+  "english": "water",
+  "phat_am": "['wɔ:tə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều waters",
+      "list_m": [
+        {
+          "m_full_vn": "nước lã (dùng để uống, giặt giũ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to drink water",
+              "full_vn": "uống nước"
+            },
+            {
+              "full_en": "to take in fresh water",
+              "full_vn": "(hàng hải) lấy nước ngọt (để đi biển)"
+            },
+            {
+              "full_en": "to turn on the water",
+              "full_vn": "mở nước"
+            },
+            {
+              "full_en": "to cut off the water",
+              "full_vn": "khoá nước"
+            },
+            {
+              "full_en": "to wash something in two or three waters",
+              "full_vn": "rửa vật gì hai hay ba nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước máy (nước cung cấp qua các ống dẫn cho các hộ gia đình, nhà máy..)"
+        },
+        {
+          "m_full_vn": "(nhất là trong từ ghép) chất pha chế có nước (hoặc cái gì tương tự (như) nước)",
+          "list_en_vn": [
+            {
+              "full_en": "rose-water",
+              "full_vn": "nước hoa hồng"
+            },
+            {
+              "full_en": "lavender-water",
+              "full_vn": "nước hoa oải hương"
+            },
+            {
+              "full_en": "soda-water",
+              "full_vn": "nước xôđa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khối nước (nhất là hồ, sông, biển)",
+          "list_en_vn": [
+            {
+              "full_en": "she fell in the water and drowned",
+              "full_vn": "cô ta ngã xuống nước và chết đuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt hồ (sông, biển..)",
+          "list_en_vn": [
+            {
+              "full_en": "we could see fishes under the water",
+              "full_vn": "chúng tôi trông thấy cá dưới mặt nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dung dịch nước, nước"
+        },
+        {
+          "m_full_vn": "sông nước; biển; đường thuỷ",
+          "list_en_vn": [
+            {
+              "full_en": "on land and water",
+              "full_vn": "trên bộ và dưới nước"
+            },
+            {
+              "full_en": "by water",
+              "full_vn": "bằng đường thuỷ, bằng đường biển"
+            },
+            {
+              "full_en": "to cross the water",
+              "full_vn": "vượt biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) khối nước (trong sông, hồ..); hải phận (biển gần một nước nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "the waters of the lake flow out over a large waterfall",
+              "full_vn": "nước hồ chảy ra bên trên một cái thác lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng thuỷ triều, mức thủy triều",
+          "list_en_vn": [
+            {
+              "full_en": "at high water",
+              "full_vn": "lúc triều lên"
+            },
+            {
+              "full_en": "at low water",
+              "full_vn": "lúc triều xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước suối; nước tiểu",
+          "list_en_vn": [
+            {
+              "full_en": "to take the waters at",
+              "full_vn": "tắm nước suối ở"
+            },
+            {
+              "full_en": "to make water",
+              "full_vn": "tiểu tiện"
+            },
+            {
+              "full_en": "red water",
+              "full_vn": "nước tiểu có máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước, nước bóng, nước láng (của kim cương, kim loại, tơ lụa)",
+          "list_en_vn": [
+            {
+              "full_en": "diamond of the first water",
+              "full_vn": "kim cương nước tốt nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hội họa) tranh màu nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to back water",
+              "list_im": [
+                {
+                  "im_full_vn": "chèo ngược"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in smooth water",
+              "list_im": [
+                {
+                  "im_full_vn": "ở vào hoàn cảnh thuận lợi; thuận buồm xuôi gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring water to someone's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai thèm chảy dãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast (throw ) one's bread upon the water (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điều tốt không cần được trả ơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a fish out of water",
+              "list_im": [
+                {
+                  "im_full_vn": "như cá trên cạn; lạc lõng bỡ ngỡ trong một môi trường mới lạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I really feel like a fish out of water among the gang of snobs",
+                      "full_vn": "Tôi thực sự cảm thấy lạc lõng giữa cái đám trưởng giả học làm sang"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw cold water on",
+              "list_im": [
+                {
+                  "im_full_vn": "giội gáo nước lạnh vào; làm cho nản chí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "written in water",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất thời (tiếng tăm); chóng bị quên (thành tích)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by water",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng đường thủy, bằng đường biển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hold water",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vững vàng, đứng vững được (lý lẽ, lý do xin lỗi, lý thuyết..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like water",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất nhiều, một cách lãng phí, một cách vội vã",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to spend money like water",
+                      "full_vn": "tiêu tiền như nước"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "under water",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới mặt nước bị ngập nước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(like ) water off a duck's back",
+              "list_im": [
+                {
+                  "im_full_vn": "nước đổ đầu vịt (không có tác dụng đối với ai; nhất là những lời phê bình, chỉ trích..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Their remarks about his behaviour were (like ) water off a duck's back",
+                      "full_vn": "Những lời nhận xét của họ về hạnh kiểm của hắn chẳng khác nào nước đổ đầu vịt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "water under the bridge",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) nước chảy qua cầu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tưới, tưới nước",
+          "list_en_vn": [
+            {
+              "full_en": "to water a district",
+              "full_vn": "tưới một miền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho uống nước",
+          "list_en_vn": [
+            {
+              "full_en": "to water the buffaloes",
+              "full_vn": "cho trâu uống nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp nước",
+          "list_en_vn": [
+            {
+              "full_en": "to water a town",
+              "full_vn": "cung cấp nước cho một thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pha nước vào"
+        },
+        {
+          "m_full_vn": "làm gợn sóng, làm cho có vân sóng (trên tơ lụa)",
+          "list_en_vn": [
+            {
+              "full_en": "watered silk",
+              "full_vn": "lụa có vân sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) làm loãng (vốn)",
+          "list_en_vn": [
+            {
+              "full_en": "to the nominal capital of the company",
+              "full_vn": "làm loãng vốn danh nghĩa của công ty (bằng cách tăng cổ phần mà không có vốn tương xứng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "uống nước, đi uống nước",
+          "list_en_vn": [
+            {
+              "full_en": "the horses are watering",
+              "full_vn": "những con ngựa đang uống nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy nước ngọt, lấy nước (tàu thuỷ, ô tô)"
+        },
+        {
+          "m_full_vn": "chảy nước, ứa nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to water down",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm bớt đi, làm dịu đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to water down the details of a story",
+                      "full_vn": "làm cho chi tiết của câu chuyện bớt đậm nét"
+                    },
+                    {
+                      "full_en": "to water down a blame",
+                      "full_vn": "trách khéo, trách ngọt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his eyes watered",
+              "full_vn": "nó chảy nước mắt"
+            },
+            {
+              "full_en": "to make one's mouth water",
+              "full_vn": "làm thèm chảy nước dãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc về) nước, biển, sông",
+          "list_en_vn": [
+            {
+              "full_en": "water sports",
+              "full_vn": "thể thao dưới nước"
+            },
+            {
+              "full_en": "water face",
+              "full_vn": "mặt nước; gương nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc kỹ thuật thủy lợi; thuộc thủy lực học",
+          "list_en_vn": [
+            {
+              "full_en": "water engineer",
+              "full_vn": "kỹ sư thủy văn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380802_c504d2dbbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380802_746597300a_o.png",
+      "id_image": "water_1391386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380762_262960818a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380762_c6f55a3698_o.png",
+      "id_image": "water_1488196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691004_f153db00e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691004_57e5b413c2_o.png",
+      "id_image": "water_523386"
+    }
+  ]
+}

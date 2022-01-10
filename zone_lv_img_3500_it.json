@@ -1,0 +1,69 @@
+{
+  "english": "zone",
+  "phat_am": "[zoun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(địa lý,địa chất) đới",
+          "list_en_vn": [
+            {
+              "full_en": "the torrid zone",
+              "full_vn": "đới nóng, nhiệt đới"
+            },
+            {
+              "full_en": "the temperate zone",
+              "full_vn": "đới ôn hoà, ôn đới"
+            },
+            {
+              "full_en": "the frigid zone",
+              "full_vn": "đới lạnh, hàn đới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực, miền; vùng",
+          "list_en_vn": [
+            {
+              "full_en": "within the zone of submarine activity",
+              "full_vn": "trong khu vực hoạt động của tàu ngầm"
+            },
+            {
+              "full_en": "the zone of influence",
+              "full_vn": "khu vực ảnh hưởng"
+            },
+            {
+              "full_en": "the zone of operations",
+              "full_vn": "khu vực tác chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (thơ ca) dây nịt, dây dưng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chia thành đới, chia thành khu vực, quy vùng",
+          "list_en_vn": [
+            {
+              "full_en": "to zone a district for industry",
+              "full_vn": "quy vùng một khu để xây dựng công nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330046_b80c0bc97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330046_3e3269b722_o.png",
+      "id_image": "zone_2191451"
+    }
+  ]
+}

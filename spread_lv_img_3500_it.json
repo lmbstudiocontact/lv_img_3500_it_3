@@ -1,0 +1,184 @@
+{
+  "english": "spread",
+  "phat_am": "[spred]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trải ra, sự căng ra, sự giăng ra"
+        },
+        {
+          "m_full_vn": "khoảng rộng, bề rộng, dải rộng; sải cánh (của chim...)",
+          "list_en_vn": [
+            {
+              "full_en": "the spread of a bird's wings",
+              "full_vn": "sải cánh của chim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng rộng (về không gian, thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "a spread of 100 years",
+              "full_vn": "một khoảng thời gian 100 năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phổ biến; sự truyền bá (giáo dục, tư tưởng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the spread of disease",
+              "full_vn": "sự lan truyền bệnh tật"
+            },
+            {
+              "full_en": "the spread of education",
+              "full_vn": "sự phổ cập giáo dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hai trang báo liền mặt (in một bức ảnh, một bài quảng cáo...); ảnh in suốt trang báo, dòng chữ chạy dài suốt trang báo"
+        },
+        {
+          "m_full_vn": "(thông tục) bữa tiệc linh đình, bữa ăn thịnh soạn"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) lãi sản xuất (mức chênh nhau giữa giá thành và giá bán)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chất phết lên bánh (bơ, mứt...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự phô trương, sự huênh hoang"
+        },
+        {
+          "m_full_vn": "(trong từ ghép) vật trải lên (khăn trải bàn, giừơng...); sự phình ra, sự sổ ra (của cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "middle-age spread",
+              "full_vn": "sự sổ người ra khi đến tuổi trung niên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ spread",
+      "list_m": [
+        {
+          "m_full_vn": "trải, căng, giăng ra, bày ra",
+          "list_en_vn": [
+            {
+              "full_en": "to spread a cloth over a table",
+              "full_vn": "trải khăn lên bàn"
+            },
+            {
+              "full_en": "to spread a banner",
+              "full_vn": "giương cờ, giương biểu ngữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rải, truyền bá",
+          "list_en_vn": [
+            {
+              "full_en": "to spread a rumour",
+              "full_vn": "truyền một tin đồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo dài thời gian (trả tiền...)",
+          "list_en_vn": [
+            {
+              "full_en": "to spread the payments on the loan over eighteen months",
+              "full_vn": "kéo dài thời gian trả tiền cho vay trong 18 tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày (bàn ăn), bày (thức ăn) lên bàn"
+        },
+        {
+          "m_full_vn": "phết",
+          "list_en_vn": [
+            {
+              "full_en": "to spread butter on a slice of bread",
+              "full_vn": "phết bơ lên một lát bánh mì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đập bẹt (đầu đinh...)",
+          "list_en_vn": [
+            {
+              "full_en": "to spread oneself",
+              "full_vn": "(từ lóng) ba hoa, huênh hoang, chưng trổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trải ra, căng ra",
+          "list_en_vn": [
+            {
+              "full_en": "the field spreads out before us",
+              "full_vn": "cánh đồng trải dài ra trước mặt chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền đi, lan đi, bay đi",
+          "list_en_vn": [
+            {
+              "full_en": "news spread everywhere",
+              "full_vn": "tin truyền đi khắp nơi"
+            },
+            {
+              "full_en": "fire spreads",
+              "full_vn": "lửa cháy lan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tản ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spread oneself thin",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ôm đồm nhiều việc quá cùng một lúc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the birds flew up and spread",
+              "full_vn": "chim bay lên rồi tản ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352516_b391b0d4e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352516_d8bf87f6a5_o.png",
+      "id_image": "spread_2707427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352486_7d6d1f2082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352486_717549e669_o.png",
+      "id_image": "spread_2746312"
+    }
+  ]
+}

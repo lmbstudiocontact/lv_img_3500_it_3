@@ -1,0 +1,62 @@
+{
+  "english": "title",
+  "phat_am": "['taitl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu đề, tít (tên cuốn sách, bài thơ, bức tranh..)"
+        },
+        {
+          "m_full_vn": "tước vị; danh hiệu (từ dùng để chỉ địa vị, nghề nghiệp.. của Vua, thị trưởng, thuyền trưởng.. hoặc dùng trong khi nói với, nói về Ngài, bác sĩ, Bà..)",
+          "list_en_vn": [
+            {
+              "full_en": "she has a title",
+              "full_vn": "cô ấy có tước hiệu (tức là thành viên của giới quý tộc)"
+            },
+            {
+              "full_en": "the title of Duke",
+              "full_vn": "tước công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tư cách, danh nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "to have a title to a place among great poets",
+              "full_vn": "có đủ tư cách đứng trong hàng ngũ những nhà thơ lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi (của một hợp kim vàng...), chuẩn độ"
+        },
+        {
+          "m_full_vn": "(pháp lý) quyền, yêu sách (nhất là đối với quyền sỡ hữu tài sản)"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) danh hiệu vô địch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461158_6df982bd1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461158_c301fedfb1_o.png",
+      "id_image": "title_2620548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461088_aba7e65ac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461088_15e0045046_o.png",
+      "id_image": "title_2620574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461188_68eb653bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461188_e5448f8e98_o.png",
+      "id_image": "title_422137"
+    }
+  ]
+}

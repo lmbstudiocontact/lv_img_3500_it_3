@@ -1,0 +1,94 @@
+{
+  "english": "tub",
+  "phat_am": "[tʌb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậu, bình (để giặt quần áo, đựng chất lỏng..)",
+          "list_en_vn": [
+            {
+              "full_en": "wash-tubs",
+              "full_vn": "chậu giặt"
+            },
+            {
+              "full_en": "a tub of ice-cream",
+              "full_vn": "bình đựng kem"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng đựng trong bình (như) tubful"
+        },
+        {
+          "m_full_vn": "(thông tục) bồn tắm, nhà tắm, chậu tắm; nước tắm (như) bath"
+        },
+        {
+          "m_full_vn": "(thông tục) (đùa cợt) chiếc thuyền chạy chậm, đóng vụng về",
+          "list_en_vn": [
+            {
+              "full_en": "a leaky old tub",
+              "full_vn": "chiếc thuyền cũ kỹ mục nát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành mỏ) goòng (chở than)"
+        },
+        {
+          "m_full_vn": "(hàng hải) xuồng tập (để tập lái)",
+          "list_one_mean": [
+            {
+              "id_full_en": "let every tub stand on its own bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc ai lo phận người nấy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm (em bé) trong bồn tắm"
+        },
+        {
+          "m_full_vn": "cho vào chậu, đựng vào chậu, trồng (cây...) vào chậu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm, rửa trong bồn tắm"
+        },
+        {
+          "m_full_vn": "tập lái xuồng, tập chèo xuồng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445503_84e5b029c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445503_85b51b4e3b_o.png",
+      "id_image": "tub_3372619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445478_119c6ed25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445478_17c62b4a73_o.png",
+      "id_image": "tub_4312035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445443_a8986295dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445443_cce9efd18b_o.png",
+      "id_image": "tub_5507892"
+    }
+  ]
+}

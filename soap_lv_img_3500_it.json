@@ -1,0 +1,68 @@
+{
+  "english": "soap",
+  "phat_am": "[soup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xà bông; xà phòng",
+          "list_en_vn": [
+            {
+              "full_en": "a bar of soap",
+              "full_vn": "một bánh xà phòng"
+            },
+            {
+              "full_en": "there's no soap in the bathroom",
+              "full_vn": "chẳng có xà phòng trong buồng tắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như soap opera",
+          "list_en_vn": [
+            {
+              "full_en": "do you watch any of the soaps on TV ?",
+              "full_vn": "cậu có xem các chương trình truyền hình nhiều tập thường kỳ trên ti vi hay không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bôi xà phòng, xát xà phòng",
+          "list_en_vn": [
+            {
+              "full_en": "to soap oneself down",
+              "full_vn": "xát xà phòng lên người"
+            },
+            {
+              "full_en": "soap the car and then rinse it",
+              "full_vn": "bôi xà phòng vào chiếc xe hơi, rồi xối nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064700_23d0710639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064700_6aa4d0317f_o.png",
+      "id_image": "soap_123765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372727_c0fdb9e8b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372727_11f791dec6_o.png",
+      "id_image": "soap_410426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682979_c31728ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682979_6e8f6ebcee_o.png",
+      "id_image": "soap_577987"
+    }
+  ]
+}

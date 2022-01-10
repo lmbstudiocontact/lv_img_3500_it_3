@@ -1,0 +1,78 @@
+{
+  "english": "sole",
+  "phat_am": "[soul]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sole , soles",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá bơn"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lòng bàn chân"
+        },
+        {
+          "m_full_vn": "đế giày"
+        },
+        {
+          "m_full_vn": "nền, bệ, đế"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đế; đóng đế vào (giày)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "duy nhất, độc nhất; đơn độc; một và chỉ một",
+          "list_en_vn": [
+            {
+              "full_en": "the sole representative",
+              "full_vn": "người đại diện duy nhất"
+            },
+            {
+              "full_en": "his sole reason is this",
+              "full_vn": "cái lý do độc nhất của anh ta là thế này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) một mình; cô đơn, độc hữu"
+        },
+        {
+          "m_full_vn": "(thuộc) một người (một nhóm); hạn chế chỉ cho một người (một nhóm)",
+          "list_en_vn": [
+            {
+              "full_en": "have sole responsibility",
+              "full_vn": "duy nhất có trách nhiệm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063190_a7004b53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063190_fbf2114e52_o.png",
+      "id_image": "sole_2670905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063120_74c11582ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063120_5096b51ec8_o.png",
+      "id_image": "sole_5730160"
+    }
+  ]
+}

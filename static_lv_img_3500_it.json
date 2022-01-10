@@ -1,0 +1,57 @@
+{
+  "english": "static",
+  "phat_am": "['stætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tĩnh; tĩnh tại; không chuyển động, không thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "static water",
+              "full_vn": "nước không chảy (trong một bể chứa, cần phải bơm..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) học (thuộc) tĩnh học",
+          "list_en_vn": [
+            {
+              "full_en": "static pressure",
+              "full_vn": "áp lực tĩnh"
+            },
+            {
+              "full_en": "static electricity",
+              "full_vn": "tĩnh điện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhiễu khí quyển"
+        },
+        {
+          "m_full_vn": "sự tĩnh điện (điện tích lũy trên hoặc trong một vật không dẫn điện) (như) static electricity",
+          "list_en_vn": [
+            {
+              "full_en": "her hair was full of static",
+              "full_vn": "tóc cô ta đầy tĩnh điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703584_ca11a1115f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703584_b76c7db094_o.png",
+      "id_image": "static_3978994"
+    }
+  ]
+}

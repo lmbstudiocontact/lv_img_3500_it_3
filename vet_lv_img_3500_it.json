@@ -1,0 +1,52 @@
+{
+  "english": "vet",
+  "phat_am": "[vet]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (thông tục) cựu chiến binh (như) veteran"
+        },
+        {
+          "m_full_vn": "(thông tục) bác sĩ thú y (như) veterinary surgeon , veterinarian , veterinary"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) khám bệnh, chữa bệnh (cho một con vật)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a horse vetted",
+              "full_vn": "đem ngựa cho thú y khám bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hiệu định, xem xét chặt chẽ (lý lịch, chuyên môn.. của ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to vet an article",
+              "full_vn": "hiệu định một bài báo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082935_a2579b2688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082935_fa24ddfaf6_o.png",
+      "id_image": "vet_2934976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345466_8804903168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345466_c094732fea_o.png",
+      "id_image": "vet_2935039"
+    }
+  ]
+}

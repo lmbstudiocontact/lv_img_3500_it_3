@@ -1,0 +1,39 @@
+{
+  "english": "terrorist",
+  "phat_am": "['terərist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ủng hộ khủng bố, người dùng chính sách khủng bố, người tham gia khủng bố"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khủng bố",
+          "list_en_vn": [
+            {
+              "full_en": "terrorist raid",
+              "full_vn": "cuộc càn khủng bố"
+            },
+            {
+              "full_en": "terrorist acts /movements /organizations",
+              "full_vn": "những hành động/phong trào/tổ chức khủng bố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706109_85c98c2fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706109_fda105b4d8_o.png",
+      "id_image": "terrorist_1022332"
+    }
+  ]
+}

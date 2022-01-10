@@ -1,0 +1,108 @@
+{
+  "english": "wine",
+  "phat_am": "[wain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu vang (thức uống có chất rượu làm từ nước nho lên men)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in wine",
+              "full_vn": "say rượu"
+            },
+            {
+              "full_en": "a wine from a famous vineyard",
+              "full_vn": "thứ rượu vang của một vườn nho nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thức uống có chất rượu làm từ cây, quả khác với nho",
+          "list_en_vn": [
+            {
+              "full_en": "apple wine",
+              "full_vn": "rượu vang táo"
+            },
+            {
+              "full_en": "cowslip wine",
+              "full_vn": "rượu vang anh thảo"
+            },
+            {
+              "full_en": "quinine wine",
+              "full_vn": "rượu canh ki na"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiệc rượu sau bữa ăn (ở các trường đại học)"
+        },
+        {
+          "m_full_vn": "màu mận chín (màu đỏ tím thẫm giống (như) màu rượu vang đỏ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "new wine in old bottle",
+              "list_im": [
+                {
+                  "im_full_vn": "bình cũ rượu mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wine , women and song",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn chơi đàn đúm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) uống rượu vang"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) thết đãi (ai) rượu vang",
+          "list_one_mean": [
+            {
+              "id_full_en": "wine and dine (somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "đãi hậu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328996_cf6b3620cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328996_def3c3bb1a_o.png",
+      "id_image": "wine_2586743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328976_6dbef2d1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328976_9fb8c8a484_o.png",
+      "id_image": "wine_2601054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683974_23f0621e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683974_746f07ae21_o.png",
+      "id_image": "wine_2707733"
+    }
+  ]
+}

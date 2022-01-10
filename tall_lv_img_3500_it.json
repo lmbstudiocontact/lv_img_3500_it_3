@@ -1,0 +1,81 @@
+{
+  "english": "tall",
+  "phat_am": "[tɔ:l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cao; cao hơn trung bình; cao hơn xung quanh (người, đồ vật)",
+          "list_en_vn": [
+            {
+              "full_en": "how tall is he ?",
+              "full_vn": "nó cao bao nhiêu?"
+            },
+            {
+              "full_en": "a tall man",
+              "full_vn": "một người cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có chiều cao được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "Tom is six feet tall",
+              "full_vn": "Tom cao sáu phít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) phóng đại, quá mức",
+          "list_one_mean": [
+            {
+              "id_full_en": "a tall order",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nhiệm vụ quá nặng; đòi hỏi quá cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tall story",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chuyện khó tin"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "tall talk",
+              "full_vn": "lời nói khoác lác, lời nói phóng đại (không biết (cũng) nói)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngoa, khoác lác, khoe khoang",
+          "list_en_vn": [
+            {
+              "full_en": "to talk tall",
+              "full_vn": "nói ngoa, nói khoác, nói khoe khoang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682274_7e5496758e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682274_3b4803022b_o.png",
+      "id_image": "tall_567396"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "sum",
+  "phat_am": "[sʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài toán số học",
+          "list_en_vn": [
+            {
+              "full_en": "to do a sum in one's head",
+              "full_vn": "tính nhẩm một bài toán số học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sums ) phép toán số học",
+          "list_en_vn": [
+            {
+              "full_en": "to do sums",
+              "full_vn": "làm toán"
+            },
+            {
+              "full_en": "to be good at sums",
+              "full_vn": "giỏi toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng số; (toán) tổng",
+          "list_en_vn": [
+            {
+              "full_en": "the sum of two and three is five",
+              "full_vn": "tổng của hai và ba là năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tiền",
+          "list_en_vn": [
+            {
+              "full_en": "a round sum",
+              "full_vn": "một số tiền đáng kể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toàn bộ; nội dung tổng quát (như) sum total",
+          "list_one_mean": [
+            {
+              "id_full_en": "in sum",
+              "list_im": [
+                {
+                  "im_full_vn": "nói tóm lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the sum and substance of his objections is this",
+              "full_vn": "nội dung tổng quát và thực chất những lời phản đối của anh ta là điều này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tổng kết; tóm tắt"
+        },
+        {
+          "m_full_vn": "(pháp lý) kết luận (án tù cho phạm nhân..)"
+        },
+        {
+          "m_full_vn": "cộng"
+        },
+        {
+          "m_full_vn": "phát biểu ý kiến; cho rằng (của ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cộng lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sum up",
+              "list_im": [
+                {
+                  "im_full_vn": "tóm tắt, tổng kết (ý kiến...)"
+                },
+                {
+                  "im_full_vn": "kết luận (một vụ kiện)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383127_4d1d561f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383127_8a68c030c7_o.png",
+      "id_image": "sum_2000494"
+    }
+  ]
+}

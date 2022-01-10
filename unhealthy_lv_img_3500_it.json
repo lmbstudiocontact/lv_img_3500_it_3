@@ -1,0 +1,52 @@
+{
+  "english": "unhealthy",
+  "phat_am": "[ʌn'helθi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ốm yếu, không có sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "the unhealthy state of the economy",
+              "full_vn": "(nghĩa bóng) tình trạng ốm yếu của nền kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hại cho sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "an unhealthy climate",
+              "full_vn": "khí hậu có hại cho sức khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bệnh hoạn, không lành mạnh"
+        },
+        {
+          "m_full_vn": "(thông tục) nguy hiểm đến tính mạng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398087_d9183346e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398087_8c3a2d5c3d_o.png",
+      "id_image": "unhealthy_5705018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707869_bdb37e16c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707869_9b39e4a350_o.png",
+      "id_image": "unhealthy_6194087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398042_6f0cc0cc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398042_293dd0eeb8_o.png",
+      "id_image": "unhealthy_6214069"
+    }
+  ]
+}

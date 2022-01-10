@@ -1,0 +1,56 @@
+{
+  "english": "sunny",
+  "phat_am": "['sʌni]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nắng, có nhiều ánh nắng",
+          "list_en_vn": [
+            {
+              "full_en": "the sunny side",
+              "full_vn": "phía nhà có nắng; (nghĩa bóng) khía cạnh vui tươi (của một vấn đề)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui vẻ, hớn hở, tươi cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the sunny side of forty (fifty ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa đến 40 ( 50...) tuổi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sunny smile",
+              "full_vn": "nụ cười hớn hở"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452398_182e0ff356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452398_bd0a05be9d_o.png",
+      "id_image": "sunny_2204335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382537_e2b2ba1bc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382537_fd09007abb_o.png",
+      "id_image": "sunny_4647909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452313_b9e1f51ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452313_71b40e59db_o.png",
+      "id_image": "sunny_4647931"
+    }
+  ]
+}

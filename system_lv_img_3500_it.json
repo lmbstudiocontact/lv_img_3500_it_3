@@ -1,0 +1,93 @@
+{
+  "english": "system",
+  "phat_am": "['sistəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hệ thống",
+          "list_en_vn": [
+            {
+              "full_en": "system of philosophy",
+              "full_vn": "hệ thống triết học"
+            },
+            {
+              "full_en": "river system",
+              "full_vn": "hệ thống sông ngòi"
+            },
+            {
+              "full_en": "nervous system",
+              "full_vn": "hệ thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống; chế độ; phương thức",
+          "list_en_vn": [
+            {
+              "full_en": "socialist system",
+              "full_vn": "chế độ xã hội chủ nghĩa"
+            },
+            {
+              "full_en": "a good system of teaching languages",
+              "full_vn": "một phương thức dạy ngôn ngữ tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ thể con người hoặc động vật nói chung, bao gồm cả cáccơ quan và các quá trình hoạt động nội tạng; cơ thể (gồm lục phủ ngũ tạng)",
+          "list_en_vn": [
+            {
+              "full_en": "the poison has passed into his system",
+              "full_vn": "thuốc độc đã ngấm vào phủ tạng của nó"
+            },
+            {
+              "full_en": "alcohol is bad for your system",
+              "full_vn": "rượu không tốt cho phủ tạng của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương pháp, cách làm có trật tự; sự sắp xếp gọn gàng ngăn nắp; tính trật tự"
+        },
+        {
+          "m_full_vn": "nhóm các địa tầng chính"
+        },
+        {
+          "m_full_vn": "hệ thống phân loại"
+        },
+        {
+          "m_full_vn": "( the system ) (thông tục) quy lệ; các phương pháp, tục lệ, qui tắc truyền thống tồn tại trong một xã hội (một thiết chế, doanh nghiệp..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "get something out of one's system",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) gạt bỏ một cảm xúc, ham muốn mãnh liệt bằng cách bày tỏ công khai hoặc cố gắng hoàn thành nó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444578_07979b2838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444578_24e5c95578_o.png",
+      "id_image": "system_2825990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066385_27d5c8fc33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066385_589735d429_o.png",
+      "id_image": "system_4289987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684624_86b5b5d188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684624_1a6a9153f6_o.png",
+      "id_image": "system_992645"
+    }
+  ]
+}

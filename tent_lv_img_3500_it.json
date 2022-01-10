@@ -1,0 +1,86 @@
+{
+  "english": "tent",
+  "phat_am": "[tent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lều, rạp, tăng (làm bằng vải.. mang đi được)",
+          "list_en_vn": [
+            {
+              "full_en": "to pitch tents",
+              "full_vn": "cắm lều, cắm trại"
+            },
+            {
+              "full_en": "to lift (strike ) tents",
+              "full_vn": "dỡ lều, nhổ trại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che lều, làm rạp cho"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắm lều, cắm trại, làm rạp, ở lều"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) nút gạc"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) đặt nút gạc, nhồi gạc"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rượu vang đỏ Tây ban nha"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089380_de71185bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089380_b50a85fa60_o.png",
+      "id_image": "tent_1083263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352236_0bffb922ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352236_cfc6a7ecf9_o.png",
+      "id_image": "tent_762498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466713_b25c9599d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466713_fca2045144_o.png",
+      "id_image": "tent_907385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352206_63aa1f2e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352206_638f23ec3b_o.png",
+      "id_image": "tent_920416"
+    }
+  ]
+}

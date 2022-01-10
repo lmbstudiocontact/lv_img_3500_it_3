@@ -1,0 +1,76 @@
+{
+  "english": "unique",
+  "phat_am": "[ju:'ni:k]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đơn nhất; độc nhất vô nhị, chỉ có một",
+          "list_en_vn": [
+            {
+              "full_en": "unique son",
+              "full_vn": "con một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "duy nhất, vô song (không có cái gì giống hoặc bằng)",
+          "list_en_vn": [
+            {
+              "full_en": "unique meaning",
+              "full_vn": "nghĩa duy nhất"
+            },
+            {
+              "full_en": "unique aim",
+              "full_vn": "mục đích duy nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to somebody/something ) chỉ liên quan đến một người (một nhóm, một vật)",
+          "list_en_vn": [
+            {
+              "full_en": "special difficulties unique to blind people",
+              "full_vn": "những khó khăn đặc biệt, riêng của người mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) khác thường, đáng chú ý, kỳ cục, lạ đời, dị thường",
+          "list_en_vn": [
+            {
+              "full_en": "you are unique",
+              "full_vn": "anh kỳ thật, anh lạ đời thật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật duy nhất, vật chỉ có một không hai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397832_a4590b1a98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397832_87c5b412d3_o.png",
+      "id_image": "unique_2311711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352851_71fab3a3e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352851_1f2334b684_o.png",
+      "id_image": "unique_3924726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352836_93ab07be30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352836_4839926e78_o.png",
+      "id_image": "unique_5978387"
+    }
+  ]
+}

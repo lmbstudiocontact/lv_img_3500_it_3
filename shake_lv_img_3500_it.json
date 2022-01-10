@@ -1,0 +1,231 @@
+{
+  "english": "shake",
+  "phat_am": "[∫eik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rung, sự lắc, sự giũ",
+          "list_en_vn": [
+            {
+              "full_en": "a shake of the head",
+              "full_vn": "cái lắc đầu"
+            },
+            {
+              "full_en": "to give something shake",
+              "full_vn": "giũ cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự run",
+          "list_en_vn": [
+            {
+              "full_en": "to be all of a shake",
+              "full_vn": "run khắp mình"
+            },
+            {
+              "full_en": "with a shake in his voice",
+              "full_vn": "với một giọng run run"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the shakes ) (thông tục) cơn rung rẩy"
+        },
+        {
+          "m_full_vn": "(thông tục) lúc, chốc, một thoáng",
+          "list_en_vn": [
+            {
+              "full_en": "I'll be there in two shake s",
+              "full_vn": "chỉ một thoáng là tớ sẽ có mặt ở đó"
+            },
+            {
+              "full_en": "in two shake s of a lamb's tail",
+              "full_vn": "rất nhanh, rất chóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết nứt (trong thân cây gỗ)"
+        },
+        {
+          "m_full_vn": "(thông tục) động đất"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cốc sữa trứng đã khuấy (như) milk-shake",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be no great shakes",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không tốt lắm; không có tác dụng lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone (something ) the shake",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tránh ai (cái gì); tống khứ ai (cái gì)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ shook ; shaken",
+      "list_m": [
+        {
+          "m_full_vn": "rung, lắc, làm rung, lúc lắc, lung lay, lay động; giũ",
+          "list_en_vn": [
+            {
+              "full_en": "to shake the house",
+              "full_vn": "làm rung nhà"
+            },
+            {
+              "full_en": "to shake one's head",
+              "full_vn": "lắc đầu"
+            },
+            {
+              "full_en": "to shake the dice",
+              "full_vn": "lắc những con súc sắc"
+            },
+            {
+              "full_en": "to shake someone by the hand ; to shake hands with someone",
+              "full_vn": "bắt tay người nào"
+            },
+            {
+              "full_en": "to shake a mat",
+              "full_vn": "giũ chiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rung; (nhạc) ngân",
+          "list_en_vn": [
+            {
+              "full_en": "to shake with rage",
+              "full_vn": "run lên vì tức giận"
+            },
+            {
+              "full_en": "voice shake with emotion",
+              "full_vn": "giọng run lên vì cảm động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm náo động; làm sửng sốt, làm bàng hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "to be much shaken by (with , at ) a piece of news",
+              "full_vn": "sửng sốt vì một tin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm lung lay, làm lay chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "his credit was shaken",
+              "full_vn": "danh tiếng của anh ta bị lung lay"
+            },
+            {
+              "full_en": "to shake someone's faith in something",
+              "full_vn": "làm lay chuyển lòng tin của ai ở cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) làm mất bình tĩnh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) giũ sạch, tống khứ được (ai, cái gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shake down",
+              "list_im": [
+                {
+                  "im_full_vn": "rung cây lấy quả"
+                },
+                {
+                  "im_full_vn": "trải (rơm, chăn) ra sàn"
+                },
+                {
+                  "im_full_vn": "lắc (hạt lúa...) cho lắng xuống; lắng xuống"
+                },
+                {
+                  "im_full_vn": "ngồi ấm chỗ"
+                },
+                {
+                  "im_full_vn": "ăn ý với đồng bạn; thích nghi với hoàn cảnh"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tống tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake off",
+              "list_im": [
+                {
+                  "im_full_vn": "giũ, phủi; (bóng) giũ sạch, tống khứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake out",
+              "list_im": [
+                {
+                  "im_full_vn": "lắc ra, giũ tung ra; trải (buồm, cờ) ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake up",
+              "list_im": [
+                {
+                  "im_full_vn": "lắc để trộn"
+                },
+                {
+                  "im_full_vn": "giũ, lắc (gối...) cho gọn lại"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) thức tỉnh, làm hoạt động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake in one's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "run sợ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347766_5eb742cfd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347766_cb48a6df9f_o.png",
+      "id_image": "shake_3274282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085060_e32fb12978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085060_d927ff31be_o.png",
+      "id_image": "shake_3646023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392612_d3e5f5d2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392612_a63089c66e_o.png",
+      "id_image": "shake_4403892"
+    }
+  ]
+}

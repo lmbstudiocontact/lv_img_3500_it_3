@@ -1,0 +1,41 @@
+{
+  "english": "separator",
+  "phat_am": "['sepəreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ chia tách, thiết bị chia tách"
+        },
+        {
+          "m_full_vn": "người chia ra, người tách ra"
+        },
+        {
+          "m_full_vn": "máy gạn kem"
+        },
+        {
+          "m_full_vn": "máy tách; chất tách",
+          "list_en_vn": [
+            {
+              "full_en": "frequency separator",
+              "full_vn": "máy tách tần số"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394567_e4bf7bf617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394567_cd08c6aff4_o.png",
+      "id_image": "separation_5526459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464418_5e205282f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464418_d0ba0fab03_o.png",
+      "id_image": "separator_1850339"
+    }
+  ]
+}

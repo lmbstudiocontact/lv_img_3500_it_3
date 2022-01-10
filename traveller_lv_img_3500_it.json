@@ -1,0 +1,86 @@
+{
+  "english": "traveller",
+  "phat_am": "['trævlə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đi, người đi du lịch, người đi du hành, lữ khách, người hay đi",
+          "list_en_vn": [
+            {
+              "full_en": "an experienced traveller",
+              "full_vn": "một lữ khách dày dạn kinh nghiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đi chào hàng",
+          "list_en_vn": [
+            {
+              "full_en": "a commercial traveller",
+              "full_vn": "một người đi chào hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người Digan, người lang thang"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cầu lăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tip someone the traveller",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh lừa ai, nói dối ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "traveller's tale",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện khoác lác, chuyện phịa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "travellers tell fine tales",
+              "list_im": [
+                {
+                  "im_full_vn": "đi xa về tha hồ nói khoác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "traveller's cheque , traveler's check",
+              "list_im": [
+                {
+                  "im_full_vn": "séc du lịch (séc cho một số tiền cố định, do một ngân hàng.. bán ra, và có thể dễ dàng rút tiền mặt ở các nước ngoài)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450903_199809df36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450903_5fb264d094_o.png",
+      "id_image": "traveller_1995341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335876_251e4b826b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335876_2591ea40b2_o.png",
+      "id_image": "traveller_1995343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450843_f77384692b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450843_20dd3103be_o.png",
+      "id_image": "traveller_4683607"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "uncomfortable",
+  "phat_am": "[,ʌn'kʌmftəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất tiện, không tiện lợi; không đàng hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "uncomfortable chairs",
+              "full_vn": "những cái ghế bất tiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó chịu, không thoải mái",
+          "list_en_vn": [
+            {
+              "full_en": "an uncomfortable position",
+              "full_vn": "nằm trong một tư thế không thoải mái"
+            },
+            {
+              "full_en": "to feel uncomfortable",
+              "full_vn": "cảm thấy bực bội khó chịu"
+            },
+            {
+              "full_en": "to make things uncomfortable for",
+              "full_vn": "gây phiền phức cho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lo lắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354201_14d7903089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354201_6b851681bb_o.png",
+      "id_image": "uncomfortable_6000822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091480_7db788e412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091480_eaa4811b1a_o.png",
+      "id_image": "uncomfortable_6002545"
+    }
+  ]
+}

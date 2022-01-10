@@ -1,0 +1,68 @@
+{
+  "english": "stumble",
+  "phat_am": "['stʌmbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vấp, sự sẩy chân, sự trượt chân; sự súyt ngã"
+        },
+        {
+          "m_full_vn": "sự vấp (khi nói, chơi nhạc...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự lầm lỡ, sự sai lầm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vấp, sẩy chân, trượt chân, súyt ngã",
+          "list_en_vn": [
+            {
+              "full_en": "I stumbled over a tree root",
+              "full_vn": "tôi vấp phải một cái rễ cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + over , through ) vấp (khi nói, chơi nhạc..)",
+          "list_en_vn": [
+            {
+              "full_en": "to stumble in a speech",
+              "full_vn": "đọc vấp váp một bài diễn văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngần ngại, lưỡng lực (trước một việc gì)"
+        },
+        {
+          "m_full_vn": "( + about , along , around ) đi nghiêng ngả; đi loạng choạng"
+        },
+        {
+          "m_full_vn": "tình cờ gặp",
+          "list_en_vn": [
+            {
+              "full_en": "to stumble upon somebody",
+              "full_vn": "tình cờ gặp ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lầm lỡ, sai lầm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696219_29feb060af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696219_fd6e7b8588_o.png",
+      "id_image": "stumble_2557007"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "terminal",
+  "phat_am": "['tə:minl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) giai đoạn cuối cùng của một bệnh chết người; ở giai đoạn cuối cùng",
+          "list_en_vn": [
+            {
+              "full_en": "terminal cancer",
+              "full_vn": "ung thư giai đoạn cuối"
+            },
+            {
+              "full_en": "the terminal ward",
+              "full_vn": "khu người hấp hối"
+            },
+            {
+              "full_en": "a terminal case",
+              "full_vn": "một ca vô phương cứu chữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) học kỳ, xảy ra ở mỗi học kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "terminal examinations",
+              "full_vn": "thi học kỳ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở vào cuối, chót, tận cùng",
+          "list_en_vn": [
+            {
+              "full_en": "terminal station",
+              "full_vn": "ga cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạch giới hạn, định giới hạn (đường mốc)"
+        },
+        {
+          "m_full_vn": "ba tháng một lần, theo từng quý",
+          "list_en_vn": [
+            {
+              "full_en": "by terminal payments",
+              "full_vn": "trả theo từng quý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần cuối, phần chót"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) ga chót, ga cuối cùng"
+        },
+        {
+          "m_full_vn": "nhà đón khách (ở sân bay, trong thành phố, nơi các hành khách máy bay đến hoặc đi)"
+        },
+        {
+          "m_full_vn": "(điện học) cực, đầu (điểm nối trong một mạch điện)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) đuôi từ, từ vĩ"
+        },
+        {
+          "m_full_vn": "thiết bị đầu cuối (máy (thường) gồm một bàn phím và màn hình để liên lạc với bộ xử lý trung tâm trong hệ thống máy tính)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089240_4d174aa193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089240_b28b5ca3e8_o.png",
+      "id_image": "terminal_1546645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706479_61d15a2ccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706479_38a7e6e124_o.png",
+      "id_image": "terminal_2540838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089180_f0872e2ab3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089180_970a19dcb8_o.png",
+      "id_image": "terminal_4248495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089145_0a530c1356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089145_9d9b600062_o.png",
+      "id_image": "terminal_6395227"
+    }
+  ]
+}

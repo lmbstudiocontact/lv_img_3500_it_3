@@ -1,0 +1,63 @@
+{
+  "english": "transaction",
+  "phat_am": "[træn'zæk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều transactions",
+      "list_m": [
+        {
+          "m_full_vn": "sự thực hiện; sự giải quyết",
+          "list_en_vn": [
+            {
+              "full_en": "to spend much time on the transaction of the business",
+              "full_vn": "mất nhiều thì giờ vào việc giải quyết công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quản lý kinh doanh, sự buôn bán; sự giao dịch",
+          "list_en_vn": [
+            {
+              "full_en": "we have had no transactions with that firm",
+              "full_vn": "chúng tôi không có quan hệ kinh doanh (giao dịch) với hãng đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công việc kinh doanh, công việc buôn bán; vụ giao dịch"
+        },
+        {
+          "m_full_vn": "( số nhiều) kỷ yếu hội nghị; văn kiện hội nghị chuyên môn",
+          "list_en_vn": [
+            {
+              "full_en": "the transactions of the Kent Archaeological Society",
+              "full_vn": "kỷ yếu của Hội khảo cổ học Kent"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338966_842cb8f43a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338966_2c1842273f_o.png",
+      "id_image": "transaction_1685703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383847_b57680ff7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383847_f70ae2d4d3_o.png",
+      "id_image": "transaction_1728990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383982_273c0fd435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383982_6269b680e2_o.png",
+      "id_image": "transaction_762227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339021_fb58fb1b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339021_22e1f73e93_o.png",
+      "id_image": "transaction_894145"
+    }
+  ]
+}

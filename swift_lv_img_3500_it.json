@@ -1,0 +1,61 @@
+{
+  "english": "swift",
+  "phat_am": "[swift]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "mau, nhanh, lẹ",
+          "list_en_vn": [
+            {
+              "full_en": "a swift response",
+              "full_vn": "câu trả lời nhanh"
+            },
+            {
+              "full_en": "to have a swift wit",
+              "full_vn": "nhanh trí"
+            },
+            {
+              "full_en": "he answered swift",
+              "full_vn": "nó trả lời nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) trong từ ghép) có thể chuyển động nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "a swift runner",
+              "full_vn": "người chạy nhanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chim én"
+        },
+        {
+          "m_full_vn": "(động vật học) thằn lằn"
+        },
+        {
+          "m_full_vn": "(động vật học) con sa giông"
+        },
+        {
+          "m_full_vn": "khung xa (quay tơ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687564_f7bb1913d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687564_ce82fdb705_o.png",
+      "id_image": "swift_2927923"
+    }
+  ]
+}

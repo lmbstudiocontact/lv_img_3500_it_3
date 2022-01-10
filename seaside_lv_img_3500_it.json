@@ -1,0 +1,27 @@
+{
+  "english": "seaside",
+  "phat_am": "['si:'said]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the seaside ) bờ biển",
+          "list_en_vn": [
+            {
+              "full_en": "seaside resort",
+              "full_vn": "nơi nghỉ mát ở bờ biển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061695_9cd80b4f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061695_3e4ffedcb6_o.png",
+      "id_image": "seaside_3038974"
+    }
+  ]
+}

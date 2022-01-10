@@ -1,0 +1,42 @@
+{
+  "english": "warfare",
+  "phat_am": "['wɔ:feə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) sự tiến hành một cuộc chiến tranh; cuộc chiến tranh",
+          "list_en_vn": [
+            {
+              "full_en": "chemical warfare",
+              "full_vn": "chiến tranh hoá học"
+            },
+            {
+              "full_en": "guerilla warfare",
+              "full_vn": "chiến tranh du kích"
+            },
+            {
+              "full_en": "conventional warfare",
+              "full_vn": "chiến tranh với vũ khí thường (không phải với vũ khí hạt nhân)"
+            },
+            {
+              "full_en": "nuclear warfare",
+              "full_vn": "chiến tranh hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc xung đột dữ dội; cuộc đấu tranh dữ dội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692904_22cb0f9039_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692904_2c8d6854a3_o.png",
+      "id_image": "warfare_3380934"
+    }
+  ]
+}

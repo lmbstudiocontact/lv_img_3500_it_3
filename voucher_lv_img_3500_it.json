@@ -1,0 +1,43 @@
+{
+  "english": "voucher",
+  "phat_am": "['vaut∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tài liệu chứng tỏ tiền đã được thanh toán hoặc bảo đảm thanh toán và nhờ vậy ta có thể đổi lấy hàng hoá hoặc trả công dịch vụ; phiếu đã trả tiền",
+          "list_en_vn": [
+            {
+              "full_en": "gift vouchers",
+              "full_vn": "quà tặng bằng phiếu (sau đó có thể dùng để đổi lấy hàng hoá ở cửa hàng)"
+            },
+            {
+              "full_en": "special discount vouchers",
+              "full_vn": "phiếu đặc biệt mua hàng giảm giá"
+            },
+            {
+              "full_en": "luncheon vouchers",
+              "full_vn": "phiếu ăn trưa (tại một tiệm ăn chọn sẵn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) chứng từ nêu rõ tiền mua hàng đã được trả đủ; giấy biên nhận; biên lai; hoá đơn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695304_64172144a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695304_c20f892da7_o.png",
+      "id_image": "voucher_2037349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454908_1cbc386d16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454908_85d8783b8d_o.png",
+      "id_image": "voucher_4982304"
+    }
+  ]
+}

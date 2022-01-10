@@ -1,0 +1,40 @@
+{
+  "english": "yoghurt",
+  "phat_am": "['jougə:t]",
+  "list_type": [
+    {
+      "list_m": [
+        {
+          "m_full_vn": "thức ăn sền sệt hơi chua làm bằng sữa để cho lên men bằng cách cho vi sinh vật vào (có trộn thêm vị hoa quả...); sữa chua",
+          "list_en_vn": [
+            {
+              "full_en": "a carton of yoghurt",
+              "full_vn": "một hộp sữa chua"
+            },
+            {
+              "full_en": "two strawberry yoghurts , please",
+              "full_vn": "làm ơn cho hai sữa chua vị dâu tây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685519_49036c5dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685519_2320866172_o.png",
+      "id_image": "yoghurt_1488873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685509_abd353d745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685509_cd233c04c7_o.png",
+      "id_image": "yoghurt_2592587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445383_335dcee4c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445383_c2b54621d4_o.png",
+      "id_image": "yoghurt_6411140"
+    }
+  ]
+}

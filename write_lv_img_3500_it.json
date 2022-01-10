@@ -1,0 +1,211 @@
+{
+  "english": "write",
+  "phat_am": "[rait]",
+  "list_type": [
+    {
+      "type": "nội động từ wrote , (từ cổ,nghĩa cổ) writ ; written , (từ cổ,nghĩa cổ) writ",
+      "list_m": [
+        {
+          "m_full_vn": "viết",
+          "list_en_vn": [
+            {
+              "full_en": "to write legibly",
+              "full_vn": "viết rõ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết thư, giao dịch thư từ",
+          "list_en_vn": [
+            {
+              "full_en": "to write to someone",
+              "full_vn": "viết thư cho người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết văn, viết sách",
+          "list_en_vn": [
+            {
+              "full_en": "to write for a living",
+              "full_vn": "sống bằng nghề viết sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm thư ký"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ wrote , (từ cổ,nghĩa cổ) writ ; written , (từ cổ,nghĩa cổ) writ",
+      "list_m": [
+        {
+          "m_full_vn": "viết",
+          "list_en_vn": [
+            {
+              "full_en": "to write a good hand",
+              "full_vn": "viết tốt, viết đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết, thảo ra, soạn",
+          "list_en_vn": [
+            {
+              "full_en": "to write a novel",
+              "full_vn": "viết một tiểu thuyết"
+            },
+            {
+              "full_en": "to write an account",
+              "full_vn": "thảo một bản báo cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điền vào; viết vào",
+          "list_en_vn": [
+            {
+              "full_en": "to write a form",
+              "full_vn": "điền vào một mẫu khai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lộ ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to write back",
+              "list_im": [
+                {
+                  "im_full_vn": "viết thư trả lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to write down",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi"
+                },
+                {
+                  "im_full_vn": "tả, mô tả như là"
+                },
+                {
+                  "im_full_vn": "viết bài chỉ trích (người nào, vở kịch...)"
+                },
+                {
+                  "im_full_vn": "(thương nghiệp) giảm bớt (vốn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to write for (in )",
+              "list_im": [
+                {
+                  "im_full_vn": "viết (báo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to write off",
+              "list_im": [
+                {
+                  "im_full_vn": "thảo nhanh, viết một mạch (bản tường thuật một sự kiện)"
+                },
+                {
+                  "im_full_vn": "xoá bỏ ở sổ (nợ không đòi được)"
+                },
+                {
+                  "im_full_vn": "(quân sự) gạch tên đi (ở bảng phiên chế)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "two battalions were written off",
+                      "full_vn": "hai tiểu đoàn đã bị gạch tên đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "viết và gửi thư",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to write off for something",
+                      "full_vn": "viết thư hỏi mua cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to write out",
+              "list_im": [
+                {
+                  "im_full_vn": "chép toàn bộ, sao lại toàn bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to write out fair",
+                      "full_vn": "chép vào bản sạch"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "viết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to write out a cheque",
+                      "full_vn": "viết một séc"
+                    },
+                    {
+                      "full_en": "to write oneself out",
+                      "full_vn": "viết hết ý, hết ý để viết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to write uo",
+              "list_im": [
+                {
+                  "im_full_vn": "viết tường tận (một bản báo cáo); viết một bài báo về"
+                },
+                {
+                  "im_full_vn": "(thương nghiệp) ghi, vào (sổ)"
+                },
+                {
+                  "im_full_vn": "(thông tục) viết bài ca tụng tán dương"
+                },
+                {
+                  "im_full_vn": "bổ sung (nhật ký...) đẻ bảo đảm tính thời gian"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "innocence is written on his face",
+              "full_vn": "sự vô tội lộ rõ trên nét mặt anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068665_0b4b8a2b55_o.png",
+      "id_image": "write_5511966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068775_759eb45cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068775_5c7c121765_o.png",
+      "id_image": "write_705059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687049_3da3b6ed9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687049_c3d880e802_o.png",
+      "id_image": "write_878563"
+    }
+  ]
+}

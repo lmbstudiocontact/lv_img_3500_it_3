@@ -1,0 +1,116 @@
+{
+  "english": "shoe",
+  "phat_am": "[∫u:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giày"
+        },
+        {
+          "m_full_vn": "sắt bị móng (ngựa...) (như) horse-shoe"
+        },
+        {
+          "m_full_vn": "miếng bịt (miếng sắt bị chân bàn, ghế)"
+        },
+        {
+          "m_full_vn": "má phanh (của xe đạp, xe ô tô..)"
+        },
+        {
+          "m_full_vn": "vật giống chiếc giày về hình thức hoặc cách sử dụng",
+          "list_one_mean": [
+            {
+              "id_full_en": "dead men's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "tài sản có nhiều người ngấp nghé; địa vị có nhiều người ngấp nghé"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he who waits for dead men's shoes is in danger of going barefoot",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ hưởng gia tài thì đến chết khô"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in someone's shoe",
+              "list_im": [
+                {
+                  "im_full_vn": "ở vào tình cảnh của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die in one's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "chết bất đắc kỳ tử; chết treo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the shoe on the right foot",
+              "list_im": [
+                {
+                  "im_full_vn": "phê bình đúng, phê bình phải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step into someone's shoe",
+              "list_im": [
+                {
+                  "im_full_vn": "thay thế ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that is another pair of shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "đó lại là vấn đề khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ shod",
+      "list_m": [
+        {
+          "m_full_vn": "đi giày (cho ai)"
+        },
+        {
+          "m_full_vn": "đóng móng (ngựa)"
+        },
+        {
+          "m_full_vn": "bịt (ở đầu)",
+          "list_en_vn": [
+            {
+              "full_en": "a pole shod with iron",
+              "full_vn": "cái sào đầu bịt sắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458518_7a8e77fa02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458518_bc4e4a7c72_o.png",
+      "id_image": "shoe_221867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388657_f8048d7d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388657_8e783dd00e_o.png",
+      "id_image": "shoe_239228"
+    }
+  ]
+}

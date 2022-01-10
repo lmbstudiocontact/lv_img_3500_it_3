@@ -1,0 +1,198 @@
+{
+  "english": "thin",
+  "phat_am": "[θin]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỏng, mảnh; có đường kính nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a thin sheet of paper",
+              "full_vn": "tờ giấy mỏng"
+            },
+            {
+              "full_en": "a thin piece of string",
+              "full_vn": "sợi dây mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mảnh dẻ, mảnh khảnh, gầy, không có nhiều thịt",
+          "list_en_vn": [
+            {
+              "full_en": "as thin as a lath",
+              "full_vn": "gầy như cái que"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loãng (chất lỏng, bột nhão)",
+          "list_en_vn": [
+            {
+              "full_en": "thin porridge",
+              "full_vn": "cháo loãng"
+            },
+            {
+              "full_en": "thin wine",
+              "full_vn": "rượu nhẹ, rượu pha loãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mỏng, không đặc",
+          "list_en_vn": [
+            {
+              "full_en": "thin air",
+              "full_vn": "không khí loãng"
+            },
+            {
+              "full_en": "a thin mist",
+              "full_vn": "một làn sương mỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thưa, thưa thớt, lơ thơ, không nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "thin hair",
+              "full_vn": "tóc thưa"
+            },
+            {
+              "full_en": "thin audience",
+              "full_vn": "thính giả thưa thớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhỏ, yếu, nhạt, kém",
+          "list_en_vn": [
+            {
+              "full_en": "a thin voice",
+              "full_vn": "giọng nói nhỏ nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mong manh; nghèo nàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a thin time (of it )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khó chịu, buồn chán, thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be ) thin on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "không nhiều, hiếm, ít có"
+                }
+              ]
+            },
+            {
+              "id_full_en": "vanish into thin air",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất hoàn toàn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a thin excuse",
+              "full_vn": "một lý do cáo lỗi mong manh không vững"
+            },
+            {
+              "full_en": "a thin story",
+              "full_vn": "một câu chuyện nghèo nàn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho mỏng, làm cho mảnh"
+        },
+        {
+          "m_full_vn": "làm gầy đi, làm gầy bớt"
+        },
+        {
+          "m_full_vn": "làm loãng, pha loãng"
+        },
+        {
+          "m_full_vn": "làm thưa, làm giảm bớt, tỉa bớt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỏng ra, mảnh đi"
+        },
+        {
+          "m_full_vn": "gầy đi"
+        },
+        {
+          "m_full_vn": "loãng ra"
+        },
+        {
+          "m_full_vn": "thưa bớt đi, thưa thớt",
+          "list_one_mean": [
+            {
+              "id_full_en": "thin down",
+              "list_im": [
+                {
+                  "im_full_vn": "trở nên mảnh khảnh; gầy đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thin something down",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì loãng ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỏng",
+          "list_en_vn": [
+            {
+              "full_en": "the bread is cut too thin",
+              "full_vn": "bánh mì đã được cắt ra quá mỏng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704319_9233e7eee7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704319_04e005e46a_o.png",
+      "id_image": "thin_1466546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704299_13781015da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704299_f3846d860c_o.png",
+      "id_image": "thin_4637252"
+    }
+  ]
+}

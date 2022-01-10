@@ -1,0 +1,35 @@
+{
+  "english": "urn",
+  "phat_am": "[ə:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình đựng di cốt, bình đựng tro hoả táng"
+        },
+        {
+          "m_full_vn": "bình to bằng kim loại có một cái vòi, để pha hoặc đựng trà trong các quán cà phê hoặc căng tin",
+          "list_en_vn": [
+            {
+              "full_en": "a tea urn",
+              "full_vn": "bình để đựng trà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705504_91049be2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705504_4e7147e567_o.png",
+      "id_image": "urn_5826157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350956_c3e9965b16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350956_e04e85672f_o.png",
+      "id_image": "urn_6001196"
+    }
+  ]
+}

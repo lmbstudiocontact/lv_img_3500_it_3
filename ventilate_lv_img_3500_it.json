@@ -1,0 +1,49 @@
+{
+  "english": "ventilate",
+  "phat_am": "['ventileit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quạt (thóc)"
+        },
+        {
+          "m_full_vn": "làm cho thông gió, làm cho thông hơi",
+          "list_en_vn": [
+            {
+              "full_en": "to ventilate a coal-mine",
+              "full_vn": "thông gió một mỏ than"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) lọc (máu) bằng oxy"
+        },
+        {
+          "m_full_vn": "mở lỗ thông hơi, lắp đặt van thông hơi"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) công bố rộng rãi, thảo luận rộng rãi, đưa ra bàn luận rộng rãi (một vấn đề..), luận bàn, làm rõ",
+          "list_en_vn": [
+            {
+              "full_en": "to ventilate one's opinion",
+              "full_vn": "công bố ý kiến của mình"
+            },
+            {
+              "full_en": "the question must be ventilated",
+              "full_vn": "vấn đề phải được đưa ra bàn luận rộng rãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701574_d3b2dd0c8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701574_969f8a5b24_o.png",
+      "id_image": "ventilate_2726370"
+    }
+  ]
+}

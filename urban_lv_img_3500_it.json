@@ -1,0 +1,44 @@
+{
+  "english": "urban",
+  "phat_am": "['ə:bən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thành phố; ở thành phố, sống trong thành phố",
+          "list_en_vn": [
+            {
+              "full_en": "urban population",
+              "full_vn": "nhân dân thành thị"
+            },
+            {
+              "full_en": "urban area",
+              "full_vn": "khu vực đô thị"
+            },
+            {
+              "full_en": "urban renewal",
+              "full_vn": "công cuộc chỉnh trang đô thị"
+            },
+            {
+              "full_en": "urban guerrillas",
+              "full_vn": "du kích đô thị; du kích nội thành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351546_53fc756d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351546_af86539141_o.png",
+      "id_image": "urban_505776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088560_2de5a97301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088560_e758e89554_o.png",
+      "id_image": "urban_505779"
+    }
+  ]
+}

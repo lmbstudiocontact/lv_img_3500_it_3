@@ -1,0 +1,45 @@
+{
+  "english": "trouser",
+  "phat_am": "['trauzə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "của quần, cho quần",
+          "list_en_vn": [
+            {
+              "full_en": "trouser buttons",
+              "full_vn": "cúc quần"
+            },
+            {
+              "full_en": "trouser pockets",
+              "full_vn": "túi quần"
+            },
+            {
+              "full_en": "a trouser press",
+              "full_vn": "bàn là quần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447088_88e477225c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447088_3c344eed71_o.png",
+      "id_image": "trouser_592136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332056_d5ca554eba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332056_a526a7c5fc_o.png",
+      "id_image": "trouser_592814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068680_4f768197bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068680_6ba7c94c5e_o.png",
+      "id_image": "trouser_6401968"
+    }
+  ]
+}

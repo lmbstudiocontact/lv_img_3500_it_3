@@ -1,0 +1,149 @@
+{
+  "english": "test",
+  "phat_am": "[test]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) vỏ (tôm, cua); mai (rùa)"
+        },
+        {
+          "m_full_vn": "sự thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "to put on test",
+              "full_vn": "đem thử thách"
+            },
+            {
+              "full_en": "to stand the test",
+              "full_vn": "chịu thử thách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thử, sự làm thử; sự xét nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "test bench",
+              "full_vn": "giá để thử xe"
+            },
+            {
+              "full_en": "an eye test",
+              "full_vn": "một cuộc thử mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sát hạch, sự kiểm tra, sự trắc nghiệm; bài kiểm tra, bài trắc nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "a test in arithmetic",
+              "full_vn": "một bài kiểm tra số học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách thử nghiệm, phương thức thử nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "a litmus test",
+              "full_vn": "phép thử bằng giấy quỳ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trận đấu thể nghiệm (để chuẩn bị đi thi đấu.. trong môn cricket, bóng bầu dục) (như) test match"
+        },
+        {
+          "m_full_vn": "(hoá học) thuốc thử"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vật để thử, đá thử vàng; tiêu chuẩn, cái để đánh giá",
+          "list_one_mean": [
+            {
+              "id_full_en": "stand the test of time",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu được sự thử thách của thời gian"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "to test someone's endurance",
+              "full_vn": "thử thách sức chịu đựng của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thử, thử nghiệm, xét nghiệm; kiểm tra",
+          "list_en_vn": [
+            {
+              "full_en": "to test a machine",
+              "full_vn": "thử một cái máy"
+            },
+            {
+              "full_en": "to test out a scheme",
+              "full_vn": "thử áp dụng một kế hoạch"
+            },
+            {
+              "full_en": "to test a poison",
+              "full_vn": "thử một chất độc"
+            },
+            {
+              "full_en": "the doctor tested my eyesight",
+              "full_vn": "bác sĩ kiểm tra mắt tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểm tra, sát hạch, khảo sát (hiểu biết, năng lực của ai về một lĩnh vực nhất định)"
+        },
+        {
+          "m_full_vn": "(hoá học) thử bằng thuốc thử"
+        },
+        {
+          "m_full_vn": "phân tích",
+          "list_en_vn": [
+            {
+              "full_en": "to test ore for gold",
+              "full_vn": "phân tích quặng tìm vàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466168_9ddf057b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466168_5bb34f6880_o.png",
+      "id_image": "test_2484611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466143_997824c920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466143_02163f5f68_o.png",
+      "id_image": "test_2490313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396277_7b96ee2545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396277_3a64fdf5db_o.png",
+      "id_image": "test_2725724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705999_c043ff7af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705999_95b53fa23e_o.png",
+      "id_image": "test_3335843"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "shaft",
+  "phat_am": "[∫ɑ:ft]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cán (giáo, mác...), tay cầm"
+        },
+        {
+          "m_full_vn": "càng xe"
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) mũi tên, cái giáo (đen & bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "the shaft of satire",
+              "full_vn": "những mũi tên nhọn của sự châm biếm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tia sáng; đường chớp"
+        },
+        {
+          "m_full_vn": "thân (cột, lông chim...) cọng, cuống"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) trục"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) hầm, lò",
+          "list_en_vn": [
+            {
+              "full_en": "ventilating shaft",
+              "full_vn": "hầm thông gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ống thông (hơi, khí); đường thông (cho thang máy qua các tầng gác...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462598_45edf2c331_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462598_d948d88761_o.png",
+      "id_image": "shaft_3903067"
+    }
+  ]
+}

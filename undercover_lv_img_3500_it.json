@@ -1,0 +1,45 @@
+{
+  "english": "undercover",
+  "phat_am": "[,ʌndə'kʌvə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấu giếm, lén lút, bí mật; kín",
+          "list_en_vn": [
+            {
+              "full_en": "undercover payments",
+              "full_vn": "những món tiền trả lén lút (những khoản hối lộ chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tay trong, đặc tình (dò xét người khác trong khi làm ra vẻ làm việc bình (thường) với họ)",
+          "list_en_vn": [
+            {
+              "full_en": "detectives working undercover",
+              "full_vn": "những thám tử đặc tình"
+            },
+            {
+              "full_en": "undercover activities /organizations",
+              "full_vn": "những hoạt động/tổ chức do thám tay trong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468738_a2c732c6bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468738_44af32f0f2_o.png",
+      "id_image": "undercover_2472570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354001_d671350f95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354001_c660f6af11_o.png",
+      "id_image": "undercover_2621960"
+    }
+  ]
+}

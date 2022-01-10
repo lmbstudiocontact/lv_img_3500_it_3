@@ -1,0 +1,95 @@
+{
+  "english": "shout",
+  "phat_am": "[∫aut]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự la hét, sự hò hét; tiếng gọi, tiếng kêu thét lớn"
+        },
+        {
+          "m_full_vn": "( Mỹ, Uc) chầu khao (đến lượt mua đồ uống)",
+          "list_en_vn": [
+            {
+              "full_en": "it is my shout",
+              "full_vn": "đến chầu tớ khao, đến lượt tớ làm đầu tàu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "la hét, hò hét, reo hò",
+          "list_en_vn": [
+            {
+              "full_en": "to shout at the top of one's voice",
+              "full_vn": "gân cổ lên mà hét"
+            },
+            {
+              "full_en": "to shout for joy",
+              "full_vn": "reo hò vui sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quát tháo, thét",
+          "list_en_vn": [
+            {
+              "full_en": "don't shout at me",
+              "full_vn": "đừng quát tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói to cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I shouted my name to the teacher",
+              "full_vn": "tôi hét to tên tôi cho thầy giáo nghe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) khao, thết",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shout somebody down",
+              "list_im": [
+                {
+                  "im_full_vn": "hét lên để ngăn không cho ai nói"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shout someone a drink",
+              "full_vn": "khao ai chầu rượu, thết ai chầu rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342396_8a953cf16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342396_cedb5dd95d_o.png",
+      "id_image": "shout_1128884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387372_d3891bebb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387372_70d79434ac_o.png",
+      "id_image": "shout_1281707"
+    }
+  ]
+}

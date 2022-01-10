@@ -1,0 +1,88 @@
+{
+  "english": "vocal",
+  "phat_am": "['voukl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) phát âm; liên quan đến phát âm",
+          "list_en_vn": [
+            {
+              "full_en": "vocal organs",
+              "full_vn": "cơ quan phát âm"
+            },
+            {
+              "full_en": "vocal cords (chords )",
+              "full_vn": "dây thanh âm"
+            },
+            {
+              "full_en": "vocal music",
+              "full_vn": "thanh nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát âm, bằng lời; được nói ra bằng lời",
+          "list_en_vn": [
+            {
+              "full_en": "vocal promise",
+              "full_vn": "lời hứa miệng"
+            },
+            {
+              "full_en": "public opinion has at last become vocal",
+              "full_vn": "cuối cùng dư luận quần chúng bắt đầu lên tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) lớn tiếng, to mồm, được nói thẳng ra, hay nói hay la",
+          "list_en_vn": [
+            {
+              "full_en": "vocal persons",
+              "full_vn": "những người hay to tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) đầy thanh âm",
+          "list_en_vn": [
+            {
+              "full_en": "the woods have become vocal",
+              "full_vn": "rừng cây xào xạc đầy thanh âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) kêu, có thanh"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) có tính chất nguyên âm"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) nguyên âm, âm hữu thanh, âm kêu"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) đoạn xướng âm (phần được hát lên ở một bản nhạc jazz hay nhạc pốp)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078950_3d164b3b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078950_4e198fedd8_o.png",
+      "id_image": "vocal_122871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456378_1873edfe6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456378_b05169c767_o.png",
+      "id_image": "vocal_4806603"
+    }
+  ]
+}

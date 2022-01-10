@@ -1,0 +1,1006 @@
+{
+  "english": "time",
+  "phat_am": "[taim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời; thời gian; thời giờ",
+          "list_en_vn": [
+            {
+              "full_en": "past /present /future time",
+              "full_vn": "thời quá khứ/hiện tại/tương lai"
+            },
+            {
+              "full_en": "the world exists in space and time",
+              "full_vn": "thế giới tồn tại trong không gian và thời gian"
+            },
+            {
+              "full_en": "time has not been kind to her looks",
+              "full_vn": "thời gian không nhân hậu với bà ta (bà ta không còn đẹp (như) xưa)"
+            },
+            {
+              "full_en": "Father Time",
+              "full_vn": "(nghĩa bóng) Ông Thời gian"
+            },
+            {
+              "full_en": "time heals all the wounds",
+              "full_vn": "thời gian sẽ chữa lành mọi vết thương"
+            },
+            {
+              "full_en": "that will take time",
+              "full_vn": "việc này sẽ mất nhiều thời giờ đấy"
+            },
+            {
+              "full_en": "I don't have (much ) time to read these days",
+              "full_vn": "dạo này tôi không có (nhiều) thời giờ đọc sách"
+            },
+            {
+              "full_en": "we have no time to lose",
+              "full_vn": "chúng ta không được để mất thời giờ"
+            },
+            {
+              "full_en": "what a waste of time !",
+              "full_vn": "thật là phí thời giờ!"
+            },
+            {
+              "full_en": "I spent most of my time (in ) sightseeing",
+              "full_vn": "tôi đã bỏ ra nhiều thời gian để đi tham quan"
+            },
+            {
+              "full_en": "I'm rather pressed for time",
+              "full_vn": "tôi khá bị bức bách về thời gian"
+            },
+            {
+              "full_en": "what a (long ) time you've been !",
+              "full_vn": "đã lâu lắm mới thấy anh!"
+            },
+            {
+              "full_en": "I'd a most unpleasant time at the dentist's",
+              "full_vn": "tôi đã có những giờ phút hết sức khó chịu ở chỗ ông nha sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời điểm được nói lên bằng giờ phút trong ngày; giờ",
+          "list_en_vn": [
+            {
+              "full_en": "What time is it ?/What is the time ?",
+              "full_vn": "Mấy giờ rồi? /Bây giờ là mấy giờ?"
+            },
+            {
+              "full_en": "do you have the time on you ?",
+              "full_vn": "anh có đồng hồ hay không?"
+            },
+            {
+              "full_en": "my youngest daughter has just learnt to tell the time",
+              "full_vn": "con gái út của tôi vừa học được cách xem giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian đo bằng các đơn vị (năm, tháng, giờ...)",
+          "list_en_vn": [
+            {
+              "full_en": "the winner's time was 11.6 seconds",
+              "full_vn": "thời gian của người thắng giải là 11, 6 giây"
+            },
+            {
+              "full_en": "he ran the mile in record time",
+              "full_vn": "anh ta chạy một dặm trong thời gian kỷ lục"
+            },
+            {
+              "full_en": "to be on short time",
+              "full_vn": "làm việc không đủ ngày (số ngày làm việc trong tuần giảm đi)"
+            },
+            {
+              "full_en": "paid time and a half /double time",
+              "full_vn": "được trả công gấp rưỡi/gấp đôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lúc, lần",
+          "list_en_vn": [
+            {
+              "full_en": "at the time you're speaking to the girl",
+              "full_vn": "lúc anh đang nói chuyện với cô gái"
+            },
+            {
+              "full_en": "by the time we reached home",
+              "full_vn": "lúc chúng tôi về tới nhà"
+            },
+            {
+              "full_en": "every time I see her",
+              "full_vn": "mỗi lần tôi gặp cô ta"
+            },
+            {
+              "full_en": "lunch-time",
+              "full_vn": "giờ ăn trưa"
+            },
+            {
+              "full_en": "this is not the time to bring up that subject",
+              "full_vn": "giờ không phải lúc đưa vấn đề đó ra"
+            },
+            {
+              "full_en": "now's your time",
+              "full_vn": "cơ hội của anh đã đến"
+            },
+            {
+              "full_en": "it's time we were going /time for us to go",
+              "full_vn": "đã đến lúc chúng ta phải đi rồi"
+            },
+            {
+              "full_en": "time is up !",
+              "full_vn": "hết giờ rồi!"
+            },
+            {
+              "full_en": "time , please !",
+              "full_vn": "sắp đóng cửa rồi, thưa các vị (tại quán rượu chẳng hạn)"
+            },
+            {
+              "full_en": "this /that /another /next /last time",
+              "full_vn": "lần này/đó/khác/sau/cuối cùng"
+            },
+            {
+              "full_en": "he failed his driving-test five times",
+              "full_vn": "anh ta trượt thi lấy bằng lái xe năm lần"
+            },
+            {
+              "full_en": "I told you umpteen , a dozen , countless times not to come there",
+              "full_vn": "tôi đã nói với anh không biết bao nhiêu lần, hàng tá lần, vô số lần là đừng đi đến đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian gắn với một số sự kiện, con người...; thời",
+          "list_en_vn": [
+            {
+              "full_en": "in Stuart times /the time (s ) of the Stuarts",
+              "full_vn": "vào thời Stuart (khi các vua dòng họ Stuart trị vì)"
+            },
+            {
+              "full_en": "in ancient /prehistoric /recent times",
+              "full_vn": "ở thời cổ đại/tiền sử/gần đây"
+            },
+            {
+              "full_en": "Mr Curtis was the manager in my time",
+              "full_vn": "thời tôi làm ở đó, ông Curtis là giám đốc"
+            },
+            {
+              "full_en": "the house is old but it will last my time",
+              "full_vn": "cái nhà này cũ rồi, nhưng còn dùng được cho hết đời tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian gắn liền với một số hoàn cảnh, kinh nghiệm...; thời buổi",
+          "list_en_vn": [
+            {
+              "full_en": "university was a good time for me",
+              "full_vn": "thời học đại học là một thời kỳ tốt đẹp của tôi"
+            },
+            {
+              "full_en": "times are hard for the unemployed",
+              "full_vn": "thời buổi thật là khó khăn cho những người thất nghiệp"
+            },
+            {
+              "full_en": "in time (s ) of danger /hardship /prosperity",
+              "full_vn": "lúc nguy hiểm/thời buổi vất vả/thời kỳ phồn vinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nhịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "(and ) about time (too )",
+              "list_im": [
+                {
+                  "im_full_vn": "và cái này lẽ ra đã phải xảy ra cách đây ít lâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ahead of time",
+              "list_im": [
+                {
+                  "im_full_vn": "sớm, trước thời hạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ahead of one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "có tư tưởng tiên tiến hoặc sáng suốt đối với thời kỳ đang sống; đi trước thời đại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all the time",
+              "list_im": [
+                {
+                  "im_full_vn": "trong suốt thời gian đang được nhắc đến, suốt; lúc nào cũng, luôn luôn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that letter I was searching for was in my pocket all the time",
+                      "full_vn": "bức thư mà tôi tìm kiếm (hoá ra) vẫn cứ nằm trong túi tôi suốt thời gian đó"
+                    },
+                    {
+                      "full_en": "he's a businessman all the time",
+                      "full_vn": "ông ta lúc nào cũng là nhà kinh doanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at all times",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc nào cũng; luôn luôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the best of times",
+              "list_im": [
+                {
+                  "im_full_vn": "xem best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at one time",
+              "list_im": [
+                {
+                  "im_full_vn": "vào một thời gian nào đó trong quá khứ, xưa kia"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at other times",
+              "list_im": [
+                {
+                  "im_full_vn": "vào những lúc/dịp khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the same time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem same"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at a time",
+              "list_im": [
+                {
+                  "im_full_vn": "kế tiếp nhau, riêng biệt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't try to do everything at once , take it a bit at a time",
+                      "full_vn": "đừng cố làm mọi thứ cùng một lúc, hãy làm mỗi lúc một ít"
+                    },
+                    {
+                      "full_en": "take the pills two at a time",
+                      "full_vn": "uống mỗi lần hai viên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the time",
+              "list_im": [
+                {
+                  "im_full_vn": "vào một lúc hoặc thời gian nào đó trong quá khứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at my /your /his time of life",
+              "list_im": [
+                {
+                  "im_full_vn": "ở tuổi tôi/anh/nó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at times",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi khi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "before one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "trước thời gian ta có thể nhớ được hoặc thời điểm mình có dính dáng; thời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the Beatles were a bit before my time",
+                      "full_vn": "Nhóm Beatles là trước thời tôi một chút"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "behind time",
+              "list_im": [
+                {
+                  "im_full_vn": "chậm, muộn, trễ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "behind the times",
+              "list_im": [
+                {
+                  "im_full_vn": "cổ lỗ, cũ rích, lạc hậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "better luck next time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem better"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bide one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bide"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the big time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem big"
+                }
+              ]
+            },
+            {
+              "id_full_en": "born before one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem born"
+                }
+              ]
+            },
+            {
+              "id_full_en": "borrowed time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem borrow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to buy time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem buy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do time",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ tù, ngồi tù"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every time",
+              "list_im": [
+                {
+                  "im_full_vn": "bất cứ khi nào có thể được, bất cứ khi nào có thể lựa chọn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for old times' sake",
+              "list_im": [
+                {
+                  "im_full_vn": "xem old"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for a time",
+              "list_im": [
+                {
+                  "im_full_vn": "trong một thời gian ngắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the time being",
+              "list_im": [
+                {
+                  "im_full_vn": "trong thời gian hiện nay, trong lúc này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from /since time immemorial",
+              "list_im": [
+                {
+                  "im_full_vn": "từ ngàn xưa, ngày xửa ngày xưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from time to time",
+              "list_im": [
+                {
+                  "im_full_vn": "thỉnh thoảng, đôi lúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody /have a rough /hard time",
+              "list_im": [
+                {
+                  "im_full_vn": "(làm cho ai phải) khổ sở vì bị quấy rầy, làm việc quá sức..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "(in ) half the time",
+              "list_im": [
+                {
+                  "im_full_vn": "rất sớm; một thời gian quá dài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you'd given the job to me , I could have done it in half the time",
+                      "full_vn": "nếu anh giao việc đó cho tôi thì tôi đã có thể làm xong rất sớm"
+                    },
+                    {
+                      "full_en": "I'm not surprised he didn't complete the exam : he spent half the time looking out of the window",
+                      "full_vn": "tôi chẳng ngạc nhiên về chuyện nó không làm xong bài thi, một nửa thời gian nó cứ ngồi nhìn ra cửa sổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an easy time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem easy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a good time",
+              "list_im": [
+                {
+                  "im_full_vn": "vui thú (vào một dịp riêng biệt nào đó)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have /give somebody a high old time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem high"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a lot of time for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "say mê ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've no time for lazy people /laziness",
+                      "full_vn": "tôi không ưa những kẻ lưới nhác/tính lười nhác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thin time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the time of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "sung sướng, náo nức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have time on one's hands /time to kill",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn không ngồi rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a whale of a time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem whale"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(it is ) high /about time",
+              "list_im": [
+                {
+                  "im_full_vn": "đã đến lúc..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "in course of time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem course"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the fullness of time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fullness"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in good time",
+              "list_im": [
+                {
+                  "im_full_vn": "rất sớm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the nick of time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem nick"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in (less than ) no time",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's own good time",
+              "list_im": [
+                {
+                  "im_full_vn": "theo thời gian hoặc sự nhanh chóng do ta quyết định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's own time",
+              "list_im": [
+                {
+                  "im_full_vn": "trong thời gian rảnh rỗi, lúc rỗi việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's own sweet time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sweet"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "vào thời kỳ trước hoặc một dịp trước trong đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in time",
+              "list_im": [
+                {
+                  "im_full_vn": "sớm hay muộn, cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in time (for something /to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng lúc, đúng giờ, kịp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /out of time",
+              "list_im": [
+                {
+                  "im_full_vn": "(âm nhạc) đúng/không đúng nhịp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's only a matter of time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem matter"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep time",
+              "list_im": [
+                {
+                  "im_full_vn": "hát/múa đúng nhịp; (nói về đồng hồ) chạy đúng giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up /move with the times",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi thái độ, cách ứng xử cho phù hợp với thông lệ hiện nay; theo thời thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem kill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "long time no see",
+              "list_im": [
+                {
+                  "im_full_vn": "xem long"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose /waste no time (in doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cái gì nhanh chóng, không chậm trễ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up for lost time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lost"
+                }
+              ]
+            },
+            {
+              "id_full_en": "many's the time (that ); many a time",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều lần; thường xuyên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem mark"
+                }
+              ]
+            },
+            {
+              "id_full_en": "near her time",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về phụ nữ có mang) sắp đẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ninety-nine times out of a hundred ; nine times out of ten",
+              "list_im": [
+                {
+                  "im_full_vn": "mười lần thì có đến chín lần, trăm lần thì có đến chín mươi chín lần; hầu như luôn luôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(there is ) no time like the present",
+              "list_im": [
+                {
+                  "im_full_vn": "không lúc nào bằng lúc này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "once upon a time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem once"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on time",
+              "list_im": [
+                {
+                  "im_full_vn": "không muộn mà cũng không sớm; đúng giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pass the time of day",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pass"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play for time",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo dài thời gian; trì hoãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "procrastination is the thief of time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem procrastination"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a race against time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem race"
+                }
+              ]
+            },
+            {
+              "id_full_en": "quite some time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem quite"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sign of the times",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sign"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a stitch in time saves nine",
+              "list_im": [
+                {
+                  "im_full_vn": "xem stitch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's time (over something /to do something /doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "nhênh nhang; ung dung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell the time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem tell"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time after time ; time and time again , times without number",
+              "list_im": [
+                {
+                  "im_full_vn": "không biết bao nhiêu lần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time flies",
+              "list_im": [
+                {
+                  "im_full_vn": "thời gian thấm thoắt thoi đưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time is on somebody's side",
+              "list_im": [
+                {
+                  "im_full_vn": "còn thời gian"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the time is ripe for something /somebody to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "thời gian đã chín mùi (đã đến lúc làm điều gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the time of day",
+              "list_im": [
+                {
+                  "im_full_vn": "giờ theo đồng hồ chỉ ra; giờ giấc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time presses !",
+              "list_im": [
+                {
+                  "im_full_vn": "gấp lắm rồi! (không thể trì hoãn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time was (when )...",
+              "list_im": [
+                {
+                  "im_full_vn": "đã có lúc/có thời..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "time (alone ) will tell",
+              "list_im": [
+                {
+                  "im_full_vn": "với thời gian trôi qua, điều đó sẽ rõ ràng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to watch the time",
+              "list_im": [
+                {
+                  "im_full_vn": "xem watch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work against time",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy đua với thời gian (hết sức khẩn trương)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "common time",
+              "full_vn": "nhịp thông thường"
+            },
+            {
+              "full_en": "three eight time",
+              "full_vn": "nhịp ba tám"
+            },
+            {
+              "full_en": "in waltz /march time",
+              "full_vn": "theo nhịp vanxơ/hành khúc"
+            },
+            {
+              "full_en": "beating time to the music",
+              "full_vn": "đánh nhịp theo nhạc"
+            },
+            {
+              "full_en": "quick time",
+              "full_vn": "nhịp nhanh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chọn thời điểm để làm (cái gì); sắp đặt thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "you've timed your holiday cleverly - the weather's at its best",
+              "full_vn": "anh chọn thời gian rất khéo cho kỳ nghỉ phép - thời tiết tuyệt đẹp"
+            },
+            {
+              "full_en": "his remark was well /badly timed",
+              "full_vn": "lời nhận xét của ông ta được đưa ra đúng/không đúng lúc"
+            },
+            {
+              "full_en": "kick off is timed for 2.30",
+              "full_vn": "quả phát bóng đầu tiên sẽ được đá vào lúc hai giờ ba mươi"
+            },
+            {
+              "full_en": "the bomb was timed to explode during the rush-hour",
+              "full_vn": "quả bom được định giờ để nổ vào giờ cao điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể thao) đánh một cú hoặc đánh (quả bóng) vào một lúc nào đó; đánh (đá) vào lúc",
+          "list_en_vn": [
+            {
+              "full_en": "he timed that shot beautifully",
+              "full_vn": "nó đã sút cú đó rất đúng lúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bấm giờ, tính giờ",
+          "list_en_vn": [
+            {
+              "full_en": "this egg is hard - you didn't time it properly",
+              "full_vn": "quả trứng này luộc chín quá - anh đã không tính giờ đúng"
+            },
+            {
+              "full_en": "Time me while I do /Time how long it takes me to do two lengths of the pool",
+              "full_vn": "hãy bấm giờ cho tôi để xem tôi bơi hai lượt bể bơi mất bao nhiêu lâu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347441_352c09fed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347441_5109377c4c_o.png",
+      "id_image": "time_1211040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392457_cb8e546ae3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392457_19fac67194_o.png",
+      "id_image": "time_868194"
+    }
+  ]
+}

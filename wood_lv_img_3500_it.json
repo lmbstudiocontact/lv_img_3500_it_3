@@ -1,0 +1,173 @@
+{
+  "english": "wood",
+  "phat_am": "[wud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gỗ (chất có xơ cứng trong thân và cành cây, ngoài có lớp vỏ bọc)",
+          "list_en_vn": [
+            {
+              "full_en": "soft wood",
+              "full_vn": "gỗ mềm"
+            },
+            {
+              "full_en": "made of wood",
+              "full_vn": "làm bằng gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gỗ, củi",
+          "list_en_vn": [
+            {
+              "full_en": "to put wood on the fire",
+              "full_vn": "bỏ củi vào bếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại gỗ đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "pine is a soft wood and steak is a hand wood",
+              "full_vn": "thông là một loại gỗ mềm và têc là một loại gỗ cứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) rừng cây (một vùng đất có nhiều cây trồng, không rộng (như) rừng)",
+          "list_en_vn": [
+            {
+              "full_en": "a wood of beech",
+              "full_vn": "rừng sồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) (như) bowl"
+        },
+        {
+          "m_full_vn": "gậy đánh gôn có đầu bằng gỗ"
+        },
+        {
+          "m_full_vn": "thùng gỗ (đựng rượu)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) ( the wood ) kèn sáo bằng gỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be unable to see the wood for the trees",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy cây mà không thấy rừng, nhìn thấy hiện tượng mà không thấy bản chất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he is wood from the neck up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nó dốt đặc, nó ngu lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the wood (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không còn gặp rắc rối, không còn gặp khó khăn, thoát nạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run to wood",
+              "list_im": [
+                {
+                  "im_full_vn": "phát cáu, nổi giận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take to the woods",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chạy trốn, tẩu thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from the wood",
+              "list_im": [
+                {
+                  "im_full_vn": "từ thùng tônô hoặc phuy bằng gỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not see the wood for the trees",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy cây mà không thấy rừng; quá chú trọng chi tiết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you add too many notes to the text , the reader won't be able to see the wood for the trees",
+                      "full_vn": "nếu anh đưa quá nhiều chú thích vào bài viết, người đọc sẽ thấy cây chứ không còn thấy rừng nữa (không nắm được đâu là chủ đề chính)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng gỗ",
+          "list_en_vn": [
+            {
+              "full_en": "wood floor",
+              "full_vn": "sàn gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) rừng",
+          "list_en_vn": [
+            {
+              "full_en": "wood flowers",
+              "full_vn": "những bông hoa rừng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp củi; lấy củi"
+        },
+        {
+          "m_full_vn": "trồng rừng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071930_02e9b48e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071930_0b6c8bc605_o.png",
+      "id_image": "wood_2153138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450053_2d2b012539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450053_1046686522_o.png",
+      "id_image": "wood_878460"
+    }
+  ]
+}

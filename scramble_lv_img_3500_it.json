@@ -1,0 +1,103 @@
+{
+  "english": "scramble",
+  "phat_am": "['skræmbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bò, sự trườn (trên miếng đất mấp mô)",
+          "list_en_vn": [
+            {
+              "full_en": "A scramble over the rocks at the seashore",
+              "full_vn": "Cuộc leo trèo vất vả qua các mỏm đá ở bờ biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc thi mô tô, cuộc thử mô tô (trên bãi đất ghồ ghề)"
+        },
+        {
+          "m_full_vn": "( scramble for something ) sự tranh cướp, sự tranh giành ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "The scramble for office",
+              "full_vn": "Sự tranh giành chức vị"
+            },
+            {
+              "full_en": "There was a scramble for the best seats",
+              "full_vn": "Đã có một cuộc tranh giành gay go để chiếm được những chỗ ngồi tốt nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bò, toài, trườn (trên đất mấp mô)",
+          "list_en_vn": [
+            {
+              "full_en": "To scramble up the embankment",
+              "full_vn": "Leo lên bờ đê"
+            },
+            {
+              "full_en": "The girl scrambled over the wall",
+              "full_vn": "Cô gái trèo qua bức tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to scramble for something ) tranh cướp, tranh giành ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "To scramble for a living",
+              "full_vn": "Tranh giành để kiếm sống"
+            },
+            {
+              "full_en": "Players scrambling for possession of the ball",
+              "full_vn": "Các cầu thủ giành bóng với nhau"
+            },
+            {
+              "full_en": "The kids scrambled for the coins",
+              "full_vn": "Lũ nhóc giành nhau mấy đồng tiền"
+            },
+            {
+              "full_en": "They were all scrambling to get the bargains",
+              "full_vn": "Tất cả bọn họ đều giành nhau hợp đồng mua bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to scramble something up ) trộn (nhiều vật) với nhau cho rối lên",
+          "list_en_vn": [
+            {
+              "full_en": "Who has crambled up my sewing things ?",
+              "full_vn": "Ai đã làm cho đồ may của tôi rối tung thế?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho máy bay (quân sự)) đột ngột cất cánh"
+        },
+        {
+          "m_full_vn": "khuấy (trứng) bằng cách trộn lòng trắng và lòng đỏ với nhau trong lúc đang nấu với sữa và bơ; bác trứng"
+        },
+        {
+          "m_full_vn": "đổi tần số (ở (rađiô)...) để không ai nghe trộm được"
+        },
+        {
+          "m_full_vn": "góp nhóp; nhặt nhạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064895_918e31dfe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064895_940be1bb11_o.png",
+      "id_image": "scramble_4882869"
+    }
+  ]
+}

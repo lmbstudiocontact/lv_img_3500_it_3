@@ -1,0 +1,35 @@
+{
+  "english": "snooze",
+  "phat_am": "[snu:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) một giấc ngủ ngắn; giấc ngủ chợt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) ngủ một giấc ngắn (nhất là ban ngày); ngủ gà gật",
+          "list_en_vn": [
+            {
+              "full_en": "to snooze time away",
+              "full_vn": "ngủ cho qua thời gian; đà đẫn cho qua giờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684259_8558fe567e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684259_516bcda150_o.png",
+      "id_image": "snooze_3602457"
+    }
+  ]
+}

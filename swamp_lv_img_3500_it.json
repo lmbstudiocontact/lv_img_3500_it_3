@@ -1,0 +1,73 @@
+{
+  "english": "swamp",
+  "phat_am": "[swɔmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầm lầy"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ngập nước, làm sũng nước, làm ướt đẫm",
+          "list_en_vn": [
+            {
+              "full_en": "the sink overflowed and swamped the kitchen",
+              "full_vn": "chậu rửa bát tràn ra và làm nhà bếp sũng nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tràn ngập, che khuất; làm mất tác dụng"
+        },
+        {
+          "m_full_vn": "bị ngập vào, bị búi vào",
+          "list_en_vn": [
+            {
+              "full_en": "to be swamped with work",
+              "full_vn": "bị búi vào công việc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị ngập, bị sa lầy"
+        },
+        {
+          "m_full_vn": "bị tràn ngập, bị che khuất; bị làm mất tác dụng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449368_e68ba6844f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449368_fe2fdc647f_o.png",
+      "id_image": "swamp_3038918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449303_0a04792e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449303_8ec34e2c30_o.png",
+      "id_image": "swamp_3075129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379127_9ede752dee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379127_50978fe189_o.png",
+      "id_image": "swamp_3195866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071215_4a39cae00f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071215_9d8eb1e3f5_o.png",
+      "id_image": "swamp_4104401"
+    }
+  ]
+}

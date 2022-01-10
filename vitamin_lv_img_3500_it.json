@@ -1,0 +1,68 @@
+{
+  "english": "vitamin",
+  "phat_am": "['vitəmin; 'vaitəmin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Vi-ta-min (một trong nhiều chất hữu cơ có trong những thức ăn, cần thiết cho sức khoẻ con người và những động vật khác); sinh tố",
+          "list_en_vn": [
+            {
+              "full_en": "Retinol (vitamin A )",
+              "full_vn": "Rề-ti-non ( vi-ta-min A)"
+            },
+            {
+              "full_en": "Ascorbic acid (vitamin C )",
+              "full_vn": "A-xít a-xco-bích ( vi-ta-min C)"
+            },
+            {
+              "full_en": "Calciferol (vitamin D )",
+              "full_vn": "Can-xi-phê-ron ( vi-ta-min D)"
+            },
+            {
+              "full_en": "Vitamin B complex",
+              "full_vn": "Vi-ta-min B tổng hợp"
+            },
+            {
+              "full_en": "In 1936, Robert Runnels Williams successfully synthesized thiamine (vitamin B1 )",
+              "full_vn": "Năm 1936, Robert Runnels Williams tổng hợp được ti-a-min ( vi-ta-min B 1)"
+            },
+            {
+              "full_en": "Riboflavin (or Lactoflavin ) is also called vitamin B2",
+              "full_vn": "Ri-bô-fla-vin (hay Lắc-tô-fla-vin) cũng gọi là vi-ta-min B 2"
+            },
+            {
+              "full_en": "Niacin (vitamin B3 )",
+              "full_vn": "Ni-a-xin ( vi-ta-min B 3)"
+            },
+            {
+              "full_en": "Pantothenic acid (vitamin B5 )",
+              "full_vn": "A-xít păng-tô-tê-ních ( vi-ta-min B 5)"
+            },
+            {
+              "full_en": "Pyridoxine (vitamin B6 )",
+              "full_vn": "Pi-ri-đoóc-xin ( vi-ta-min B 6)"
+            },
+            {
+              "full_en": "Cobalamin /cyanocobalamin (vitamin B12 )",
+              "full_vn": "Cô-ba-la-min/xi-a-nô-cô-ba-la-min ( vi-ta-min B 12)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079215_33e6946778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079215_c175dafcaf_o.png",
+      "id_image": "vitamin_4005511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697004_98d616f77e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697004_ab4697c39f_o.png",
+      "id_image": "vitamin_5046988"
+    }
+  ]
+}

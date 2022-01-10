@@ -1,0 +1,297 @@
+{
+  "english": "stretch",
+  "phat_am": "[stret∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự căng ra, sự duỗi ra; sự bị căng ra, sự bị duỗi ra",
+          "list_en_vn": [
+            {
+              "full_en": "stretch of the arm",
+              "full_vn": "sự duỗi tay ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng có thể căng ra; tính co giãn",
+          "list_en_vn": [
+            {
+              "full_en": "this material has a lot of stretch in it",
+              "full_vn": "thứ vải này rất co giãn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng kéo dài liên tục; sự kéo dài liên tục (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "stretch of land",
+              "full_vn": "dải đất"
+            },
+            {
+              "full_en": "a long stretch of open road",
+              "full_vn": "một quãng đường dài thông suốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một thời gian kéo dài liên tục, một thời gian không bị ngắt khoảng",
+          "list_en_vn": [
+            {
+              "full_en": "a four-hour stretch",
+              "full_vn": "một mạch bốn giờ liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩa rộng, nghĩa suy ra",
+          "list_en_vn": [
+            {
+              "full_en": "by a stretch of language",
+              "full_vn": "theo nghĩa rộng của ngôn ngữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) mạch đường (khoảng đường đã đi được theo một hướng buồm)"
+        },
+        {
+          "m_full_vn": "thời gian phục vụ; thời gian bị tù, hạn tù",
+          "list_en_vn": [
+            {
+              "full_en": "do a stretch in the army",
+              "full_vn": "phục vụ một thời gian trong quân đội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quãng đường thẳng của một vòng đua",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a stretch",
+              "list_im": [
+                {
+                  "im_full_vn": "một hơi, một mạch, không nghỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for a long stretch of time",
+              "list_im": [
+                {
+                  "im_full_vn": "lâu, lâu lắm rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at a stretch",
+              "list_im": [
+                {
+                  "im_full_vn": "một mạch; liên tục; không ngừng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo dài ra, căng ra, giăng ra, duỗi ra; nong ra",
+          "list_en_vn": [
+            {
+              "full_en": "to stretch a wire across the road",
+              "full_vn": "căng dây qua đường"
+            },
+            {
+              "full_en": "to stretch trousers",
+              "full_vn": "căng quần vào khung (cho khỏi nhàu)"
+            },
+            {
+              "full_en": "to stretch one's legs",
+              "full_vn": "duỗi chân đứng lên đi (sau khi ngồi nhiều)"
+            },
+            {
+              "full_en": "to lay stretched on the ground",
+              "full_vn": "nằm dài dưới đất"
+            },
+            {
+              "full_en": "these boots want stretching",
+              "full_vn": "đôi giày ống này cần phải được nong ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vươn (vai..)",
+          "list_en_vn": [
+            {
+              "full_en": "to stretch oneself",
+              "full_vn": "vươn vai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi nhiều ở (ai hoặc khả năng.. của ai)",
+          "list_en_vn": [
+            {
+              "full_en": "the race really stretched him",
+              "full_vn": "cuộc đua đã thật sự đòi hỏi rất nhiều ở anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi dụng, lạm dụng; nói phóng đại, nói ngoa, thổi phồng",
+          "list_en_vn": [
+            {
+              "full_en": "to stretch a principle",
+              "full_vn": "lạm dụng một nguyên tắc"
+            },
+            {
+              "full_en": "to stretch one's powers",
+              "full_vn": "lạm dụng quyền hành của mình"
+            },
+            {
+              "full_en": "to stretch the truth",
+              "full_vn": "thổi phồng sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) treo cổ (ai)"
+        },
+        {
+          "m_full_vn": "( + out ) kéo dài để đáp ứng những nhu cầu, có đủ để đáp ứng những nhu cầu",
+          "list_en_vn": [
+            {
+              "full_en": "he couldn't stretch out his money to the end of the month",
+              "full_vn": "nó không thể có đủ tiền (chi tiêu) đến cuối tháng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trải ra, chạy dài ra",
+          "list_en_vn": [
+            {
+              "full_en": "the fields stretch away to the horizon",
+              "full_vn": "cánh đồng trải dài ra đến chân trời"
+            },
+            {
+              "full_en": "to stretch across the sky",
+              "full_vn": "chạy ngang bầu trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giãn ra, rộng ra; co giãn",
+          "list_en_vn": [
+            {
+              "full_en": "these shoes will stretch with wearing",
+              "full_vn": "đôi giày này đi rồi sẽ rộng ra"
+            },
+            {
+              "full_en": "it stretches like elastic",
+              "full_vn": "cái đó co giãn như dây chun"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở rộng ra",
+          "list_en_vn": [
+            {
+              "full_en": "the road stretched (out ) across the desert into the distance",
+              "full_vn": "con đường chạy qua sa mạc về phía xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo dài",
+          "list_en_vn": [
+            {
+              "full_en": "the long summer holiday stretched ahead (of them )",
+              "full_vn": "cuộc nghỉ hè dài ngày mở ra trước mặt họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + oneself ) one nằm sóng soài; nằm dài ra để nghỉ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bị treo cổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stretch out",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa thẳng tay ra"
+                },
+                {
+                  "im_full_vn": "bước dài bước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stretch somebody on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai ngã sóng soài dưới đất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stretch one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "đi bộ để tập luyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stretch a point",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếu cố; nhân nhượng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342656_428649be3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342656_5f407fce8c_o.png",
+      "id_image": "stretch_1140864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080120_efa1605a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080120_57b348c20c_o.png",
+      "id_image": "stretch_4601186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080085_56eac5c4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080085_524f92ea0c_o.png",
+      "id_image": "stretch_4760683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387557_ba4a3b0476_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387557_7d2de21f29_o.png",
+      "id_image": "stretch_5375386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342481_b0c5c412b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342481_0933741401_o.png",
+      "id_image": "stretch_5830739"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "separation",
+  "phat_am": "[,sepə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chia cắt, sự ngăn cách; tình trạng bị chia cắt, tình trạng bị ngăn cách",
+          "list_en_vn": [
+            {
+              "full_en": "the separation of infectious patients from other patients",
+              "full_vn": "việc cách ly các bệnh nhân lây khỏi những bệnh nhân khác"
+            },
+            {
+              "full_en": "separation from his friends made him sad",
+              "full_vn": "anh ấy buồn vì phải xa bạn bè"
+            },
+            {
+              "full_en": "after a separation of five years from his parents",
+              "full_vn": "sau năm năm sống xa cha mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dàn xếp của luật pháp cho hai vợ chồng sống tách biệt nhau mà không đoạn tiêu giấy hôn thú; sự ly thân",
+          "list_one_mean": [
+            {
+              "id_full_en": "separation allowance",
+              "list_im": [
+                {
+                  "im_full_vn": "phần tiền lương (của quân nhân...) chuyển cho vợ con"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to decide on (a ) separation",
+              "full_vn": "quyết định ly thân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349836_7b17309c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349836_3704776942_o.png",
+      "id_image": "separation_2911700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087135_31e2c6687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087135_0270f7a130_o.png",
+      "id_image": "separation_505790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394567_e4bf7bf617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394567_cd08c6aff4_o.png",
+      "id_image": "separation_5526459"
+    }
+  ]
+}

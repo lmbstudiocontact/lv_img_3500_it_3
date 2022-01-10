@@ -1,0 +1,42 @@
+{
+  "english": "warmer",
+  "phat_am": "['wɔ:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nhất là trong từ ghép) lồng ấp; cái làm nóng lên",
+          "list_en_vn": [
+            {
+              "full_en": "a foot-warmer",
+              "full_vn": "cái sưởi/ủ chân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452298_7b31ca63ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452298_e3b75629a7_o.png",
+      "id_image": "warmer_3751938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382462_995a73d81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382462_93fdc6f76e_o.png",
+      "id_image": "warmer_4427171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382432_0873c629ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382432_acf4c15514_o.png",
+      "id_image": "warmer_5059531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382392_059be6f9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382392_f15afe98a0_o.png",
+      "id_image": "warmer_5650989"
+    }
+  ]
+}

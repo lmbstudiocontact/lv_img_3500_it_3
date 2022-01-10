@@ -1,0 +1,74 @@
+{
+  "english": "session",
+  "phat_am": "['se∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi họp, phiên họp, kỳ họp",
+          "list_en_vn": [
+            {
+              "full_en": "in session",
+              "full_vn": "đang họp (quốc hội)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niên khoá của trường phổ thông hoặc đại học"
+        },
+        {
+          "m_full_vn": "buổi; phiên",
+          "list_en_vn": [
+            {
+              "full_en": "a recording session",
+              "full_vn": "buổi ghi âm"
+            },
+            {
+              "full_en": "a working session",
+              "full_vn": "buổi làm việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ban điều hành của một nhà thờ Giáo hội trưởng lão",
+          "list_one_mean": [
+            {
+              "id_full_en": "court of sessions",
+              "list_im": [
+                {
+                  "im_full_vn": "toà hình sự ở Mỹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "court of petty sessions",
+              "list_im": [
+                {
+                  "im_full_vn": "toà tiểu hình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348816_4e69b3770a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348816_603d15c1ec_o.png",
+      "id_image": "session_2037757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703549_85ee5a77a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703549_28fdfe5ec6_o.png",
+      "id_image": "session_2472213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463528_8e87657791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463528_9e250eaeb5_o.png",
+      "id_image": "session_5458572"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "villain",
+  "phat_am": "['vilən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ hung ác, tên côn đồ"
+        },
+        {
+          "m_full_vn": "tên tội phạm (nhất là được cảnh sát dùng)"
+        },
+        {
+          "m_full_vn": "(thông tục) thằng đểu, tên lừa đảo, kẻ bất lương"
+        },
+        {
+          "m_full_vn": "nhân vật phản diện (trong truyện ngắn, vở kịch..)"
+        },
+        {
+          "m_full_vn": "(đùa cợt) thằng bé tinh quái; thằng quỷ sứ con"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người quê mùa thô kệch"
+        },
+        {
+          "m_full_vn": "(sử học) nông nô (người tá điền thời phong kiến hoàn toàn lệ thuộc vào chủ đất của họ, ở châu Âu thời Trung cổ) (như) villein",
+          "list_one_mean": [
+            {
+              "id_full_en": "the villain of the piece",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) người chịu trách nhiệm, vật chịu trách nhiệm (về một số điều rắc rối, thiệt hại..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a faulty fuse was the villain of the piece",
+                      "full_vn": "cái cầu chì hỏng đã gây nhiều chuyện bực mình"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081125_7157e9dc39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081125_32b9a4dd18_o.png",
+      "id_image": "villain_2155380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343701_49c68eb333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343701_e8f619c3c7_o.png",
+      "id_image": "villain_5039273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698854_b45dab208f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698854_e34c5ea8ed_o.png",
+      "id_image": "villain_5039320"
+    }
+  ]
+}

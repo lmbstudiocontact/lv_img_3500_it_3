@@ -1,0 +1,27 @@
+{
+  "english": "spoonful",
+  "phat_am": "['spu:nfl]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều spoonfuls",
+      "list_m": [
+        {
+          "m_full_vn": "thìa; lượng chứa trong thìa",
+          "list_en_vn": [
+            {
+              "full_en": "a heaped spoonful of sugar",
+              "full_vn": "một thìa đường có ngọn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397677_e12c900459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397677_64cd45b273_o.png",
+      "id_image": "spoonful_1863686"
+    }
+  ]
+}

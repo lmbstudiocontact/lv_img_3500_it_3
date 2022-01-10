@@ -1,0 +1,120 @@
+{
+  "english": "stitch",
+  "phat_am": "[stit∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũi khâu, mũi đan, mũi thêu, mũi móc",
+          "list_en_vn": [
+            {
+              "full_en": "to put stitches in a wound",
+              "full_vn": "khâu vết thương lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết chỉ, đường may"
+        },
+        {
+          "m_full_vn": "cách khâu, cách may"
+        },
+        {
+          "m_full_vn": "(thông tục) một tí, một mảnh (vải)",
+          "list_en_vn": [
+            {
+              "full_en": "he hasn't done a stitch of work",
+              "full_vn": "nó chẳng làm một tí công việc gì"
+            },
+            {
+              "full_en": "wearing not a stitch of clothes",
+              "full_vn": "không mặc một manh áo nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đau xóc hông (cơn đau đột ngột ở trong cơ bên sườn của cơ thể; do chạy quá mệt..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a stitch in time saves nine",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) làm ngay cho khỏi rách việc ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he has not a dry stitch on him",
+              "list_im": [
+                {
+                  "im_full_vn": "anh ta ướt như chuột lột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have not (got ) a stitch on /not be wearing a stitch",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khoả thân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in stitches",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cười không kiềm chế nổi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khâu, may",
+          "list_en_vn": [
+            {
+              "full_en": "stitching a shirt",
+              "full_vn": "khâu chiếc áo sơ mi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đính, đơm",
+          "list_en_vn": [
+            {
+              "full_en": "to stitch a button on a dress",
+              "full_vn": "đính cúc vào áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + something up ) nối lại với nhau, đóng lại bằng khâu; vá",
+          "list_en_vn": [
+            {
+              "full_en": "stitch up a wound",
+              "full_vn": "khâu một vết thương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391152_b4a380e982_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391152_2e64f798f8_o.png",
+      "id_image": "stitch_2442329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346141_618e286211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346141_2d0bea6236_o.png",
+      "id_image": "stitch_2927914"
+    }
+  ]
+}

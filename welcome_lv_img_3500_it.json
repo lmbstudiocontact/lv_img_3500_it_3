@@ -1,0 +1,205 @@
+{
+  "english": "welcome",
+  "phat_am": "['welkəm]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được tiếp nhận với niềm vui thích hoặc mang đến niềm vui thích",
+          "list_en_vn": [
+            {
+              "full_en": "a welcome change /relief /rest /sight /visitor",
+              "full_vn": "một sự thay đổi/khuây khoả/nghỉ ngơi/phong cảnh/người khách thú vị"
+            },
+            {
+              "full_en": "welcome news",
+              "full_vn": "tin vui; tin mừng"
+            },
+            {
+              "full_en": "your offer of a loan is extremely welcome just now",
+              "full_vn": "lời đề nghị cho vay của anh ngay lúc này thật đáng hoan nghênh"
+            },
+            {
+              "full_en": "we had the feeling that we were not welcome at the meeting",
+              "full_vn": "chúng tôi có cảm giác rằng chúng tôi không được hoan nghênh tại cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được phép tự do lấy hoặc làm cái gì; cứ tự nhiên, cứ việc",
+          "list_en_vn": [
+            {
+              "full_en": "you are welcome to use /to the use of my bicycle",
+              "full_vn": "anh cứ việc dùng xe đạp của tôi"
+            },
+            {
+              "full_en": "you are welcome to go with them wherever you like",
+              "full_vn": "anh muốn đi đâu với họ cũng được, xin cứ tự nhiên"
+            },
+            {
+              "full_en": "you are welcome to any books you would like to borrow",
+              "full_vn": "anh cứ việc lấy bất cứ cuốn sách nào mà anh muốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được phép tự do lấy hoặc làm cái gì vì người nói không muốn có điều đó hoặc làm điều đó; xin cứ tự nhiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "you are welcome",
+              "list_im": [
+                {
+                  "im_full_vn": "không dám, có gì đâu, không cần phải cám ơn tôi (nói để đáp lại lời cảm ơn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody welcome",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai cảm thấy rằng anh ta được hoan nghênh; tiếp đón ai ân cần"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "if anyone thinks he can do this job any better , he's welcome to it /to try",
+              "full_vn": "nếu ai đó cho rằng mình có thể làm việc này tốt hơn, xin cứ tự nhiên làm thử"
+            },
+            {
+              "full_en": "as far as I'm concerned , if it's my desk she wants , she's welcome to it !",
+              "full_vn": "về phần tôi, nếu cô ấy muốn cái bàn làm việc của tôi, xin cô ấy cứ tự nhiên!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(lời chào của một người đã ở một nơi đối với người đến) hoan nghênh!",
+          "list_en_vn": [
+            {
+              "full_en": "Welcome to Vietnam!",
+              "full_vn": "Hoan nghênh các bạn đến thăm Việt nam!"
+            },
+            {
+              "full_en": "Welcome on board !",
+              "full_vn": "Hoan nghênh quý khách lên tàu!"
+            },
+            {
+              "full_en": "Welcome back /home !",
+              "full_vn": "Hoan nghênh bạn trở lại/về nhà"
+            },
+            {
+              "full_en": "Welcome ! Come in and meet my parents",
+              "full_vn": "Hoan nghênh! Xin mời vào gặp bố mẹ tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chào đón ân cần, sự tiếp đãi ân cần; sự hoan nghênh",
+          "list_en_vn": [
+            {
+              "full_en": "an enthusiastic /hearty /warm welcome",
+              "full_vn": "sự đón tiếp nồng nhiệt/chân thành/ấm cúng"
+            },
+            {
+              "full_en": "to receive a warm welcome",
+              "full_vn": "được đón tiếp niềm nở"
+            },
+            {
+              "full_en": "the victorious team were given a tumultuous welcome when they arrived home",
+              "full_vn": "đội chiến thắng được tiếp đón rầm rộ khi họ về nước"
+            },
+            {
+              "full_en": "she was touched by the warmth of their welcome",
+              "full_vn": "bà ấy xúc động bởi sự tiếp đón nồng nhiệt của họ"
+            },
+            {
+              "full_en": "to outstay /overstay one's welcome",
+              "full_vn": "ở chơi lâu đến nỗi người ta không muốn tiếp nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chào ai lúc anh ta đến",
+          "list_en_vn": [
+            {
+              "full_en": "a welcoming smile",
+              "full_vn": "nụ cười chào đón"
+            },
+            {
+              "full_en": "we were welcomed at the door by the children",
+              "full_vn": "chúng tôi được bọn trẻ chào đón ngay cửa ra vào"
+            },
+            {
+              "full_en": "she welcomed the visitors warmly",
+              "full_vn": "bà ta nồng nhiệt chào đón các vị khách"
+            },
+            {
+              "full_en": "it's a pleasure to welcome you (back ) on the show",
+              "full_vn": "thật vui mừng được đón anh (trở lại) trong chương trình biểu diễn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể hiện hoặc cảm thấy vui mừng về cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the changes were welcomed by everybody",
+              "full_vn": "những thay đổi đó đã được mọi người hoan nghênh"
+            },
+            {
+              "full_en": "we welcome the opportunity to express our gratitude",
+              "full_vn": "chúng tôi vui mừng có dịp bày tỏ lòng biết ơn của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản ứng đối với cái gì theo một cách cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "to welcome the news with amazement /indifference /enthusiasm",
+              "full_vn": "đón nhận tin tức một cách kinh ngạc/thờ ơ/nhiệt tình"
+            },
+            {
+              "full_en": "to welcome a suggestion coldly /enthusiastically",
+              "full_vn": "lạnh lùng/nồng nhiệt đón nhận một lời gợi ý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377332_24d3c94f3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377332_04912dfc60_o.png",
+      "id_image": "welcome_2445144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447523_7630e43000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447523_fc7c57bab3_o.png",
+      "id_image": "welcome_2689940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377227_f5b91de8a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377227_a7ac162a3e_o.png",
+      "id_image": "welcome_6143967"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "english": "spark",
+  "phat_am": "[spɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tia lửa, tia sáng; tàn lửa"
+        },
+        {
+          "m_full_vn": "tia loé, ánh loé, chấm sáng loé (ở đá quý)"
+        },
+        {
+          "m_full_vn": "lời đối đáp nhanh trí; nét sắc sảo (của trí thông minh)"
+        },
+        {
+          "m_full_vn": "( (thường) phủ định) một tia, một tị",
+          "list_en_vn": [
+            {
+              "full_en": "if you had a spark of generosity in you",
+              "full_vn": "nếu như anh còn tí chút lượng cả nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Sparks ) nhân viên rađiô",
+          "list_one_mean": [
+            {
+              "id_full_en": "fairy sparks",
+              "list_im": [
+                {
+                  "im_full_vn": "ánh lân quang (phát ra từ thực vật mục nát); ma trơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike sparks out of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "gợi được sự sắc sảo dí dỏm của ai (nhất là trong khi nói chuyện)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai bật tia lửa"
+        },
+        {
+          "m_full_vn": "to spark off khuấy động, làm cho hoạt động"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phát tia lửa, phát tia điện"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người vui tính"
+        },
+        {
+          "m_full_vn": "người trai lơ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trai lơ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tán tỉnh, tán (gái)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680084_fb7a019135_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680084_ac98bca2d6_o.png",
+      "id_image": "spark_1870916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369757_b97e1d5675_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369757_423990f833_o.png",
+      "id_image": "spark_290139"
+    }
+  ]
+}

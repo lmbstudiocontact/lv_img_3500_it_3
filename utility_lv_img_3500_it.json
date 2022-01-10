@@ -1,0 +1,59 @@
+{
+  "english": "utility",
+  "phat_am": "[ju:'tiləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự có lợi, sự có ích; tính hữu dụng, tính thiết thực"
+        },
+        {
+          "m_full_vn": "vật có ích, vật dùng được",
+          "list_en_vn": [
+            {
+              "full_en": "utility clothes",
+              "full_vn": "quần áo để mặc dầm mưa dãi nắng"
+            },
+            {
+              "full_en": "utility furniture",
+              "full_vn": "đồ đạc loại thiết thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuyết vị lợi"
+        },
+        {
+          "m_full_vn": "( số nhiều) những ngành phục vụ công cộng (như) public utilities"
+        },
+        {
+          "m_full_vn": "(sân khấu) vai phụ (như) utility-man"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực tiễn, tiêu chuẩn hoá chặt chẽ"
+        },
+        {
+          "m_full_vn": "tiện ích"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395142_e31261cc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395142_df8ac441c6_o.png",
+      "id_image": "utility_4757480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087535_2dbdf4c740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087535_9248b6a46a_o.png",
+      "id_image": "utility_5966739"
+    }
+  ]
+}

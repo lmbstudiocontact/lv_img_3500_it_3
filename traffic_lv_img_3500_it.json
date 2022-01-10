@@ -1,0 +1,126 @@
+{
+  "english": "traffic",
+  "phat_am": "[træfik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi lại, sự giao thông (của xe cộ)",
+          "list_en_vn": [
+            {
+              "full_en": "heavy /light traffic",
+              "full_vn": "mật độ xe cộ đông/ít"
+            },
+            {
+              "full_en": "there's usually a lot of traffic at the time of day",
+              "full_vn": "thường có xe cộ đi lại vào thời điểm này trong ngày"
+            },
+            {
+              "full_en": "traffic was brought to a standstill by the accident",
+              "full_vn": "giao thông bị tắc nghẽn do vụ tai nạn"
+            },
+            {
+              "full_en": "a traffic accident",
+              "full_vn": "tai nạn giao thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển động (của tàu, máy bay theo một tuyến)",
+          "list_en_vn": [
+            {
+              "full_en": "cross-channel traffic",
+              "full_vn": "giao thông vận tải qua biển Măngsơ"
+            },
+            {
+              "full_en": "a threatened strike by air-traffic controllers",
+              "full_vn": "sự đe doạ bãi công của những người hướng dẫn không lưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng người, khối lượng hàng hoá (được vận chuyển từ nơi này sang nơi khác bằng đường bộ, đường sắt, biển và (hàng không))",
+          "list_en_vn": [
+            {
+              "full_en": "an increase in freight /goods /passenger traffic",
+              "full_vn": "sự gia tăng lưu lượng vận tải hàng/hàng hoá/hành khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự buôn bán bất hợp pháp, sự buôn bán bất lương",
+          "list_en_vn": [
+            {
+              "full_en": "the white slave traffic",
+              "full_vn": "sự buôn nô lệ da trắng"
+            },
+            {
+              "full_en": "the traffic in drugs /arms /stolen goods",
+              "full_vn": "sự buôn lậu ma túy/vũ khí/hàng ăn cắp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán (nhất là bất hợp pháp, bất lương)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to traffic away one's honour",
+              "list_im": [
+                {
+                  "im_full_vn": "bán rẻ danh dự"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to traffic in silk",
+              "full_vn": "buôn bán tơ lụa"
+            },
+            {
+              "full_en": "to traffic in illicit liquor",
+              "full_vn": "buôn rượu lậu"
+            },
+            {
+              "full_en": "to traffic with somebody",
+              "full_vn": "giao dịch buôn bán với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695624_227667966c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695624_8c1a2b1b96_o.png",
+      "id_image": "traffic_1178841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385217_28cd0063ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385217_c67e5d394a_o.png",
+      "id_image": "traffic_1373173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077500_eea01f256e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077500_2d8d96dda4_o.png",
+      "id_image": "traffic_1558411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077465_c5507a10b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077465_21f22be026_o.png",
+      "id_image": "traffic_2598079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077430_c3b783f270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077430_8cbdfb9906_o.png",
+      "id_image": "traffic_2720861"
+    }
+  ]
+}

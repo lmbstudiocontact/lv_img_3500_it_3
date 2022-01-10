@@ -1,0 +1,81 @@
+{
+  "english": "shipwreck",
+  "phat_am": "['∫iprek]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạn đắm tàu; sự đắm tàu",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer shipwreck",
+              "full_vn": "bị nạn đắm tàu"
+            },
+            {
+              "full_en": "he died in a shipwreck off the south coast",
+              "full_vn": "nó thiệt mạng trong vụ đắm tàu ngoài khơi bờ biển phía nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự sụp đổ, sự thất bại hoàn toàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make shipwreck",
+              "list_im": [
+                {
+                  "im_full_vn": "bị thất bại; bị phá sản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make (suffer ) shipwreck of one's hopes",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng bị tiêu tan"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the shipwreck of one's fortune",
+              "full_vn": "sự phá sản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cái gì bị trong tình trạng đắm tàu",
+          "list_en_vn": [
+            {
+              "full_en": "shipwrecked sailors",
+              "full_vn": "những thủy thủ của chiếc tàu bị đắm"
+            },
+            {
+              "full_en": "we were shipwrecked on a deserted island",
+              "full_vn": "chúng tôi bị đắm tàu lưu lạc trên một hòn đảo hoang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389297_ca8f0a77fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389297_772aaaf3b0_o.png",
+      "id_image": "shipwreck_5232973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081710_ca01663cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081710_4d04329c69_o.png",
+      "id_image": "shipwreck_6150505"
+    }
+  ]
+}

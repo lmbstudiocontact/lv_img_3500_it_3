@@ -1,0 +1,40 @@
+{
+  "english": "storehouse",
+  "phat_am": "['stɔ:haus]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà kho; vựa (đồ vật)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tủ, kho (chứa đựng thông tin)",
+          "list_en_vn": [
+            {
+              "full_en": "a storehouse of information",
+              "full_vn": "một kho tài liệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389907_75c42b519f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389907_bdda115cdd_o.png",
+      "id_image": "storehouse_351871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344936_6780388daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344936_b3e6bdd5d0_o.png",
+      "id_image": "storehouse_384012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459703_9e3904a87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459703_eaf0fc0240_o.png",
+      "id_image": "storehouse_5439106"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "sensitive",
+  "phat_am": "['sensətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ bị thương; dễ bị hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "the sensitive skin of a baby",
+              "full_vn": "da non của em bé"
+            },
+            {
+              "full_en": "a sensitive nerve in a tooth can cause great pain",
+              "full_vn": "một dây thần kinh yếu ở răng có thể gây ra đau nhức nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sensitive to something ) bị ảnh hưởng mạnh bởi cái gì; dễ dàng bị ảnh hưởng bởi cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "photographic paper is highly sensitive to light",
+              "full_vn": "giấy ảnh bắt ánh sáng rất nhạy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sensitive about / to something ) dễ bị xúc phạm; dễ bị bối rối về tình cảm; nhạy cảm",
+          "list_en_vn": [
+            {
+              "full_en": "a frail and sensitive child",
+              "full_vn": "một đứa bé ẻo lả dễ xúc động"
+            },
+            {
+              "full_en": "sensitive to cold",
+              "full_vn": "dễ bị lạnh; yếu chịu lạnh"
+            },
+            {
+              "full_en": "he's very sensitive about being small , so don't mention it",
+              "full_vn": "cậu ấy rất dễ mặc cảm vì người bé nhỏ, cho nên đừng nhắc chuyện đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có sự thông cảm; biểu lộ sự thông cảm",
+          "list_en_vn": [
+            {
+              "full_en": "an actor's sensitive reading of a poem",
+              "full_vn": "cách đọc thơ đầy diễn cảm của một diễn viên"
+            },
+            {
+              "full_en": "When I need advice , he's a helpful and sensitive friend",
+              "full_vn": "Khi tôi cần khuyên bảo, anh ấy là một người bạn tận tình và thông cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhạy (về dụng cụ..)",
+          "list_en_vn": [
+            {
+              "full_en": "sensitive scales",
+              "full_vn": "cân nhạy"
+            },
+            {
+              "full_en": "sensitive paper",
+              "full_vn": "giấy (ảnh) bắt nhạy"
+            },
+            {
+              "full_en": "a sensitive ear",
+              "full_vn": "tai thính"
+            },
+            {
+              "full_en": "sensitive market",
+              "full_vn": "thị trường dễ lên xuống bất thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cần được xử lý hết sức kín đáo hoặc thận trọng",
+          "list_en_vn": [
+            {
+              "full_en": "sensitive military information",
+              "full_vn": "tin tức quân sự bảo mật"
+            },
+            {
+              "full_en": "a sensitive issue like race relations",
+              "full_vn": "một vấn đề tế nhị như quan hệ chủng tộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dễ bị thôi miên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087355_c65d9ff2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087355_e8b69a9593_o.png",
+      "id_image": "sensitive_6001177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350066_a2dd11449b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350066_5a59e100e3_o.png",
+      "id_image": "sensitive_6003068"
+    }
+  ]
+}

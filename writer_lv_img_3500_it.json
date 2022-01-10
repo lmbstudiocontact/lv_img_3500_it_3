@@ -1,0 +1,70 @@
+{
+  "english": "writer",
+  "phat_am": "['raitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người viết (đang viết hay đã viết một cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the writer of this letter",
+              "full_vn": "người viết bức thư này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người viết chữ (người viết ra các chữ theo một cách nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a neat writer",
+              "full_vn": "một người viết chữ rành mạch"
+            },
+            {
+              "full_en": "good writer",
+              "full_vn": "người viết chữ tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà văn; tác giả"
+        },
+        {
+          "m_full_vn": "người thư ký"
+        },
+        {
+          "m_full_vn": "sách dạy viết (một ngôn ngữ nào)",
+          "list_one_mean": [
+            {
+              "id_full_en": "writer's cramp",
+              "list_im": [
+                {
+                  "im_full_vn": "sự mỏi tay, sự cứng đờ, cái đau của tay (do viết nhiều)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "French writer",
+              "full_vn": "sách dạy viết tiếng Pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068635_dba6886539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068635_03dc6a2962_o.png",
+      "id_image": "writer_1983427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686939_45ce0813ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686939_1bf3c5d990_o.png",
+      "id_image": "writer_2653927"
+    }
+  ]
+}

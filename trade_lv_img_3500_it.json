@@ -1,0 +1,221 @@
+{
+  "english": "trade",
+  "phat_am": "[treid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghề, nghề nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "everyone to his trade",
+              "full_vn": "người nào nghề nấy"
+            },
+            {
+              "full_en": "to be in the trade",
+              "full_vn": "trong nghề"
+            },
+            {
+              "full_en": "to carry on one's trade ; to do one's trade",
+              "full_vn": "làm nghề mình"
+            },
+            {
+              "full_en": "men of all trades and callings",
+              "full_vn": "những người làm đủ nghề"
+            },
+            {
+              "full_en": "to know all the tricks of the trade",
+              "full_vn": "biết tất cả các mánh lới nhà nghề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thương mại, sự buôn bán, mậu dịch",
+          "list_en_vn": [
+            {
+              "full_en": "the trade is thriving",
+              "full_vn": "nền thương nghiệp đang phát triển"
+            },
+            {
+              "full_en": "trade agreement",
+              "full_vn": "hiệp định thương mại"
+            },
+            {
+              "full_en": "foreign trade",
+              "full_vn": "ngoại thương"
+            },
+            {
+              "full_en": "domestic (home ) trade",
+              "full_vn": "nội thương"
+            },
+            {
+              "full_en": "wholesale trade",
+              "full_vn": "bán buôn"
+            },
+            {
+              "full_en": "retail trade",
+              "full_vn": "bán lẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kinh doanh một loại cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "to be in the cotton trade",
+              "full_vn": "chuyên kinh doanh bông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách kiếm sống (nhất là công việc liên quan đến chế tạo cái gì); nghề nghiệp"
+        },
+        {
+          "m_full_vn": "( the trade ) những người (hãng) tham gia vào một ngành kinh doanh cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "offer discounts to the trade",
+              "full_vn": "giảm giá cho người trong ngành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the trade ) ngành tàu ngầm (trong hải quân)"
+        },
+        {
+          "m_full_vn": "( số nhiều) gió mậu dịch (gió mạnh thổi liên tục từ Đông Nam hoặc Đông Bắc về hướng xích đạo) (như) trade-wind",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in trade",
+              "list_im": [
+                {
+                  "im_full_vn": "có cửa hiệu (buôn bán)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán, kinh doanh, trao đổi mậu dịch; đổi chác",
+          "list_en_vn": [
+            {
+              "full_en": "I wouldn't trade my job for anything",
+              "full_vn": "tôi sẽ không đánh đổi công việc của tôi lấy bất cứ cái gì"
+            },
+            {
+              "full_en": "to trade something for something",
+              "full_vn": "đổi cái gì lấy cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) mua hàng hoá tại (một cửa hàng cụ thể)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán, kinh doanh, trao đổi mậu dịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "trade on something",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng cái gì phục vụ cho lợi ích của chính mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trade in",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đổi (cái cũ lấy cái mới) có các thêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to trade in a used car",
+                      "full_vn": "đổi một chiếc xe cũ có các thêm tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trade on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to trade on somebody's credulity",
+                      "full_vn": "lợi dụng tính cả tin của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "trade something off (against something )",
+              "list_im": [
+                {
+                  "im_full_vn": "từ bỏ cái gì (để đổi lấy cái gì khác) như một thoả hiệp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to trade in silk",
+              "full_vn": "buôn bán tơ lụa"
+            },
+            {
+              "full_en": "to trade with China",
+              "full_vn": "buôn bán với Trung quốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc buôn bán",
+          "list_en_vn": [
+            {
+              "full_en": "a trade agreement",
+              "full_vn": "một giao kèo buôn bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phục vụ thương nghiệp; công nghiệp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078120_abd17e341b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078120_5a6b1f62a0_o.png",
+      "id_image": "trade_1987423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340756_7952a344c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340756_c8ce180d1d_o.png",
+      "id_image": "trade_2289570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455593_c3f833d08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455593_bff2e9d5a5_o.png",
+      "id_image": "trade_6203363"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "english": "straw",
+  "phat_am": "[strɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơm"
+        },
+        {
+          "m_full_vn": "nón rơm, mũ rơm"
+        },
+        {
+          "m_full_vn": "cọng rơm, mẩu rơm",
+          "list_en_vn": [
+            {
+              "full_en": "there are a few straws in your hair",
+              "full_vn": "có vài cọng rơm trong tóc anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ống nhỏ bằng giấy hoặc nhựa để hút nước uống; ống rơm; ống hút"
+        },
+        {
+          "m_full_vn": "( a straw ) vật không đáng kể, số lượng không đáng kể (nhất là dùng trong những thành ngữ sau đây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the straw",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) nằm ổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make bricks without straw",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng thuyền mà không xẻ ván"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of straw",
+              "list_im": [
+                {
+                  "im_full_vn": "người rơm, bù nhìn, hình nộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last straw",
+              "list_im": [
+                {
+                  "im_full_vn": "cái \"một tí\" thêm vào sau cùng (là cái nặng nhất)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a straw shows which way the wind blows",
+              "list_im": [
+                {
+                  "im_full_vn": "lời gợi ý nhỏ có thể có tác dụng lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a straw in the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "cái chỉ hướng gió thổi; cái chỉ rõ chiều hướng dư luận"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "not care a straw",
+              "full_vn": "cóc cần"
+            },
+            {
+              "full_en": "be not worth a straw",
+              "full_vn": "chẳng có giá trị quái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng rơm"
+        },
+        {
+          "m_full_vn": "vàng nhạt, màu rơm"
+        },
+        {
+          "m_full_vn": "nhỏ nhặt, tầm thường, vô giá trị"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phủ (bằng rơm, bằng cát, bằng hoa...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458318_496466b80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458318_63069a727b_o.png",
+      "id_image": "straw_1996945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458228_8b739769a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458228_e9b118e508_o.png",
+      "id_image": "straw_5727261"
+    }
+  ]
+}

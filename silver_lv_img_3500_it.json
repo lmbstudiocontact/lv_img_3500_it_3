@@ -1,0 +1,151 @@
+{
+  "english": "silver",
+  "phat_am": "['silvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bạc"
+        },
+        {
+          "m_full_vn": "đồng tiền làm bằng bạc; hợp kim giống như bạc"
+        },
+        {
+          "m_full_vn": "đồ dùng bằng bạc ( đĩam, đồ trang sức..)"
+        },
+        {
+          "m_full_vn": "dao nĩa làm bằng bất kể kim loại nào",
+          "list_en_vn": [
+            {
+              "full_en": "we keep the silver in this sideboard",
+              "full_vn": "chúng tôi cất dao đĩa trong tủ búyp phê này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "muối bạc (dùng trong nghề ảnh)"
+        },
+        {
+          "m_full_vn": "màu bạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "the silver screen",
+              "list_im": [
+                {
+                  "im_full_vn": "màn bạc; màn chiếu bóng, ngành điện ảnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a silver tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "tài hùng biện"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bằng bạc, trông như bạc",
+          "list_en_vn": [
+            {
+              "full_en": "a silver spoon",
+              "full_vn": "cái thìa bằng bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại nhì, loại tốt thứ nhì",
+          "list_en_vn": [
+            {
+              "full_en": "speech is silver but silence is golden",
+              "full_vn": "im lặng tốt hơn là nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trắng như bạc, óng ánh như bạc; trong như tiếng bạc (tiếng)",
+          "list_en_vn": [
+            {
+              "full_en": "silver hair",
+              "full_vn": "tóc bạc"
+            },
+            {
+              "full_en": "to have a silver tone",
+              "full_vn": "có giọng trong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hùng hồn, hùng biện",
+          "list_one_mean": [
+            {
+              "id_full_en": "every cloud has a silver lining",
+              "list_im": [
+                {
+                  "im_full_vn": "trong sự rủi vẫn có điều may"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a silver tongue",
+              "full_vn": "có tài hùng biện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạ bạc; bịt bạc"
+        },
+        {
+          "m_full_vn": "tráng thuỷ (vào gương)",
+          "list_en_vn": [
+            {
+              "full_en": "to silver a mirror",
+              "full_vn": "tráng thủy một cái gương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (tóc...) bạc đi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "óng ánh như bạc (trăng, ánh sáng)"
+        },
+        {
+          "m_full_vn": "bạc đi, trở nên bạc (tóc), nhuốm bạc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338431_30c4d39b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338431_f2894d9e04_o.png",
+      "id_image": "silver_1176235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693594_9739ed1b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693594_49077472c1_o.png",
+      "id_image": "silver_4033743"
+    }
+  ]
+}

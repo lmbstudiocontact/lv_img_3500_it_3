@@ -1,0 +1,49 @@
+{
+  "english": "spectrum",
+  "phat_am": "['spektrəm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều spectra , spectrums",
+      "list_m": [
+        {
+          "m_full_vn": "hình ảnh"
+        },
+        {
+          "m_full_vn": "(vật lý) phổ, quang phổ",
+          "list_en_vn": [
+            {
+              "full_en": "solar spectrum",
+              "full_vn": "quang phổ mặt trời"
+            },
+            {
+              "full_en": "prismatic spectrum",
+              "full_vn": "quang phổ lăng kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loạt những dải âm thanh tương tự quang phổ"
+        },
+        {
+          "m_full_vn": "một dãy đầy đủ, một chuỗi rộng",
+          "list_en_vn": [
+            {
+              "full_en": "covering the whole spectrum of ability",
+              "full_vn": "bao quát toàn bộ phạm vi năng lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phân bố theo độ lớn, sự phân bố theo tính chất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324421_ec379d63ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324421_1e5d6f12bf_o.png",
+      "id_image": "spectrum_2285024"
+    }
+  ]
+}

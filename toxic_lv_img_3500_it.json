@@ -1,0 +1,45 @@
+{
+  "english": "toxic",
+  "phat_am": "['tɔksik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "độc",
+          "list_en_vn": [
+            {
+              "full_en": "toxic product",
+              "full_vn": "chất độc"
+            },
+            {
+              "full_en": "toxic drugs",
+              "full_vn": "thuốc độc"
+            },
+            {
+              "full_en": "the toxic effects of alcohol",
+              "full_vn": "độc hại của rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079120_fb4ba83773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079120_a88c6b3a67_o.png",
+      "id_image": "toxic_4061417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341636_32f478f2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341636_b5a7fe52ae_o.png",
+      "id_image": "toxic_4643272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696849_4b6cfc50cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696849_820e5e69d8_o.png",
+      "id_image": "toxic_4657983"
+    }
+  ]
+}

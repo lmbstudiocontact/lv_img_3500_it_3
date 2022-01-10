@@ -1,0 +1,114 @@
+{
+  "english": "teach",
+  "phat_am": "[ti:t∫]",
+  "list_type": [
+    {
+      "type": "ngoại động từ, động tính từ quá khứ và thì quá khứ là taught",
+      "list_m": [
+        {
+          "m_full_vn": "dạy; dạy học; dạy bảo",
+          "list_en_vn": [
+            {
+              "full_en": "to teach children to swim",
+              "full_vn": "dạy cho trẻ con tập bơi"
+            },
+            {
+              "full_en": "to teach school",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) dạy học ở một trường; làm nghề dạy học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to teach something to somebody / something ) dạy; truyền (kiến thức..)",
+          "list_en_vn": [
+            {
+              "full_en": "to teach French",
+              "full_vn": "dạy tiếng Pháp"
+            },
+            {
+              "full_en": "to teach mathematics",
+              "full_vn": "dạy toán"
+            },
+            {
+              "full_en": "she teaches English to advanced students",
+              "full_vn": "bà ấy dạy tiếng Anh cho sinh viên các lớp cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra (cái gì) như một thực tế, như một nguyên lý; chủ trương",
+          "list_en_vn": [
+            {
+              "full_en": "my parents taught me never to tell lies",
+              "full_vn": "bố mẹ tôi dạy tôi không bao giờ được nói dối"
+            },
+            {
+              "full_en": "Christ taught forgiveness",
+              "full_vn": "Đức Giêxu dạy lòng khoan dung; Đức Giêxu chủ trương khoan dung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thuyết phục (ai) làm hoặc không làm cái gì (bằng trừng phạt hoặc do kinh nghiệm)",
+          "list_en_vn": [
+            {
+              "full_en": "I'll teach you to call me a liar !",
+              "full_vn": "tao sẽ dạy cho mày dám gọi tao là đồ nói dối!"
+            },
+            {
+              "full_en": "So you lost all your money ? That'll teach you to gamble",
+              "full_vn": "Anh thua hết tiền rồi phải không? Điều đó sẽ dạy cho anh đừng có đánh bạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm giáo viên; (làm nghề) dạy học",
+          "list_one_mean": [
+            {
+              "id_full_en": "to teach one's grandmother to suck eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "dạy cho ai những gì người đó đã biết quá rõ và có khi còn rành hơn cả người dạy nữa; trứng đòi khôn hơn vịt; dạy bà ru cháu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can't teach an old dog new tricks",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tre già khó uốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know /learn /teach somebody the ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "xem rope"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she teachs at our local school",
+              "full_vn": "cô ta dạy học ở trường địa phương chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708364_022048ca6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708364_8470f66bab_o.png",
+      "id_image": "teach_2991626"
+    }
+  ]
+}

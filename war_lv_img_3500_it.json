@@ -1,0 +1,189 @@
+{
+  "english": "war",
+  "phat_am": "[wɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiến tranh; thời kỳ của chiến tranh",
+          "list_en_vn": [
+            {
+              "full_en": "aggressive war",
+              "full_vn": "chiến tranh xâm lược"
+            },
+            {
+              "full_en": "the outbreak of war",
+              "full_vn": "sự bùng nổ chiến tranh"
+            },
+            {
+              "full_en": "nuclear war",
+              "full_vn": "chiến tranh hạt nhân"
+            },
+            {
+              "full_en": "local war",
+              "full_vn": "chiến tranh cục bộ"
+            },
+            {
+              "full_en": "the Great War ; World War I",
+              "full_vn": "đại chiến thứ nhất"
+            },
+            {
+              "full_en": "World War II",
+              "full_vn": "đại chiến thứ II"
+            },
+            {
+              "full_en": "to be at war with one's neighbouring nations",
+              "full_vn": "đang có chiến tranh với các nước láng giềng"
+            },
+            {
+              "full_en": "to declare war on / against somebody",
+              "full_vn": "tuyên chiến với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đấu tranh, sự cạnh tranh, sự xung đột, sự thù địch (giữa con người, các nhóm..)",
+          "list_en_vn": [
+            {
+              "full_en": "war between man and nature",
+              "full_vn": "sự đấu tranh của con người với thiên nhiên"
+            },
+            {
+              "full_en": "the class war",
+              "full_vn": "cuộc đấu tranh giai cấp"
+            },
+            {
+              "full_en": "a trade war",
+              "full_vn": "cuộc chiến tranh thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + against ) sự đấu tranh (để loại bỏ các tệ nạn..)",
+          "list_en_vn": [
+            {
+              "full_en": "a major step in the war against cancer",
+              "full_vn": "một bước quan trọng trong cuộc đấu tranh chống bệnh ung thư"
+            },
+            {
+              "full_en": "the war against drugs",
+              "full_vn": "cuộc đấu tranh chống ma túy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiến tranh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go to war (against somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ra trận, bắt đầu tham gia một cuộc chiến tranh (chống ai/cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have been in the wars",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục); (đùa cợt) cho thấy các dấu hiệu là mình bị thương hoặc bị đối xử tồi tệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make /wage war on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến hành chiến tranh với"
+                },
+                {
+                  "im_full_vn": "đấu tranh chống cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a war of nerves",
+              "list_im": [
+                {
+                  "im_full_vn": "sự cố gắng đánh bại một đối thủ bằng cách phá hoại dần tinh thần của anh ta bằng sự đe doạ, áp lực tâm lý.....; chiến tranh cân não"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a war of words",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc chiến tranh bằng mồm, khẩu chiến"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "war seat",
+              "full_vn": "chiến trường"
+            },
+            {
+              "full_en": "on a war footing",
+              "full_vn": "sẵn sàng chiến đấu, sẵn sàng lao vào chiến tranh"
+            },
+            {
+              "full_en": "war loan",
+              "full_vn": "nợ chiến tranh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) tiến hành một cuộc chiến tranh, một cuộc xung đột; gây chiến, tham chiến",
+          "list_en_vn": [
+            {
+              "full_en": "to war against /with a neighbouring country",
+              "full_vn": "gây chiến với một nước láng giềng"
+            },
+            {
+              "full_en": "warring tribes",
+              "full_vn": "các bộ lạc đang tham chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đấu tranh, chống lại, đối chọi, mâu thuẫn",
+          "list_en_vn": [
+            {
+              "full_en": "warring principles",
+              "full_vn": "những nguyên tắc đối chọi nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337846_7b1029f1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337846_702cdd6d32_o.png",
+      "id_image": "war_286622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337816_664833db3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337816_5770dac201_o.png",
+      "id_image": "war_3061838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074795_8e2b07da44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074795_e738f8cf6a_o.png",
+      "id_image": "war_5138667"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "english": "trolley",
+  "phat_am": "['trɔli]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều trolleys",
+      "list_m": [
+        {
+          "m_full_vn": "xe đẩy tay (dùng để chuyển hàng hoá)",
+          "list_en_vn": [
+            {
+              "full_en": "luggage trolley",
+              "full_vn": "xe đẩy hành lý"
+            },
+            {
+              "full_en": "shopping trolley",
+              "full_vn": "xe đẩy mua hàng trong siêu thị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe dọn thức ăn (để chuyển và tiếp thức ăn..)",
+          "list_en_vn": [
+            {
+              "full_en": "a tea-trolley",
+              "full_vn": "một chiếc xe dọn trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) goòng (toa nhỏ chở đồ không mui và thấp, chạy trên đường ray; do công nhân sửa đường ray dùng..)"
+        },
+        {
+          "m_full_vn": "như trolley-wheel"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như tramcar"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng xe lăn, xe điện"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi xe điện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069390_eb848bf796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069390_f3dfd487c7_o.png",
+      "id_image": "trolley_1949551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377472_0654b2f752_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377472_bd62f71e97_o.png",
+      "id_image": "trolley_423002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069440_04e254360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069440_e8fbbbeaaf_o.png",
+      "id_image": "trolley_465956"
+    }
+  ]
+}

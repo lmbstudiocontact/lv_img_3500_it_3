@@ -1,0 +1,78 @@
+{
+  "english": "tab",
+  "phat_am": "[,ti: ei 'bi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tai, đầu, vạt, dải, miếng (đính vào một vật gì để cầm, gắn)",
+          "list_en_vn": [
+            {
+              "full_en": "tab of shoe-lace",
+              "full_vn": "sắt bịt đầu dây giày"
+            },
+            {
+              "full_en": "tab of coat",
+              "full_vn": "dải áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhãn, thẻ (dán trên hàng hoá)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) hoá đơn",
+          "list_en_vn": [
+            {
+              "full_en": "to pick up the tab",
+              "full_vn": "trả tiền hoá đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) phù hiệu cổ áo"
+        },
+        {
+          "m_full_vn": "(thông tục) sự tính toán; sự kiểm tra",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep a tab /tabs on something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) kiểm tra; kiểm soát (sổ sách chi tiêu..); theo dõi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "( TAB , Tab ) vắc xin thương hàn và phó thương hàn A và B ( typhoid-paratyphoid A and B vaccine )",
+          "list_en_vn": [
+            {
+              "full_en": "have a Tab injection",
+              "full_vn": "tiêm vắc xin TAB"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329496_a8938126e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329496_5af0cf0f99_o.png",
+      "id_image": "tab_269100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329466_c5fab5ccc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329466_203db73d96_o.png",
+      "id_image": "tab_4312263"
+    }
+  ]
+}

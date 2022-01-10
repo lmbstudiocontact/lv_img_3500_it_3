@@ -1,0 +1,67 @@
+{
+  "english": "wealth",
+  "phat_am": "[welθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giàu có; sự giàu sang",
+          "list_en_vn": [
+            {
+              "full_en": "a man of great wealth",
+              "full_vn": "người giàu có"
+            },
+            {
+              "full_en": "nobody knew how she had acquired her wealth",
+              "full_vn": "không ai biết bà ta đã làm giàu bằng cách nào"
+            },
+            {
+              "full_en": "wealth had not brought them happiness",
+              "full_vn": "sự giàu sang không đem lại hạnh phúc cho họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( wealth of something ) sự dồi dào",
+          "list_en_vn": [
+            {
+              "full_en": "a painting with a wealth of details",
+              "full_vn": "một bức hoạ phong phú về chi tiết"
+            },
+            {
+              "full_en": "a wealth of opportunity",
+              "full_vn": "rất nhiều cơ hội"
+            },
+            {
+              "full_en": "a book with a wealth of illustrations",
+              "full_vn": "một quyển sách có rất nhiều minh hoạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449618_14f9b60858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449618_250a36d509_o.png",
+      "id_image": "wealth_2200880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379522_dbed6cecc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379522_788b3308ff_o.png",
+      "id_image": "wealth_3053803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379492_982e190a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379492_b0cdd37943_o.png",
+      "id_image": "wealth_4802417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071475_5d889773ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071475_20a2e1439e_o.png",
+      "id_image": "wealth_6214082"
+    }
+  ]
+}

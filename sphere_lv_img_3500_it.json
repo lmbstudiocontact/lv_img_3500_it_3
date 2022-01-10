@@ -1,0 +1,77 @@
+{
+  "english": "sphere",
+  "phat_am": "[sfiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình cầu"
+        },
+        {
+          "m_full_vn": "khối cầu, quả cầu; mặt cầu"
+        },
+        {
+          "m_full_vn": "(thơ ca) bầu trời, vũ trụ; thiên thể, thiên cầu"
+        },
+        {
+          "m_full_vn": "lãnh vực hoạt động, phạm vi; tầm ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "sphere of action",
+              "full_vn": "khu vực ảnh hưởng"
+            },
+            {
+              "full_en": "that does not come withing my sphere",
+              "full_vn": "việc ấy không thuộc phạm vi quyền lực của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giới, vị trí xã hội; chỗ đứng trong xã hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "doctrine of the sphere",
+              "list_im": [
+                {
+                  "im_full_vn": "hình học và lượng giác cầu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho vào trong một quả cầu"
+        },
+        {
+          "m_full_vn": "làm thành hình cầu"
+        },
+        {
+          "m_full_vn": "(thơ ca) tâng bốc lên tận mây xanh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061015_94e6c30ba2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061015_61b957589d_o.png",
+      "id_image": "sphere_2106663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439123_a294ba0591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439123_78389827e6_o.png",
+      "id_image": "sphere_5854030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324066_0f99bb3eb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324066_cd2a2be9fd_o.png",
+      "id_image": "sphere_6181372"
+    }
+  ]
+}

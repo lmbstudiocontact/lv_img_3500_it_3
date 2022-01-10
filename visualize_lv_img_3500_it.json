@@ -1,0 +1,27 @@
+{
+  "english": "visualize",
+  "phat_am": "['vi∫uəlaiz]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình dung, mường tượng (vật không thấy trước mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "I remember meeting him but I just can't visualize him",
+              "full_vn": "tôi nhớ đã gặp anh ta nhưng không tài nào hình dung ra anh ta được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697059_06d36f57f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697059_5f3fca58fd_o.png",
+      "id_image": "visualize_3062435"
+    }
+  ]
+}

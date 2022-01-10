@@ -1,0 +1,83 @@
+{
+  "english": "signal",
+  "phat_am": "['signəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu hiệu, tín hiệu; hiệu lệnh",
+          "list_en_vn": [
+            {
+              "full_en": "signals are made by day with flags and by night with lights",
+              "full_vn": "ban ngày tín hiệu đánh bằng cờ, ban đêm bằng đèn"
+            },
+            {
+              "full_en": "to give the signal for advance",
+              "full_vn": "ra hiệu tiến lên"
+            },
+            {
+              "full_en": "signalof distress",
+              "full_vn": "tín hiệu báo lâm nguy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) binh chủng thông tin"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi bật; đáng chú ý, đáng kể; đặc biệt tốt, đặc biệt xấu",
+          "list_en_vn": [
+            {
+              "full_en": "signal virtue",
+              "full_vn": "đạo đức gương mẫu"
+            },
+            {
+              "full_en": "signal punishment",
+              "full_vn": "sự trừng phạt nghiêm minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng làm dấu hiệu, để ra hiệu"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra hiệu, báo hiệu; chuyển (tin tức, lệnh) bằng tín hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "to signal to someone to stop",
+              "full_vn": "ra hiệu cho ai dừng lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384592_8df2829a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384592_7a005221d0_o.png",
+      "id_image": "signal_1680169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694879_e98f2d7c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694879_c55aee85b4_o.png",
+      "id_image": "signal_1871150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076915_29aa192e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076915_5a75d3a6b3_o.png",
+      "id_image": "signal_224666"
+    }
+  ]
+}

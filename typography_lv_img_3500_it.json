@@ -1,0 +1,40 @@
+{
+  "english": "typography",
+  "phat_am": "[tai'pɔgrəfi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuật in máy (nghệ thuật) hay thực hành in bằng máy"
+        },
+        {
+          "m_full_vn": "kiểu in, hình thức của bản in, cách trình bày bản in",
+          "list_en_vn": [
+            {
+              "full_en": "to set a high standard of typography",
+              "full_vn": "thiết lập một chuẩn mực cao về kiểu in"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399382_b348a26aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399382_fe87bdfc50_o.png",
+      "id_image": "typography_4214976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709104_07dd939826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709104_7f51a2e8fd_o.png",
+      "id_image": "typography_4559491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091885_3314529149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091885_12844ecc05_o.png",
+      "id_image": "typography_997287"
+    }
+  ]
+}

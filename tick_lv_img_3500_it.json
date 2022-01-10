@@ -1,0 +1,152 @@
+{
+  "english": "tick",
+  "phat_am": "[tik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng tích tắc (âm thanh nhẹ, lặp lại đều đều; nhất là của đồng hồ)",
+          "list_en_vn": [
+            {
+              "full_en": "on the tick",
+              "full_vn": "đúng giờ"
+            },
+            {
+              "full_en": "at seven to the tick ; on the tick of seven",
+              "full_vn": "đúng bảy giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) khoảnh khắc, giây lát, tích tắc, một chút",
+          "list_en_vn": [
+            {
+              "full_en": "in a tick",
+              "full_vn": "trong khoảnh khắc, trong giây lát"
+            },
+            {
+              "full_en": "just wait a tick !",
+              "full_vn": "hãy đợi một lát!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu kiểm (dấu ghi bên cạnh một khoản mục trên một bản danh sách để biết là khoản mục đó đã được kiểm tra hoặc đã làm hoặc là đúng)",
+          "list_en_vn": [
+            {
+              "full_en": "to mark with a tick",
+              "full_vn": "đánh dấu kiểm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu tích tắc (đồng hồ)"
+        },
+        {
+          "m_full_vn": "( + over ) chạy không (một cái máy..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tick off",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu (để kiểm điểm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to tick off the items in a list",
+                      "full_vn": "đánh dấu các khoản của một danh sách"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tich out",
+              "list_im": [
+                {
+                  "im_full_vn": "phát ra (điện tín, tin tức) (máy điện báo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tick away /by",
+              "list_im": [
+                {
+                  "im_full_vn": "trôi qua (về thời gian)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tick something away",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu sự trôi qua của thời gian (về đồng hồ..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tick somebody off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) quở trách, la mắng ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con bét, con ve, con tích (sống ký sinh và hút máu)"
+        },
+        {
+          "m_full_vn": "người khó chịu, người đáng khinh; đồ mạt rệp"
+        },
+        {
+          "m_full_vn": "vải bọc (nệm, gối) (như) ticking"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự mua chịu; sự bán chịu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) mua chịu; bán chịu cho (ai); mua chịu (hàng); bán chịu (hàng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463133_f8ca454dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463133_67b22c0e3d_o.png",
+      "id_image": "tick_2570144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702989_05573b9ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702989_061d7c7bf2_o.png",
+      "id_image": "tick_3390910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393127_979822b0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393127_693861576f_o.png",
+      "id_image": "tick_5387661"
+    }
+  ]
+}

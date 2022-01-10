@@ -1,0 +1,32 @@
+{
+  "english": "tribal",
+  "phat_am": "['traibl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về bộ lạc",
+          "list_en_vn": [
+            {
+              "full_en": "tribal loyalties",
+              "full_vn": "tình cảm trung thành với bộ lạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070825_ed91806079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070825_a80a7193ec_o.png",
+      "id_image": "tribal_1892759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333771_13cc2eba2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333771_3187a15124_o.png",
+      "id_image": "tribal_2653962"
+    }
+  ]
+}

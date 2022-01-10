@@ -1,0 +1,86 @@
+{
+  "english": "worker",
+  "phat_am": "['wə:kə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lao động, công nhân, người thợ, nhân viên, người làm việc (nhất là người làm một loại công việc nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "an office worker",
+              "full_vn": "nhân viên văn phòng"
+            },
+            {
+              "full_en": "a rescue worker",
+              "full_vn": "nhân viên cứu hộ"
+            },
+            {
+              "full_en": "factory workers",
+              "full_vn": "các công nhân nhà máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người làm việc theo một cách được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "a good worker",
+              "full_vn": "người làm việc tốt"
+            },
+            {
+              "full_en": "a hard worker",
+              "full_vn": "người làm việc chăm chỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người làm việc tích cực",
+          "list_en_vn": [
+            {
+              "full_en": "that girl is certainly a worker !",
+              "full_vn": "cô ấy đúng là một người chịu khó làm việc!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công nhân; nhân viên; người làm thuê (nhất là làm công việc chân tay hoặc công việc không phải là quản lý)",
+          "list_en_vn": [
+            {
+              "full_en": "The workers in the factory are paid by the hour and the clerical staff are paid a monthly salary",
+              "full_vn": "công nhân trong nhà máy được trả lương theo giờ, còn nhân viên văn phòng thì được trả lương tháng"
+            },
+            {
+              "full_en": "workers are in dispute with management about the redundancies",
+              "full_vn": "công nhân đang xung đột với ban giám đốc về tình trạng dư thừa nhân lực"
+            },
+            {
+              "full_en": "worker participation in decision-making",
+              "full_vn": "sự tham gia của công nhân vào việc đề ra các quyết định"
+            },
+            {
+              "full_en": "a workers' revolution",
+              "full_vn": "cuộc cách mạng của giai cấp công nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) ong thợ, kiến thợ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689359_22ae561cc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689359_0051beb1b9_o.png",
+      "id_image": "worker_313100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449283_590f855111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449283_20f111f03f_o.png",
+      "id_image": "worker_562536"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "sew",
+  "phat_am": "[sou]",
+  "list_type": [
+    {
+      "type": "nội động từ sewed , sewn (hoặc) sewed",
+      "list_m": [
+        {
+          "m_full_vn": "may, khâu",
+          "list_en_vn": [
+            {
+              "full_en": "to sew (on ) a button",
+              "full_vn": "đinh khuy"
+            },
+            {
+              "full_en": "to sew in a patch",
+              "full_vn": "khâu miếng vá"
+            },
+            {
+              "full_en": "to sew over the seam again",
+              "full_vn": "khâu thêm lên đường nối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "may, khâu",
+          "list_en_vn": [
+            {
+              "full_en": "to sew piece together",
+              "full_vn": "khâu những mảnh vào với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng (trang sách)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sew up",
+              "list_im": [
+                {
+                  "im_full_vn": "khâu lại"
+                },
+                {
+                  "im_full_vn": "(thông tục) dàn xếp; thanh toán, giải quyết (cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sew up a deal",
+                      "full_vn": "sắp xếp được một vụ mua bán"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sewed up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mệt lử, mệt nhoài"
+                },
+                {
+                  "im_full_vn": "say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sew someone up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) làm cho ai mệt lử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sew something in /into something",
+              "list_im": [
+                {
+                  "im_full_vn": "bọc cái gì bằng cách khâu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463128_c093733234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463128_de9ee3ff6a_o.png",
+      "id_image": "sew_532031"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "vocabulary",
+  "phat_am": "[və'kæbjuləri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) từ vựng (toàn bộ các từ tạo nên một ngôn ngữ)"
+        },
+        {
+          "m_full_vn": "vốn từ (số lượng các từ mà một người biết hoặc dùng ở một cuốn sách, một chủ đề.. riêng biệt)",
+          "list_en_vn": [
+            {
+              "full_en": "a wide /colourful vocabulary",
+              "full_vn": "vốn từ rộng/phong phú"
+            },
+            {
+              "full_en": "a limited vocabulary",
+              "full_vn": "vốn từ hạn chế"
+            },
+            {
+              "full_en": "an active vocabulary",
+              "full_vn": "từ vựng đang được sử dụng (những từ mà người ta thừa nhận và có thể dùng)"
+            },
+            {
+              "full_en": "a passive vocabulary",
+              "full_vn": "từ vựng ít sử dụng (những từ mà người ta chỉ chấp nhận thôi)"
+            },
+            {
+              "full_en": "to enrich /increase /extend one's vocabulary",
+              "full_vn": "làm giàu thêm/tăng thêm/mở rộng vốn từ của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảng từ vựng (bản kê các từ cùng với nghĩa của chúng, nhất là loại đi kèm một cuốn sách giáo khoa bằng ngoại ngữ) (như) vocab"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078990_b35a096bf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078990_611bd06d7f_o.png",
+      "id_image": "vocabulary_326905"
+    }
+  ]
+}

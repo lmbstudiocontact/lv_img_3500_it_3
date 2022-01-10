@@ -1,0 +1,67 @@
+{
+  "english": "symbol",
+  "phat_am": "['simbəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "biểu tượng; vật tượng trưng",
+          "list_en_vn": [
+            {
+              "full_en": "white is the symbol of purity",
+              "full_vn": "màu trắng tượng trưng cho sự trong trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for something ) ký hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "chemical symbol",
+              "full_vn": "ký hiệu hoá học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) biểu hiện, tượng trưng"
+        },
+        {
+          "m_full_vn": "diễn đạt bằng tượng trưng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686164_cfba4e6ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686164_99da1df1b4_o.png",
+      "id_image": "symbol_1299385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446048_9d57c6e252_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446048_59280e6b21_o.png",
+      "id_image": "symbol_2733303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686099_b0de581ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686099_1ab2b53000_o.png",
+      "id_image": "symbol_4744308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445988_2a4ff204e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445988_4817af6890_o.png",
+      "id_image": "symbol_4744330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375857_8530fa98f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375857_0ac8ac6a74_o.png",
+      "id_image": "symbol_688030"
+    }
+  ]
+}

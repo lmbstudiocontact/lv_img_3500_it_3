@@ -1,0 +1,42 @@
+{
+  "english": "stability",
+  "phat_am": "[stə'biləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ổn định (giá cả...)"
+        },
+        {
+          "m_full_vn": "sự kiên định, sự kiên quyết"
+        },
+        {
+          "m_full_vn": "(vật lý) tính chất ổn định, trạng thái bền ổn định; độ ổn định, độ bền",
+          "list_en_vn": [
+            {
+              "full_en": "frequency stability",
+              "full_vn": "độ ổn định tần"
+            },
+            {
+              "full_en": "muclear stability",
+              "full_vn": "tính bền của hạt nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705619_12302827ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705619_8742e5c84e_o.png",
+      "id_image": "stability_4813539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395757_c2fb98151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395757_856884da4f_o.png",
+      "id_image": "stability_4827338"
+    }
+  ]
+}

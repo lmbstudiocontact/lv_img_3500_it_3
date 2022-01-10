@@ -1,0 +1,46 @@
+{
+  "english": "vegetation",
+  "phat_am": "[,vedʒi'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực vật, cây cối nói chung",
+          "list_en_vn": [
+            {
+              "full_en": "the luxuriant vegetation of tropical forests",
+              "full_vn": "cây cối sum sê của những rừng nhiệt đới"
+            },
+            {
+              "full_en": "no signs of vegetation for miles round",
+              "full_vn": "không có dấu vết cây cỏ gì trong hàng dặm quanh đấy"
+            },
+            {
+              "full_en": "there is little vegetation in the desert",
+              "full_vn": "trên sa mạc ít có cây cối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) sự sinh dưỡng, thực bì, thảm thực vật"
+        },
+        {
+          "m_full_vn": "(y học) sùi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
+      "id_image": "vegetarian_5635512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462083_74dce8c9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462083_6a37f7abcb_o.png",
+      "id_image": "vegetation_5302965"
+    }
+  ]
+}

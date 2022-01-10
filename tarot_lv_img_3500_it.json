@@ -1,0 +1,39 @@
+{
+  "english": "tarot",
+  "phat_am": "['tærou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cỗ bài đặc biệt chủ yếu dùng để bói ( 78 lá)"
+        },
+        {
+          "m_full_vn": "trò chơi với cỗ bài ( 78 lá)",
+          "list_en_vn": [
+            {
+              "full_en": "playing the tarot",
+              "full_vn": "chơi bài ta-rô"
+            },
+            {
+              "full_en": "tarot cards",
+              "full_vn": "cỗ bài ta-rô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399352_84b9807289_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399352_b8e627aa60_o.png",
+      "id_image": "tarot_5803870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354526_96a57ec9ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354526_9abbc3de5b_o.png",
+      "id_image": "tarot_6010030"
+    }
+  ]
+}

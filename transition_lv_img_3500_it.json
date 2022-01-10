@@ -1,0 +1,59 @@
+{
+  "english": "transition",
+  "phat_am": "[træn'zi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( transition from something to something ) việc chuyển từ trạng thái hoặc điều kiện này sang trạng thái hoặc điều kiện khác; sự quá độ",
+          "list_en_vn": [
+            {
+              "full_en": "the transition from cold to warm weather",
+              "full_vn": "sự chuyển tiếp từ tiết lạnh sang tiết nóng"
+            },
+            {
+              "full_en": "the transition from childhood to adult life",
+              "full_vn": "bước quá độ từ trẻ con lên người lớn"
+            },
+            {
+              "full_en": "to be in a period of transition",
+              "full_vn": "ở vào thời kỳ quá độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời kỳ chuyển tiếp; buổi giao thời"
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự chuyển giọng"
+        },
+        {
+          "m_full_vn": "(kiến trúc) sự đổi kiểu",
+          "list_one_mean": [
+            {
+              "id_full_en": "transition tumour",
+              "list_im": [
+                {
+                  "im_full_vn": "(y học) u có thể tái phát và trở thành ác tính sau khi cắt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452598_32b44cfeb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452598_742f89fb27_o.png",
+      "id_image": "transition_4282736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692999_1bfb814fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692999_08f9691912_o.png",
+      "id_image": "transition_5184279"
+    }
+  ]
+}

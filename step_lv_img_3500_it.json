@@ -1,0 +1,366 @@
+{
+  "english": "step",
+  "phat_am": "[step]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bước, bước đi; bước khiêu vũ",
+          "list_en_vn": [
+            {
+              "full_en": "to take a step forward",
+              "full_vn": "tiến lên một bước"
+            },
+            {
+              "full_en": "in step",
+              "full_vn": "đúng bước, đều bước"
+            },
+            {
+              "full_en": "out of step",
+              "full_vn": "sai bước"
+            },
+            {
+              "full_en": "to keep step",
+              "full_vn": "đi đúng bước"
+            },
+            {
+              "full_en": "to break step",
+              "full_vn": "đi sai bước"
+            },
+            {
+              "full_en": "in someone's steps",
+              "full_vn": "(nghĩa bóng) nối bước ai, theo gương ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bước (khoảng cách một bước chân)",
+          "list_en_vn": [
+            {
+              "full_en": "it is but a step to my house",
+              "full_vn": "chỉ một bước thì đến nhà tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bước nhảy; điệu nhảy (khi khiêu vũ)"
+        },
+        {
+          "m_full_vn": "tiếng chân bước; dáng đi, tiếng chân (như) footstep",
+          "list_en_vn": [
+            {
+              "full_en": "we heard steps outside",
+              "full_vn": "chúng tôi nghe tiếng chân bước bên ngoài"
+            },
+            {
+              "full_en": "with a light cheerful step",
+              "full_vn": "với bước đi nhẹ nhàng, hồ hởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng cách ngắn",
+          "list_en_vn": [
+            {
+              "full_en": "It's only a step to the park from here",
+              "full_vn": "công viên cách đây chỉ một vài bước chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bậc, nấc (thang)",
+          "list_en_vn": [
+            {
+              "full_en": "the child was sitting on the top step",
+              "full_vn": "đứa bé đang ngồi trên bậc cao nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bước (một trong một loạt việc được thực hiện trong một tiến trình hành động và phát triển)",
+          "list_en_vn": [
+            {
+              "full_en": "a step in the right direction",
+              "full_vn": "một bước theo phương hướng đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thang gấp (có thể mang đi được, tự đứng được..) (như) step ladder ; bục, bệ (bàn thờ...)",
+          "list_en_vn": [
+            {
+              "full_en": "a staircase of 50 steps",
+              "full_vn": "cầu thang có 50 bậc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấp bậc; sự thăng cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to get one's step",
+              "full_vn": "được thăng cấp, được đề bạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biện pháp",
+          "list_en_vn": [
+            {
+              "full_en": "to take steps in a matter",
+              "full_vn": "có biện pháp để giải quyết một vấn đề"
+            },
+            {
+              "full_en": "a prudent step",
+              "full_vn": "một biện pháp thận trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) bệ cột buồm"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) gối trục",
+          "list_one_mean": [
+            {
+              "id_full_en": "break step",
+              "list_im": [
+                {
+                  "im_full_vn": "bước trật (khi khiêu vũ hoặc đi diễu hành)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /out of step",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng/sai nhịp"
+                },
+                {
+                  "im_full_vn": "hợp/không hợp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep step (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đúng bước (nhất là đi diễu hành)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mind /watch one's step",
+              "list_im": [
+                {
+                  "im_full_vn": "đi cẩn thận"
+                },
+                {
+                  "im_full_vn": "cẩn thận đường đi nước bước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "step by step",
+              "list_im": [
+                {
+                  "im_full_vn": "từng bước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take steps to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "áp dụng các biện pháp để đạt cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bước, bước đi"
+        },
+        {
+          "m_full_vn": "( + into ) bước vào, lâm vào (một hoàn cảnh nào...)"
+        },
+        {
+          "m_full_vn": "( + on ) giẫm lên, lây chân ấn vào, đạp vào, dận",
+          "list_en_vn": [
+            {
+              "full_en": "to step on someone's foot",
+              "full_vn": "giẫm lên chân ai"
+            },
+            {
+              "full_en": "to step on the gas",
+              "full_vn": "dận ga tăng tốc độ (đen & bóng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + aside ) nhường chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "he stepped aside to let me pass",
+              "full_vn": "anh ấy tránh sang một bên cho tôi đi qua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiêu vũ, nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to step it with somebody",
+              "full_vn": "khiêu vũ với ai"
+            },
+            {
+              "full_en": "to step the polka",
+              "full_vn": "nhảy điệu pônca"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + out ) đo bằng bước chân"
+        },
+        {
+          "m_full_vn": "làm bậc, làm bậc thang cho",
+          "list_en_vn": [
+            {
+              "full_en": "he stepped the hill leading to his house",
+              "full_vn": "anh ta làm bậc cho quả đồi dẫn đến căn nhà của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) dựng (buồm) lên bệ",
+          "list_one_mean": [
+            {
+              "id_full_en": "step into the breach",
+              "list_im": [
+                {
+                  "im_full_vn": "lấp lỗ hổng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "step into somebody's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng bước chân ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "step on it ; step on the gas",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tăng ga; khẩn trương; vội vàng (nhất là một chiếc xe)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "step out of line",
+              "list_im": [
+                {
+                  "im_full_vn": "làm trái; vi phạm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step in",
+              "list_im": [
+                {
+                  "im_full_vn": "bước vào"
+                },
+                {
+                  "im_full_vn": "can thiệp vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step out",
+              "list_im": [
+                {
+                  "im_full_vn": "bước ra một lát (khỏi phòng, nhà...)"
+                },
+                {
+                  "im_full_vn": "( (từ Mỹ,nghĩa Mỹ), (thông tục)) đi đến chỗ hẹn hò với ai"
+                },
+                {
+                  "im_full_vn": "bước dài"
+                },
+                {
+                  "im_full_vn": "đo bằng bước chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step up",
+              "list_im": [
+                {
+                  "im_full_vn": "tới gần, tiến lại gần"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiến bước, tiến bộ"
+                },
+                {
+                  "im_full_vn": "tăng cường, đẩy mạnh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to step up production",
+                      "full_vn": "đẩy mạnh sản xuất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step it",
+              "list_im": [
+                {
+                  "im_full_vn": "khiêu vũ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "có quan hệ do sự đi bước nữa của bố mẹ mình; không phải ruột thịt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084765_c915853d38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084765_9119e2d504_o.png",
+      "id_image": "step_1177625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702184_1ce0a8bc2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702184_a9831d49de_o.png",
+      "id_image": "step_1330216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702149_b5b4b93694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702149_64ee4c1eda_o.png",
+      "id_image": "step_4158050"
+    }
+  ]
+}

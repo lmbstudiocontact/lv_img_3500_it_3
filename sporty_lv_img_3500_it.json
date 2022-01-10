@@ -1,0 +1,33 @@
+{
+  "english": "sporty",
+  "phat_am": "['spɔ:ti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ham mê thể thao, giỏi về thể thao",
+          "list_en_vn": [
+            {
+              "full_en": "she'e very sporty",
+              "full_vn": "cô ấy rất ham thích thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diện, bảnh bao"
+        },
+        {
+          "m_full_vn": "thượng võ, thẳng thắn, trung thực, dũng cảm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352671_8f741b43c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352671_71112bc18a_o.png",
+      "id_image": "sporty_1376743"
+    }
+  ]
+}

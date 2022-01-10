@@ -1,0 +1,63 @@
+{
+  "english": "stripe",
+  "phat_am": "[straip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sọc; vằn; viền",
+          "list_en_vn": [
+            {
+              "full_en": "a blue shirt with red stripes",
+              "full_vn": "áo sơ mi xanh sọc đỏ"
+            },
+            {
+              "full_en": "the zebra's stripes",
+              "full_vn": "những đường vằn của con ngựa vằn"
+            },
+            {
+              "full_en": "the glasses have a yellow stripe round the edge",
+              "full_vn": "những cái cốc có viền vàng quanh mép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) phù hiệu trên đồng phục của binh lính, cảnh sát để tỏ rõ cấp bậc; vạch quân hàm; lon",
+          "list_en_vn": [
+            {
+              "full_en": "to get a stripe , to be awarded another stripe",
+              "full_vn": "được thăng cấp, được lên lon"
+            },
+            {
+              "full_en": "to lose a stripe",
+              "full_vn": "bị giáng cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) con hổ"
+        },
+        {
+          "m_full_vn": "cú đánh bằng roi; cú đánh"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) loại; hạng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of that stripe",
+              "full_vn": "người loại ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079550_29c45275f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079550_53a05af709_o.png",
+      "id_image": "stripe_6006695"
+    }
+  ]
+}

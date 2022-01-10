@@ -1,0 +1,40 @@
+{
+  "english": "steak",
+  "phat_am": "[steik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "miếng cá để nướng, miếng thịt để nướng",
+          "list_en_vn": [
+            {
+              "full_en": "two tuna steaks",
+              "full_vn": "hai lát cá ngừ rán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thịt bò ở cổ và vai, cắt để hầm hoặc om"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348106_3b153dc2ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348106_3332c3f4c0_o.png",
+      "id_image": "steak_1939686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085385_a9832cfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085385_ae4b2f7edc_o.png",
+      "id_image": "steak_3005059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085335_be740915a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085335_9907f1187b_o.png",
+      "id_image": "steak_3005152"
+    }
+  ]
+}

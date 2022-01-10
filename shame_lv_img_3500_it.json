@@ -1,0 +1,159 @@
+{
+  "english": "shame",
+  "phat_am": "[∫eim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xấu hổ, sự tủi thẹn",
+          "list_en_vn": [
+            {
+              "full_en": "flushed with shame",
+              "full_vn": "đỏ mặt vì thẹn"
+            },
+            {
+              "full_en": "to feel shame at having told a lie",
+              "full_vn": "cảm thấy hổ thẹn vì đã nói dối"
+            },
+            {
+              "full_en": "to hang one's head in shame",
+              "full_vn": "xấu hổ gục đầu xuống"
+            },
+            {
+              "full_en": "To my shame , I never thanked him for his kindness",
+              "full_vn": "tôi rất thẹn là chưa bao giờ cám ơn lòng tốt của anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ngượng ngùng",
+          "list_en_vn": [
+            {
+              "full_en": "How could you do such a thing ? Have you no shame ?",
+              "full_vn": "Sao anh lại có thể làm một việc như vậy? Anh chẳng biết ngượng là gì sao?"
+            },
+            {
+              "full_en": "she is completely without shame",
+              "full_vn": "cô ấy hoàn toàn không biết ngượng là gì"
+            },
+            {
+              "full_en": "to be lost to shame",
+              "full_vn": "không còn biết xấu hổ, không biết ngượng, trơ trẽn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều ô danh; nỗi nhục",
+          "list_en_vn": [
+            {
+              "full_en": "to bring shame on somebody /oneself",
+              "full_vn": "mang lại nỗi nhục cho ai/chính mình"
+            },
+            {
+              "full_en": "how can we make people forget the family's shame ?",
+              "full_vn": "làm sao chúng ta có thể làm cho mọi người quên đi nỗi nhục của gia đình?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a shame ) người hoặc vật gây ra điều hổ thẹn hoặc đáng khinh; điều ân hận, điều đáng tiếc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put somebody /something to shame",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn hẳn ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your beautiful handwriting puts my untidy scrawl to shame",
+                      "full_vn": "bản viết tay tuyệt đẹp của anh hơn hẳn bản viết nguệch ngoạc của tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "shame on you",
+              "list_im": [
+                {
+                  "im_full_vn": "anh nên thấy xấu hổ (về những gì anh đã làm hoặc nói)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "How could you treat her so badly ? Shame on you !",
+                      "full_vn": "Sao anh đối xử với cô ấy tệ vậy? Thật xấu hổ cho anh quá!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it is a shame to be so clumsy",
+              "full_vn": "vụng về đến thế thật là xấu hổ"
+            },
+            {
+              "full_en": "it's a shame to take money from those who can't afford it",
+              "full_vn": "thật là hổ thẹn khi đi lấy tiền của những người không đủ khả năng đóng tiền"
+            },
+            {
+              "full_en": "what a shame you didn't win",
+              "full_vn": "thật đáng tiếc là anh đã không chiến thắng"
+            },
+            {
+              "full_en": "isn't it a shame that the rain spoiled our picnic ?",
+              "full_vn": "tiếc là mưa đã làm hỏng cuộc chơi ngoài trời của chúng ta, phải không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai cảm thấy hổ thẹn, làm cho ai xấu hổ",
+          "list_en_vn": [
+            {
+              "full_en": "he was shamed by how much more work the others had done",
+              "full_vn": "anh ta hổ thẹn vì những người khác đã làm được thật nhiều việc hơn anh ta"
+            },
+            {
+              "full_en": "to shame somebody into doing something",
+              "full_vn": "làm ai xấu hổ đến nỗi phải làm việc gì"
+            },
+            {
+              "full_en": "to shame somebody out of doing something",
+              "full_vn": "làm ai xấu hổ đến nỗi không dám làm việc gì"
+            },
+            {
+              "full_en": "to shame somebody into apologizing",
+              "full_vn": "làm cho ai xấu hổ đến mức phải xin lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhục, làm ô danh",
+          "list_en_vn": [
+            {
+              "full_en": "you've shamed your family",
+              "full_vn": "anh đã làm nhục gia đình anh"
+            },
+            {
+              "full_en": "it's quite shaming that our society cares so little for the poor",
+              "full_vn": "thật đáng hổ thẹn là xã hội ta ít chăm sóc người nghèo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084780_bf47b6bf73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084780_a9f32ce169_o.png",
+      "id_image": "shame_708695"
+    }
+  ]
+}

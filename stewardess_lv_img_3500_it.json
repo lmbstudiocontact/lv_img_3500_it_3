@@ -1,0 +1,37 @@
+{
+  "english": "stewardess",
+  "phat_am": "[,stjuə'des]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nữ chiêu đãi viên; nữ phục vụ (trên máy bay, tàu thủy)",
+          "list_en_vn": [
+            {
+              "full_en": "an air stewardess",
+              "full_vn": "một nữ tiếp viên hàng không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461623_aea16e80ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461623_61a6f6e2b2_o.png",
+      "id_image": "stewardess_1983229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461688_e5454dc8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461688_822c785983_o.png",
+      "id_image": "stewardess_314081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701684_88d57e4157_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701684_90810a326d_o.png",
+      "id_image": "stewardess_360459"
+    }
+  ]
+}

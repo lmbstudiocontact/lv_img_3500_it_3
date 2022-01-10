@@ -1,0 +1,91 @@
+{
+  "english": "sigh",
+  "phat_am": "[sai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thở dài; tiếng thở dài",
+          "list_en_vn": [
+            {
+              "full_en": "a sigh of relief",
+              "full_vn": "tiếng thở dài nhẹ nhõm, tiếng thở dài khoan khoái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thở dài (biểu hiện sự buồn rầu, mệt mỏi..)",
+          "list_en_vn": [
+            {
+              "full_en": "he sighed with pleasure after the excellent meal",
+              "full_vn": "sau bữa ăn rất ngon, ông ta khoan khoái thở dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vi vu, rì rào (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "trees sighing in the wind",
+              "full_vn": "cây rì rào trong gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ước ao, khát khao",
+          "list_en_vn": [
+            {
+              "full_en": "to sigh for something",
+              "full_vn": "khát khao cái gì"
+            },
+            {
+              "full_en": "to sigh for somebody",
+              "full_vn": "luyến tiếc ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói (cái gì) với một tiếng thở dài",
+          "list_one_mean": [
+            {
+              "id_full_en": "sigh for something",
+              "list_im": [
+                {
+                  "im_full_vn": "luyến tiếc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340056_70bc135264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340056_5e34379d23_o.png",
+      "id_image": "sigh_2977990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384912_bb45b3a063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384912_e7e089f97a_o.png",
+      "id_image": "sigh_3911320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454868_7ce628e21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454868_b1b00935ae_o.png",
+      "id_image": "sigh_4138789"
+    }
+  ]
+}

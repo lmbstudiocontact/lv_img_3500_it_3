@@ -1,0 +1,41 @@
+{
+  "english": "symmetry",
+  "phat_am": "['simətri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đối xứng; tính đối xứng",
+          "list_en_vn": [
+            {
+              "full_en": "the perfect symmetry of the building",
+              "full_vn": "sự đối xứng hoàn hảo của toà nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cân đối; cấu trúc cân đối",
+          "list_en_vn": [
+            {
+              "full_en": "the symmetry of her features",
+              "full_vn": "sự cân đối trong nét mặt của cô ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067665_f0aacf40ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067665_3222138d49_o.png",
+      "id_image": "symmetry_2662939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067635_1eea78002d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067635_45e5d355a6_o.png",
+      "id_image": "symmetry_4327724"
+    }
+  ]
+}

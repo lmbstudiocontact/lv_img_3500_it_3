@@ -1,0 +1,284 @@
+{
+  "english": "skin",
+  "phat_am": "[skin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "da, bì",
+          "list_en_vn": [
+            {
+              "full_en": "outer skin",
+              "full_vn": "biểu bì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỏ (của quả, cây)",
+          "list_en_vn": [
+            {
+              "full_en": "orange skin",
+              "full_vn": "vỏ cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp vỏ mỏng của xúc xích"
+        },
+        {
+          "m_full_vn": "lớp vỏ, lớp phủ, lớp bao ngoài (vỏ tàu..)",
+          "list_en_vn": [
+            {
+              "full_en": "the metal skin of an aircraft",
+              "full_vn": "lớp vỏ kim loại của một máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) trong từ ghép) da sống; bộ da lông thú",
+          "list_en_vn": [
+            {
+              "full_en": "pigskin",
+              "full_vn": "da lợn"
+            },
+            {
+              "full_en": "a rabbit-skin",
+              "full_vn": "một bộ da lông thỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) trong từ ghép) bầu bằng da thú (để đựng nước, rượu...)"
+        },
+        {
+          "m_full_vn": "lớp váng, lớp màng (trên bề mặt các chất lỏng; sữa đun sôi..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be no skin off one's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "không dính dáng đến ai, không động chạm đến ai, không ảnh hưởng gì đến ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be only skin and bone",
+              "list_im": [
+                {
+                  "im_full_vn": "gầy chỉ còn da bọc xương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he cannot change his skin",
+              "list_im": [
+                {
+                  "im_full_vn": "chết thì chết nết không chừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to escape by (with ) the skin of one's teeth ; tooth to fear for one's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ mất mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thick skin",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ trơ ra (khi bị phê bình, bị chửi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thin skin",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ bật lò xo (khi bị phê bình, bị chửi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "shirt to save one's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy thoát, trốn thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I would not be in his skin",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi không muốn ở địa vị của nó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by the skin of one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ vừa mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "get under somebody's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) quấy rầy, chọc tức ai"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm ai phải chú ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "jump out of one's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) giật nảy mình; bị hoảng hốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing but /all skin and bone",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) (còn) da bọc xương; rất gầy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "soaked /wet to the skin",
+              "list_im": [
+                {
+                  "im_full_vn": "ướt như chuột lột (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a thin /thick skin",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dễ phản ứng/mặt dạn mày dày; không trơ/trơ ra"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the skin on a milk pudding",
+              "full_vn": "lớp màng trên một chiếc bánh putđinh sữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lột da",
+          "list_en_vn": [
+            {
+              "full_en": "to skin a rabbit",
+              "full_vn": "lột da một con thỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm trầy da",
+          "list_en_vn": [
+            {
+              "full_en": "I skinned my elbow against the wall",
+              "full_vn": "tôi va vào tường bị trầy da ở khủyu tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bọc da"
+        },
+        {
+          "m_full_vn": "bóc vỏ, gọt vỏ"
+        },
+        {
+          "m_full_vn": "(thông tục) lột quần áo (ai)"
+        },
+        {
+          "m_full_vn": "(thông tục) lừa đảo"
+        },
+        {
+          "m_full_vn": "( (thường) + over ) bọc lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "skin somebody alive",
+              "list_im": [
+                {
+                  "im_full_vn": "lột sống ai; trừng phạt ai nghiêm khắc (nói để hăm doạ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lột da (rắn)"
+        },
+        {
+          "m_full_vn": "mọc da"
+        },
+        {
+          "m_full_vn": "đóng sẹo, lên da non (vết thương)"
+        },
+        {
+          "m_full_vn": "(thông tục) cởi quần áo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to skin alive",
+              "list_im": [
+                {
+                  "im_full_vn": "lột sống (súc vật)"
+                },
+                {
+                  "im_full_vn": "(thông tục) mắng mỏ thậm tệ, trừng phạt nặng nề"
+                },
+                {
+                  "im_full_vn": "(thông tục) đánh gục, đánh bại hắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's eyes skinned",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cẩn thận, cảnh giác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450378_24326ea7c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450378_d2326b8c4a_o.png",
+      "id_image": "skin_2037378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450363_016228d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450363_c96b7c5de6_o.png",
+      "id_image": "skin_2269004"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "english": "sharp",
+  "phat_am": "[∫ɑ:p]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắc, nhọn, bén",
+          "list_en_vn": [
+            {
+              "full_en": "a sharp knife",
+              "full_vn": "dao sắc"
+            },
+            {
+              "full_en": "a sharp summit",
+              "full_vn": "đỉnh nhọn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ nghĩa, dễ nhận, rõ ràng, sắc nét",
+          "list_en_vn": [
+            {
+              "full_en": "sharp distinction",
+              "full_vn": "sự phân biệt rõ ràng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thình lình, đột ngột (về đoạn cong, đường cong, dốc..)",
+          "list_en_vn": [
+            {
+              "full_en": "sharp turn",
+              "full_vn": "chỗ ngoặt đột ngột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lanh lảnh, chói tai, the thé (về âm thanh)",
+          "list_en_vn": [
+            {
+              "full_en": "a sharp cry of distress",
+              "full_vn": "tiếng kêu thất thanh trong cơn cùng quẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cay, hắc, gắt, hăng, tạo ra một cảm giác mạnh (về mùi, vị)",
+          "list_en_vn": [
+            {
+              "full_en": "the sharp taste of lemon juice",
+              "full_vn": "vị chua gắt của nước chanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buốt, nhói (về cơn đau, cơn lạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "a sharp wind",
+              "full_vn": "gió lạnh buốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh, thính, nhạy, thông minh, sắc sảo",
+          "list_en_vn": [
+            {
+              "full_en": "sharp eyes",
+              "full_vn": "mắt tinh"
+            },
+            {
+              "full_en": "sharp ears",
+              "full_vn": "tai thính"
+            },
+            {
+              "full_en": "a sharp child",
+              "full_vn": "đứa trẻ thông minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao (về âm thanh, nhạc cụ..)"
+        },
+        {
+          "m_full_vn": "thăng, cao nửa cung (về nốt nhạc)"
+        },
+        {
+          "m_full_vn": "chỉ trích gay gắt",
+          "list_en_vn": [
+            {
+              "full_en": "a sharp remark",
+              "full_vn": "lời nhận xét gay gắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ma mảnh, bất chính, thiếu đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "sharp practices",
+              "full_vn": "thủ đoạn bất lương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh chóng, mau mắn, mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "to take a sharp walk",
+              "full_vn": "đi bộ rảo bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) điếc, không kêu"
+        },
+        {
+          "m_full_vn": "(thông tục) diện, chải chuốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "as sharp as a needle",
+              "list_im": [
+                {
+                  "im_full_vn": "rất thông minh và nhanh trí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sharp pratice",
+              "list_im": [
+                {
+                  "im_full_vn": "những chuyện làm ăn hoàn toàn không lương thiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sharp's the word !",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh lên! chóng lên!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "look sharp",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh, mau, vội"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kim khâu mũi thật nhọn"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) phụ âm điếc"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nốt thăng; dấu thăng"
+        },
+        {
+          "m_full_vn": "(thông tục) người lừa đảo, người cờ gian bạc lận"
+        },
+        {
+          "m_full_vn": "(đùa cợt) chuyên gia, người thạo (về cái gì)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (nông nghiệp) tấm, hạt tấm"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắc cạnh, sắc nhọn"
+        },
+        {
+          "m_full_vn": "(thông tục) đúng",
+          "list_en_vn": [
+            {
+              "full_en": "at six o'clock sharp",
+              "full_vn": "(lúc) đúng sáu giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đột ngột, bất thình lình; sững, vụt, đột",
+          "list_en_vn": [
+            {
+              "full_en": "stopped sharp",
+              "full_vn": "dừng khựng lại ngay"
+            },
+            {
+              "full_en": "to turn sharp round",
+              "full_vn": "quay lại đột ngột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) cao quá độ cao đúng",
+          "list_en_vn": [
+            {
+              "full_en": "to sing sharp",
+              "full_vn": "hát cao giọng (sai điệu)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391647_bf8155c0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391647_9212de4c26_o.png",
+      "id_image": "sharp_215046"
+    }
+  ]
+}

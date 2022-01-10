@@ -1,0 +1,140 @@
+{
+  "english": "tax",
+  "phat_am": "[tæks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuế",
+          "list_en_vn": [
+            {
+              "full_en": "sales tax",
+              "full_vn": "thuế doanh thu"
+            },
+            {
+              "full_en": "inheritance tax",
+              "full_vn": "thuế di sản; thuế thừa kế"
+            },
+            {
+              "full_en": "income /property tax",
+              "full_vn": "thuế thu nhập/tài sản"
+            },
+            {
+              "full_en": "direct /indirect taxes",
+              "full_vn": "thuế trực thu/gián thu"
+            },
+            {
+              "full_en": "tax invasion",
+              "full_vn": "sự trốn thuế"
+            },
+            {
+              "full_en": "to levy a tax on something",
+              "full_vn": "đánh thuế vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gánh nặng; sự đòi hỏi, sự thử thách lớn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a tax on something",
+              "list_im": [
+                {
+                  "im_full_vn": "một gánh nặng đối với ai, một sự căng thẳng đối với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a tax on one's strength",
+                      "full_vn": "một gánh nặng đối với sức khoẻ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh thuế",
+          "list_en_vn": [
+            {
+              "full_en": "to tax luxuries",
+              "full_vn": "đánh thuế các hàng xa xỉ"
+            },
+            {
+              "full_en": "to tax rich and poor alike",
+              "full_vn": "đánh thuế người giàu người nghèo như nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) yêu cầu gay gắt; đòi hỏi nặng nề; bắt phải cố gắng; đè nặng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to tax someone's patience",
+              "full_vn": "đòi hỏi ai phải kiên nhẫn rất nhiều"
+            },
+            {
+              "full_en": "his constant requests for help taxed our goodwill",
+              "full_vn": "nhữngyêu cầu giúp đỡ thường xuyên của nó đã đòi hỏi quá nhiều ở thiện chí của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng thuế",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tax somebody with something",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc tội ai về cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was taxed with homicide",
+                      "full_vn": "cô ấy bị buộc tội giết người"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tax one's / somebody's brains",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt cho ai/mình một nhiệm vụ gay go về tinh thần"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the car is taxed until July",
+              "full_vn": "xe này đóng thuế đến tháng bảy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468813_7ed8f50611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468813_8d66c252fb_o.png",
+      "id_image": "tax_4539932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354076_68bb227993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354076_e07032157c_o.png",
+      "id_image": "tax_6135608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354046_7a5b6fa9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354046_012d1e04a5_o.png",
+      "id_image": "tax_6296593"
+    }
+  ]
+}

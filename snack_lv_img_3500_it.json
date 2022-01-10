@@ -1,0 +1,65 @@
+{
+  "english": "snack",
+  "phat_am": "[snæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bữa ăn vội vàng, bữa ăn qua loa; bữa quà; chút thức ăn, chút rượu"
+        },
+        {
+          "m_full_vn": "phần, phần chia",
+          "list_en_vn": [
+            {
+              "full_en": "to go snacks with someone in something",
+              "full_vn": "chia chung cái gì với ai"
+            },
+            {
+              "full_en": "snacks !",
+              "full_vn": "ta chia nào!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) ăn qua loa, ăn vội vàng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn qua loa, ăn vội vàng (cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067245_877270b811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067245_d93b40a0ae_o.png",
+      "id_image": "snack_2575818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067220_2a03d46bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067220_5160f34fd1_o.png",
+      "id_image": "snack_3076094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330381_baae4862ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330381_a443bd2936_o.png",
+      "id_image": "snack_439517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067195_736ac76fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067195_c31a4e8b53_o.png",
+      "id_image": "snack_6347236"
+    }
+  ]
+}

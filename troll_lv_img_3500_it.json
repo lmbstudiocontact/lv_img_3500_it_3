@@ -1,0 +1,62 @@
+{
+  "english": "troll",
+  "phat_am": "[troul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người khổng lồ độc ác, chú lùn ranh mãnh đầy thân thiện (trong thần thoại miền Scandinavia)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khúc hát tiếp nhau"
+        },
+        {
+          "m_full_vn": "mồi câu hình thìa (như) trolling-spoon"
+        },
+        {
+          "m_full_vn": "ống dây cần câu nhấp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hát (một cách thoải mái)"
+        },
+        {
+          "m_full_vn": "( + for something ) câu nhấp (bằng cách kéo mồi trong nước và ở đằng sau một cái thuyền)",
+          "list_en_vn": [
+            {
+              "full_en": "trolling for pike",
+              "full_vn": "câu nhấp cá chó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332726_cd8b986486_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332726_9ecbefd093_o.png",
+      "id_image": "troll_3387231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332701_3e7d00b9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332701_9c2fcc94a7_o.png",
+      "id_image": "troll_5345540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447808_f44623c81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447808_6d65a23593_o.png",
+      "id_image": "troll_875329"
+    }
+  ]
+}

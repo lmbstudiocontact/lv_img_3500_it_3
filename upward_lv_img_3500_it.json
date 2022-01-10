@@ -1,0 +1,67 @@
+{
+  "english": "upward",
+  "phat_am": "['ʌpwəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên, hướng lên; đi lên",
+          "list_en_vn": [
+            {
+              "full_en": "an upward glance",
+              "full_vn": "cái liếc nhìn lên"
+            },
+            {
+              "full_en": "an upward climb",
+              "full_vn": "cuộc leo lên"
+            },
+            {
+              "full_en": "the upward trend in prices",
+              "full_vn": "xu thế tăng lên của giá cả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ (cũng) upwards",
+      "list_m": [
+        {
+          "m_full_vn": "lên, về phía trên; đi lên, hướng về phía cái cao hơn",
+          "list_en_vn": [
+            {
+              "full_en": "to look upward",
+              "full_vn": "nhìn lên"
+            },
+            {
+              "full_en": "the missile rose upward into the sky",
+              "full_vn": "tên lửa bay lên bầu trời"
+            },
+            {
+              "full_en": "the boat floated bottom upwards",
+              "full_vn": "chiếc thuyền lật úp trôi lềnh bềnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396267_1c0b562aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396267_243cde8174_o.png",
+      "id_image": "upward_959113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705994_e8bafe8ae8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705994_f48d9a3989_o.png",
+      "id_image": "upward_959148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466043_6dce21d215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466043_b35088e960_o.png",
+      "id_image": "upward_959149"
+    }
+  ]
+}

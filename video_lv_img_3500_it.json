@@ -1,0 +1,87 @@
+{
+  "english": "video",
+  "phat_am": "['vidiou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều videos",
+      "list_m": [
+        {
+          "m_full_vn": "vi-đê-ô; sự ghi vi-đê-ô (việc thu hoặc phát những phim ảnh, tách biệt với âm thanh bằng máy TV)",
+          "list_en_vn": [
+            {
+              "full_en": "commercial /promotional video",
+              "full_vn": "vi-đê-ô thương mại/quảng cáo"
+            },
+            {
+              "full_en": "he used video a lot in his teaching",
+              "full_vn": "ông ấy rất hay dùng vi-đê-ô trong quá trình giảng dạy"
+            },
+            {
+              "full_en": "to record a birthday party on video",
+              "full_vn": "ghi một bữa tiệc sinh nhật vào vi-đê-ô"
+            },
+            {
+              "full_en": "the bank robbery was recorded on video",
+              "full_vn": "vụ cướp nhà băng đã được ghi lại trên băng vi-đê-ô"
+            },
+            {
+              "full_en": "video frequencies",
+              "full_vn": "tần số vi-đê-ô"
+            },
+            {
+              "full_en": "video camera",
+              "full_vn": "máy quay viđêô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "băng viđêô (hình thu hoặc phát qua máy viđêô)",
+          "list_en_vn": [
+            {
+              "full_en": "to watch /make /show video",
+              "full_vn": "xem/quay/chiếu viđêô"
+            },
+            {
+              "full_en": "video shop",
+              "full_vn": "cửa hàng viđêô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu máy viđêô (như) video cassette recorder , video recorder"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu (hình ảnh chuyển động) vào băng viđêô, đĩa viđêô",
+          "list_en_vn": [
+            {
+              "full_en": "to video a TV programme",
+              "full_vn": "thu một chương trình TV vào băng viđêô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699869_547130c2be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699869_860b935a05_o.png",
+      "id_image": "video_1246622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389742_d3e9e3fbbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389742_c8a45350e0_o.png",
+      "id_image": "video_183606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699899_152ef15491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699899_8a7d9ded37_o.png",
+      "id_image": "video_563034"
+    }
+  ]
+}

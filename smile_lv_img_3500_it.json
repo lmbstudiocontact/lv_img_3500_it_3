@@ -1,0 +1,150 @@
+{
+  "english": "smile",
+  "phat_am": "[smail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nụ cười; vẻ mặt tươi cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "all smiles",
+              "list_im": [
+                {
+                  "im_full_vn": "trông có vẻ rất sung sướng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was all smiles at the news of her win",
+                      "full_vn": "cô ta rất vui sướng khi được tin mình đã thắng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "with a relieved /amused /cheerful smile on her face",
+              "full_vn": "với một nụ cười an tâm/thích thú/vui vẻ trên gương mặt"
+            },
+            {
+              "full_en": "to give somebody a happy smile",
+              "full_vn": "mỉm cười sung sướng với ai"
+            },
+            {
+              "full_en": "face wreathed in smiles",
+              "full_vn": "mặt tươi cười"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỉm cười",
+          "list_en_vn": [
+            {
+              "full_en": "to smile happily /with pleasure",
+              "full_vn": "mỉm cười sung sướng/thích thú"
+            },
+            {
+              "full_en": "he never smiles",
+              "full_vn": "hắn chẳng bao giờ cười"
+            },
+            {
+              "full_en": "I smiled at the child and said 'Hello ! '",
+              "full_vn": "tôi mỉm cười với đứa bé và nói 'Chào! '"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thể hiện (sự đồng ý..) bằng một nụ cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "to smile away",
+              "list_im": [
+                {
+                  "im_full_vn": "cười để xua tan",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to smile someone's anger away",
+                      "full_vn": "cười cho ai hết giận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smile on somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "tán thành, khuyến khích ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "fortune smiles on (upon ) him",
+                      "full_vn": "vận may mỉm cười với hắn; hắn gặp vận may"
+                    },
+                    {
+                      "full_en": "the council did not smile on our plan",
+                      "full_vn": "hội đồng không tán thành kế hoạch của chúng tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come up smiling",
+              "list_im": [
+                {
+                  "im_full_vn": "lại tiếp tục đương đầu với những khó khăn mới, lại tiếp tục một keo mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smile somebody into doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "cười để khiến ai làm việc gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she smiled her approval",
+              "full_vn": "cô ta mỉm cười tán thành"
+            },
+            {
+              "full_en": "I smiled my thanks",
+              "full_vn": "tôi mỉm cười tỏ ý cám ơn"
+            },
+            {
+              "full_en": "she smiled a bitter smile",
+              "full_vn": "cô ta nở một nụ cười cay đắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446373_c033d3b38c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446373_cf607ce454_o.png",
+      "id_image": "smile_1451316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376037_8713b95a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376037_1f477a2647_o.png",
+      "id_image": "smile_3842804"
+    }
+  ]
+}

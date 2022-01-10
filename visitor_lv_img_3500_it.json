@@ -1,0 +1,46 @@
+{
+  "english": "visitor",
+  "phat_am": "['vizitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khách, người đến thăm (một người hoặc một nơi nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "visitors from the insurance company",
+              "full_vn": "những người khách từ công ty bảo hiểm đến thăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "du khách (người ở lại nhất thời ở một chỗ hoặc với một người khác)"
+        },
+        {
+          "m_full_vn": "người thanh tra, người kiểm tra (trường học...)"
+        },
+        {
+          "m_full_vn": "chim di trú (sống nhất thời ở một vùng hoặc trong một mùa nào đó)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079640_9dfb56ffa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079640_18c3f5c908_o.png",
+      "id_image": "visitor_4615753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697444_2b9e9cbc26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697444_ca80a0eeb7_o.png",
+      "id_image": "visitor_827057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342236_a972ac57bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342236_fe8fe044fc_o.png",
+      "id_image": "visitor_874676"
+    }
+  ]
+}

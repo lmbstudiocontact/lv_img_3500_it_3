@@ -1,0 +1,38 @@
+{
+  "english": "violet",
+  "phat_am": "['vaiələt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tím; có màu tía phớt xanh của hoa tím dại",
+          "list_en_vn": [
+            {
+              "full_en": "violet eyes",
+              "full_vn": "đôi mắt màu tím"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây hoa tím, cây hoa vi-ô-lét"
+        },
+        {
+          "m_full_vn": "màu tím, màu tía phớt xanh, màu của hoa vi-ô-lét"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698324_cbeed806f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698324_3bea01308d_o.png",
+      "id_image": "violet_6080680"
+    }
+  ]
+}

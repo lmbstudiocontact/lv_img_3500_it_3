@@ -1,0 +1,141 @@
+{
+  "english": "supply",
+  "phat_am": "[sə'plai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cung cấp; sự được cung cấp",
+          "list_en_vn": [
+            {
+              "full_en": "supply and demand",
+              "full_vn": "cung và cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiếp tế",
+          "list_en_vn": [
+            {
+              "full_en": "ammunition supply",
+              "full_vn": "sự tiếp tế đạn dược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn cung cấp, kho dự trữ; hàng cung cấp",
+          "list_en_vn": [
+            {
+              "full_en": "an inexhaustible supply of coal",
+              "full_vn": "nguồn dự trữ than vô tận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) quân nhu"
+        },
+        {
+          "m_full_vn": "( số nhiều) tiền trợ cấp (cho ai để sống); khoản chi phí hành chính (nghị viện)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Committee of Supply",
+              "list_im": [
+                {
+                  "im_full_vn": "uỷ ban ngân sách (nghị viện)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a fresh supply of something",
+              "list_im": [
+                {
+                  "im_full_vn": "sắm trữ một số (loạt, lô) cái gì mới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in short supply",
+              "list_im": [
+                {
+                  "im_full_vn": "khan hiếm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cut off the supplies",
+              "full_vn": "cắt trợ cấp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp, tiếp tế",
+          "list_en_vn": [
+            {
+              "full_en": "to supply somebody with something",
+              "full_vn": "cung cấp vật gì cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp ứng (nhu cầu...)"
+        },
+        {
+          "m_full_vn": "thay thế; bổ khuyết, bù (tổn thất...)",
+          "list_en_vn": [
+            {
+              "full_en": "to supply someone's place",
+              "full_vn": "thay thế ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa, dẫn (chứng cớ)"
+        }
+      ]
+    },
+    {
+      "type": "phó từ (như) supplely",
+      "list_m": [
+        {
+          "m_full_vn": "mềm, dễ uốn; dẻo; không cứng"
+        },
+        {
+          "m_full_vn": "mềm mỏng"
+        },
+        {
+          "m_full_vn": "luồn cúi, quỵ luỵ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381527_476659eeb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381527_0b12c4e32d_o.png",
+      "id_image": "supply_1115501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381492_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381492_633707508d_o.png",
+      "id_image": "supply_3310767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451373_a6681121a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451373_ab48fab7f3_o.png",
+      "id_image": "supply_4745668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073390_a4e0b71b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073390_be0567662a_o.png",
+      "id_image": "supply_5605988"
+    }
+  ]
+}

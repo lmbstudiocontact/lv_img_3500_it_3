@@ -1,0 +1,201 @@
+{
+  "english": "train",
+  "phat_am": "[trein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe lửa, tàu hoả",
+          "list_en_vn": [
+            {
+              "full_en": "a train driver",
+              "full_vn": "người lái tàu hoả"
+            },
+            {
+              "full_en": "to go by train",
+              "full_vn": "đi xe lửa"
+            },
+            {
+              "full_en": "travelling by train is more relaxing than driving",
+              "full_vn": "đi lại bằng tàu hoả thoải mái hơn là phải lái xe"
+            },
+            {
+              "full_en": "I normally catch /take /get the 7.15 train to London",
+              "full_vn": "tôi thường đi Luân Đôn bằng bằng chuyến tàu 7 giờ 15"
+            },
+            {
+              "full_en": "if you miss the train , there's another an hour later",
+              "full_vn": "nếu anh lỡ chuyến tàu đó thì một giờ sau sẽ có chuyến khác"
+            },
+            {
+              "full_en": "express /stopping trains",
+              "full_vn": "xe lửa tốc hành/thường"
+            },
+            {
+              "full_en": "passenger /goods /freight train",
+              "full_vn": "xe lửa chở khách/ hàng"
+            },
+            {
+              "full_en": "you've to change trains at Didcot",
+              "full_vn": "anh phải đổi tàu ở Didcot"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn người, đàn gia súc",
+          "list_en_vn": [
+            {
+              "full_en": "a camel train",
+              "full_vn": "đàn lạc đà"
+            },
+            {
+              "full_en": "the pop star was followed by a train of admirers",
+              "full_vn": "một dòng người hâm mộ theo sau ngôi sao nhạc pop đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng, dãy, chuỗi, hạt; sự liên tục (của các sự kiện, loạt suy nghĩ.. nối tiếp nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "an unexpected train of difficulties",
+              "full_vn": "một loạt khó khăn bất ngờ"
+            },
+            {
+              "full_en": "to follow one's train of thought",
+              "full_vn": "theo dòng tư tưởng (ý nghĩ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đuôi dài lê thê (của váy, áo choàng đàn bà)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bộ truyền động"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) ngòi (mìn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in train",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng, đã được chuẩn bị",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "all is now in train",
+                      "full_vn": "tất cả đều đã sẵn sàng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to train somebody as something / in something ) rèn luyện, huấn luyện; đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "there is a shortage of trained nurses",
+              "full_vn": "thiếu những y tá được đào tạo hẳn hoi"
+            },
+            {
+              "full_en": "to train a teacher",
+              "full_vn": "đào tạo một giáo viên"
+            },
+            {
+              "full_en": "he was trained as an engineer /in engineering",
+              "full_vn": "anh ta được đào tạo thành kỹ sư/theo ngành công trình"
+            },
+            {
+              "full_en": "I've trained my dog to fetch my slippers",
+              "full_vn": "tôi huấn luyện cho con chó của tôi biết đi nhặt đôi dép của tôi"
+            },
+            {
+              "full_en": "to train a horse for a race",
+              "full_vn": "tập luyện cho một con ngựa đi dự cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uốn (cây cảnh)",
+          "list_en_vn": [
+            {
+              "full_en": "to train roses against /along /over /up a wall",
+              "full_vn": "uốn cho những cây hồng tựa vào/lan dọc theo/chùm/leo lên tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to train something on somebody / something ) chĩa hoặc nhắm (súng, máy ảnh...) vào ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "he trained his binoculars on the distant figures",
+              "full_vn": "nó chĩa ống nhòm hai mắt về phía những hình ảnh ở xa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to train as something / in something ) được huấn luyện, được đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "she trained for a year as a secretary",
+              "full_vn": "cô ta được đào tạo trong một năm để làm thư ký"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập luyện; tập dượt",
+          "list_en_vn": [
+            {
+              "full_en": "to train for a race",
+              "full_vn": "tập dượt để chuẩn bị chạy đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đi xe lửa",
+          "list_en_vn": [
+            {
+              "full_en": "to train from Pekin to Hanoi",
+              "full_vn": "đi xe lửa từ Bắc kinh đến Hà nội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339891_6066407a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339891_c1110cf051_o.png",
+      "id_image": "train_613864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695034_c9ea55f46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695034_e09b02e55a_o.png",
+      "id_image": "train_619160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454723_8d48322a20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454723_c5fe98c072_o.png",
+      "id_image": "train_870120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076945_8674bc6fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076945_29c6335be4_o.png",
+      "id_image": "train_952356"
+    }
+  ]
+}

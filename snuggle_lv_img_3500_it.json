@@ -1,0 +1,46 @@
+{
+  "english": "snuggle",
+  "phat_am": "['snʌgl]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up/down ) xê gần, dịch gần, xích gần; rúc vào",
+          "list_en_vn": [
+            {
+              "full_en": "to snuggle up to someone",
+              "full_vn": "xích gần lại ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo (ai) lại gần; ôm ấp (cho ấm)",
+          "list_en_vn": [
+            {
+              "full_en": "she snuggled the child close to her",
+              "full_vn": "chị ta ôm em bé vào lòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328141_9d47bf2cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328141_401641c781_o.png",
+      "id_image": "snuggle_2021241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328161_7efd48ff51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328161_0192f638ae_o.png",
+      "id_image": "snuggle_661315"
+    }
+  ]
+}

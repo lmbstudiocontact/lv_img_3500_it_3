@@ -1,0 +1,58 @@
+{
+  "english": "solder",
+  "phat_am": "['sɔldə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp kim (để) hàn, chất hàn",
+          "list_en_vn": [
+            {
+              "full_en": "hard solder",
+              "full_vn": "chất hàn cứng"
+            },
+            {
+              "full_en": "soft solder",
+              "full_vn": "chất hàn mềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hàn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người hàn gắn, vật hàn gắn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàn"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hàn gắn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326611_9a05471a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326611_2f3cea3e4c_o.png",
+      "id_image": "solder_2332876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063475_43f54433ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063475_bd991b5ed0_o.png",
+      "id_image": "solder_2472930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326636_7c7f605a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326636_d2659e1cf0_o.png",
+      "id_image": "solder_471759"
+    }
+  ]
+}

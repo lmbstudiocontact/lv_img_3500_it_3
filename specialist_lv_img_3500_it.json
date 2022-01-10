@@ -1,0 +1,32 @@
+{
+  "english": "specialist",
+  "phat_am": "['spe∫əlist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên gia, chuyên viên, nhà chuyên khoa",
+          "list_en_vn": [
+            {
+              "full_en": "an eye specialist",
+              "full_vn": "bác sĩ chuyên khoa mắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439648_11ba02d901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439648_f59a4548ea_o.png",
+      "id_image": "specialist_2835802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061500_eedbcc5c20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061500_792929c7cc_o.png",
+      "id_image": "specialist_5029176"
+    }
+  ]
+}

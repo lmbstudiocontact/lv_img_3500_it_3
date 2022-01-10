@@ -1,0 +1,56 @@
+{
+  "english": "waterproof",
+  "phat_am": "['wɔ:tə,pru:f]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không thấm nước",
+          "list_en_vn": [
+            {
+              "full_en": "waterproof fabric",
+              "full_vn": "vải không thấm nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải không thấm nước"
+        },
+        {
+          "m_full_vn": "áo mưa; quần áo làm bằng vải không thấm nước"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho không thấm nước"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380502_2a18da1182_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380502_edd8d4fbb6_o.png",
+      "id_image": "waterproof_4637360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380447_cc6aced3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380447_63b6a7d6bf_o.png",
+      "id_image": "waterproof_5375350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380422_643e6b917c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380422_fd43755074_o.png",
+      "id_image": "waterproof_6256102"
+    }
+  ]
+}

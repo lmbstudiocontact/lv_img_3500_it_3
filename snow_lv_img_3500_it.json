@@ -1,0 +1,102 @@
+{
+  "english": "snow",
+  "phat_am": "[snou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải), (sử học) thuyền xnau (thuyền buồm nhỏ)"
+        },
+        {
+          "m_full_vn": "tuyết; đống tuyết"
+        },
+        {
+          "m_full_vn": "sự rơi của tuyết; lớp tuyết trên mặt đất"
+        },
+        {
+          "m_full_vn": "vật giống tuyết, vật trắng như tuyết; (thơ) tóc bạc"
+        },
+        {
+          "m_full_vn": "(từ lóng) côcain bột"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyết rơi",
+          "list_en_vn": [
+            {
+              "full_en": "It snowed all day",
+              "full_vn": "tuyết rơi xuống cả ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rơi như tuyết"
+        },
+        {
+          "m_full_vn": "ào đến, đổ đến"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho bạc như tuyết, làm cho rơi như tuyết",
+          "list_en_vn": [
+            {
+              "full_en": "the years have snowed his hair",
+              "full_vn": "năm tháng đã làm cho tóc ông ta bạc trắng như tuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nghẽn lại vì tuyết",
+          "list_en_vn": [
+            {
+              "full_en": "to be snowed up (in )",
+              "full_vn": "nghẽn lại vì tuyết (đường sá...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) phỉnh phờ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to snow under",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) phủ tuyết kín (đen & bóng)"
+                },
+                {
+                  "im_full_vn": "bị thua phiếu rất xa (người ứng cử)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373712_783b129e70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373712_ab300d1a93_o.png",
+      "id_image": "snow_2204374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373697_59d1985529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373697_9d4e00e124_o.png",
+      "id_image": "snow_4647927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443863_4883a0d978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443863_fb6e04fabd_o.png",
+      "id_image": "snow_4727668"
+    }
+  ]
+}

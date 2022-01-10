@@ -1,0 +1,52 @@
+{
+  "english": "vacant",
+  "phat_am": "['veikənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không đầy hoặc choán chỗ; trống rỗng; bỏ không; khuyết",
+          "list_en_vn": [
+            {
+              "full_en": "Is the lavatory vacant ?",
+              "full_vn": "phòng vệ sinh không có người à?"
+            },
+            {
+              "full_en": "a vacant situation , post , hotel , room",
+              "full_vn": "một chỗ làm, chức vụ, phòng ở khách sạn bỏ trống"
+            },
+            {
+              "full_en": "a vacant seat",
+              "full_vn": "ghế trống (chưa có người ngồi lên)"
+            },
+            {
+              "full_en": "vacant hours",
+              "full_vn": "những giờ rảnh rỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trống rỗng (óc); lơ đãng, đờ đẫn (cái nhìn)",
+          "list_en_vn": [
+            {
+              "full_en": "the vacant mind",
+              "full_vn": "đầu óc trống rỗng"
+            },
+            {
+              "full_en": "a vacant stare /look",
+              "full_vn": "cái nhìn/nét mặt lơ đãng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704719_80a5316e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704719_95c101994e_o.png",
+      "id_image": "vacant_5272930"
+    }
+  ]
+}

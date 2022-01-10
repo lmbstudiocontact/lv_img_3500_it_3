@@ -1,0 +1,51 @@
+{
+  "english": "squeegee",
+  "phat_am": "['skwi:dʒi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chổi cao su, cái nùi cao su (để quét nước)",
+          "list_en_vn": [
+            {
+              "full_en": "to use a squeeze to clean window",
+              "full_vn": "dùng nùi cao su để lau cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ống lăn (bằng cao su để dán ảnh) mốt! =(ngôn ngữ nhà trường) =(ngôn ngữ nhà trường))"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quét bằng chổi cao su"
+        },
+        {
+          "m_full_vn": "lăn (ảnh dán) bằng ống lăn (cho dính chặt)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396177_8c194c06a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396177_ee8f93b421_o.png",
+      "id_image": "squeegee_2493085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088625_5bf23d8955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088625_7ba0f88ff3_o.png",
+      "id_image": "squeegee_3216149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465958_74b45f0a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465958_b5302a03ee_o.png",
+      "id_image": "squeegee_6419664"
+    }
+  ]
+}

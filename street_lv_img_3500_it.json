@@ -1,0 +1,150 @@
+{
+  "english": "street",
+  "phat_am": "[stri:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) St phố, đường phố",
+          "list_en_vn": [
+            {
+              "full_en": "side street",
+              "full_vn": "phố ngang"
+            },
+            {
+              "full_en": "high street",
+              "full_vn": "phố lớn"
+            },
+            {
+              "full_en": "main street",
+              "full_vn": "phố chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng phố; dân phố (tất cả những người ở cùng một phố)",
+          "list_en_vn": [
+            {
+              "full_en": "the whole street contributed",
+              "full_vn": "cả hàng phố đều có đóng góp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đường cái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be streets ahead of anyone in some field",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt bất cứ ai trong một lĩnh vực nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to be in the same street as somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "kém tài ai, không thể sánh với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be (out ) on /walk the streets",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không có nhà ở"
+                },
+                {
+                  "im_full_vn": "làm gái điếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go on the streets",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm sống bằng nghề gái điếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the street",
+              "list_im": [
+                {
+                  "im_full_vn": "bên lề đường (mua bán chứng khoán sau giờ thị trường chứng khoán đóng cửa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in the street",
+              "list_im": [
+                {
+                  "im_full_vn": "suốt ngày lang thang ngoài phố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the streets",
+              "list_im": [
+                {
+                  "im_full_vn": "sống bằng nghề mãi dâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(right ) up one's street",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hợp với khả năng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Fleet street",
+              "list_im": [
+                {
+                  "im_full_vn": "khu báo chí ( Anh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Lombard street",
+              "list_im": [
+                {
+                  "im_full_vn": "thị trường tài chính ( Anh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Wall street",
+              "list_im": [
+                {
+                  "im_full_vn": "phố Uôn (trung tâm ngân hàng (tài chính) Mỹ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457823_537c8c0a42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457823_d0dd1c62da_o.png",
+      "id_image": "street_1580069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698344_cc4a8ee49b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698344_65c7d5fa9c_o.png",
+      "id_image": "street_327431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080520_4132aaf559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080520_5d1074fee8_o.png",
+      "id_image": "street_3310685"
+    }
+  ]
+}

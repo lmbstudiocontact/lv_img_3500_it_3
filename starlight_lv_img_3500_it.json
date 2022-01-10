@@ -1,0 +1,41 @@
+{
+  "english": "starlight",
+  "phat_am": "['stɑ:lait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng từ những ngôi sao",
+          "list_en_vn": [
+            {
+              "full_en": "walk home by starlight",
+              "full_vn": "đi bộ về nhà dưới ánh sao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được chiếu sáng bằng các ngôi sao (như) starlit",
+          "list_en_vn": [
+            {
+              "full_en": "starlight night",
+              "full_vn": "đêm sáng sao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349326_9620d0f2c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349326_fec7dc76ff_o.png",
+      "id_image": "starlight_1403830"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "swaddle",
+  "phat_am": "['swɔdl]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bọc bằng tã, quần bằng tã"
+        },
+        {
+          "m_full_vn": "bọc trong quần áo ấm; quấn",
+          "list_en_vn": [
+            {
+              "full_en": "she sat by the fire , swaddled in a blanket",
+              "full_vn": "bà ta ngồi bên cạnh lửa, người quấn một cái chăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449508_7aff5142b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449508_5f63921ccc_o.png",
+      "id_image": "swaddle_4287181"
+    }
+  ]
+}

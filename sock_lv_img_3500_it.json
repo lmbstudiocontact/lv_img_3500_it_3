@@ -1,0 +1,128 @@
+{
+  "english": "sock",
+  "phat_am": "[sɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vớ ngắn; miếng lót trong giày"
+        },
+        {
+          "m_full_vn": "giày kịch (giày của diễn viên hài kịch thời xưa); (nghĩa bóng) hài kịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "pull one's socks up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cố gắng, gắng sức, tập trung sức lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "put a sock in it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) im mồm, hãy im lặng, không nói chuyện, không làm ồn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the buskin and the sock",
+              "full_vn": "bi kịch và hài kịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường), (từ lóng) quà vặt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường), (từ lóng) thết quà (ai); cho (ai cái gì)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) cái ném"
+        },
+        {
+          "m_full_vn": "(thông tục) cái đấm, cái thụi, cái thoi",
+          "list_en_vn": [
+            {
+              "full_en": "give him socks !",
+              "full_vn": "đấm cho hắn một trận!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) ném (đá vào ai)"
+        },
+        {
+          "m_full_vn": "đấm, thụi, thoi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) để, gửi",
+          "list_one_mean": [
+            {
+              "id_full_en": "sock it to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tấn công ai một cách dữ dội"
+                },
+                {
+                  "im_full_vn": "diễn đạt một cách mạnh mẽ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sock all one's money in the bank",
+              "full_vn": "gửi hết tiền vào ngân hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) trúng, đúng vào",
+          "list_en_vn": [
+            {
+              "full_en": "to hit someone sock in the eye",
+              "full_vn": "đánh trúng vào mắt ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064145_456939e76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064145_f06b122073_o.png",
+      "id_image": "sock_412005"
+    }
+  ]
+}

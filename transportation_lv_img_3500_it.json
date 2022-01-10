@@ -1,0 +1,49 @@
+{
+  "english": "transportation",
+  "phat_am": "[,trænspɔ:'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) sự chuyên chở, sự vận tải (như) transport",
+          "list_en_vn": [
+            {
+              "full_en": "transportation by air",
+              "full_vn": "sự chuyên chở bằng được hàng không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự phát vãng, sự bị đày, sự đày ải; tội đày, tội phát vãng",
+          "list_en_vn": [
+            {
+              "full_en": "to be sentenced to transportation for life",
+              "full_vn": "bị kết án đày chung thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phiếu vận tải, vé (tàu, xe)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451533_a92de70127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451533_913e2f2edf_o.png",
+      "id_image": "transportation_1284372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381647_9a22f87e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381647_c0969e410c_o.png",
+      "id_image": "transportation_384046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336576_1a8701d04b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336576_ea3dcfbaed_o.png",
+      "id_image": "transportation_6214035"
+    }
+  ]
+}

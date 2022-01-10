@@ -1,0 +1,59 @@
+{
+  "english": "trance",
+  "phat_am": "['trɑ:ns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hôn mê, sự bị thôi miên; trạng thái hôn mê, trạng thái bị thôi miên",
+          "list_en_vn": [
+            {
+              "full_en": "to fall into a trance",
+              "full_vn": "lâm vào trạng thái hôn mê"
+            },
+            {
+              "full_en": "to come out of a trance",
+              "full_vn": "ra khỏi trạng thái hôn mê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhập định, sự xuất thần; trạng thái nhập định, trạng thái xuất thần (trạng thái (như) mơ khi tập trung suy nghĩ và không để ý đến những gì xảy ra chung quanh)",
+          "list_en_vn": [
+            {
+              "full_en": "she's been in a trance all day - I think she's in love",
+              "full_vn": "cô ta ngẩn ngơ (như) mất hồn suốt ngày - tôi nghĩ là cô ta đang yêu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) làm cho mê, làm cho mê hồn, làm cho say đắm",
+          "list_en_vn": [
+            {
+              "full_en": "this picture trances me",
+              "full_vn": "bức tranh này làm cho tôi say mê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076295_1c22f09146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076295_875e3618e5_o.png",
+      "id_image": "trance_3126463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694244_df791c7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694244_f8c5a0514e_o.png",
+      "id_image": "trance_4382693"
+    }
+  ]
+}

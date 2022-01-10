@@ -1,0 +1,233 @@
+{
+  "english": "still",
+  "phat_am": "[stil]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đứng yên; phẳng lặng; tĩnh mịch (cảnh)",
+          "list_en_vn": [
+            {
+              "full_en": "please keep /stay /hold /sit / stand still while I take your photograph",
+              "full_vn": "làm ơn giữ/ngồi/đứng yên khi tôi chụp ảnh cho anh"
+            },
+            {
+              "full_en": "still water",
+              "full_vn": "nước phẳng lặng"
+            },
+            {
+              "full_en": "absolutely /completely /perfectly still",
+              "full_vn": "tuyệt đối/hoàn toàn/vô cùng yên tĩnh"
+            },
+            {
+              "full_en": "to be in still meditation",
+              "full_vn": "trầm tư mặc tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có gió",
+          "list_en_vn": [
+            {
+              "full_en": "a still day in August",
+              "full_vn": "một ngày lặng gió vào tháng tám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thinh, nín lặng (người)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a still tongue in one's head",
+              "full_vn": "làm thinh, nín lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có ga; không sủi bọt, không xì xì; không có bong bóng khí (rượu, bia...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the still small voice (of conscience )",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng gọi của lương tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "still waters run deep",
+              "list_im": [
+                {
+                  "im_full_vn": "tẩm ngẩm tầm ngầm mà đấm ngầm chết voi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "still cider",
+              "full_vn": "rượu táo không ga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẫn, vẫn còn",
+          "list_en_vn": [
+            {
+              "full_en": "he is still here",
+              "full_vn": "nó vẫn còn ở đây"
+            },
+            {
+              "full_en": "she's still busy",
+              "full_vn": "cô ấy vẫn còn đang bận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc dù vậy; tuy nhiên; thậm chí như vậy; ấy thế mà",
+          "list_en_vn": [
+            {
+              "full_en": "he is old and still he is able",
+              "full_vn": "ông ấy già rồi ấy thế mà vẫn có đủ năng lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn hơn về số lượng, lớn hơn về mức độ; thậm chí",
+          "list_en_vn": [
+            {
+              "full_en": "that would be nicer still /still nicer",
+              "full_vn": "điều đó thậm chí còn hay hơn"
+            },
+            {
+              "full_en": "still greater achievements",
+              "full_vn": "những thành tựu to lớn hơn nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thêm vào; ngoài ra; tuy nhiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "better /worse still",
+              "list_im": [
+                {
+                  "im_full_vn": "thậm chí tốt hơn/tồi hơn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he came up with still more stories",
+              "full_vn": "anh ấy đã nghĩ ra thêm nhiều câu chuyện nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự yên lặng, sự yên tĩnh, sự tĩnh mịch",
+          "list_en_vn": [
+            {
+              "full_en": "in the still of night",
+              "full_vn": "trong sự yên tĩnh của ban đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một bức ảnh về một cảnh của một bộ phim",
+          "list_en_vn": [
+            {
+              "full_en": "stills from a new film",
+              "full_vn": "những ảnh lấy từ một bộ phim mới (được dùng để quảng cáo..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bức tranh tĩnh vật",
+          "list_one_mean": [
+            {
+              "id_full_en": "the still of the night",
+              "list_im": [
+                {
+                  "im_full_vn": "sự tĩnh lặng của ban đêm"
+                },
+                {
+                  "im_full_vn": "thiết bị sản xuất rượu (rượu mạnh, úytki) bằng cách chưng cất; máy chưng cất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho yên lặng, làm cho phẳng lặng; làm cho bất động"
+        },
+        {
+          "m_full_vn": "làm cho yên lòng, làm cho êm, làm cho dịu",
+          "list_en_vn": [
+            {
+              "full_en": "to still someone's fear",
+              "full_vn": "làm cho ai bớt sợ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) lặng, lắng đi",
+          "list_en_vn": [
+            {
+              "full_en": "the wind stills",
+              "full_vn": "gió lặng"
+            },
+            {
+              "full_en": "the waves stilled",
+              "full_vn": "những con sóng đã lặng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy chưng cất (rượu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chưng cất; cất (rượu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461258_51b8e8c35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461258_6fc5d356f5_o.png",
+      "id_image": "still_1484373"
+    }
+  ]
+}

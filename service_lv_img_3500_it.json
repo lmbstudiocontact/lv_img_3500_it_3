@@ -1,0 +1,375 @@
+{
+  "english": "service",
+  "phat_am": "['sə:vis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như service-tree"
+        },
+        {
+          "m_full_vn": "sự phục vụ; sự làm việc cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "ten years' service in the navy",
+              "full_vn": "mười năm phục vụ trong hải quân"
+            },
+            {
+              "full_en": "conditions of service",
+              "full_vn": "các điều kiện phục vụ"
+            },
+            {
+              "full_en": "many years of faithful service to the company",
+              "full_vn": "nhiều năm làm việc trung thành cho công ty"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm đầy tớ; sự hầu hạ",
+          "list_en_vn": [
+            {
+              "full_en": "to be in service ; to go into service",
+              "full_vn": "đi làm đầy tớ"
+            },
+            {
+              "full_en": "to take somebody into one's service",
+              "full_vn": "thuê ai làm đầy tớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cục, sở, ban, khoa, ngành",
+          "list_en_vn": [
+            {
+              "full_en": "the Diplomatic Service",
+              "full_vn": "ngành ngoại giao"
+            },
+            {
+              "full_en": "the foreign service of an office",
+              "full_vn": "ban đối ngoại của một cơ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quân chủng",
+          "list_en_vn": [
+            {
+              "full_en": "the three services (Navy , Ground Troops and Air Force )",
+              "full_vn": "ba quân chủng (hải quân, lục quân và không quân)"
+            },
+            {
+              "full_en": "which service is he in ?",
+              "full_vn": "anh ta thuộc quân chủng nào?"
+            },
+            {
+              "full_en": "a service rifle",
+              "full_vn": "một khẩu súng quân dụng"
+            },
+            {
+              "full_en": "a service family",
+              "full_vn": "một gia đình quân nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giúp đỡ; sự giúp ích",
+          "list_en_vn": [
+            {
+              "full_en": "to render /do someone a service",
+              "full_vn": "giúp ai việc gì"
+            },
+            {
+              "full_en": "to ask somebody's service",
+              "full_vn": "nhờ ai giúp đỡ"
+            },
+            {
+              "full_en": "you did me a great service by showing me the truth",
+              "full_vn": "anh chỉ rõ sự thật là đã giúp tôi một việc rất lớn"
+            },
+            {
+              "full_en": "they need the services of a good lawyer",
+              "full_vn": "họ cần sự giúp đỡ của một luật sư giỏi"
+            },
+            {
+              "full_en": "her services to the State have been immense",
+              "full_vn": "công tích của bà ấy đối với nhà nước thật là to lớn"
+            },
+            {
+              "full_en": "my car has given me excellent service",
+              "full_vn": "chiếc xe ô tô của tôi phục vụ tôi rất đắc lực"
+            },
+            {
+              "full_en": "you will get good service from this typewriter",
+              "full_vn": "chiếc máy chữ này sẽ giúp anh rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phục vụ (ở khách sạn, tiệm ăn...)",
+          "list_en_vn": [
+            {
+              "full_en": "the food is good at this hotel , but the service is poor",
+              "full_vn": "khách sạn này món ăn thì ngon, nhưng phục vụ thì tồi"
+            },
+            {
+              "full_en": "an extra 10% was added to the restaurant bill for service",
+              "full_vn": "phụ thu 10 % về phục vụ đã được cộng thêm vào hoá đơn của nhà hàng"
+            },
+            {
+              "full_en": "a service entrance",
+              "full_vn": "lối vào dành cho nhân viên phục vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống dịch vụ; ngành dịch vụ",
+          "list_en_vn": [
+            {
+              "full_en": "a bus /train service",
+              "full_vn": "hệ thống xe búyt/tàu hoả"
+            },
+            {
+              "full_en": "the telephone service",
+              "full_vn": "hệ thống dịch vụ điện thoại"
+            },
+            {
+              "full_en": "a good postal service",
+              "full_vn": "hệ thống dịch vụ bưu điện hoạt động tốt"
+            },
+            {
+              "full_en": "essential services will be maintained",
+              "full_vn": "các ngành dịch vụ chủ yếu (điện, nước...) sẽ được duy trì"
+            },
+            {
+              "full_en": "we get export earnings from goods and services",
+              "full_vn": "chúng tôi kiếm được lợi nhuận xuất khẩu từ hàng hoá và dịch vụ"
+            },
+            {
+              "full_en": "banking and insurance services",
+              "full_vn": "dịch vụ ngân hàng và bảo hiểm"
+            },
+            {
+              "full_en": "a service industry",
+              "full_vn": "kỹ nghệ dịch vụ"
+            },
+            {
+              "full_en": "the service sector",
+              "full_vn": "khu vực dịch vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ làm, việc làm, chức vụ",
+          "list_en_vn": [
+            {
+              "full_en": "to be dismissed from the service",
+              "full_vn": "bị thải hồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo dưỡng (máy móc)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a car in for (a ) service every 3000 miles",
+              "full_vn": "nhận một chiếc ô tô về để bảo dưỡng sau mỗi lần chạy 3000 dặm"
+            },
+            {
+              "full_en": "a service for a gas boiler",
+              "full_vn": "sự bảo trì một thùng nước tắm"
+            },
+            {
+              "full_en": "we offer excellent after-sales service",
+              "full_vn": "chúng tôi có dịch vụ hậu mãi tuyệt hảo"
+            },
+            {
+              "full_en": "service engineer /department",
+              "full_vn": "kỹ sư/ban bảo dưỡng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ đĩa... dùng để dọn thức ăn ra bàn; bộ đồ ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a 30-piece dinner service",
+              "full_vn": "một bộ đồ ăn tối 30 cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự tế lễ; buổi lễ",
+          "list_en_vn": [
+            {
+              "full_en": "four services every Sunday",
+              "full_vn": "mỗi chủ nhật nào bốn buổi lễ"
+            },
+            {
+              "full_en": "are you going to the service ?",
+              "full_vn": "anh có đi lễ không?"
+            },
+            {
+              "full_en": "to attend morning /evening service",
+              "full_vn": "đi lễ sáng/chiều"
+            },
+            {
+              "full_en": "the marriage /burial /communion service",
+              "full_vn": "lễ cưới/tang/ban thánh thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự giao bóng; lượt giao bóng; cú giao bóng; cách giao bóng",
+          "list_en_vn": [
+            {
+              "full_en": "a fast service",
+              "full_vn": "cú giao bóng nhanh"
+            },
+            {
+              "full_en": "his service is terrific",
+              "full_vn": "cách giao bóng của anh ta mạnh kinh khủng"
+            },
+            {
+              "full_en": "whose service is it ?",
+              "full_vn": "đến lượt ai giao bóng?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ván trong đó ai giao bóng",
+          "list_en_vn": [
+            {
+              "full_en": "to win /hold /lose /drop one's service",
+              "full_vn": "thắng/thua ván mình được giao bóng"
+            },
+            {
+              "full_en": "to break somebody's service",
+              "full_vn": "thắng ván đối thủ được giao bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự lấy giống của một con vật cái ở một con đực; sự phối giống"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự tống đạt, sự gửi (trát đòi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at somebody's service",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng giúp ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "if you need advice , I am at your service",
+                      "full_vn": "nếu anh cần lời khuyên, tôi sẵn sàng giúp anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be of service to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "có ích, giúp ích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "can I be of service to you in organizing the trip ?",
+                      "full_vn": "liệu tôi có thể giúp gì cho anh trong việc tổ chức chuyến đi?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press something into service",
+              "list_im": [
+                {
+                  "im_full_vn": "xem press"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see service in something",
+              "list_im": [
+                {
+                  "im_full_vn": "phục vụ trong lực lượng vũ trang; (đồ vật) xài tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he saw service as an infantry officer in the last war",
+                      "full_vn": "anh ấy phục vụ với tư cách là sĩ quan bộ binh trong cuộc chiến vừa qua"
+                    },
+                    {
+                      "full_en": "he has seen service in many different parts of the world",
+                      "full_vn": "ông ấy đã phục vụ trong quân đội ở nhiều nơi trên thế giới"
+                    },
+                    {
+                      "full_en": "these old boots have certainly seen some service",
+                      "full_vn": "đôi giày cũ này chắc chắn đã khá hữu dụng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo quản và sửa chữa (xe ô tô); bảo dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "to service a car /washing-machine",
+              "full_vn": "bảo dưỡng xe ô tô/máy giặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phục vụ",
+          "list_en_vn": [
+            {
+              "full_en": "the power station is serviced by road transport",
+              "full_vn": "nhà máy điện được ngành giao thông đường bộ phục vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả lãi cho một món nợ",
+          "list_en_vn": [
+            {
+              "full_en": "the company hasn't enough cash to service its debts",
+              "full_vn": "công ty không còn đủ tiền mặt để trả lãi các món nợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393902_6270da79fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393902_12fa32dcbf_o.png",
+      "id_image": "service_1897384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703844_cbcf2bf8fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703844_92dcb33431_o.png",
+      "id_image": "service_3422870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463803_3113976ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463803_68313a520d_o.png",
+      "id_image": "service_4277552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349041_d92e6fa17b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349041_5f712d5de7_o.png",
+      "id_image": "service_5778362"
+    }
+  ]
+}

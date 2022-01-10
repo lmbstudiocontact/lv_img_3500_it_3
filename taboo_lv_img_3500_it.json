@@ -1,0 +1,49 @@
+{
+  "english": "taboo",
+  "phat_am": "[tə'bu:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều cấm kỵ; điều kiêng kỵ",
+          "list_en_vn": [
+            {
+              "full_en": "there's a taboo on smoking in this office",
+              "full_vn": "trong văn phòng này có sự nhất trí không hút thuốc lá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị cấm kỵ; bị cấm đoán; bị ngăn cấm (vì sự kiêng kỵ, phong tục..)",
+          "list_en_vn": [
+            {
+              "full_en": "questions and problems that were once taboo are now discussed openly",
+              "full_vn": "những câu hỏi và những vấn đề có thời bị cấm kỵ thì nay được thảo luận công khai"
+            },
+            {
+              "full_en": "sex is no longer the taboo subject it used to be",
+              "full_vn": "tình dục không còn là đề tài cấm kỵ như xưa kia nữa"
+            },
+            {
+              "full_en": "any mention of politics is taboo in his house",
+              "full_vn": "mọi sự đả động đến chính trị đều là điều cấm kỵ trong nhà ông ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065655_9747ae3f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065655_a523950a8e_o.png",
+      "id_image": "taboo_1354773"
+    }
+  ]
+}

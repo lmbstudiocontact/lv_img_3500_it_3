@@ -1,0 +1,101 @@
+{
+  "english": "stem",
+  "phat_am": "[stem]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) thân cây; cuống, cọng (lá, hoa)"
+        },
+        {
+          "m_full_vn": "chân (cốc uống rượu)"
+        },
+        {
+          "m_full_vn": "ống (tẩu thuốc)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) gốc từ"
+        },
+        {
+          "m_full_vn": "(hàng hải) tấm sống mũi; mũi (tàu, thuyền)",
+          "list_en_vn": [
+            {
+              "full_en": "from stem to stern",
+              "full_vn": "từ đầu tàu đến cuối tàu; (bóng) từ đầu đến cuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận lên dây (đồng hồ)"
+        },
+        {
+          "m_full_vn": "trực hệ (tuyến chính của dòng dõi một gia đình)",
+          "list_one_mean": [
+            {
+              "id_full_en": "from stem to stern",
+              "list_im": [
+                {
+                  "im_full_vn": "từ mũi tới lái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + from something ) xuất phát từ, nảy sinh từ, bắt nguồn từ, là nguồn gốc của, là nguyên nhân của",
+          "list_en_vn": [
+            {
+              "full_en": "discontent stemming from low pay and poor working conditions",
+              "full_vn": "sự bất mãn bắt nguồn từ tiền công thấp và các điều kiện làm việc tồi tệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn, chặn (sự chảy của nước..)",
+          "list_en_vn": [
+            {
+              "full_en": "bandage a cut to stem the bleedings",
+              "full_vn": "băng một vết đứt để cầm máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tước cọng (lá thuốc lá)"
+        },
+        {
+          "m_full_vn": "làm cuống cho (hoa giả...)"
+        },
+        {
+          "m_full_vn": "đắp đập ngăn (một dòng sông)"
+        },
+        {
+          "m_full_vn": "ngăn cản, ngăn trở, chặn"
+        },
+        {
+          "m_full_vn": "đi ngược (dòng nước)"
+        },
+        {
+          "m_full_vn": "đánh lui, đẩy lui"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084850_1dfdeca6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084850_4c04f4eebb_o.png",
+      "id_image": "stem_4776049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347506_6971516f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347506_9becdb9231_o.png",
+      "id_image": "stem_4797127"
+    }
+  ]
+}

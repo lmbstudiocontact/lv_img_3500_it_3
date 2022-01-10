@@ -1,0 +1,143 @@
+{
+  "english": "sort",
+  "phat_am": "[sɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thứ, loại, hạng",
+          "list_en_vn": [
+            {
+              "full_en": "a new sort of bicycle",
+              "full_vn": "một loại xe đạp mới"
+            },
+            {
+              "full_en": "people of every sort and kind",
+              "full_vn": "người đủ hạng"
+            },
+            {
+              "full_en": "these sort of men",
+              "full_vn": "(thông tục) những hạng người đó"
+            },
+            {
+              "full_en": "of sorts",
+              "full_vn": "linh tinh, lẫn lộn (kiểm kê)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) kiểu, cách",
+          "list_en_vn": [
+            {
+              "full_en": "in courteous sort",
+              "full_vn": "kiểu lịch sự lễ phép"
+            },
+            {
+              "full_en": "in some sort",
+              "full_vn": "trong một chừng mực nào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) bộ chữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a poet of sorts",
+              "list_im": [
+                {
+                  "im_full_vn": "một nhà thơ giả hiệu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be a good sort",
+              "list_im": [
+                {
+                  "im_full_vn": "là một người tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of sorts",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy khó chịu, thấy khó ở, bực tức"
+                },
+                {
+                  "im_full_vn": "(ngành in) thiếu bộ chữ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sort of",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) phần nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I felt sort of tired",
+                      "full_vn": "tôi cảm thấy phần nào mệt mỏi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's your sort !",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng là phải làm như thế!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lựa chọn, sắp xếp, phân loại",
+          "list_en_vn": [
+            {
+              "full_en": "to sort out those of the largest size",
+              "full_vn": "chọn loại lớn nhất ra"
+            },
+            {
+              "full_en": "to sort ore",
+              "full_vn": "tuyển quặng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phù hợp, thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "his actions sort well with his profession",
+              "full_vn": "những hành động của anh ta rất phù hợp với nghề nghiệp của anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325696_386b0c93bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325696_1f52fb0fcb_o.png",
+      "id_image": "sort_4598422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325681_9fd5fd3f75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325681_de5e3582b5_o.png",
+      "id_image": "sort_4828897"
+    }
+  ]
+}

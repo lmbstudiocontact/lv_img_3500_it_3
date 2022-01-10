@@ -1,0 +1,32 @@
+{
+  "english": "supper",
+  "phat_am": "['sʌpə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bữa ăn nhẹ trước khi đi ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "to have cold meat of supper",
+              "full_vn": "ăn thịt nguội bữa tối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382032_25428a38b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382032_bb311bae83_o.png",
+      "id_image": "supper_191963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382017_8de39662cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382017_95b9930d28_o.png",
+      "id_image": "supper_343808"
+    }
+  ]
+}

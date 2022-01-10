@@ -1,0 +1,54 @@
+{
+  "english": "umbrella",
+  "phat_am": "[ʌm'brelə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khung có những gọng gập lại được, gắn vào một cái que có tay cầm và phủ vải dùng để che mưa; ô; dù",
+          "list_en_vn": [
+            {
+              "full_en": "to put up /take down an umbrella",
+              "full_vn": "giương/cụp ô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế lực hoặc ảnh hưởng che chở; cái ô bảo vệ (về mặt (chính trị))",
+          "list_en_vn": [
+            {
+              "full_en": "sheltering under the American nuclear umbrella",
+              "full_vn": "núp dưới cái ô hạt nhân của Mỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ quan trung ương điều khiển một nhóm công ty có liên quan với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "an umbrella organization",
+              "full_vn": "tổ chức bảo trợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màn yểm hộ (bằng máy bay chiến đấu)"
+        },
+        {
+          "m_full_vn": "lưới đạn che (để chống máy bay địch)"
+        },
+        {
+          "m_full_vn": "(động vật học) dù (của con sửa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468963_788fcbdc5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468963_6e1fdf1555_o.png",
+      "id_image": "umbrella_679819"
+    }
+  ]
+}

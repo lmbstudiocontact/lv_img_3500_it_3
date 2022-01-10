@@ -1,0 +1,45 @@
+{
+  "english": "volcano",
+  "phat_am": "[vɔl'keinou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều volcanoes",
+      "list_m": [
+        {
+          "m_full_vn": "núi lửa",
+          "list_en_vn": [
+            {
+              "full_en": "active volcano",
+              "full_vn": "núi lửa đang hoạt động"
+            },
+            {
+              "full_en": "dormant volcano",
+              "full_vn": "núi lửa nằm im"
+            },
+            {
+              "full_en": "extinct volcano",
+              "full_vn": "núi lửa đã tắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078555_8419f2c2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078555_91bd74ebaf_o.png",
+      "id_image": "volcano_3722687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386122_5f2aa48e15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386122_978ae79c5e_o.png",
+      "id_image": "volcano_5641124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696349_0b13445e65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696349_53fc07ee4b_o.png",
+      "id_image": "volcano_6011044"
+    }
+  ]
+}

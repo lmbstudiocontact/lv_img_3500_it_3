@@ -1,0 +1,67 @@
+{
+  "english": "smear",
+  "phat_am": "[smiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốm bẩn, vết bẩn"
+        },
+        {
+          "m_full_vn": "sự xét nghiệm kính phết (mẫu của một chất phết lên bản kính để soi kính hiển vi)"
+        },
+        {
+          "m_full_vn": "chất để bôi bẩn"
+        },
+        {
+          "m_full_vn": "sự nói xấu, sự bôi nhọ; lời nói xấu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bẩn; làm vấy bẩn, làm đốm bẩn; làm hoen ố"
+        },
+        {
+          "m_full_vn": "làm mờ, làm tối (tranh vẽ... bằng cách xoá nó đi..)",
+          "list_en_vn": [
+            {
+              "full_en": "to smear the print with one's finger",
+              "full_vn": "lấy ngón tay xoá mờ dấu vết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bôi chất nhờn, bôi chất dính; quét (sơn) lên tường",
+          "list_en_vn": [
+            {
+              "full_en": "to smear oil on the machinery",
+              "full_vn": "bôi dầu lên máy móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói xấu, bôi nhọ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đánh bại hoàn toàn, đánh gục hẳn; chặn đứng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376272_5af656fbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376272_7407f020d5_o.png",
+      "id_image": "smear_5978876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686519_a108a16834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686519_1faef51468_o.png",
+      "id_image": "smear_5979185"
+    }
+  ]
+}

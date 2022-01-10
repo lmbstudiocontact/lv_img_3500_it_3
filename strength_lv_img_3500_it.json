@@ -1,0 +1,93 @@
+{
+  "english": "strength",
+  "phat_am": "['streηθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức mạnh, sức lực, sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a man of great strength",
+              "full_vn": "một người đàn ông rất khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức bền",
+          "list_en_vn": [
+            {
+              "full_en": "the strength of a rope",
+              "full_vn": "sức bền của một sợi dây thừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độ đậm, nồng độ",
+          "list_en_vn": [
+            {
+              "full_en": "the strength of tea",
+              "full_vn": "độ đậm của nước trà"
+            },
+            {
+              "full_en": "the strength of wine",
+              "full_vn": "nồng độ của rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cường độ",
+          "list_en_vn": [
+            {
+              "full_en": "the strength of feeling on this issue is considerable",
+              "full_vn": "cường độ cảm xúc về vấn đề này rất to lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt mạnh (của một người)",
+          "list_en_vn": [
+            {
+              "full_en": "tolerance is one of her many strengths",
+              "full_vn": "thái độ khoan dung là một trong nhiều mặt mạnh của bà ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số đầy đủ; sự đông đủ (của một tập thể...)",
+          "list_en_vn": [
+            {
+              "full_en": "they were there in great (full ) strength",
+              "full_vn": "họ có mặt đông đủ cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) số quân hiện có"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sức bền; độ bền",
+          "list_en_vn": [
+            {
+              "full_en": "strength of materials",
+              "full_vn": "sức bền vật liệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457738_96ac38da1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457738_61158c0e88_o.png",
+      "id_image": "strength_1409008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080380_c1ef70d5b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080380_e66c91b2b8_o.png",
+      "id_image": "strength_3476009"
+    }
+  ]
+}

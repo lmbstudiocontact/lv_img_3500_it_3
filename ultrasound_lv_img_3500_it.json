@@ -1,0 +1,42 @@
+{
+  "english": "ultrasound",
+  "phat_am": "['ʌltrə'saund]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "siêu âm; sóng siêu âm; âm thanh có tần số siêu âm",
+          "list_en_vn": [
+            {
+              "full_en": "an ultrasound scan",
+              "full_vn": "máy quét siêu âm (để phát hiện sự khác (thường) trong một bào thai)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708944_f91c5d2e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708944_b1425e3c44_o.png",
+      "id_image": "ultrasound_2395216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469073_3c9046b43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469073_95b2550eaa_o.png",
+      "id_image": "ultrasound_2444509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399182_939515d376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399182_652416ac2b_o.png",
+      "id_image": "ultrasound_4246687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354321_f0c8a9ca91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354321_4b276bf1ed_o.png",
+      "id_image": "ultrasound_4305195"
+    }
+  ]
+}

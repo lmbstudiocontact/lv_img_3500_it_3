@@ -1,0 +1,104 @@
+{
+  "english": "timber",
+  "phat_am": "['timbə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gỗ xây dựng, gỗ kiến trúc, gỗ làm mộc",
+          "list_en_vn": [
+            {
+              "full_en": "rough timber",
+              "full_vn": "gỗ mới đốn"
+            },
+            {
+              "full_en": "squared timber",
+              "full_vn": "gỗ đẽo vuông"
+            },
+            {
+              "full_en": "dressed timber",
+              "full_vn": "gỗ đã pha (tức là đã cưa ra, đẽo thành hình và dự tính sẵn sàng để dùng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây gỗ (cây thích hợp cho việc lấy gỗ)",
+          "list_en_vn": [
+            {
+              "full_en": "standing timber",
+              "full_vn": "gỗ chưa đẵn (tức là cây gỗ đang lớn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh gỗ (nhất là kèo, xà, dùng trong dựng nhà hoặc đóng tàu)",
+          "list_en_vn": [
+            {
+              "full_en": "roof timbers",
+              "full_vn": "những xà gỗ làm mái"
+            },
+            {
+              "full_en": "floor timbers",
+              "full_vn": "những thanh gỗ lát sàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) khả năng, đức tính (của một người để làm được việc gì)"
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để thông báo cây bị đốn sắp đổ) cây đổ đấy!"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) trồng rừng"
+        },
+        {
+          "m_full_vn": "cung cấp gỗ"
+        },
+        {
+          "m_full_vn": "xây dựng bằng gỗ, làm bằng gỗ",
+          "list_en_vn": [
+            {
+              "full_en": "timbered house",
+              "full_vn": "nhà bằng gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng gỗ xung quanh, lát gỗ xung quanh (miệng giếng...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốn gỗ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702329_56b93117cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702329_046428bb86_o.png",
+      "id_image": "timber_2191475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392487_ba5edd611e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392487_ef2b448160_o.png",
+      "id_image": "timber_3555826"
+    }
+  ]
+}

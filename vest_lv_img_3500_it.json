@@ -1,0 +1,66 @@
+{
+  "english": "vest",
+  "phat_am": "[vest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo lót (áo mặc bên trong áo sơ mi.. sát với da) (như) undershirt"
+        },
+        {
+          "m_full_vn": "áo gi-lê (áo đặc biệt (thường) không có tay, phủ lên phần trên của cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "a bullet-proof vest",
+              "full_vn": "một áo gi-lê chống đạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) áo gi-lê (áo chẽn, không có tay, cài khuy ở phía trước (thường) mặc bên trong một cái áo vét hay áo khoác và (thường) tạo nên một bộ phận của một bộ comlê của đàn ông) (như) waistcoat"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giao cho, trao quyền cho; ban cho, phong cho",
+          "list_en_vn": [
+            {
+              "full_en": "the powers vested in a priest",
+              "full_vn": "quyền hành được trao cho một thầy tu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ); (tôn giáo) mặc (lễ phục); trang hoàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "have a vested interest (in something )",
+              "list_im": [
+                {
+                  "im_full_vn": "mong được lợi (từ cái gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to vest the altar",
+              "full_vn": "trang hoàng bàn thờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460318_7d1be00582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460318_9b0b254e89_o.png",
+      "id_image": "vest_1373396"
+    }
+  ]
+}

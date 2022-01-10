@@ -1,0 +1,64 @@
+{
+  "english": "sparkle",
+  "phat_am": "['spɑ:kl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự toé lửa"
+        },
+        {
+          "m_full_vn": "sự nhấp nháy, sự lấp lánh, sự lóng lánh; ánh lấp lánh"
+        },
+        {
+          "m_full_vn": "sự sắc sảo, sự linh lợi; sự rạng rỡ"
+        },
+        {
+          "m_full_vn": "sự sủi tăm (của rượu)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "toé lửa, nảy lửa"
+        },
+        {
+          "m_full_vn": "nhấp nháy, lấp lánh, lóng lánh; rực sáng bằng các tia sáng",
+          "list_en_vn": [
+            {
+              "full_en": "her eyes sparkle with joy",
+              "full_vn": "mắt cô ta sáng lên vì vui mừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ ra sắc sảo, tỏ ra linh lợi (trí tuệ...); rạng rỡ",
+          "list_en_vn": [
+            {
+              "full_en": "she was really sparkling (with happiness ) at the wedding",
+              "full_vn": "cô ấy thực là rạng rỡ (vì hạnh phúc) trong lễ cưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có bọt, sủi tăm (rượu)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680064_a4f4a49a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680064_9e09d5b3cf_o.png",
+      "id_image": "sparkle_1890795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680044_ec7a7624fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680044_2448172ba2_o.png",
+      "id_image": "sparkle_2519211"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "seek",
+  "phat_am": "[si:k]",
+  "list_type": [
+    {
+      "type": "ngoại động từ sought",
+      "list_m": [
+        {
+          "m_full_vn": "tìm, tìm kiếm; cố tìm cho được, cố kiếm cho được",
+          "list_en_vn": [
+            {
+              "full_en": "to seek employment",
+              "full_vn": "tìm việc làm"
+            },
+            {
+              "full_en": "to go seeking advice",
+              "full_vn": "đi tìm sự giúp đỡ ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mưu cầu, theo đuổi, nhằm vào, cố gắng đạt tới (một nơi, điểm); chuyển động hướng về (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "water seeks its own level",
+              "full_vn": "nước dâng lên đến mức của nó"
+            },
+            {
+              "full_en": "to seek to make peace",
+              "full_vn": "cố gắng dàn hoà"
+            },
+            {
+              "full_en": "to seek someone's life' to seek to kill someone",
+              "full_vn": "nhằm hại tính mệnh ai, nhằm giết ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi, xin, yêu cầu ai cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to seek someone's aid",
+              "full_vn": "yêu cầu sự giúp đỡ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mưu toan (làm cái gì);"
+        },
+        {
+          "m_full_vn": "theo đuổi (danh vọng); săn đón, thăm hỏi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to seek for",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tìm, tìm kiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to seek out",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm, nhằm tìm (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to seek out the author of a murder",
+                      "full_vn": "tìm thủ phạm cho vụ giết người"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tìm thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to seek through",
+              "list_im": [
+                {
+                  "im_full_vn": "lục tìm, lục soát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be to seek (much to seek )",
+              "list_im": [
+                {
+                  "im_full_vn": "còn thiếu, còn cần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "good teacher are to seek",
+                      "full_vn": "còn thiếu nhiều giáo viên giỏi"
+                    },
+                    {
+                      "full_en": "to be to seek in grammar",
+                      "full_vn": "cần phải học thêm ngữ pháp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "seek one's fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tìm vận may"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678329_e477edbe0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678329_08359bb262_o.png",
+      "id_image": "seek_2748997"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "transcript",
+  "phat_am": "['trænskript]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bảo sao, bản chép lại; bản dịch (một bản tốc ký)",
+          "list_en_vn": [
+            {
+              "full_en": "typewritten transcript",
+              "full_vn": "bản đánh máy sao lại (một bài đã ghi âm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản ghi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) lý lịch học tập; bản sao học bạ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693989_35a3407e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693989_346e2143f5_o.png",
+      "id_image": "transcript_2022423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075885_afd0a574f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075885_1a8bb9bd4a_o.png",
+      "id_image": "transcript_3883065"
+    }
+  ]
+}

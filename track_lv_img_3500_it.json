@@ -1,0 +1,280 @@
+{
+  "english": "track",
+  "phat_am": "[træk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) số nhiều) dấu, vết (chân, xe..)",
+          "list_en_vn": [
+            {
+              "full_en": "motor-car track",
+              "full_vn": "vết xe ô tô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường đi của cái gì/ai (dù nhìn thấy hay không)",
+          "list_en_vn": [
+            {
+              "full_en": "the track of a storm",
+              "full_vn": "đường đi của cơn bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường mòn; đường hẻm",
+          "list_en_vn": [
+            {
+              "full_en": "a muddy track through the forest",
+              "full_vn": "đường mòn lầy lội xuyên qua rừng"
+            },
+            {
+              "full_en": "a track through a forest",
+              "full_vn": "đường hẻm xuyên rừng"
+            },
+            {
+              "full_en": "track of a ship",
+              "full_vn": "đường rẽ nước của con tàu"
+            },
+            {
+              "full_en": "track of a comet",
+              "full_vn": "đường vụt qua của sao chổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường ray tàu hoả"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đường sân ga"
+        },
+        {
+          "m_full_vn": "đường đua, vòng đua"
+        },
+        {
+          "m_full_vn": "phần của một đĩa hát",
+          "list_en_vn": [
+            {
+              "full_en": "her new album has two great tracks on it",
+              "full_vn": "anbom mới của cô ấy có hai phần lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rãnh ghi âm trên băng ghi âm"
+        },
+        {
+          "m_full_vn": "phần của đĩa.. để chứa thông tin (trong máy vi tính)"
+        },
+        {
+          "m_full_vn": "xích (băng nối liền quanh các bánh của xe ủi, xe tăng.. để nó di chuyển)"
+        },
+        {
+          "m_full_vn": "đường rãnh (đường theo đó màn che, cánh tủ đựng cốc chén.. chuyển động)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the track of",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi, theo vết chân, đi tìm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be off the track",
+              "list_im": [
+                {
+                  "im_full_vn": "trật bánh (xe lửa)"
+                },
+                {
+                  "im_full_vn": "lạc đường, lạc lối"
+                },
+                {
+                  "im_full_vn": "mất hút, mất dấu vết"
+                },
+                {
+                  "im_full_vn": "lạc đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cover up one's tracks",
+              "list_im": [
+                {
+                  "im_full_vn": "che dấu vết tích; che giấu những việc đã làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow the tracks of",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dấu chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow in someone's tracks",
+              "list_im": [
+                {
+                  "im_full_vn": "theo bước chân ai; theo ai, noi theo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow the beaten track",
+              "list_im": [
+                {
+                  "im_full_vn": "theo vết đường mòn ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep track of",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill somebody on his tracks",
+              "list_im": [
+                {
+                  "im_full_vn": "giết ai ngay tại chỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose track of",
+              "list_im": [
+                {
+                  "im_full_vn": "mất hút, mất dấu vết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody on the right track",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ai vào con đường đúng, đưa ai đi đúng đường đúng lối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's tracks",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngay tại chỗ; đột ngột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep /lose track of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm được/không nắm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make tracks (for ..)",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rời (đến một nơi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the right /wrong track",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ, hành động một cách đúng đắn/sai lầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on somebody's track",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi theo ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo dấu vết, theo dõi, đi tìm, lùng bắt, truy nã",
+          "list_en_vn": [
+            {
+              "full_en": "to track a lion to its lair",
+              "full_vn": "theo dõi vết chân của con sư tử đến tận hang của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để lại dấu vết",
+          "list_en_vn": [
+            {
+              "full_en": "to track dirt on the floor",
+              "full_vn": "để lại vết bẩn trên sàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) kéo (thuyền, tàu... theo đường kéo)"
+        },
+        {
+          "m_full_vn": "(điện ảnh) di chuyển theo trong khi quay phim (về máy quay phim)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to track down",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi và bắt được, theo vết mà bắt được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to track out",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dấu vết mà tìm ra, phát hiện ra qua dấu vết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696319_10103674ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696319_bedca329f2_o.png",
+      "id_image": "track_3967489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696304_c85ee948c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696304_1b02d2a73b_o.png",
+      "id_image": "track_6246147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696389_706438627e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696389_061468ca4a_o.png",
+      "id_image": "track_684451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341131_73b96abc8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341131_6d48e91914_o.png",
+      "id_image": "track_684456"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "strainer",
+  "phat_am": "['streinə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ để kéo căng"
+        },
+        {
+          "m_full_vn": "(nhất là trong từ ghép) cái lọc, thiết bị để lọc chất lỏng",
+          "list_en_vn": [
+            {
+              "full_en": "a tea-strainer",
+              "full_vn": "một cái lọc trà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344041_91fe72f5e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344041_8671d4f3b7_o.png",
+      "id_image": "strainer_259106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699194_43c7822b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699194_cb2429341b_o.png",
+      "id_image": "strainer_5304821"
+    }
+  ]
+}

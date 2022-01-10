@@ -1,0 +1,53 @@
+{
+  "english": "tease",
+  "phat_am": "[ti:z]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chòng ghẹo, trêu chọc, đùa bỡn một cách không tử tế, tìm cách khiêu khích",
+          "list_en_vn": [
+            {
+              "full_en": "stop teasing the cat",
+              "full_vn": "đừng chòng ghẹo con mèo nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "to tease someone for something",
+              "full_vn": "quấy rầy ai để được cái gì, quấy rầy ai vì cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chải (mặt vải) làm cho nó mượt"
+        },
+        {
+          "m_full_vn": "gỡ (len) thành từng tao riêng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hay chòng ghẹo, người thích trêu chọc người khác"
+        },
+        {
+          "m_full_vn": "sự chòng ghẹo, sự trêu chọc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708019_d89a513a78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708019_25e988287c_o.png",
+      "id_image": "tease_3508736"
+    }
+  ]
+}

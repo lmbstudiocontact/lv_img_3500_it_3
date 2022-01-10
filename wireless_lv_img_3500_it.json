@@ -1,0 +1,84 @@
+{
+  "english": "wireless",
+  "phat_am": "['waiəlis]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không dây; vô tuyến",
+          "list_en_vn": [
+            {
+              "full_en": "wireless set",
+              "full_vn": "máy thu thanh; ra-đi-ô; đài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vô tuyến điện (việc thông tin bằng ( ra-đi-ô))",
+          "list_en_vn": [
+            {
+              "full_en": "to send a message by wireless",
+              "full_vn": "gửi một bức điện bằng ra-đi-ô"
+            },
+            {
+              "full_en": "to give a talk on the wireless",
+              "full_vn": "nói chuyện trên ra-đi-ô"
+            },
+            {
+              "full_en": "broadcast by wireless",
+              "full_vn": "phát thanh bằng vô tuyến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rađiô (máy thu phát thanh vô tuyến)"
+        },
+        {
+          "m_full_vn": "máy thu thanh (như) radio"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh điện bằng ra-đi-ô",
+          "list_en_vn": [
+            {
+              "full_en": "to wireless a message",
+              "full_vn": "đánh một bức điện bằng ra-đi-ô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336336_95c9c4c50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336336_7bdc59d54a_o.png",
+      "id_image": "wireless_1610462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691704_7c1bb3dd8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691704_c3014f025b_o.png",
+      "id_image": "wireless_180981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073230_69d78616fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073230_93af8d4d9d_o.png",
+      "id_image": "wireless_5100289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691674_7a226852d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691674_b48e720bee_o.png",
+      "id_image": "wireless_958374"
+    }
+  ]
+}

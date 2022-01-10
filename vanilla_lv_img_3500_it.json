@@ -1,0 +1,43 @@
+{
+  "english": "vanilla",
+  "phat_am": "[və'nilə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây va-ni (loài lan nhiệt đới có hoa thơm ngọt ngào)"
+        },
+        {
+          "m_full_vn": "quả va-ni"
+        },
+        {
+          "m_full_vn": "hương vị lấy từ vỏ quả va-ni hoặc một sản phẩm tổng hợp có hương vị giống như thế",
+          "list_en_vn": [
+            {
+              "full_en": "vanilla ice",
+              "full_vn": "kem va-ni"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085775_7c196b427b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085775_861de66f8c_o.png",
+      "id_image": "vanilla_1087465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703184_d3e470dd22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703184_cfea1390b0_o.png",
+      "id_image": "vanilla_2128679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393337_2400ae043a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393337_4bded13c88_o.png",
+      "id_image": "vanilla_2218696"
+    }
+  ]
+}

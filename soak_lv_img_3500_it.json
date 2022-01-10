@@ -1,0 +1,108 @@
+{
+  "english": "soak",
+  "phat_am": "[souk]",
+  "list_type": [
+    {
+      "type": "danh từ (như) soaking",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngâm, sự thấm nước, sự nhúng nước"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nước để ngâm, nước để nhúng"
+        },
+        {
+          "m_full_vn": "(từ lóng) bữa chè chén"
+        },
+        {
+          "m_full_vn": "(thông tục) người quen uống rượu, người nghiện rượu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tình trạng bị đem cầm cố",
+          "list_en_vn": [
+            {
+              "full_en": "to be in soak",
+              "full_vn": "bị đem cầm cố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (thông tục) cú đấm điếng người"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngâm, nhúng",
+          "list_en_vn": [
+            {
+              "full_en": "to soak gherkins in vinegar",
+              "full_vn": "ngâm dưa chuột vào giấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ướt đẫm"
+        },
+        {
+          "m_full_vn": "( + into/through , in ) thâm nhập; ngấm qua",
+          "list_en_vn": [
+            {
+              "full_en": "the rain had soaked through his coat",
+              "full_vn": "mưa đã thấm qua chiếc áo ngoài của anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bòn rút, rút tiền (của ai); cưa nặng, giã nặng, lấy giá cắt cổ"
+        },
+        {
+          "m_full_vn": "(từ lóng) uống lu bù"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) giáng cho một đòn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngấm, thấm (đen & bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "rain soaks through shirt",
+              "full_vn": "nước mưa thấm qua áo sơ mi"
+            },
+            {
+              "full_en": "the fact soaked into his head",
+              "full_vn": "sự việc đó thấm sâu vào trí óc nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "say be bét; chè chén lu bù"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443153_aa4c53d9b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443153_b54a0bb04c_o.png",
+      "id_image": "soak_2099975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443108_89c23d98bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443108_9294c2e05e_o.png",
+      "id_image": "soak_3219344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683114_bf17292494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683114_3939173882_o.png",
+      "id_image": "soak_3953731"
+    }
+  ]
+}

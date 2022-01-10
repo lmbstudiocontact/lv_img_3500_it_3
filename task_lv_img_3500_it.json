@@ -1,0 +1,93 @@
+{
+  "english": "task",
+  "phat_am": "[tɑ:sk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiệm vụ, nghĩa vụ, phận sự (nhất là vất vả, khó khăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a difficult task",
+              "full_vn": "một nhiệm vụ khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài làm, bài tập",
+          "list_en_vn": [
+            {
+              "full_en": "give the boys a task to do",
+              "full_vn": "hãy ra bài tập cho các học sinh làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công tác, công việc"
+        },
+        {
+          "m_full_vn": "lời quở trách, lời phê bình, lời mắng nhiếc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take somebody to task (about /for /over something )",
+              "list_im": [
+                {
+                  "im_full_vn": "quở trách, phê bình, chỉ trích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "task force",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) lực lượng đặc nhiệm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giao nhiệm vụ, giao việc",
+          "list_en_vn": [
+            {
+              "full_en": "to task someone to do something",
+              "full_vn": "giao cho ai làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chồng chất lên, bắt gánh vác, thử thách, làm mệt mỏi, làm căng thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "mathematics tasks the child's brain",
+              "full_vn": "toán học làm cho đầu óc em nhỏ căng thẳng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469113_6600bcaeb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469113_912bd59299_o.png",
+      "id_image": "task_4481316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708929_1400a67b69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708929_ca5e14a048_o.png",
+      "id_image": "task_5541953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469138_67a92ea53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469138_ee16133d9a_o.png",
+      "id_image": "task_735181"
+    }
+  ]
+}

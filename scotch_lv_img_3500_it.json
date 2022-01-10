@@ -1,0 +1,92 @@
+{
+  "english": "scotch",
+  "phat_am": "[skɔt∫]",
+  "list_type": [
+    {
+      "type": "tính từ ( Scotch )",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) người Xcốt-len (như) Scots"
+        },
+        {
+          "m_full_vn": "(thuộc) xứ Xcốt-len (như) Scottish"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the Scotch ) nhân dân Xcốt-len"
+        },
+        {
+          "m_full_vn": "( Scotch ) tiếng Xcốt-len"
+        },
+        {
+          "m_full_vn": "( Scotch ) rượu uýt-xki của Xcốt-len; rượu Xcốt; cốc rượu Xcốt",
+          "list_en_vn": [
+            {
+              "full_en": "Scotch and soda",
+              "full_vn": "rượu uýt-xki Xcốt-len pha xô-đa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thúc, chấm dứt; chặn đứng, làm ngừng (một kế hoạch..)"
+        },
+        {
+          "m_full_vn": "(từ cổ, nghĩa cổ) làm bị thương (không giết)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường kẻ, đường vạch (trên đất để chơi nhảy dây)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) khắc, khía, vạch"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chèn bánh xe"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chèn (bánh xe) lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065210_44609c1971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065210_0788eb7446_o.png",
+      "id_image": "scotch_282734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328351_982f9f3171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328351_408566919f_o.png",
+      "id_image": "scotch_645750"
+    }
+  ]
+}

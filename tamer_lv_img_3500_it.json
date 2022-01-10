@@ -1,0 +1,27 @@
+{
+  "english": "tamer",
+  "phat_am": "['teimə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) trong từ ghép) người dạy thú (người thuần hoá và huấn luyện thú)",
+          "list_en_vn": [
+            {
+              "full_en": "a lion-tamer",
+              "full_vn": "người dạy sư tử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371772_456825a7ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371772_8bbd7187c1_o.png",
+      "id_image": "tamer_4702020"
+    }
+  ]
+}

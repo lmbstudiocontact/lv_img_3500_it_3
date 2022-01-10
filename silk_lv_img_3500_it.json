@@ -1,0 +1,84 @@
+{
+  "english": "silk",
+  "phat_am": "[silk]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều silks",
+      "list_m": [
+        {
+          "m_full_vn": "tơ (do nhện, một số côn trùng nhả ra)"
+        },
+        {
+          "m_full_vn": "tơ, chỉ, lụa (chỉ và vải làm bằng tơ đó)"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần áo bằng lụa"
+        },
+        {
+          "m_full_vn": "(thông tục) luật sư hoàng gia, mặc áo dài bằng lụa tại triều",
+          "list_en_vn": [
+            {
+              "full_en": "to take silk",
+              "full_vn": "được phong làm luật sư hoàng gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước ngọc (độ óng ánh của ngọc)"
+        },
+        {
+          "m_full_vn": "( định ngữ) (bằng) tơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hit the silk",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự), (từ lóng) nhảy dù ra khỏi máy bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a silk purse out of a sow's ear",
+              "list_im": [
+                {
+                  "im_full_vn": "ít bột vẫn gột nên hồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take silk",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành luật sư hoàng gia"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "silk stockings",
+              "full_vn": "bít tất tơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075780_943388d682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075780_92fe444aa2_o.png",
+      "id_image": "silk_307430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075695_ab6f836799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075695_9f03ed4069_o.png",
+      "id_image": "silk_4598833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338686_c097e08735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338686_0e1fd8a5d3_o.png",
+      "id_image": "silk_673554"
+    }
+  ]
+}

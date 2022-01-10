@@ -1,0 +1,89 @@
+{
+  "english": "wrinkle",
+  "phat_am": "['riηkl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) lời gợi ý hoặc đề xuất có ích; lời khuyên; lời mách nước",
+          "list_en_vn": [
+            {
+              "full_en": "to put somebody up to a wrinkle",
+              "full_vn": "mách nước cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hàng mới; mốt mới",
+          "list_en_vn": [
+            {
+              "full_en": "the latest wrinkle",
+              "full_vn": "hàng mới nhất; mốt mới nhất, kiểu mới nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết nhăn, nếp nhăn (nhất là ở trên mặt do tuổi tác mà có)",
+          "list_en_vn": [
+            {
+              "full_en": "she's beginning to get wrinkles round her eyes",
+              "full_vn": "cô ta bắt đầu có vết nhăn quanh mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nếp, nếp gấp nhỏ, nếp nhô lên ở một mảnh vật liệu (giấy, vải..)",
+          "list_en_vn": [
+            {
+              "full_en": "she pressed her skirt to try to remove all the wrinkles",
+              "full_vn": "cô ấy là chiếc váy của mình sao cho mất hết những nếp nhăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) nếp gấp"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm) nhăn, (làm cho cái gì) có nếp nhăn",
+          "list_en_vn": [
+            {
+              "full_en": "too much sunbathing will wrinkle your skin",
+              "full_vn": "tắm nắng quá nhiều sẽ làm cho da cô bị nhăn"
+            },
+            {
+              "full_en": "he wrinkled his brow , confused and worried by the strange events",
+              "full_vn": "anh ta cau mày, bối rối và lo lắng trườc những sự việc lạ kỳ"
+            },
+            {
+              "full_en": "the paper has wrinkled where it got wet",
+              "full_vn": "giấy nhăn lại ở chỗ bị ướt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377197_000d562e4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377197_56a5c1f264_o.png",
+      "id_image": "wrinkle_4236621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687374_9aff2bd011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687374_da45022707_o.png",
+      "id_image": "wrinkle_4675614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332381_26f84efb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332381_0d3a6964f2_o.png",
+      "id_image": "wrinkle_5220715"
+    }
+  ]
+}

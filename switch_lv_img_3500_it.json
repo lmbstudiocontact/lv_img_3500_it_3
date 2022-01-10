@@ -1,0 +1,169 @@
+{
+  "english": "switch",
+  "phat_am": "[swit∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công-tắc",
+          "list_en_vn": [
+            {
+              "full_en": "a light switch",
+              "full_vn": "một cái công-tắc đèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái ghi (của đường ray xe lửa)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) ghi tàu (xe lửa) như points"
+        },
+        {
+          "m_full_vn": "(thông tục) sự thay đổi đột ngột, sự di chuyển đột ngột (như) switch-over",
+          "list_en_vn": [
+            {
+              "full_en": "a switch from gas to electricity",
+              "full_vn": "một sự chuyển đổi đột ngột từ khí đốt sang điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "roi"
+        },
+        {
+          "m_full_vn": "mớ tóc độn"
+        },
+        {
+          "m_full_vn": "cành cây mềm; gậy mềm"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái ngắt, cái ngắt điện, cái chuyển mạch; cái đổi",
+          "list_en_vn": [
+            {
+              "full_en": "push-button switch",
+              "full_vn": "nút ngắt điện"
+            },
+            {
+              "full_en": "antenna switch",
+              "full_vn": "cái chuyển mạch ăng-ten"
+            },
+            {
+              "full_en": "wave-length switch",
+              "full_vn": "cái đổi bước sóng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bằng gậy, quật bằng gậy"
+        },
+        {
+          "m_full_vn": "ve vẩy",
+          "list_en_vn": [
+            {
+              "full_en": "cow switches her tail",
+              "full_vn": "con bò ve vẩy cái đuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xoay nhanh, quay",
+          "list_en_vn": [
+            {
+              "full_en": "to switch one's head round",
+              "full_vn": "quay ngoắt đầu lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) bẻ ghi chuyển (xe lửa) sang đường khác"
+        },
+        {
+          "m_full_vn": "chuyển (câu chuyện, ý nghĩ...)"
+        },
+        {
+          "m_full_vn": "cho (ngựa) dự thi với một tên khác"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đánh bài) chuyển sang xướng một hoa khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "to switch off",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to switch somebody off",
+                      "full_vn": "cắt ai đang nói dây nói"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tắt (đèn..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to switch off the light",
+                      "full_vn": "tắt đèn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to switch on",
+              "list_im": [
+                {
+                  "im_full_vn": "cắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to switch somebody on to another",
+                      "full_vn": "cắm cho ai nói dây nói với một người khác"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bật",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to switch on the light",
+                      "full_vn": "bật đèn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446758_4b4aa88853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446758_87671db541_o.png",
+      "id_image": "switch_2106054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068405_8cdf8620f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068405_f5f01a4a26_o.png",
+      "id_image": "switch_2231274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068475_b825e32591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068475_c415511c10_o.png",
+      "id_image": "switch_527006"
+    }
+  ]
+}

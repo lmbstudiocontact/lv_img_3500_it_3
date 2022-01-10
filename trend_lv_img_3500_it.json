@@ -1,0 +1,83 @@
+{
+  "english": "trend",
+  "phat_am": "[trend]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phương hướng",
+          "list_en_vn": [
+            {
+              "full_en": "the trend of the coastline",
+              "full_vn": "phương hướng của bờ bể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xu hướng, chiều hướng, khuynh hướng, phương hướng chung",
+          "list_one_mean": [
+            {
+              "id_full_en": "set a /the trend",
+              "list_im": [
+                {
+                  "im_full_vn": "lăng xê"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the trend of modern thoughts",
+              "full_vn": "xu hướng của những tư tưởng hiện đại"
+            },
+            {
+              "full_en": "following the latest trends in fashion",
+              "full_vn": "theo các xu hướng mới nhất về thời trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi về phía, hướng về, xoay về",
+          "list_en_vn": [
+            {
+              "full_en": "the road trends to the north",
+              "full_vn": "con đường đi về phía bắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có khuynh hướng về, có xu hướng về, hướng về",
+          "list_en_vn": [
+            {
+              "full_en": "modern thought is trending towards socialism",
+              "full_vn": "tư tưởng hiện đại đang hướng về chủ nghĩa xã hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449758_fbc6308eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449758_5480c08cec_o.png",
+      "id_image": "trend_2015802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379622_a44c5c3f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379622_a8e5815501_o.png",
+      "id_image": "trend_2132635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449783_3cea78178b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449783_ca7c6ceb47_o.png",
+      "id_image": "trend_992854"
+    }
+  ]
+}

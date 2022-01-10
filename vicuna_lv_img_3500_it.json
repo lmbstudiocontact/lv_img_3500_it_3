@@ -1,0 +1,30 @@
+{
+  "english": "vicuna",
+  "phat_am": "[vi'kju:nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một loài động ở châu Mỹ, họ hàng với con lạc đà không bướu có lông mịn mượt mà"
+        },
+        {
+          "m_full_vn": "lông của con vật đó (để may quần áo)",
+          "list_en_vn": [
+            {
+              "full_en": "vicuna jackets",
+              "full_vn": "áo ja-két bằng lông lạc đà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699954_6339800b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699954_5d40ba35e6_o.png",
+      "id_image": "vicuna_4834056"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "english": "try",
+  "phat_am": "[trai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( try at something / doing something ) sự thử",
+          "list_en_vn": [
+            {
+              "full_en": "I'll give it a try / It's worth a try",
+              "full_vn": "Tôi sẽ làm thử cái đó/Cái đó đang để làm thử"
+            },
+            {
+              "full_en": "He had three tries at mending the lock and gave up",
+              "full_vn": "Anh ta đã ba lần thử sửa ổ khoá rồi đành bỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm được ghi do một cầu thủ chấm quả bóng xuống đất sau đường khung thành của đối phương, điều này còn cho đội ghi điểm được quyền đá vào khung thành.. (trong môn bóng bầu dục)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ tried",
+      "list_m": [
+        {
+          "m_full_vn": "thử; cố gắng",
+          "list_en_vn": [
+            {
+              "full_en": "I don't know if I can come , but I'll try",
+              "full_vn": "Tôi chẳng biết tôi có đến được hay không, nhưng tôi sẽ cố gắng"
+            },
+            {
+              "full_en": "I tried till I was tired",
+              "full_vn": "Tôi đã cố sức cho đến khi thấy mệt"
+            },
+            {
+              "full_en": "Try to /and be here on time",
+              "full_vn": "Hãy cố gắng có mặt đúng giờ"
+            },
+            {
+              "full_en": "I tried hard not to laugh",
+              "full_vn": "Tôi cố gắng hết sức để không cười"
+            },
+            {
+              "full_en": "You haven't even tried to lift it",
+              "full_vn": "Ngay cả việc thử nâng nó lên anh cũng chẳng chịu làm"
+            },
+            {
+              "full_en": "Don't try to /and swim across the river",
+              "full_vn": "Đừng có cố mà bơi ngang qua con sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng, thực hiện hoặc kiểm tra cái gì xem nó có hiệu quả hoặc thú vị hay không",
+          "list_en_vn": [
+            {
+              "full_en": "I've tried this new detergent with excellent results",
+              "full_vn": "Tôi đã dùng thử loại bột giặt mới này, kết quả rất tốt"
+            },
+            {
+              "full_en": "Would you like to try some raw fish ?",
+              "full_vn": "Anh thích dùng thử món cá sống hay không?"
+            },
+            {
+              "full_en": "Have you ever tried windsurfing ?",
+              "full_vn": "Anh có bao giờ chơi thử môn lướt sóng hay chưa?"
+            },
+            {
+              "full_en": "Try that door !",
+              "full_vn": "Đẩy thử cái cửa đó xem! (xem) nó có khoá hay không hoặc để tìm cái gì ở phía bên kia"
+            },
+            {
+              "full_en": "Don't try any funny stuff with me !",
+              "full_vn": "Đừng giở trò vớ vẩn với tôi nhé!"
+            },
+            {
+              "full_en": "Let's try the table in a different position",
+              "full_vn": "Ta hãy kê thử chiếc bàn ở chỗ khác xem sao"
+            },
+            {
+              "full_en": "to try one's best",
+              "full_vn": "gắng hết sức mình"
+            },
+            {
+              "full_en": "I think we should try her for the job",
+              "full_vn": "Tôi nghĩ chúng ta nên thử dùng cô ta cho công việc đó"
+            },
+            {
+              "full_en": "Try phoning his home number",
+              "full_vn": "Thử gọi điện thoại về nhà ông ta xem sao"
+            },
+            {
+              "full_en": "to try a new car",
+              "full_vn": "thử một cái xe mới"
+            },
+            {
+              "full_en": "to try an impossible feat",
+              "full_vn": "cố gắng lập một kỳ công không thể có được"
+            },
+            {
+              "full_en": "try your strength",
+              "full_vn": "hãy thử sức anh"
+            },
+            {
+              "full_en": "to try a remedy",
+              "full_vn": "dùng thử một phương thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thử thách",
+          "list_en_vn": [
+            {
+              "full_en": "his courage was severely tried by his ordeal",
+              "full_vn": "lòng can đảm của anh ta được thử thách một cách khắc nghiệt qua sự chịu đựng gian khổ của anh ta"
+            },
+            {
+              "full_en": "small print tries the eyes",
+              "full_vn": "chữ in nhỏ làm mỏi mắt"
+            },
+            {
+              "full_en": "don't try my patience",
+              "full_vn": "đừng thử thách lòng kiên nhẫn của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xử, xét xử",
+          "list_one_mean": [
+            {
+              "id_full_en": "to try one's hand (at something )",
+              "list_im": [
+                {
+                  "im_full_vn": "lần đầu tiên thử (tay nghề, môn thể thao..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'd like to try my hand at computing",
+                      "full_vn": "Tôi muốn thử tập dùng máy tính"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try one's luck (at something )",
+              "list_im": [
+                {
+                  "im_full_vn": "thử vận may",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I think I'll try my luck at roulette",
+                      "full_vn": "Tôi nghĩ mình sẽ thử vận may trong trò chơi rulet"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try for something",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng đạt được, cố gắng giành được (huy chương..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "To try for a scholarship /an Olympic medal /a job in the Civil Service",
+                      "full_vn": "Cố giành được học bổng/huy chương ở Ôlimpic/việc làm ở Cục dân sự"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try something on",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc thử (quần áo..)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm cái gì mà mình chắc rằng sẽ không được phép làm, trong khi vẫn hy vọng là ai đó sẽ không phản đối; lần khân",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Try on the shoes before you buy them",
+                      "full_vn": "Trước khi mua giày, hãy đi thử đã"
+                    },
+                    {
+                      "full_en": "Don't try anything on with me , kid , or you'll be sorry",
+                      "full_vn": "Này con trai, đừng có lần khân với bố, rồi con sẽ ân hận đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try out for something",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến hành kiểm tra; thử giọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You won't make the football team if you don't try out",
+                      "full_vn": "Anh sẽ không lập được đội bóng nếu anh không tiến hành kiểm tra"
+                    },
+                    {
+                      "full_en": "She's trying out for the part of Cleopatra",
+                      "full_vn": "Cô ta đang thử giọng trong vai nữ hoàng Clêôpat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try somebody /something out on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "kiểm tra ai/cái gì bằng cách sử dụng người đó/cái đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "To try out a young quarter-back",
+                      "full_vn": "cho một tiền vệ trẻ đá thử"
+                    },
+                    {
+                      "full_en": "The drug has not been tried out on humans yet",
+                      "full_vn": "Thuốc này chưa được thử nghiệm cho người"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to try a case",
+              "full_vn": "xét xử một vụ kiện"
+            },
+            {
+              "full_en": "he was tried for murder",
+              "full_vn": "hắn bị xử về tội giết người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118105_79e3a32d65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118105_94912229a5_o.png",
+      "id_image": "try_5278684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067500_9c0812f576_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067500_c96b9d401f_o.png",
+      "id_image": "try_5625759"
+    }
+  ]
+}

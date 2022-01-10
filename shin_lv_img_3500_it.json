@@ -1,0 +1,39 @@
+{
+  "english": "shin",
+  "phat_am": "[∫in]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cẳng chân, ống quyển"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up/down ) trèo, leo (lên) (dùng cả hai chân hai tay)",
+          "list_en_vn": [
+            {
+              "full_en": "to shin up a tree",
+              "full_vn": "leo cây"
+            },
+            {
+              "full_en": "to shin down a rope",
+              "full_vn": "leo xuống thừng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699904_0effdb8f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699904_02a2acd1c4_o.png",
+      "id_image": "shin_5726980"
+    }
+  ]
+}

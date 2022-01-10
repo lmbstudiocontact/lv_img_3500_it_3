@@ -1,0 +1,37 @@
+{
+  "english": "statistic",
+  "phat_am": "[stə'tistik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông tin được biểu hiện bằng con số",
+          "list_en_vn": [
+            {
+              "full_en": "unearthed a fascinating statistic",
+              "full_vn": "mò ra được một con số thống kê rất hấp dẫn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463383_6c6a2de5b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463383_300ae212ae_o.png",
+      "id_image": "statistic_1700206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703284_7f0fa25c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703284_75eb463ce5_o.png",
+      "id_image": "statistic_5392176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348551_e588226d92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348551_7dd78552ff_o.png",
+      "id_image": "statistic_6000881"
+    }
+  ]
+}

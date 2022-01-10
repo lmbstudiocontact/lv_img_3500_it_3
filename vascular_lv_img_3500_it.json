@@ -1,0 +1,46 @@
+{
+  "english": "vascular",
+  "phat_am": "['væskjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) (thuộc) mạch (máu, bạch huyết), có mạch (máu, bạch huyết)",
+          "list_en_vn": [
+            {
+              "full_en": "vascuar system",
+              "full_vn": "hệ mạch (máu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) có mạch (nhựa cây)",
+          "list_en_vn": [
+            {
+              "full_en": "vascular plant",
+              "full_vn": "cây có mạch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393057_c2cc159d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393057_2de854abd8_o.png",
+      "id_image": "vascular_4785662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085445_1c8855d019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085445_4a34484c2c_o.png",
+      "id_image": "vascular_4785711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085380_5b75598a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085380_b6a4ccd325_o.png",
+      "id_image": "vascular_4799045"
+    }
+  ]
+}

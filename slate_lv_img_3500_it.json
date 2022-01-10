@@ -1,0 +1,99 @@
+{
+  "english": "slate",
+  "phat_am": "[sleit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá phiến, đá acđoa"
+        },
+        {
+          "m_full_vn": "ngói đen, ngói acđoa"
+        },
+        {
+          "m_full_vn": "bảng đá đen (của học sinh trước đây)"
+        },
+        {
+          "m_full_vn": "màu xám đen"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) danh sách ứng cử viên để được bổ nhiệm, danh sách ứng cử viên để bầu cử",
+          "list_one_mean": [
+            {
+              "id_full_en": "to clean the slate",
+              "list_im": [
+                {
+                  "im_full_vn": "giũ trách nhiệm, bỏ nhiệm vụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a slate loose",
+              "list_im": [
+                {
+                  "im_full_vn": "hâm hâm, gàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sart with a clean slate",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lại cuộc đời"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng đá phiến, bằng đá acđoa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợp (nhà..) bằng ngói acđoa"
+        },
+        {
+          "m_full_vn": "(thông tục) công kích, đả kích (ai trong một bài phê bình trên báo..)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chửi rủa thậm tệ; trừng phạt nghiêm khắc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề cử ai (cho một chức vụ..); dự kiến cái gì sẽ xảy ra vào thời điểm được nói rõ",
+          "list_en_vn": [
+            {
+              "full_en": "slated for the Presidency",
+              "full_vn": "được đề cử vào chức vụ chủ tịch"
+            },
+            {
+              "full_en": "a meeting slated for Thursday",
+              "full_vn": "một cuộc họp được dự kiến vào thứ năm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071575_337ab2a871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071575_fc31f9557f_o.png",
+      "id_image": "slate_2473171"
+    }
+  ]
+}

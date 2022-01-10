@@ -1,0 +1,37 @@
+{
+  "english": "scuba",
+  "phat_am": "['sku:bə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình khí nén của thợ lặn",
+          "list_en_vn": [
+            {
+              "full_en": "scuba diving",
+              "full_vn": "việc lặn có bình khí nén"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062780_57c52c04cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062780_7e1e3beced_o.png",
+      "id_image": "scuba_1193004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440898_ff8fdeb4fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440898_f425c68579_o.png",
+      "id_image": "scuba_1971969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440928_5e3d3e00cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440928_7b237b6bdf_o.png",
+      "id_image": "scuba_509678"
+    }
+  ]
+}

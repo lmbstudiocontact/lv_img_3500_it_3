@@ -1,0 +1,81 @@
+{
+  "english": "vision",
+  "phat_am": "['viʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhìn; sức nhìn, thị lực, khả năng của sự nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "field of vision",
+              "full_vn": "trường nhìn, thị trường"
+            },
+            {
+              "full_en": "within range of vision",
+              "full_vn": "trong tầm mắt trông thấy được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm nhìn rộng"
+        },
+        {
+          "m_full_vn": "điều mơ thấy, cảnh mộng"
+        },
+        {
+          "m_full_vn": "sự hiện hình yêu ma; bóng ma"
+        },
+        {
+          "m_full_vn": "ảo tưởng, ảo ảnh, ảo cảnh, ảo mộng",
+          "list_en_vn": [
+            {
+              "full_en": "vision of peace",
+              "full_vn": "ảo tưởng hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức tưởng tượng; sự sắc bén khôn ngoan về chính trị",
+          "list_en_vn": [
+            {
+              "full_en": "the vision of a poet",
+              "full_vn": "sức tưởng tượng của một nhà thơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấy như trong giấc mơ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457213_5fa48b83f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457213_b55a8105b0_o.png",
+      "id_image": "vision_1286107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079780_f3938f6ee5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079780_a1f9359b9d_o.png",
+      "id_image": "vision_1640971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079940_5c5504a1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079940_f4024a8262_o.png",
+      "id_image": "vision_562539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342386_720d78dd62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342386_000808d894_o.png",
+      "id_image": "vision_997259"
+    }
+  ]
+}

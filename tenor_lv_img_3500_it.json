@@ -1,0 +1,54 @@
+{
+  "english": "tenor",
+  "phat_am": "['tenə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lề thói hằng ngày"
+        },
+        {
+          "m_full_vn": "phương hướng chung, tiến trình chung"
+        },
+        {
+          "m_full_vn": "ý nghĩa chung, chiều hướng chung, tinh thần chung; nội dung chính",
+          "list_en_vn": [
+            {
+              "full_en": "the tenor of his speech",
+              "full_vn": "tinh thần chung (nội dung chính) bài nói của ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỳ hạn (hối phiếu)"
+        },
+        {
+          "m_full_vn": "(pháp lý) bản sao (tài liệu)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) giọng tê-no, giọng nam cao; ca sĩ có giọng nam cao, ca sĩ có giọng tê-no"
+        },
+        {
+          "m_full_vn": "(âm nhạc) bè tê-no (phần nhạc viết cho giọng nam cao)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) kèn tê-no (nhạc cụ có âm vực của giọng nam cao)",
+          "list_en_vn": [
+            {
+              "full_en": "a tenor saxophone",
+              "full_vn": "kèn xắc-xô tê-no"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466788_0409d6ea0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466788_4419305594_o.png",
+      "id_image": "tenor_320487"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "wedge",
+  "phat_am": "[wedʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái nêm (để bổ gỗ, bửa đá, mở rộng một lỗ hổng hoặc giữ cho hai vật tách ra)"
+        },
+        {
+          "m_full_vn": "vật hình cái nêm, vật dùng làm nêm",
+          "list_en_vn": [
+            {
+              "full_en": "a wedge of cake",
+              "full_vn": "một góc bánh ngọt hình chữ V"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) mũi nhọn",
+          "list_en_vn": [
+            {
+              "full_en": "to drive a wedge into",
+              "full_vn": "thọc một mũi vào; (nghĩa bóng) chia rẽ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nêm, chêm, bửa",
+          "list_en_vn": [
+            {
+              "full_en": "to wedge a door open",
+              "full_vn": "chèn cửa để mở ngỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chèn, lèn, xếp chặt, nhét chặt (vào một khoảng trống)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wedge away (off )",
+              "list_im": [
+                {
+                  "im_full_vn": "bửa ra, tách ra, chẻ ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wedge oneself in",
+              "list_im": [
+                {
+                  "im_full_vn": "chen vào, dấn vào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wedge packing material into the spaces round the vase",
+              "full_vn": "lèn chặt vật liệu đệm vào các chỗ trống chung quanh chiếc lọ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448233_0064e96002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448233_d48f8bd056_o.png",
+      "id_image": "wedge_1811669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378012_1d1fe729d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378012_9e17a4a3a8_o.png",
+      "id_image": "wedge_3390203"
+    }
+  ]
+}

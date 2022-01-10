@@ -1,0 +1,62 @@
+{
+  "english": "suggest",
+  "phat_am": "[sə'dʒest]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề nghị; đề xuất; gợi ý",
+          "list_en_vn": [
+            {
+              "full_en": "to suggest meeting",
+              "full_vn": "đề nghị họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gợi; làm nảy ra trong trí",
+          "list_en_vn": [
+            {
+              "full_en": "his cool response suggested that he didn't like the idea",
+              "full_vn": "lời đáp lạnh nhạt của anh ta khiến ta phải nghĩ rằng anh ta không thích ý kiến ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ám chỉ; đưa ra giả thuyết là"
+        },
+        {
+          "m_full_vn": "nghĩ ra; xảy đến với ai; nảy ra trong trí ai",
+          "list_en_vn": [
+            {
+              "full_en": "an idea suggests itself to me",
+              "full_vn": "tôi nảy ra một ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) đề nghị thừa nhận là",
+          "list_en_vn": [
+            {
+              "full_en": "I suggest that you were aware of what was happening",
+              "full_vn": "tôi đề nghị ông hãy thừa nhận là ông biết chuyện xảy ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693919_8d4fb1d78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693919_6c247a68c3_o.png",
+      "id_image": "suggest_5772809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693889_bf79787033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693889_bbec3c9fbf_o.png",
+      "id_image": "suggest_5906128"
+    }
+  ]
+}

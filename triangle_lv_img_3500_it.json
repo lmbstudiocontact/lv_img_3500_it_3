@@ -1,0 +1,76 @@
+{
+  "english": "triangle",
+  "phat_am": "['traiæηgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình tam giác",
+          "list_en_vn": [
+            {
+              "full_en": "equilateral triangle",
+              "full_vn": "tam giác đều"
+            },
+            {
+              "full_en": "isosceles triangle",
+              "full_vn": "tam giá cân"
+            },
+            {
+              "full_en": "right-angled triangle",
+              "full_vn": "tam giác vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình tam giác",
+          "list_en_vn": [
+            {
+              "full_en": "a scarf made of a triangle of blue sky",
+              "full_vn": "một chiếc khăn quàng cổ làm bằng một miếng lụa xanh hình tam giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ ba vật không thẳng hàng (tạo nên một tam giác tưởng tượng)"
+        },
+        {
+          "m_full_vn": "ê ke, thước nách"
+        },
+        {
+          "m_full_vn": "(âm nhạc) kẻng ba góc, cái phách hình tam giác (nhạc cụ gõ gồm một thanh bằng thép uốn cong hình tam giác và đánh bằng một thanh thép khác)"
+        },
+        {
+          "m_full_vn": "tay ba, bộ ba (tình thế liên quan đến ba người, ba quan niệm..)",
+          "list_en_vn": [
+            {
+              "full_en": "the eternal triangle",
+              "full_vn": "bộ ba cặp kè (tình trạng hai người yêu một)"
+            },
+            {
+              "full_en": "a love triangle",
+              "full_vn": "một cuộc tình tay ba"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071310_075e81c166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071310_10681c8031_o.png",
+      "id_image": "triangle_1376915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334386_e2424b1d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334386_cb2d157cea_o.png",
+      "id_image": "triangle_232988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379162_5ef8a6aba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379162_d248ef8a99_o.png",
+      "id_image": "triangle_2844570"
+    }
+  ]
+}

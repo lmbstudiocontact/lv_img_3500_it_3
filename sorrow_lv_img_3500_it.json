@@ -1,0 +1,70 @@
+{
+  "english": "sorrow",
+  "phat_am": "['sɔrou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at/for/over ) sự đau khổ, sự buồn phiền; nỗi đau buồn (do mất mát..)",
+          "list_en_vn": [
+            {
+              "full_en": "sorrow at somebody's death",
+              "full_vn": "đau lòng về cái chết của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thất vọng; điều gây thất vọng, điều làm thất vọng"
+        },
+        {
+          "m_full_vn": "nguyên nhân đặc biệt gây ra cảm giác đó; sự bất hạnh",
+          "list_en_vn": [
+            {
+              "full_en": "the sorrow (s) of war",
+              "full_vn": "những bất hạnh của chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kêu than, sự than van",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Man of Sorrows",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúa Giê-xu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at/for/over ) cảm thấy buồn bã, biểu lộ sự buồn bã, cho thấy sự buồn bã; đau khổ",
+          "list_en_vn": [
+            {
+              "full_en": "to sorrow at a misfortune",
+              "full_vn": "buồn phiền về một điều bất hạnh"
+            },
+            {
+              "full_en": "sorrowing over his child's death",
+              "full_vn": "đau khổ về cái chết của đứa con"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325786_0095f9101a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325786_e954298c7d_o.png",
+      "id_image": "sorrow_5664187"
+    }
+  ]
+}

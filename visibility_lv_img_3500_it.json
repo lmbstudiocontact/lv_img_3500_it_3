@@ -1,0 +1,49 @@
+{
+  "english": "visibility",
+  "phat_am": "[,vizə'biləti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chất có thể trông thấy được; sự việc có thể thấy được, tình trạng có thể thấy được",
+          "list_en_vn": [
+            {
+              "full_en": "the visibilityof a gas",
+              "full_vn": "tính chất trông thấy được của một chất khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm nhìn (điều kiện của ánh sáng hay thời tiết để nhìn các vật ở cách một khoảng)",
+          "list_en_vn": [
+            {
+              "full_en": "high visibility",
+              "full_vn": "(khí tượng) sự trông thấy rõ; tầm nhìn xa lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tính rõ ràng, tính rõ rệt, tính minh bạch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697794_c44eb01c07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697794_d7b951472f_o.png",
+      "id_image": "visibility_2765236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080115_e803712e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080115_fc3c57ba8a_o.png",
+      "id_image": "visibility_283662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342556_a4bcb77790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342556_aab997b6d1_o.png",
+      "id_image": "visibility_296926"
+    }
+  ]
+}

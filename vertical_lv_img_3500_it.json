@@ -1,0 +1,79 @@
+{
+  "english": "vertical",
+  "phat_am": "['və:tikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng đứng, đứng",
+          "list_en_vn": [
+            {
+              "full_en": "vertical axis of a crystal",
+              "full_vn": "trục đứng của một tinh thể"
+            },
+            {
+              "full_en": "vertical plane",
+              "full_vn": "(toán học) mặt phẳng thẳng đứng"
+            },
+            {
+              "full_en": "vertical angles",
+              "full_vn": "(toán học) góc đối đỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dọc (theo chiều từ đỉnh xuống chân của một bức tranh..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ở điểm cao nhất, ở cực điểm"
+        },
+        {
+          "m_full_vn": "(giải phẫu) (thuộc) đỉnh đầu; ở đỉnh đầu"
+        },
+        {
+          "m_full_vn": "(thiên văn học) (thuộc) thiên đỉnh; ở thiên đỉnh"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường thẳng đứng, mặt phẳng thẳng đứng",
+          "list_en_vn": [
+            {
+              "full_en": "out of the vertical",
+              "full_vn": "không thẳng đứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận thẳng đứng, tư thế thẳng đứng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345726_37c97b3037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345726_f303847cf9_o.png",
+      "id_image": "vertical_2280398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700864_17dcf8e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700864_a291e4cd2f_o.png",
+      "id_image": "vertical_232875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700834_09ba0289c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700834_3f01e6146e_o.png",
+      "id_image": "vertical_232877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460478_997d3f8f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460478_c483cfb454_o.png",
+      "id_image": "vertical_3103209"
+    }
+  ]
+}

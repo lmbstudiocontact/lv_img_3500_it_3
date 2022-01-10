@@ -1,0 +1,99 @@
+{
+  "english": "slope",
+  "phat_am": "[sloup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc, đường dốc, chỗ dốc; độ dốc",
+          "list_en_vn": [
+            {
+              "full_en": "slope of a roof",
+              "full_vn": "độ dốc của mái nhà"
+            },
+            {
+              "full_en": "mountain slope",
+              "full_vn": "sườn núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tư thế vác súng",
+          "list_en_vn": [
+            {
+              "full_en": "to come to the slope",
+              "full_vn": "đứng vào tư thế vác súng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực đất nhô lên, dốc xuống"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêng, dốc",
+          "list_en_vn": [
+            {
+              "full_en": "the road slopes down",
+              "full_vn": "đường dốc xuống"
+            },
+            {
+              "full_en": "the sun was sloping in the West",
+              "full_vn": "mặt trời đang lặng về phía tây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off ) (thông tục) chuồn, biến, lẩn"
+        },
+        {
+          "m_full_vn": "( + about ) (thông tục) đi dạo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt nghiêng, làm nghiêng",
+          "list_en_vn": [
+            {
+              "full_en": "to slope the neck of a dress",
+              "full_vn": "khoét cổ áo dài"
+            },
+            {
+              "full_en": "to slope the sides of a pit",
+              "full_vn": "xây nghiêng bờ giếng (ở mỏ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) vác lên vai",
+          "list_en_vn": [
+            {
+              "full_en": "to slope arms",
+              "full_vn": "vác súng lên vai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687344_65c292422a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687344_d6fd577892_o.png",
+      "id_image": "slope_1413074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687389_41aaf61d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687389_93594a31b6_o.png",
+      "id_image": "slope_933071"
+    }
+  ]
+}

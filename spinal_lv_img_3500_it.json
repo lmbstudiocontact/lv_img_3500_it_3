@@ -1,0 +1,35 @@
+{
+  "english": "spinal",
+  "phat_am": "['spainl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) xương sống; có liên quan đến xương sống",
+          "list_en_vn": [
+            {
+              "full_en": "spinal column",
+              "full_vn": "cột xương sống"
+            },
+            {
+              "full_en": "spinal cord",
+              "full_vn": "tuỷ sống"
+            },
+            {
+              "full_en": "a spinal injury",
+              "full_vn": "chỗ tổn thương ở xương sống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468608_5b761b1e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468608_acd6e9865b_o.png",
+      "id_image": "spinal_1823747"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "studio",
+  "phat_am": "['stju:diou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều studios",
+      "list_m": [
+        {
+          "m_full_vn": "xưởng vẽ, xưởng điêu khắc..."
+        },
+        {
+          "m_full_vn": "studio (phòng để phát đi các chương trình truyền thanh, truyền hình, để ghi âm)"
+        },
+        {
+          "m_full_vn": "xưởng phim; trường quay"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) công ty điện ảnh (gồm tất cả các toà nhà, văn phòng.. của nó)",
+          "list_en_vn": [
+            {
+              "full_en": "a studio executive",
+              "full_vn": "giám đốc điều hành một hãng phim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386342_30179ed3bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386342_9403215e64_o.png",
+      "id_image": "studio_1902043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456153_04eebdd025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456153_95002cd40b_o.png",
+      "id_image": "studio_5328719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696524_ddbbf9754a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696524_9f939cd1ef_o.png",
+      "id_image": "studio_6060701"
+    }
+  ]
+}

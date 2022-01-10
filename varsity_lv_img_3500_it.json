@@ -1,0 +1,35 @@
+{
+  "english": "varsity",
+  "phat_am": "['vɑ:siti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) trường đại học (nhất là Oxford, Cambridge; không dùng trong tên gọi)",
+          "list_en_vn": [
+            {
+              "full_en": "a varsity tie",
+              "full_vn": "ca-vát ở trường đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đội đại diện cho trường đại học, trường cao đẳng hoặc trường phổ thông (nhất là trong các cuộc thi đấu thể thao)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085535_a7b33b7cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085535_0cd7ce1c3c_o.png",
+      "id_image": "varsity_3797096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463058_114ae4eb5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463058_c12faafbe2_o.png",
+      "id_image": "varsity_4650610"
+    }
+  ]
+}

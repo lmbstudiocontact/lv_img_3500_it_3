@@ -1,0 +1,76 @@
+{
+  "english": "technical",
+  "phat_am": "['teknikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc liên quan đến các thuật cơ khí và khoa học ứng dụng; kỹ thuật",
+          "list_en_vn": [
+            {
+              "full_en": "technical school",
+              "full_vn": "trường kỹ thuật"
+            },
+            {
+              "full_en": "technical education",
+              "full_vn": "nền giáo dục kỹ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc một môn, thuật hoặc ngành riêng biệt hoặc kỹ thuật của nó; chuyên môn",
+          "list_en_vn": [
+            {
+              "full_en": "the technical terms of chemistry",
+              "full_vn": "những từ ngữ chuyên môn về hoá học; thuật ngữ hoá học"
+            },
+            {
+              "full_en": "technical difficulties of colour printing",
+              "full_vn": "những khó khăn về chuyên môn của việc in màu"
+            },
+            {
+              "full_en": "a musician with great technical skill but not much feeling",
+              "full_vn": "một nhạc sĩ có kỹ năng điêu luyện nhưng không có nhiều tình cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi kiến thức chuyên môn, dùng những từ chuyên môn (về cuốn sách..)",
+          "list_en_vn": [
+            {
+              "full_en": "the article is rather technical in places",
+              "full_vn": "bài này có nhiều chỗ hơi chuyên môn quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo quy tắc, theo ý nghĩa chặt chẽ về luật pháp",
+          "list_en_vn": [
+            {
+              "full_en": "technical assault",
+              "full_vn": "sự hành hung theo đúng nghĩa của luật pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353256_e4a4d7439a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353256_487566e67b_o.png",
+      "id_image": "technical_2303895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468023_92064cfb76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468023_c461f6752b_o.png",
+      "id_image": "technical_2544316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398162_25fc607233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398162_4ca0ef3f39_o.png",
+      "id_image": "technical_5848120"
+    }
+  ]
+}

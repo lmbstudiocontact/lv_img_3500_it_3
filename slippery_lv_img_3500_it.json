@@ -1,0 +1,78 @@
+{
+  "english": "slippery",
+  "phat_am": "['slipəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) trơn, khó nắm giữ, khó đứng, khó đi",
+          "list_en_vn": [
+            {
+              "full_en": "it is slippery walking",
+              "full_vn": "đường trơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ tuột, khó nắm, khó giữ (vấn đề, người...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be slippery as an eel",
+              "full_vn": "lủi như chạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nan giải, khó xử, khó giải quyết (về một tình huống, vấn đề..)"
+        },
+        {
+          "m_full_vn": "(thông tục) không tin được, không đáng tinh cậy, quay quắt, láu cá (người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the slippery slope",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chiều hướng hành động có thể dễ dàng dẫn đến thất bại, tai hoạ.."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a slippery customer",
+              "full_vn": "anh chàng láu cá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687559_ea59cb9e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687559_8bbd3a5261_o.png",
+      "id_image": "slippery_1970782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447578_d3129ccf53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447578_bff8fd9804_o.png",
+      "id_image": "slippery_1971094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377287_5a0b9e9ddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377287_48aa331b0e_o.png",
+      "id_image": "slippery_2557011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447498_650da6de2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447498_260f5edf57_o.png",
+      "id_image": "slippery_2598165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069190_852ba88787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069190_01ce5148a7_o.png",
+      "id_image": "slippery_4745351"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "schedule",
+  "phat_am": "['∫edju:l; 'skedʒul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bản liệt kê (các mặt hàng); mục lục",
+          "list_en_vn": [
+            {
+              "full_en": "a spare parts schedule",
+              "full_vn": "bản liệt kê các phụ tùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kế hoạch làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "production schedule",
+              "full_vn": "kế hoạch sản xuất"
+            },
+            {
+              "full_en": "to have a full schedule",
+              "full_vn": "có một kế hoạch dày đặc (nhiều việc phải làm)"
+            },
+            {
+              "full_en": "completed three days ahead of schedule",
+              "full_vn": "được hoàn thành trước thời hạn ba ngày (sớm ba ngày so với thời hạn quy định)"
+            },
+            {
+              "full_en": "to be ahead of /on / behind schedule",
+              "full_vn": "trước/đúng/chậm so với thời hạn quy định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như timetable"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to schedule something for something ) đưa vào chương trình; sắp xếp (việc gì cho một thời gian nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "one of the scheduled events is a visit to the museum",
+              "full_vn": "một trong những sự việc đã sắp xếp vào chương trình là tham quan bảo tàng viện"
+            },
+            {
+              "full_en": "the meeting is scheduled for tomorrow morning",
+              "full_vn": "dự kiến là sáng mai sẽ có cuộc họp"
+            },
+            {
+              "full_en": "he is scheduled to translate the leading article",
+              "full_vn": "ông ấy được bố trí dịch bài xã luận (dự kiến là ông ấy sẽ dịch bài xã luận)"
+            },
+            {
+              "full_en": "a scheduled flight , visit",
+              "full_vn": "một chuyến bay, chuyến tham quan theo kế hoạch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375627_f2f8a8225c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375627_103f474b0e_o.png",
+      "id_image": "schedule_1652892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445963_3dd27be57a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445963_d3a14a3efa_o.png",
+      "id_image": "schedule_313078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445928_827bbc6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445928_3de1ddf35c_o.png",
+      "id_image": "schedule_735204"
+    }
+  ]
+}

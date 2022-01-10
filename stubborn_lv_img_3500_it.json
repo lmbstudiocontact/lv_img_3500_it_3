@@ -1,0 +1,53 @@
+{
+  "english": "stubborn",
+  "phat_am": "['stʌbən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bướng bỉnh, ương ngạnh, ngoan cố",
+          "list_en_vn": [
+            {
+              "full_en": "as stubborn as a mule",
+              "full_vn": "cứng đầu cứng cổ, ương bướng"
+            },
+            {
+              "full_en": "be too stubborn to apologize",
+              "full_vn": "quá ương ngạnh không chịu xin lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngoan cường; cứng cỏi; kiên quyết không chịu nhượng bộ",
+          "list_en_vn": [
+            {
+              "full_en": "stubborn struggle",
+              "full_vn": "cuộc đấu tranh ngoan cường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó di chuyển, khó cất bỏ, khó chữa...",
+          "list_en_vn": [
+            {
+              "full_en": "facts are stubborn things",
+              "full_vn": "sự thật là điều không thể gò theo với lý thuyết được"
+            },
+            {
+              "full_en": "stubborn soil",
+              "full_vn": "đất khó cày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386632_98fcb24e25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386632_dd8d6b710f_o.png",
+      "id_image": "stubborn_3362372"
+    }
+  ]
+}

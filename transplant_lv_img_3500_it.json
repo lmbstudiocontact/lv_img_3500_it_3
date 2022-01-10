@@ -1,0 +1,57 @@
+{
+  "english": "transplant",
+  "phat_am": "[træns'plɑ:nt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấy; trồng lại (lúa..)",
+          "list_en_vn": [
+            {
+              "full_en": "transplant the seedlings into peaty soil",
+              "full_vn": "cấy các cây non vào đất than bùn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấy, ghép (lấy mô, cơ quan của một người, một vật)"
+        },
+        {
+          "m_full_vn": "đưa ra nơi khác, di thực"
+        },
+        {
+          "m_full_vn": "(y học) cấy, ghép"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cấy, sự ghép"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381922_294a154bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381922_1996ebd37b_o.png",
+      "id_image": "transplant_2463907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451708_0742bebd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451708_31578750b7_o.png",
+      "id_image": "transplant_4815842"
+    }
+  ]
+}

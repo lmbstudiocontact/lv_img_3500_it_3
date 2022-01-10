@@ -1,0 +1,36 @@
+{
+  "english": "turret",
+  "phat_am": "['tʌrit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tháp nhỏ, tháp canh (phần trang trí cho toà nhà)"
+        },
+        {
+          "m_full_vn": "(quân sự) tháp pháo (nơi đặt súng và bảo vệ xạ thủ)",
+          "list_en_vn": [
+            {
+              "full_en": "turret gun",
+              "full_vn": "súng đặt trên tháp pháo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mâm tiện"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ụ rêvonve"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064755_601a2c9e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064755_a5a30b6e83_o.png",
+      "id_image": "turret_4612047"
+    }
+  ]
+}

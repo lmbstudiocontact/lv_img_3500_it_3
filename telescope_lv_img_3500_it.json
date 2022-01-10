@@ -1,0 +1,63 @@
+{
+  "english": "telescope",
+  "phat_am": "['teliskoup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kính viễn vọng, kính thiên văn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên ngắn hơn (bằng cách lồng các đoạn của nó vào nhau)"
+        },
+        {
+          "m_full_vn": "lồng nhau (như) hai ống của kính thiên văn",
+          "list_en_vn": [
+            {
+              "full_en": "the two tubes telescope",
+              "full_vn": "hai ống lồng vào nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đâm vào nhau, lút vào nhau bẹp dí (xe lửa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ngắn hơn (bằng cách lồng các đoạn của nó vào nhau)"
+        },
+        {
+          "m_full_vn": "(thông tục) thâu tóm, thu gọn lại",
+          "list_en_vn": [
+            {
+              "full_en": "he telescopes all his arguments into one sentence",
+              "full_vn": "anh ta thâu tóm tất cả lý lẽ của mình vào một câu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090155_af1915752e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090155_bb46e536f4_o.png",
+      "id_image": "telescope_167341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090130_334810dcdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090130_f9ba28da15_o.png",
+      "id_image": "telescope_178545"
+    }
+  ]
+}

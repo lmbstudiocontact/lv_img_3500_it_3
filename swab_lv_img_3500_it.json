@@ -1,0 +1,63 @@
+{
+  "english": "swab",
+  "phat_am": "[swɔb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giẻ lau sàn"
+        },
+        {
+          "m_full_vn": "(y học) miếng gạc"
+        },
+        {
+          "m_full_vn": "cái thông nòng súng"
+        },
+        {
+          "m_full_vn": "(từ lóng) người vụng về, người hậu đậu"
+        },
+        {
+          "m_full_vn": "(hàng hải), (từ lóng) cầu vai (sĩ quan)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau (bằng giẻ lau sàn)",
+          "list_en_vn": [
+            {
+              "full_en": "to swab down the deck",
+              "full_vn": "lau sàn tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + up ) thấm bằng miếng gạc"
+        },
+        {
+          "m_full_vn": "thông (nòng súng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689729_09b400b336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689729_dd277b7548_o.png",
+      "id_image": "swab_2547806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689689_d374db20a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689689_2a053b41ea_o.png",
+      "id_image": "swab_4068570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689629_33b29c95cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689629_aaef078cb8_o.png",
+      "id_image": "swab_5806212"
+    }
+  ]
+}

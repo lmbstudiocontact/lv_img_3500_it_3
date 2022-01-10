@@ -1,0 +1,58 @@
+{
+  "english": "strategy",
+  "phat_am": "['strætədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nghệ thuật) vạch kế hoạch và chỉ huy một cuộc hành quân trong chiến tranh hoặc chiến dịch); chiến lược",
+          "list_en_vn": [
+            {
+              "full_en": "skilled in strategy",
+              "full_vn": "giỏi về chiến lược"
+            },
+            {
+              "full_en": "military strategy",
+              "full_vn": "chiến lược quân sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự vạch kế hoạch; sự quản lý một doanh nghiệp, điều hành một công việc tốt",
+          "list_en_vn": [
+            {
+              "full_en": "by careful strategy , she negotiated a substantial pay rise",
+              "full_vn": "bằng tài năng trù tính cẩn thận, bà ta đã thương lượng được một cuộc tăng lương quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế hoạch hoặc chính sách nhằm một mục đích nhất định; chiến lược",
+          "list_en_vn": [
+            {
+              "full_en": "economic strategies",
+              "full_vn": "những chiến lược kinh tế"
+            },
+            {
+              "full_en": "a new police strategy for crowd control",
+              "full_vn": "một chiến lược mới của cảnh sát để kiểm soát đám đông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698879_81e04451e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698879_4671d51b56_o.png",
+      "id_image": "strategy_471461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343651_f005c100e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343651_48d92b3f42_o.png",
+      "id_image": "strategy_875306"
+    }
+  ]
+}

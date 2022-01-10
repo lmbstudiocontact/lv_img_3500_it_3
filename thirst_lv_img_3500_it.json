@@ -1,0 +1,63 @@
+{
+  "english": "thirst",
+  "phat_am": "[θə:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khát nước",
+          "list_en_vn": [
+            {
+              "full_en": "to quench one's thirst",
+              "full_vn": "làm cho hết khát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đau khổ do cái khát gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "they lost their way in the desert and died of thirst",
+              "full_vn": "họ đã lạc đường trong sa mạc rồi chết khát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for something ) (nghĩa bóng) sự khao khát, lòng ham muốn mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a thirst for knowledge",
+              "full_vn": "sự khao khát hiểu biết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khát nước, cảm thấy cần phải uống",
+          "list_one_mean": [
+            {
+              "id_full_en": "thirst for something",
+              "list_im": [
+                {
+                  "im_full_vn": "thèm khát, khao khát cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394167_cd53e9a0c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394167_02a7c19c42_o.png",
+      "id_image": "thirst_5935626"
+    }
+  ]
+}

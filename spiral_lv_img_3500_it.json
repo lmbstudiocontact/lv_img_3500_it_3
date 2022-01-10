@@ -1,0 +1,77 @@
+{
+  "english": "spiral",
+  "phat_am": "['spaiərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoắn ốc, có dạng xoắn",
+          "list_en_vn": [
+            {
+              "full_en": "spiral spring",
+              "full_vn": "lò xo xoắn ốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường xoắn ốc, đường xoáy trôn ốc"
+        },
+        {
+          "m_full_vn": "đồ vật có hình xoắn ốc"
+        },
+        {
+          "m_full_vn": "(hàng không) sự bay theo đường xoắn ốc"
+        },
+        {
+          "m_full_vn": "sự tăng lên dần dần, sự lên từ từ; sự giảm dần dần, sự xuống từ từ (giá...); sự tăng/giảm theo đường xoắn ốc",
+          "list_en_vn": [
+            {
+              "full_en": "an inflationary spiral",
+              "full_vn": "sự lạm phát theo đường xoắn ốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "di chuyển theo đường xoắn ốc; xoắn theo hình trôn ốc"
+        },
+        {
+          "m_full_vn": "tăng liên tục, giảm liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "prices are still spiralling",
+              "full_vn": "giá cả vẫn tăng vùn vụt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353746_b57ff8d9e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353746_54dcd6589a_o.png",
+      "id_image": "spiral_1754068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353721_1043e0cfd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353721_db25d49bc9_o.png",
+      "id_image": "spiral_6092108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468498_09e0ebc115_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468498_53b719bdab_o.png",
+      "id_image": "spiral_6365773"
+    }
+  ]
+}

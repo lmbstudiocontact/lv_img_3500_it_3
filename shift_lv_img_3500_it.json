@@ -1,0 +1,266 @@
+{
+  "english": "shift",
+  "phat_am": "[∫ift]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thay đổi (về vị trí, bản chất, hình dáng..)",
+          "list_en_vn": [
+            {
+              "full_en": "shifts in public opinion",
+              "full_vn": "những sự thay đổi trong dư luận"
+            },
+            {
+              "full_en": "a gradual shift of people from the country to the town",
+              "full_vn": "sự chuyển dần dân cư từ nông thôn về đô thị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự luân phiên (của cây trồng)",
+          "list_en_vn": [
+            {
+              "full_en": "shift of crops",
+              "full_vn": "sự luân canh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thăng trầm (của cuộc sống)",
+          "list_en_vn": [
+            {
+              "full_en": "the shifts and changes of life",
+              "full_vn": "những thăng trầm và những thay đổi của cuộc sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ca, kíp",
+          "list_en_vn": [
+            {
+              "full_en": "to work in shifts",
+              "full_vn": "làm việc theo ca"
+            },
+            {
+              "full_en": "the day shift",
+              "full_vn": "ca ngày"
+            },
+            {
+              "full_en": "the night shift",
+              "full_vn": "ca đêm"
+            },
+            {
+              "full_en": "to work an eight-hour shift",
+              "full_vn": "làm ca tám tiếng"
+            },
+            {
+              "full_en": "shift work",
+              "full_vn": "công việc làm ca"
+            },
+            {
+              "full_en": "shift worker",
+              "full_vn": "công nhân làm ca"
+            },
+            {
+              "full_en": "shift pay",
+              "full_vn": "tiền lương theo ca"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mưu mô, mưu mẹo, phương kế"
+        },
+        {
+          "m_full_vn": "sự thoái thác; lời thoái thác, lời quanh co, lời nước đôi"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) sự trượt nghiêng; tầng trượt nghiêng"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) sự thay đổi cách phát âm"
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự thay đổi vị trí bàn tay (trên phím đàn pianô)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự di chuyển vị trí (của hàng hậu vệ bóng đá)"
+        },
+        {
+          "m_full_vn": "áo váy hẹp thẳng đuột của phụ nữ"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự thay quần áo"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) áo lót của phụ nữ giống như áo váy; áo váy một mảnh"
+        },
+        {
+          "m_full_vn": "bộ phận trong máy chữ (máy vi tính..) để đánh chữ hoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at one's last shift",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on shifts",
+              "list_im": [
+                {
+                  "im_full_vn": "sống một cách ám muội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make shift (with something )",
+              "list_im": [
+                {
+                  "im_full_vn": "sử dụng cái đang có trong tay (tuy không thật đầy đủ lắm); xoay xở; đành giật gấu vá vai; liệu cơm gắp mắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we haven't really got enough food for everyone but we'll have to make shift (with what we've got )",
+                      "full_vn": "chúng ta không có đủ thức ăn cho mọi người, nhưng sẽ phải liệu cơm gắp mắm thôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "press 'shift' and type 'A'",
+              "full_vn": "nhấn phím 'shift' và đánh chữ được chữ 'A'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổi chỗ, dời chỗ, di chuyển; thay",
+          "list_en_vn": [
+            {
+              "full_en": "to shift one's lodging",
+              "full_vn": "thay đổi chỗ ở"
+            },
+            {
+              "full_en": "to shift the scene",
+              "full_vn": "thay cảnh (trên (sân khấu))"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển, giao (trách nhiệm..)",
+          "list_en_vn": [
+            {
+              "full_en": "he shifted the load from his left to his right shoulder",
+              "full_vn": "anh ta chuyển vác nặng từ vai trái sang vai phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng mưu mẹo, dùng mưu kế, xoay xở; xoay xở để kiếm sống"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) nói quanh co, nói lập lờ, nói nước đôi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thay đổi, di chuyển từ nơi này sang nơi khác, từ hướng này sang hướng khác",
+          "list_en_vn": [
+            {
+              "full_en": "the wind shifted from east to north",
+              "full_vn": "gió chuyển từ đông sang bắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + off ) trút bỏ, trút lên",
+          "list_en_vn": [
+            {
+              "full_en": "to shift off the responsibility",
+              "full_vn": "trút bỏ trách nhiệm; trút trách nhiệm (cho ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) sang (số) (trong xe có động cơ)",
+          "list_en_vn": [
+            {
+              "full_en": "to shift out of first into second",
+              "full_vn": "đổi từ số một sang số hai"
+            },
+            {
+              "full_en": "learn to shift gear at the right moment",
+              "full_vn": "hãy học cách sang số đúng lúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chuyển động nhanh"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thay quần áo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shift one's ground",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi ý kiến, lập trường (trong cuộc thảo luận)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shift for oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "tự xoay xở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shift and prevaricate",
+              "list_im": [
+                {
+                  "im_full_vn": "nói quanh co lẩn tránh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459678_8a095b6954_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459678_bee60630f0_o.png",
+      "id_image": "shift_1898739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389762_9883251656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389762_db46515341_o.png",
+      "id_image": "shift_3203154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389877_d8f5010f5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389877_a1647e5a06_o.png",
+      "id_image": "shift_429967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082380_65039cc8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082380_f0e300b336_o.png",
+      "id_image": "shift_670864"
+    }
+  ]
+}

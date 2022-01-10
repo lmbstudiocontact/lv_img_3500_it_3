@@ -1,0 +1,282 @@
+{
+  "english": "school",
+  "phat_am": "[sku:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đàn cá; bầy cá",
+          "list_en_vn": [
+            {
+              "full_en": "school fish",
+              "full_vn": "loại cá thường đi thành bầy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp thành đàn; bơi thành bầy (cá...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường học; học đường",
+          "list_en_vn": [
+            {
+              "full_en": "normal school",
+              "full_vn": "trường sư phạm"
+            },
+            {
+              "full_en": "primary and secondary schools",
+              "full_vn": "trường tiểu học và trung học"
+            },
+            {
+              "full_en": "private school",
+              "full_vn": "trường tư"
+            },
+            {
+              "full_en": "public school",
+              "full_vn": "trường công"
+            },
+            {
+              "full_en": "Sunday schools",
+              "full_vn": "các trường dạy vào ngày chủ nhật"
+            },
+            {
+              "full_en": "to keep a school",
+              "full_vn": "mở trường tư"
+            },
+            {
+              "full_en": "the use of computers in schools",
+              "full_vn": "việc sử dụng máy tính trong học đường"
+            },
+            {
+              "full_en": "a school bus , building , report",
+              "full_vn": "xe búyt, toà nhà, bài tường thuật về trường học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi dạy một môn nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "art school",
+              "full_vn": "trường nghệ thuật"
+            },
+            {
+              "full_en": "secretarial school",
+              "full_vn": "trường dạy nghề thư ký"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trường cao đẳng hoặc đại học",
+          "list_en_vn": [
+            {
+              "full_en": "famous chools like Yale and Harvard",
+              "full_vn": "những trường đại học nổi tiếng như Yale và Harvard"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đi học",
+          "list_en_vn": [
+            {
+              "full_en": "he hates school",
+              "full_vn": "nó ghét đi học"
+            },
+            {
+              "full_en": "two more years of school",
+              "full_vn": "còn học hai năm nữa"
+            },
+            {
+              "full_en": "old enough for /to go to school",
+              "full_vn": "đã đến tuổi đi học"
+            },
+            {
+              "full_en": "the school-leaving age",
+              "full_vn": "tuổi thôi học (tuổi mà dưới mức đó trẻ con phải đi học)"
+            },
+            {
+              "full_en": "are you still at school ?",
+              "full_vn": "em vẫn còn đi học chứ?"
+            },
+            {
+              "full_en": "he left school when he was sixteen",
+              "full_vn": "anh ta thôi học năm 16 tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi học; giờ học",
+          "list_en_vn": [
+            {
+              "full_en": "to meet friends before school",
+              "full_vn": "gặp bạn bè trước giờ vào học"
+            },
+            {
+              "full_en": "school begins at 9 am",
+              "full_vn": "buổi học bắt đầu lúc 9 giờ sáng"
+            },
+            {
+              "full_en": "there will no school tomorrow morning",
+              "full_vn": "sáng mai không có buổi lên lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the school ) nhà trường (toàn thể học sinh, hoặc toàn thể thầy và trò một trường)",
+          "list_en_vn": [
+            {
+              "full_en": "the whole school knows it",
+              "full_vn": "toàn trường biết việc đó"
+            },
+            {
+              "full_en": "the head teacher told the school at assembly",
+              "full_vn": "thầy hiệu trưởng nói chuyện với toàn trường ở cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoa (trong một trường đại học)",
+          "list_en_vn": [
+            {
+              "full_en": "the law /medical /history school",
+              "full_vn": "khoa luật/y/sử"
+            },
+            {
+              "full_en": "the School of Dentistry",
+              "full_vn": "Nha khoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp chuyên",
+          "list_en_vn": [
+            {
+              "full_en": "a summer school for music lovers",
+              "full_vn": "lớp mùa hè cho những người yêu âm nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) kinh nghiệm đem lại kỷ luật; hoạt động đem lại kiến thức",
+          "list_en_vn": [
+            {
+              "full_en": "the hard school of adversity",
+              "full_vn": "(tôi luyện trong) trường đời đầy ngang trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm nhà văn, nhà tư tưởng cùng chia sẻ những nguyên tắc, phương pháp, hoặc nhóm nghệ sĩ có phong cách tương tự; trường phái",
+          "list_en_vn": [
+            {
+              "full_en": "school of art",
+              "full_vn": "trường phái nghệ thuật"
+            },
+            {
+              "full_en": "the Dutch , Venetian school of painting",
+              "full_vn": "trường phái hội hoạ Hà Lan, Vênêxi"
+            },
+            {
+              "full_en": "the Hegelian school",
+              "full_vn": "trường phái Hê Ghen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người chơi bài, đánh bạc...; hội chơi bài"
+        },
+        {
+          "m_full_vn": "(âm nhạc) sách dạy đàn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a gentleman of the old school",
+              "list_im": [
+                {
+                  "im_full_vn": "một người quân tử theo kiểu cũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to school to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đòi ai; học hỏi ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a school of thought",
+              "list_im": [
+                {
+                  "im_full_vn": "nhóm người có quan điểm tương tự nhau; môn phái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to teach school",
+              "list_im": [
+                {
+                  "im_full_vn": "xem teach"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to school somebody / something in something ) rèn luyện; đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "to school a horse",
+              "full_vn": "huấn luyện một con ngựa"
+            },
+            {
+              "full_en": "to school oneself in patience /to be patient",
+              "full_vn": "rèn luyện cho mình tính kiên nhẫn"
+            },
+            {
+              "full_en": "to school one's temper",
+              "full_vn": "rèn luyện tính tình"
+            },
+            {
+              "full_en": "a child who is well schooled in good manners",
+              "full_vn": "đứa trẻ được dạy dỗ đàng hoàng về cung cách lịch sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445298_421eda6f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445298_8bc75b1448_o.png",
+      "id_image": "school_1010715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445338_877270b811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445338_8ec784c245_o.png",
+      "id_image": "school_203234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067175_3fe9a41dd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067175_22e0e5872f_o.png",
+      "id_image": "school_2532684"
+    }
+  ]
+}

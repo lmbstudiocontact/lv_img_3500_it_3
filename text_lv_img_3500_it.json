@@ -1,0 +1,70 @@
+{
+  "english": "text",
+  "phat_am": "[tekst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần viết hoặc in chính của một cuốn sách hoặc một trang (khác với chú thích, biểu đồ, minh hoạ...); bản văn",
+          "list_en_vn": [
+            {
+              "full_en": "too much text and not enough pictures",
+              "full_vn": "quá nhiều chữ và ít tranh"
+            },
+            {
+              "full_en": "the index refers the reader to pages in the text",
+              "full_vn": "bản mục lục chỉ dẫn cho người đọc tìm các trang trong bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên văn, nguyên bản (của một tài liệu, tác giả..)",
+          "list_en_vn": [
+            {
+              "full_en": "the full text of the Prime Minister's speech",
+              "full_vn": "toàn bộ nguyên văn bài nói của Thủ tướng"
+            },
+            {
+              "full_en": "a corrupt text",
+              "full_vn": "một nguyên bản đã bị sai lạc (do có nhiều lỗi khi sao chép)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ đề, đề mục, đề tài",
+          "list_en_vn": [
+            {
+              "full_en": "to stick to one's text",
+              "full_vn": "nắm vững chủ đề, không đi ra ngoài đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn trích từ kinh thánh (làm chủ đề cho bài thuyết giáo)"
+        },
+        {
+          "m_full_vn": "sách, vở kịch... được quy định để học hoặc làm một phần của chương trình học",
+          "list_en_vn": [
+            {
+              "full_en": "Hamlet is a set text for A level this year",
+              "full_vn": "Hamlet là một vở kịch quy định cho trình độ A năm nay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088135_7d6b23c6e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088135_7248254a16_o.png",
+      "id_image": "text_165046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705519_468b9138e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705519_4e23a14a13_o.png",
+      "id_image": "text_551095"
+    }
+  ]
+}

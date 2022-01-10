@@ -1,0 +1,61 @@
+{
+  "english": "western",
+  "phat_am": "['westən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về phía tây, ở phía tây",
+          "list_en_vn": [
+            {
+              "full_en": "western city",
+              "full_vn": "thành phố phía tây"
+            },
+            {
+              "full_en": "western regions of the British Isles",
+              "full_vn": "các vùng phía tây của Liên hiệp Anh"
+            },
+            {
+              "full_en": "the western United States",
+              "full_vn": "miền tây nước Mỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cũng) Western của phương Tây",
+          "list_en_vn": [
+            {
+              "full_en": "the Western way of life",
+              "full_vn": "lối sống phương tây"
+            },
+            {
+              "full_en": "Western attitudes /clothes /nations /philosophy",
+              "full_vn": "phong cách/quần áo/các quốc gia/triết học phương Tây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phim hoặc sách nói về cuộc sống của những người chăn bò ở miền Tây nước Mỹ, nhất là trong thời gian chiến tranh với người da đỏ ở Mỹ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687019_78f4d6f9ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687019_e79396681d_o.png",
+      "id_image": "western_2267578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446978_ff45b0db2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446978_8414d052a0_o.png",
+      "id_image": "western_6348496"
+    }
+  ]
+}

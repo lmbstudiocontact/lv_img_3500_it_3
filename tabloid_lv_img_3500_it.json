@@ -1,0 +1,44 @@
+{
+  "english": "tabloid",
+  "phat_am": "['tæblɔid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) báo khổ nhỏ (báo phổ thông, khổ nhỏ bằng một nửa khổ các báo lớn hơn, đăng những tin vắn tắt)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu gọn, vắn vắt",
+          "list_en_vn": [
+            {
+              "full_en": "tabloid newspaper",
+              "full_vn": "bảo khổ nhỏ đăng tin vắn tắt"
+            },
+            {
+              "full_en": "news in tabloid form",
+              "full_vn": "tin tức vắn tắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373677_41643b7ff2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373677_644fd2da01_o.png",
+      "id_image": "tabloid_3966926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065725_9f4d6518e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065725_216aed56b8_o.png",
+      "id_image": "tabloid_4441544"
+    }
+  ]
+}

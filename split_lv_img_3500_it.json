@@ -1,0 +1,139 @@
+{
+  "english": "split",
+  "phat_am": "[split]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nứt, nẻ, chia ra, tách ra"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ split",
+      "list_m": [
+        {
+          "m_full_vn": "ghẻ, bửa, tách"
+        },
+        {
+          "m_full_vn": "chia ra từng phần",
+          "list_en_vn": [
+            {
+              "full_en": "to split the job",
+              "full_vn": "chia việc"
+            },
+            {
+              "full_en": "to split a sum of money",
+              "full_vn": "chia một số tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chia rẽ (ý kiến) về một vấn đề, làm chia rẽ, gây bè phái (trong một đảng phái)"
+        },
+        {
+          "m_full_vn": "(hoá học); (vật lý) làm vỡ (hạt nhân), tách (phân tử)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nứt, vỡ, nẻ"
+        },
+        {
+          "m_full_vn": "chia rẽ, phân hoá, không nhất trí",
+          "list_en_vn": [
+            {
+              "full_en": "to split on a question",
+              "full_vn": "không nhất trí về một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) chia nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spit off (up )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm vỡ ra; vỡ ra, tách ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split the difference",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy số trung bình"
+                },
+                {
+                  "im_full_vn": "thoả hiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split hairs",
+              "list_im": [
+                {
+                  "im_full_vn": "chẻ sợi tóc làm tư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split one's sides",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vỡ bụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spilt on someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) tố cáo ai; phản ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split one's vote",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ phiếu cho ứng cử viên đối lập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "head is splitting",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu nhức như búa bổ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398227_efa443f9c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398227_d7d12b8f83_o.png",
+      "id_image": "split_3557652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468018_df93172ef6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468018_3ac308356b_o.png",
+      "id_image": "split_6026427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468063_7c5c7ee72c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468063_6873369fa5_o.png",
+      "id_image": "split_868666"
+    }
+  ]
+}

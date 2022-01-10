@@ -1,0 +1,154 @@
+{
+  "english": "storm",
+  "phat_am": "[stɔ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dông tố, cơn bão"
+        },
+        {
+          "m_full_vn": "( + of ) cơn, trận",
+          "list_en_vn": [
+            {
+              "full_en": "a storm of anger",
+              "full_vn": "một cơn cuồng nộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời kỳ sóng gió (trong đời người)",
+          "list_en_vn": [
+            {
+              "full_en": "storm and stress",
+              "full_vn": "thời kỳ sóng gió trong đời sống (của một người, của một quốc gia)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trận mưa (đạn, bom...), trận",
+          "list_en_vn": [
+            {
+              "full_en": "of abuse",
+              "full_vn": "một trận xỉ vả"
+            },
+            {
+              "full_en": "storm of laughter",
+              "full_vn": "một trận cười vỡ bụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cuộc tấn công ồ ạt; sự đột chiếm (một vị trí)",
+          "list_en_vn": [
+            {
+              "full_en": "to take by storm",
+              "full_vn": "(quân sự) đột chiếm; lôi kéo (người nghe...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) sự nhiễu loạn"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ, nghĩa Mỹ) (thông tục) cửa ra vào, cửa sổ bảo vệ (phòng mưa to gió lớn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "ride out /weather the /a storm",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) qua được cơn bão"
+                },
+                {
+                  "im_full_vn": "qua được thử thách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a storm in a teacup",
+              "list_im": [
+                {
+                  "im_full_vn": "việc bé xé ra to; việc không đâu cũng làm to chuyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take something /somebody by storm",
+              "list_im": [
+                {
+                  "im_full_vn": "đột chiếm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạnh, dữ dội (gió, mưa)"
+        },
+        {
+          "m_full_vn": "quát tháo, la lối, thét mắng"
+        },
+        {
+          "m_full_vn": "( + about , around , off ) lao vào, xông vào; xông ra, lao ra",
+          "list_en_vn": [
+            {
+              "full_en": "to storm somebody with questions",
+              "full_vn": "chất vấn ai dồn dập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + one's way ) across , in , through xộc vào",
+          "list_en_vn": [
+            {
+              "full_en": "three soldiers stormed into the house",
+              "full_vn": "ba người lính xộc vào trong nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đột chiếm",
+          "list_en_vn": [
+            {
+              "full_en": "to storm a castle",
+              "full_vn": "đột chiếm một lâu đài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082165_65d58c6fab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082165_01f208fee2_o.png",
+      "id_image": "storm_1327638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389652_34c792c94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389652_2f86ca6145_o.png",
+      "id_image": "storm_263935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459468_6c61fcff03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459468_e33930ea59_o.png",
+      "id_image": "storm_4861678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344616_beab1f071c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344616_27d073627a_o.png",
+      "id_image": "storm_4968471"
+    }
+  ]
+}

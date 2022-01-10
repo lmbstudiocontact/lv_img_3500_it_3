@@ -1,0 +1,258 @@
+{
+  "english": "what",
+  "phat_am": "[wɔt]",
+  "list_type": [
+    {
+      "type": "tính từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để đề nghị ai chỉ rõ một hay nhiều vật, địa điểm, con người... trong số chưa xác định); gì",
+          "list_en_vn": [
+            {
+              "full_en": "what books have you got to read on the subject ?",
+              "full_vn": "anh đã có những cuốn sách gì để đọc về đề tài đó?"
+            },
+            {
+              "full_en": "what time /date is it ?",
+              "full_vn": "bây giờ là mấy giờ nhỉ/hôm nay là ngày bao nhiêu"
+            },
+            {
+              "full_en": "what experience has she had ?",
+              "full_vn": "co ấy đã có những kinh nghiệm gì?"
+            },
+            {
+              "full_en": "what woman are you thinking of ?",
+              "full_vn": "anh đang nghĩ về người đàn bà nào vậy?"
+            },
+            {
+              "full_en": "guess what famous person said this",
+              "full_vn": "hãy đoán xem người nổi tiếng nào nói điều này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "những (vật hoặc người) mà",
+          "list_en_vn": [
+            {
+              "full_en": "what money I have will be yours when I die",
+              "full_vn": "tiền mà tôi có sẽ là của anh khi tôi chết"
+            },
+            {
+              "full_en": "I spent what little time I had with my family",
+              "full_vn": "tôi dành cho gia đình tôi thời gian ít ỏi mà tôi có được"
+            },
+            {
+              "full_en": "what family and friends I still have live abroad",
+              "full_vn": "gia đình và các bạn bè mà tôi còn thì đang sống ở nước ngoài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ (dùng trong câu cảm thán)"
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để chỉ sự không tin hoặc ngạc nhiên)",
+          "list_en_vn": [
+            {
+              "full_en": "I've won a holiday in New York - What ?",
+              "full_vn": "Tôi đã đoạt giải được một kỳ nghỉ ở New York - Thế cơ à?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng khi mình không nghe được những điều ai đó nói)",
+          "list_en_vn": [
+            {
+              "full_en": "What ? Can you say that again ?",
+              "full_vn": "Cái gì? Anh nhắc lại điều đó được không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để đề nghị ai chỉ rõ một hay nhiều vật... trong số chưa xác định)",
+          "list_one_mean": [
+            {
+              "id_full_en": "and what not ?",
+              "list_im": [
+                {
+                  "im_full_vn": "và các thứ khác cùng loại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "tools , machines and what not",
+                      "full_vn": "dụng cụ, máy móc và những cái gì nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get /give somebody what for",
+              "list_im": [
+                {
+                  "im_full_vn": "bị trừng phạt/trừng phạt nghiêm khắc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll give her what for if she does that again",
+                      "full_vn": "Tôi sẽ cho cô ta biết tay nếu cô ta vẫn làm như vậy nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what for",
+              "list_im": [
+                {
+                  "im_full_vn": "nhằm mục đích gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what is this tool for ?",
+                      "full_vn": "dụng cụ này để làm gì?"
+                    },
+                    {
+                      "full_en": "what did you do that for ?",
+                      "full_vn": "anh làm như vậy để làm gì? (tại sao anh làm (như) vậy?)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what if ...?",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gì sẽ xảy ra nếu...?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what if it rains when we can't get under shelter ?",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu trời mưa mà chúng ta không tìm được chỗ trú thì sao?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what if the rumour is true ?",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu tin đồn là sự thật thì sao?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what of it ?; so what ?",
+              "list_im": [
+                {
+                  "im_full_vn": "thì đã sao nào?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Yes , I wrote it What of it ?",
+                      "full_vn": "Đúng, tôi viết cái đó. Thì đã sao nào?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what with something",
+              "list_im": [
+                {
+                  "im_full_vn": "nào là vì... rồi vì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what with the weather and my bad leg , I haven't been out for weeks",
+                      "full_vn": "nào là do thời tiết rồi do cái chân tồi tệ của tôi, nên suốt mấy tuần tôi không ra khỏi nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "What's what",
+              "list_im": [
+                {
+                  "im_full_vn": "thừ nào là có ích, quan trọng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she certainly knows what's what",
+                      "full_vn": "cô ấy biết chắc cái gì là quan trọng rồi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "what did you say ?",
+              "full_vn": "anh đã nói gì?"
+            },
+            {
+              "full_en": "what does he do ?",
+              "full_vn": "ông ấy làm nghề gì?"
+            },
+            {
+              "full_en": "what are you reading /sewing /thinking ?",
+              "full_vn": "anh đang đọc/khâu/nghĩ cái gì thế?"
+            },
+            {
+              "full_en": "what's the time /date ?",
+              "full_vn": "mấy giờ rồi/ngày bao nhiêu nhỉ?"
+            },
+            {
+              "full_en": "what does it mean ?",
+              "full_vn": "điều đó nghĩa là gì?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "những thứ mà",
+          "list_en_vn": [
+            {
+              "full_en": "what you say may be well true",
+              "full_vn": "những điều anh nói rất có thể đúng"
+            },
+            {
+              "full_en": "no one knows what will happen next",
+              "full_vn": "không ai biết điều gì sẽ xảy ra tiếp theo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331721_f94cb2df59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331721_805aed9fcc_o.png",
+      "id_image": "what_4471136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686664_8883159555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686664_9a95879879_o.png",
+      "id_image": "what_5359837"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "tape",
+  "phat_am": "[teip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây, dải (để gói, buộc, viền)"
+        },
+        {
+          "m_full_vn": "băng",
+          "list_en_vn": [
+            {
+              "full_en": "a tape of paper",
+              "full_vn": "một băng giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "băng ghi âm, băng điện tín"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) dây chăng ở đích",
+          "list_en_vn": [
+            {
+              "full_en": "to breast the tape",
+              "full_vn": "tới đích đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viền",
+          "list_en_vn": [
+            {
+              "full_en": "to tape a dress",
+              "full_vn": "viền một cái áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to tape a parcel",
+              "full_vn": "buộc một cái gói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đo bằng thước dây"
+        },
+        {
+          "m_full_vn": "đánh dấu; tính ra chỗ (đặt cái gì...)",
+          "list_en_vn": [
+            {
+              "full_en": "to tape an enemy battery",
+              "full_vn": "tính ra chỗ đặt một ổ pháo của địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đo, tính, xét, nắm",
+          "list_en_vn": [
+            {
+              "full_en": "I've got the situation taped",
+              "full_vn": "tôi đã nắm vững tình hình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441733_aed57a65f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441733_5ae183de2d_o.png",
+      "id_image": "tape_1974730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326731_82ef427f3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326731_0e44633e99_o.png",
+      "id_image": "tape_2438466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326706_b95616aa53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326706_09828d5e0b_o.png",
+      "id_image": "tape_4284216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681729_4d20ef030c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681729_9da30c40a6_o.png",
+      "id_image": "tape_5827572"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "textile",
+  "phat_am": "['tekstail]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dệt, có sợi dệt được",
+          "list_en_vn": [
+            {
+              "full_en": "textile materials",
+              "full_vn": "nguyên liệu để dệt"
+            },
+            {
+              "full_en": "textile fabric",
+              "full_vn": "vải"
+            },
+            {
+              "full_en": "textile industry",
+              "full_vn": "công nghiệp dệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) vải dệt (hàng dệt tay hoặc dệt bằng máy)"
+        },
+        {
+          "m_full_vn": "nguyên liệu dệt (bông, gai, đay...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465473_af1b1b77e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465473_cdb9f90dca_o.png",
+      "id_image": "textile_1466542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395627_e06b21ca27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395627_0fe991b4f6_o.png",
+      "id_image": "textile_2818430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350906_42fdbf9a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350906_c1b8497218_o.png",
+      "id_image": "textile_5231955"
+    }
+  ]
+}

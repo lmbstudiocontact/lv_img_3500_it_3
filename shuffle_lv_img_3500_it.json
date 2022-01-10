@@ -1,0 +1,108 @@
+{
+  "english": "shuffle",
+  "phat_am": "['∫ʌfl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi lê chân, sự lê bước"
+        },
+        {
+          "m_full_vn": "(đánh bài) sự xáo bài; lượt xáo bài"
+        },
+        {
+          "m_full_vn": "sự ăn nói mập mờ; sự thoái thác; hành động lẩn tránh; hành động lừa dối"
+        },
+        {
+          "m_full_vn": "sự bố trí lại, sự sắp xếp lại trật tự"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lê (chân); di chuyển (chân mình) loanh quanh khi đang đứng (vì bồn chồn, lo lắng..)",
+          "list_en_vn": [
+            {
+              "full_en": "- (đánh bài ) xáo , trang (bài )",
+              "full_vn": "bố trí lại, sắp xếp lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ, đổ, trút (trách nhiệm)",
+          "list_en_vn": [
+            {
+              "full_en": "to shuffle off responsibility upon others",
+              "full_vn": "trút trách nhiệm cho những người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) lúng túng mặc vội vào",
+          "list_en_vn": [
+            {
+              "full_en": "to shuffle on one's clothes",
+              "full_vn": "lúng túng mặc vội quần áo vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off ) lúng túng cởi vội ra",
+          "list_en_vn": [
+            {
+              "full_en": "to shuffle off one's clothes",
+              "full_vn": "lúng túng cởi vội quần áo ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm cách thoái thác, tìm cách lẩn tránh; lừa dối"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lê chân, lê bước"
+        },
+        {
+          "m_full_vn": "thay đổi ý kiến, dao động, không có lập trường"
+        },
+        {
+          "m_full_vn": "luôn luôn đổi chỗ, luôn luôn xê dịch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shuffle the cards",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) thay đổi con bài, đổi chính sách"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078515_44697d314f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078515_ff89174c9d_o.png",
+      "id_image": "shuffle_1809667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455933_99ddd48f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455933_1b7e404c8f_o.png",
+      "id_image": "shuffle_1902305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341091_54fe9e0a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341091_8fb4c7d13d_o.png",
+      "id_image": "shuffle_5072395"
+    }
+  ]
+}

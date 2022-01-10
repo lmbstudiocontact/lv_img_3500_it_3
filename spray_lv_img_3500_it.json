@@ -1,0 +1,108 @@
+{
+  "english": "spray",
+  "phat_am": "[sprei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cành nhỏ (của cây mộc, cây thảo có cả lá và hoa)",
+          "list_en_vn": [
+            {
+              "full_en": "a spray of peach-tree",
+              "full_vn": "cành đào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cành thoa; vật trang trí nhân tạo có hình dạng cành nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a spray of diamonds",
+              "full_vn": "cành thoa kim cương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chùm hoa.. được cắt ra và sắp xếp lại một cách hấp dẫn (làm đồ trang trí trên quần áo..)",
+          "list_en_vn": [
+            {
+              "full_en": "she carried a spray of pink roses",
+              "full_vn": "cô ta cầm một bó hoa hồng màu hồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bụi nước (ở sóng tung lên, hoặc ở bình bơm phun ra...)",
+          "list_en_vn": [
+            {
+              "full_en": "sea spray",
+              "full_vn": "bụi nước biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất lỏng dưới dạng bụi do một thiết bị đặc biệt phun ra dưới áp suất (nước hoa, thuốc trừ sâu...)",
+          "list_en_vn": [
+            {
+              "full_en": "fly-spray",
+              "full_vn": "thuốc phun diệt ruồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) máy, ống, bình phun, xịt, bơm (nước hoa, thuốc trừ sâu...)"
+        },
+        {
+          "m_full_vn": "cái tung ra như bụi nước",
+          "list_en_vn": [
+            {
+              "full_en": "a spray of fireworks",
+              "full_vn": "pháo hoa tung ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bơm, phun, xịt, xì (thuốc trừ sâu...)",
+          "list_en_vn": [
+            {
+              "full_en": "spraying paint on her car",
+              "full_vn": "xì sơn lên xe hơi của cô ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + out ) ( over , across ) bắn tung toé, phun ra thành hạt nhỏ li ti (chất lỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "water sprayed out over the floor",
+              "full_vn": "nước bắn tung toé khắp sàn nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089880_1d8d443071_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089880_6a411f1880_o.png",
+      "id_image": "spray_1175775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089910_134045393f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089910_a1dd0e4785_o.png",
+      "id_image": "spray_529491"
+    }
+  ]
+}

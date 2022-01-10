@@ -1,0 +1,413 @@
+{
+  "english": "talk",
+  "phat_am": "[tɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc trò chuyện, cuộc thảo luận"
+        },
+        {
+          "m_full_vn": "nói suông (nói mà không làm)",
+          "list_en_vn": [
+            {
+              "full_en": "he's all talk",
+              "full_vn": "thằng ấy chỉ được cái tài nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài nói không chính thức, bài nói chuyện",
+          "list_en_vn": [
+            {
+              "full_en": "a talk on Russian music",
+              "full_vn": "một bài nói chuyện về âm nhạc Nga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin đồn, lời xì xào bàn tán",
+          "list_en_vn": [
+            {
+              "full_en": "that's all talk",
+              "full_vn": "đó chỉ là tin đồn"
+            },
+            {
+              "full_en": "the talk of the town",
+              "full_vn": "chuyện cả tỉnh người ta bàn tán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là trong từ ghép) cách nói"
+        },
+        {
+          "m_full_vn": "( số nhiều) (chính trị) cuộc đàm phán, cuộc thương lượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "be all talk (and no action )",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ được cái tài nói suông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the talk of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chủ đề chính của trò chuyện ở (một nơi)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói chuyện, chuyện trò",
+          "list_en_vn": [
+            {
+              "full_en": "we talked for almost an hour",
+              "full_vn": "chúng tôi nói chuyện với nhau gần một tiếng đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có khả năng nói",
+          "list_en_vn": [
+            {
+              "full_en": "baby is beginning to talk",
+              "full_vn": "em bé bắt đầu biết nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói nhiều, bép xép; bàn tán, ngồi lê đôi mách, xì xào",
+          "list_en_vn": [
+            {
+              "full_en": "don't do that , people will talk",
+              "full_vn": "đừng làm cái đó, người ta sẽ nói ngay đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt chước tiếng nói",
+          "list_en_vn": [
+            {
+              "full_en": "you can teach some parrots to talk",
+              "full_vn": "cậu có thể dạy cho một vài con vẹt nói được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói; dùng (một ngôn ngữ nào đó) khi nói",
+          "list_en_vn": [
+            {
+              "full_en": "to talk English",
+              "full_vn": "nói tiếng Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói về, bàn về, thảo luận",
+          "list_en_vn": [
+            {
+              "full_en": "to talk politics",
+              "full_vn": "nói chuyện chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diễn đạt (cái gì) bằng lời",
+          "list_en_vn": [
+            {
+              "full_en": "you're talking rubbish",
+              "full_vn": "cậu nói bậy nói bạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói quá làm cho, nói đến nỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to talk about (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "nói về, bàn về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we'll talk about that point later",
+                      "full_vn": "chúng ta sẽ bàn về điểm đó sau"
+                    },
+                    {
+                      "full_en": "what are they talking of ?",
+                      "full_vn": "họ đang nói về cái gì thế?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk at",
+              "list_im": [
+                {
+                  "im_full_vn": "nói ám chỉ, nói bóng gió, nói cạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk away",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chuyện cho hết (thì giờ); nói suốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to talk the afternoon away",
+                      "full_vn": "nói chuyện cho qua buổi chiều; nói chuyện suốt cả buổi chiều"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nói tiếp, nói mãi, nói dài, nói dứt không ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk out",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn kéo dài, tranh luận đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk out of",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn ra, can ngăn, nói để đừng làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk someone out of a plan",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn ai đừng theo một kế hoạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk to",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chỉnh, xài, phê bình, quở trách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the lazy boy wants talking to",
+                      "full_vn": "cần phải xài cho thằng bé trây lười một trận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk for the sake of talking",
+              "list_im": [
+                {
+                  "im_full_vn": "nói để mà nói, nói chẳng mục đích gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk to the purpose",
+              "list_im": [
+                {
+                  "im_full_vn": "nói đúng lúc; nói cái đang nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look who's talking",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nói người hãy ngẫm đến ta; sờ lên gáy xem"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk big",
+              "list_im": [
+                {
+                  "im_full_vn": "huênh hoang, khoác lác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk dirty",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nói tục tĩu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk one's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "nói quá nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lải nhải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk the hind legs off a donkey",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thao thao bất tuyệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk sense",
+              "list_im": [
+                {
+                  "im_full_vn": "nói phải, nói có lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk shop",
+              "list_im": [
+                {
+                  "im_full_vn": "bép xép chuyện làm ăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk turkey",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) nói toạc móng heo, nói thẳng thừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "át giọng, cả vú lấp miệng em"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk back (to somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "cãi lại, nói lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody down",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chặn họng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk down to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "lên giọng kẻ cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody into /out of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "dỗ dành, can"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody over /round (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "dỗ dành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "talk it over with your parents before you reply",
+                      "full_vn": "hãy bàn kỹ vấn đề đó với thầy mẹ anh đã rồi hãy trả lời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk round something",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn quanh bàn quẩn; bàn vòng vo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk somebody /something up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) nói để ủng hộ ai/cái gì; ca ngợi ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to talk somebody's head off",
+              "full_vn": "nói quá làm cho ai nhức cả đầu"
+            },
+            {
+              "full_en": "to talk oneself hoarse",
+              "full_vn": "nói đến khản cả tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327246_cd053bfb85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327246_ffc0ba59af_o.png",
+      "id_image": "talk_1376427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064045_5c5a3af526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064045_5ab1dbcc19_o.png",
+      "id_image": "talk_2542449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682334_1266eed92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682334_eaa99c88d7_o.png",
+      "id_image": "talk_3890870"
+    }
+  ]
+}

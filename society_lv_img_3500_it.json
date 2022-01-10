@@ -1,0 +1,133 @@
+{
+  "english": "society",
+  "phat_am": "[sə'saiəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xã hội",
+          "list_en_vn": [
+            {
+              "full_en": "duties towards society",
+              "full_vn": "những bổn phận đối với xã hội"
+            },
+            {
+              "full_en": "a danger to society",
+              "full_vn": "một mối nguy hại cho xã hội"
+            },
+            {
+              "full_en": "Society has a right to see law-breakers punished",
+              "full_vn": "xã hội có quyền nhìn thấy kẻ phạm pháp phải bị trừng phạt"
+            },
+            {
+              "full_en": "modern industrial societies",
+              "full_vn": "các xã hội công nghiệp hiện đại"
+            },
+            {
+              "full_en": "working class society",
+              "full_vn": "xã hội của tầng lớp lao động"
+            },
+            {
+              "full_en": "Islamic society",
+              "full_vn": "xã hội Hồi giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp sang trọng; tầng lớp thượng lưu",
+          "list_en_vn": [
+            {
+              "full_en": "high society",
+              "full_vn": "tầng lớp cao sang"
+            },
+            {
+              "full_en": "leaders of society",
+              "full_vn": "những người đứng đầu xã hội thượng lưu"
+            },
+            {
+              "full_en": "a society wedding",
+              "full_vn": "một đám cưới giàu sang"
+            },
+            {
+              "full_en": "society news",
+              "full_vn": "tin tức về xã hội thượng lưu"
+            },
+            {
+              "full_en": "society people",
+              "full_vn": "những người ở tầng lớp thượng lưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao du, sự giao thiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to have no society with someone",
+              "full_vn": "không giao thiệp với người nào"
+            },
+            {
+              "full_en": "to avoid the society of other people",
+              "full_vn": "tránh giao du với người khác"
+            },
+            {
+              "full_en": "to spend an evening in the society of one's friends",
+              "full_vn": "sống một đêm với bạn bè"
+            },
+            {
+              "full_en": "to enjoy somebody's society",
+              "full_vn": "thích làm bạn với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn thể; hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "a mutual admiration society",
+              "list_im": [
+                {
+                  "im_full_vn": "xem mutual"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the alternative society",
+              "list_im": [
+                {
+                  "im_full_vn": "xem alternative"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the school debating society",
+              "full_vn": "câu lạc bộ lý luận của nhà trường"
+            },
+            {
+              "full_en": "a co-operative society",
+              "full_vn": "hội hợp tác xã"
+            },
+            {
+              "full_en": "a drama society",
+              "full_vn": "câu lạc bộ kịch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442668_2a8cb98f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442668_ce43abe800_o.png",
+      "id_image": "society_5999480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064285_3ff1d584c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064285_30b73bde8d_o.png",
+      "id_image": "society_6193871"
+    }
+  ]
+}

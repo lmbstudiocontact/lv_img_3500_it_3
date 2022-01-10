@@ -1,0 +1,54 @@
+{
+  "english": "vigilance",
+  "phat_am": "['vidʒiləns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cảnh giác, sự thận trọng, sự đề phòng (nguy hiểm..)",
+          "list_en_vn": [
+            {
+              "full_en": "to show great vigilance",
+              "full_vn": "tỏ ra cảnh giác cao, tỏ ra rất thận trọng"
+            },
+            {
+              "full_en": "to lack vigilance",
+              "full_vn": "thiếu cảnh giác, thiếu thận trọng"
+            },
+            {
+              "full_en": "to exercise constant /perpetual vigilance",
+              "full_vn": "tập cảnh giác không ngừng/thường xuyên"
+            },
+            {
+              "full_en": "police vigilance was eventually rewarded",
+              "full_vn": "rốt cuộc tinh thần cảnh giác của cảnh sát đã được đền bù (bắt được tội phạm chẳng hạn)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458888_163cacaa90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458888_ff54c0e4c8_o.png",
+      "id_image": "vigilance_1088917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081525_a9dc5c4f8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081525_fd0e851341_o.png",
+      "id_image": "vigilance_4310484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081460_c9e4b4f197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081460_595f2e99ee_o.png",
+      "id_image": "vigilance_4412774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389117_e4fc973ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389117_a952491c79_o.png",
+      "id_image": "vigilance_708645"
+    }
+  ]
+}

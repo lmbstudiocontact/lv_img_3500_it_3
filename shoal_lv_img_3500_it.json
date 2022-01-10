@@ -1,0 +1,78 @@
+{
+  "english": "shoal",
+  "phat_am": "[∫oul]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nông cạn, không sâu (nước)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều shoals",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ nông, chỗ cạn (nước)"
+        },
+        {
+          "m_full_vn": "bãi cát ngầm",
+          "list_en_vn": [
+            {
+              "full_en": "steer way from the shoals",
+              "full_vn": "lái tàu tránh các bãi các ngầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (nghĩa bóng) những nguy hiểm ngấm ngầm, những khó khăn lẩn khuất"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên nông; trở nên cạn, cạn đi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám đông, số đông",
+          "list_en_vn": [
+            {
+              "full_en": "shoals of people",
+              "full_vn": "nhiều đám đông người"
+            },
+            {
+              "full_en": "to get letters in shoals",
+              "full_vn": "nhận được nhiều thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đàn cá"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tụ tập thành đàn, hợp thành đàn (cá)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388972_de94e8e165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388972_430f6e372c_o.png",
+      "id_image": "shoal_3937715"
+    }
+  ]
+}

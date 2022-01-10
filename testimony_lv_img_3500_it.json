@@ -1,0 +1,49 @@
+{
+  "english": "testimony",
+  "phat_am": "['testiməni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chứng nhận, sự nhận thực; lời chứng, lời khai; bản chứng nhận",
+          "list_en_vn": [
+            {
+              "full_en": "According to the witness's testimony , you were present when the crime was committed",
+              "full_vn": "Theo lời khai của nhân chứng, anh đã có mặt khi tội ác xảy ra"
+            },
+            {
+              "full_en": "in testimony of",
+              "full_vn": "để làm chứng cho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( testimony to something ) bằng chứng, chứng cớ",
+          "list_en_vn": [
+            {
+              "full_en": "False testimony",
+              "full_vn": "bằng chứng giả mạo"
+            },
+            {
+              "full_en": "The pyramids are (a ) testimony to the Ancient Egyptians' engineering skills",
+              "full_vn": "Các kim tự tháp là bằng chứng về tài năng xây dựng của người Ai Cập cổ đại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088415_377d004d65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088415_ecbd9d9e01_o.png",
+      "id_image": "testimony_4795898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705714_4e358f0246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705714_8f08554925_o.png",
+      "id_image": "testimony_6174438"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "surrender",
+  "phat_am": "[sə'rendə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đầu hàng; sự từ bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to demand the unconditional surrender of the terrorists",
+              "full_vn": "đòi phe khủng bố phải đầu hàng vô điều kiện"
+            },
+            {
+              "full_en": "she accused the government of a cowardly surrender to big-business interest",
+              "full_vn": "bà ấy tố cáo chính phủ đã hèn nhát đầu hàng quyền lợi của giới kinh doanh lớn"
+            },
+            {
+              "full_en": "what's the surrender value of these shares ?",
+              "full_vn": "giá trị bán ra của các cổ phần này là bao nhiêu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to surrender oneself to somebody ) chịu thua; nhượng bộ; đầu hàng",
+          "list_en_vn": [
+            {
+              "full_en": "we shall never surrender",
+              "full_vn": "chúng ta sẽ không bao giờ đầu hàng"
+            },
+            {
+              "full_en": "the hijackers finally surrendered (themselves ) to the criminal police",
+              "full_vn": "rốt cuộc bọn không tặc đã đầu hàng cảnh sát cảnh sát hình sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to surrender something / somebody to somebody ) từ bỏ; dâng; nộp",
+          "list_en_vn": [
+            {
+              "full_en": "to surrender one's office",
+              "full_vn": "từ chức"
+            },
+            {
+              "full_en": "to surrender a privilege",
+              "full_vn": "từ bỏ một đặc quyền"
+            },
+            {
+              "full_en": "to surrender hopes",
+              "full_vn": "từ bỏ hy vọng"
+            },
+            {
+              "full_en": "they surrendered their guns to the police",
+              "full_vn": "chúng nộp súng cho cảnh sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to surrender oneself to something ) để cho (một thói quen, một ảnh hưởng..) chi phối việc mình làm",
+          "list_en_vn": [
+            {
+              "full_en": "he surrendered (himself ) to despair and eventually committed suicide",
+              "full_vn": "anh ta đã để cho sự thất vọng chi phối và cuối cùng đã tự sát"
+            },
+            {
+              "full_en": "to surrender to an emotion",
+              "full_vn": "để cho sự xúc động chi phối"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690614_dd8af28d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690614_6bb5905372_o.png",
+      "id_image": "surrender_3857603"
+    }
+  ]
+}

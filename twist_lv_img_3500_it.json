@@ -1,0 +1,356 @@
+{
+  "english": "twist",
+  "phat_am": "[twist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xoắn; vòng xoắn; nút xoắn",
+          "list_en_vn": [
+            {
+              "full_en": "to give the rope a few more twists",
+              "full_vn": "xoắn sợi dây thêm vài dòng nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xe, sự bện; sợi xe, thừng bện"
+        },
+        {
+          "m_full_vn": "sự vặn, sự quay"
+        },
+        {
+          "m_full_vn": "cuộn (thuốc lá); hình cuộn lại"
+        },
+        {
+          "m_full_vn": "sự nhăn nhó, sự méo mó, sự quằn quại",
+          "list_en_vn": [
+            {
+              "full_en": "to speak with a twist of the lips",
+              "full_vn": "nói cái môi cứ méo đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khúc cong, khúc lượn quanh co, chỗ rẽ, vòng",
+          "list_en_vn": [
+            {
+              "full_en": "a twist in a road",
+              "full_vn": "khúc đường quanh co"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thay đổi, sự phát triển"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) sự đánh xoáy (quả bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to set a lot of twist on the ball",
+              "full_vn": "đánh quả banh rất xoáy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự làm sái; sự trẹo, sự sái, sự bong gân",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's ankle a twist",
+              "full_vn": "bị trật xương mắt cá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự vênh (tấm ván)"
+        },
+        {
+          "m_full_vn": "điệu nhảy tuýt"
+        },
+        {
+          "m_full_vn": "khuynh hướng; bản tính; đặc tính",
+          "list_en_vn": [
+            {
+              "full_en": "most of those errors were owing to a peculiar twist of his mind",
+              "full_vn": "hầu hết những sai lầm đều do ở cái tính hơi lập dị của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bóp méo, sự xuyên tạc, sự cố ý làm sai ý nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "a twist to the truth",
+              "full_vn": "điều bóp méo sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rượu pha trộn ( cônhăc, uytky...)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự thèm ăn, sự muốn ăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "twist of the wrist",
+              "list_im": [
+                {
+                  "im_full_vn": "trò khéo tay; sự khéo léo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a twist on the shorts",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) sự bán hàng với giá cứa cổ (đầu cơ lúc khan hiếm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "twists and turns",
+              "list_im": [
+                {
+                  "im_full_vn": "những chỗ quanh co khúc khuỷu; những cái ngoắt ngoéo ngóc ngách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he knows the twists and turns of the place",
+                      "full_vn": "nó biết tất cả những ngóc ngách của nơi đó"
+                    },
+                    {
+                      "full_en": "to know the twists and turns of the laws",
+                      "full_vn": "biết tất cả những chỗ ngoắt ngoéo của luật pháp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a awful twist",
+              "full_vn": "thèm ăn ghê lắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoắn, cuộn, quắn",
+          "list_en_vn": [
+            {
+              "full_en": "I twisted the bandage round her knee",
+              "full_vn": "tôi quấn băng quanh đầu gối cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe, bện, kết; vắt",
+          "list_en_vn": [
+            {
+              "full_en": "to twist a thread",
+              "full_vn": "bên một sợi chỉ"
+            },
+            {
+              "full_en": "to twista garland",
+              "full_vn": "kết một vòng hoa"
+            },
+            {
+              "full_en": "to twist a wet cloth",
+              "full_vn": "vắt cái khắn ướt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vặn, quay",
+          "list_en_vn": [
+            {
+              "full_en": "to twist someone's arm",
+              "full_vn": "vặn cánh tay ai"
+            },
+            {
+              "full_en": "I twisted my head round to reverse the car",
+              "full_vn": "tôi quay đầu lại phía sau để cho xe chạy lùi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhăn, làm méo",
+          "list_en_vn": [
+            {
+              "full_en": "to twist one's face",
+              "full_vn": "nhăn mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm sái, làm trật, làm trẹo, làm bong gân",
+          "list_en_vn": [
+            {
+              "full_en": "to twist one's ankle",
+              "full_vn": "làm sái mắt cá chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh xoáy"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bóp méo, xuyên tạc, cố ý làm sai nghĩa (lời nói..)",
+          "list_en_vn": [
+            {
+              "full_en": "to twist the truth",
+              "full_vn": "bóp méo sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lách, len lỏi, đi vòng vèo",
+          "list_en_vn": [
+            {
+              "full_en": "to twist one's way through the crowd",
+              "full_vn": "lách (len lỏi) qua đám đông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoắn lại, cuộn lại, quấn",
+          "list_en_vn": [
+            {
+              "full_en": "the string had twisted into a knot",
+              "full_vn": "sợi dây xoắn lại thành một búi"
+            },
+            {
+              "full_en": "the snake twisted round my arm",
+              "full_vn": "con rắn quấn quanh cánh tay tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "leo lên",
+          "list_en_vn": [
+            {
+              "full_en": "the sweet peas are twisting up the canes",
+              "full_vn": "những cây đậu hoa leo lên quấn quanh những que trúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị méo đi, bị nhăn nhúm",
+          "list_en_vn": [
+            {
+              "full_en": "the metal frame tends to twist under pressure",
+              "full_vn": "cái khung kim loại muốn oằn lại dưới sức ép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay quanh; xoay quanh; xoay mình; quằn quại",
+          "list_en_vn": [
+            {
+              "full_en": "to twist with pain",
+              "full_vn": "quằn quại đau đớn"
+            },
+            {
+              "full_en": "I twisted round in my seat to speak to her",
+              "full_vn": "tôi xoay mình trên ghế để nói chuyện với cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị trật, bị sái, bị trẹo, bị bong gân",
+          "list_en_vn": [
+            {
+              "full_en": "my ankle twisted",
+              "full_vn": "xương mắt cá chân tôi bị trật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượn vòng, uốn khúc, quanh co (đường đi)",
+          "list_en_vn": [
+            {
+              "full_en": "the road twists and twists",
+              "full_vn": "con đường quanh co khúc khuỷu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "len, lách, đi vòng vèo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to twist somebody's arm",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thuyết phục ai làm cái gì, bắt buộc ai phải làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist somebody round one's little finger",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bắt ai chiều hết ý; xỏ mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist (something ) off (something )",
+              "list_im": [
+                {
+                  "im_full_vn": "vặn rời, vặn gãy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to twist off a piece of wire",
+                      "full_vn": "xoắn đứt sợi dây thép"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist up",
+              "list_im": [
+                {
+                  "im_full_vn": "xoắn trôn ốc, cuộn lên thành hình trôn ốc (khói); cuộn (mảnh giấy) thành hình trôn ốc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to twist through the crowd",
+              "full_vn": "lách qua đám đông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092210_e895e23a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092210_522aaf9aeb_o.png",
+      "id_image": "twist_4601189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354821_965d5d761c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354821_205de14d05_o.png",
+      "id_image": "twist_5376883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354786_3e8fdfab5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354786_40423e07e0_o.png",
+      "id_image": "twist_5776293"
+    }
+  ]
+}

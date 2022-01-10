@@ -1,0 +1,68 @@
+{
+  "english": "scope",
+  "phat_am": "[skoup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phạm vi, tầm (kiến thức)",
+          "list_en_vn": [
+            {
+              "full_en": "that is beyond my scope",
+              "full_vn": "tôi không làm nổi việc đó; tôi không đủ thẩm quyền giải quyết việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ hội, dịp, lối thoát; nơi phát huy",
+          "list_en_vn": [
+            {
+              "full_en": "the job will give ample scope to his ability",
+              "full_vn": "làm việc đó anh ta sẽ có đất để dụng võ; làm việc đó anh ta sẽ có dịp để phát huy khả năng của mình"
+            },
+            {
+              "full_en": "we must read to broaden the scope of our knowledge",
+              "full_vn": "chúng ta phải đọc để mở rộng kiến thức"
+            },
+            {
+              "full_en": "It's a scope for one's energies",
+              "full_vn": "đó là dịp phát huy tất cả sức lực của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) chiều dài dây neo (khi tàu bỏ neo)"
+        },
+        {
+          "m_full_vn": "(quân sự) tầm tên lửa"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) mục tiêu, mục đích, ý định"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444168_e7302a6cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444168_0a254a0fd0_o.png",
+      "id_image": "scope_2621314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329186_44b04e9ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329186_043a6c2cff_o.png",
+      "id_image": "scope_2721292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444063_235e12f0bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444063_228a909c53_o.png",
+      "id_image": "scope_3335741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065895_8ab850d76b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065895_4f98822dfb_o.png",
+      "id_image": "scope_6433937"
+    }
+  ]
+}

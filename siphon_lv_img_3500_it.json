@@ -1,0 +1,75 @@
+{
+  "english": "siphon",
+  "phat_am": "['saifən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống xi-phông, ống truyền nước, vòi truyền nước"
+        },
+        {
+          "m_full_vn": "chai đựng nước xô-đa có thể dùng sức ép của ga trong bình để xì ra (như) soda-siphon"
+        },
+        {
+          "m_full_vn": "(động vật học) vòi chích, vòi hút (của một số côn trùng và súc vật) (như) siphuncle"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dẫn bằng xi-phông; hút bằng xi-phông",
+          "list_one_mean": [
+            {
+              "id_full_en": "siphon somebody /something off",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rút, hút, chuyển ( ai/cái gì) từ nơi này sang nơi khác, thường là không ngay thẳng, bất hợp pháp)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the big clubs siphon off all the best players",
+                      "full_vn": "các câu lạc bộ lớn đã hút hết các cầu thủ giỏi nhất"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to siphon petrol out of a car into a can",
+              "full_vn": "dùng xi-phông hút xăng từ ô tô sang một cái can"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyền qua xi-phông, chảy qua xi-phông"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382147_3c21e03504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382147_2a5435962a_o.png",
+      "id_image": "siphon_5071860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692434_fdd99d95c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692434_13da00d4b7_o.png",
+      "id_image": "siphon_5071883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337036_a746d00680_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337036_491b6408fa_o.png",
+      "id_image": "siphon_5158861"
+    }
+  ]
+}

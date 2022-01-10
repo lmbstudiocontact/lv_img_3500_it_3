@@ -1,0 +1,54 @@
+{
+  "english": "sue",
+  "phat_am": "[sju: ; su:]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to sue somebody for something ) kiện ai ra toà về việc gì",
+          "list_en_vn": [
+            {
+              "full_en": "to sue somebody for damages",
+              "full_vn": "kiện ai đòi bồi thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to sue for something ) chính thức yêu cầu cái gì trước toà án",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sue for a woman's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu hôn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sue for peace",
+              "full_vn": "yêu cầu hoà giải"
+            },
+            {
+              "full_en": "a prisoner suing for mercy",
+              "full_vn": "một tù nhân thỉnh cầu khoan hồng"
+            },
+            {
+              "full_en": "to sue for a divorce",
+              "full_vn": "xin ly hôn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454073_f33320bc07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454073_aa446ccb68_o.png",
+      "id_image": "sue_2419693"
+    }
+  ]
+}

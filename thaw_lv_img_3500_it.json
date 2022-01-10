@@ -1,0 +1,92 @@
+{
+  "english": "thaw",
+  "phat_am": "[θɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tan (của tuyết)"
+        },
+        {
+          "m_full_vn": "thời tiết nóng làm tan băng",
+          "list_en_vn": [
+            {
+              "full_en": "before the thaw sets in",
+              "full_vn": "trước khi băng tan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự mạnh dạn lên; sự hết dè dặt lạnh lùng (trong thái độ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tan",
+          "list_en_vn": [
+            {
+              "full_en": "to thaw the thick layer of snow",
+              "full_vn": "làm tan lớp tuyết dày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho mạnh dạn lên, làm cho hết e lệ, làm cho hết dè dặt, làm hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "to thaw someone",
+              "full_vn": "làm cho ai mạnh dạn lên, làm cho ai bớt dè dặt lạnh lùng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tan",
+          "list_en_vn": [
+            {
+              "full_en": "the snow thaws",
+              "full_vn": "tuyết tan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấm hơn, đỡ giá rét (có thể làm cho tuyết tan)",
+          "list_en_vn": [
+            {
+              "full_en": "it's thawing",
+              "full_vn": "trời đỡ giá rét hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vui vẻ lên, cở mở hơn, hết dè dặt lạnh lùng (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087850_b8357afeee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087850_eb509c6204_o.png",
+      "id_image": "thaw_2067629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705214_930b8d22a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705214_9be00ec9ae_o.png",
+      "id_image": "thaw_357295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465218_2dc6c9e678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465218_0e42ae2999_o.png",
+      "id_image": "thaw_3937391"
+    }
+  ]
+}

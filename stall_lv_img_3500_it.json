@@ -1,0 +1,146 @@
+{
+  "english": "stall",
+  "phat_am": "[stɔ:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuồng (ngựa, trâu bò); ngăn chuồng"
+        },
+        {
+          "m_full_vn": "ngăn (hầm mỏ than)"
+        },
+        {
+          "m_full_vn": "quầy, bàn bày hàng"
+        },
+        {
+          "m_full_vn": "quán bán hàng, sạp bán hàng"
+        },
+        {
+          "m_full_vn": "( số nhiều) phần của rạp hát gần sân khấu nhất; dãy ghế gần sân khấu nhất",
+          "list_en_vn": [
+            {
+              "full_en": "two seats in the stalls",
+              "full_vn": "hai ghế ở dãy trên cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng nhỏ, buồng nhỏ ( (thường) cho một người)",
+          "list_en_vn": [
+            {
+              "full_en": "stalls for changing in at the swimming-pool",
+              "full_vn": "các buồng thay quần áo ở bể bơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gian triển lãm"
+        },
+        {
+          "m_full_vn": "(tôn giáo) ghế ngồi hát kinh (trong nhà thờ)"
+        },
+        {
+          "m_full_vn": "chức vị giáo sĩ"
+        },
+        {
+          "m_full_vn": "(hàng không) tình trạng chòng chành (vì tốc độ giảm của máy bay)"
+        },
+        {
+          "m_full_vn": "sự chết máy"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhốt, giữ (súc vật) trong chuồng (nhất là để vỗ béo)"
+        },
+        {
+          "m_full_vn": "ngăn (chuồng) thành nhiều ngăn"
+        },
+        {
+          "m_full_vn": "làm cho (động cơ) chết máy, ngừng chạy (người lái xe)",
+          "list_en_vn": [
+            {
+              "full_en": "learner drivers often stall (their cars )",
+              "full_vn": "những người tập lái thường làm xe chết máy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị nhốt trong ngăn chuồng"
+        },
+        {
+          "m_full_vn": "sa lầy (trong bùn, tuyết) (ngựa, xe bò)"
+        },
+        {
+          "m_full_vn": "ngừng chạy, chết máy (ô tô, máy móc)"
+        },
+        {
+          "m_full_vn": "(hàng không) chòng chành; mất điều khiển và bắt đầu rơi (vì máy bay mất tốc độ)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cò mồi kẻ cắp (tên kẻ cắp chuyên làm lạc hướng mọi người để cho đồng bọn ăn cắp hay chạy trốn)"
+        },
+        {
+          "m_full_vn": "đòn phép đánh lừa, mẹo lảnh tránh"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tránh, né, nói lảng, đánh trống lảng, trì hoãn (trong khi nói chuyện)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ngăn cản, ngăn trở; trì hoãn"
+        },
+        {
+          "m_full_vn": "( (thường) + off ) dùng mẹo lảng tránh để trì hoãn, dùng mẹo lảng tránh để thoát khỏi...",
+          "list_en_vn": [
+            {
+              "full_en": "he could no longer stall off his creditors",
+              "full_vn": "hắn không thể dùng mẹo lảng tránh để thoát khỏi những chủ nợ được nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704724_1c091a32e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704724_a7d6a689be_o.png",
+      "id_image": "stall_863138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464758_ff92f68737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464758_d77e7c1fc6_o.png",
+      "id_image": "stall_909159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350111_8f081982cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350111_e4f361ce9f_o.png",
+      "id_image": "stall_950710"
+    }
+  ]
+}

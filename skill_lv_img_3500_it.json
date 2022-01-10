@@ -1,0 +1,46 @@
+{
+  "english": "skill",
+  "phat_am": "[skil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( skill at something/doing something ) sự khéo léo; sự tinh xảo",
+          "list_en_vn": [
+            {
+              "full_en": "to show great skill at driving , cooking",
+              "full_vn": "tỏ ra rất thành thạo trong việc lái xe, nấu ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ năng; kỹ xảo",
+          "list_en_vn": [
+            {
+              "full_en": "the practical skills needed in carpentry",
+              "full_vn": "những kỹ năng thực hành cần thiết cho nghề thợ mộc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072510_78eb958628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072510_555c77ccff_o.png",
+      "id_image": "skill_2117028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072450_c01eb5a3bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072450_da1e3b7581_o.png",
+      "id_image": "skill_4158022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335521_0f289e27ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335521_5d4a1f1ce9_o.png",
+      "id_image": "skill_6214158"
+    }
+  ]
+}

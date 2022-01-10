@@ -1,0 +1,56 @@
+{
+  "english": "ventilation",
+  "phat_am": "[,venti'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thông gió, sự thông hơi; sự được thông gió, sự được thông hơi",
+          "list_en_vn": [
+            {
+              "full_en": "the ventilation of the room",
+              "full_vn": "sự thông gió gian phòng"
+            },
+            {
+              "full_en": "fans for ventilation",
+              "full_vn": "quạt để thông gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống làm thông gió, phương pháp làm thông gió (căn phòng, toà nhà..)"
+        },
+        {
+          "m_full_vn": "(y học) sự lọc (máu) bằng oxy"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự công bố rộng rãi, sự thảo luận rộng rãi, sự đưa ra bàn luận rộng rãi (một vấn đề..)",
+          "list_en_vn": [
+            {
+              "full_en": "the problem requires ventilation",
+              "full_vn": "vấn đề này cần được đưa ra bàn luận rộng rãi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701554_700ced2c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701554_f91aaebc07_o.png",
+      "id_image": "ventilation_406078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391642_ef08521c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391642_66bf4d5fc9_o.png",
+      "id_image": "ventilation_422144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391622_b843423eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391622_a89b7666b2_o.png",
+      "id_image": "ventilation_5650588"
+    }
+  ]
+}

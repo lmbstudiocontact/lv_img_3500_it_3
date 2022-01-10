@@ -1,0 +1,58 @@
+{
+  "english": "undo",
+  "phat_am": "[ʌn'du:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ undid ; undone",
+      "list_m": [
+        {
+          "m_full_vn": "tháo, gỡ, cởi (nút, khuy..), mở (một cái gói, phong bì..)",
+          "list_en_vn": [
+            {
+              "full_en": "to undo a knitting",
+              "full_vn": "tháo một cái áo đan"
+            },
+            {
+              "full_en": "to undo a parcel",
+              "full_vn": "mở một gói"
+            },
+            {
+              "full_en": "to undo one's dress",
+              "full_vn": "mở khuy áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xoá bỏ, huỷ; phá hủy tác dụng của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to undo a contract",
+              "full_vn": "huỷ một hợp đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá hoại, làm cho đồi truỵ, làm hư hỏng, làm hại đến thanh danh",
+          "list_en_vn": [
+            {
+              "full_en": "drink has undone him",
+              "full_vn": "rượu chè đã làm nó hư hỏng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090775_39625003be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090775_6174d3358d_o.png",
+      "id_image": "undo_4563937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708089_03088c37d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708089_1b85c30e5d_o.png",
+      "id_image": "undo_6010152"
+    }
+  ]
+}

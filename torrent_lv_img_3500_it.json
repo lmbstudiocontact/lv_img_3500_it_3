@@ -1,0 +1,36 @@
+{
+  "english": "torrent",
+  "phat_am": "['tɔrənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dòng nước chảy xiết, dòng nước lũ; cơn mưa rất to",
+          "list_en_vn": [
+            {
+              "full_en": "torrents of rain",
+              "full_vn": "mưa như trút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phun ra mạnh mẽ; một tràng (chửi rủa, lăng mạ..)",
+          "list_en_vn": [
+            {
+              "full_en": "a torrent of abuse",
+              "full_vn": "một tràng chửi rủa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387852_f212bc376e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387852_27f037d99a_o.png",
+      "id_image": "torrent_2800123"
+    }
+  ]
+}

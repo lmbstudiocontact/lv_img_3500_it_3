@@ -1,0 +1,370 @@
+{
+  "english": "stick",
+  "phat_am": "[stick]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái gậy"
+        },
+        {
+          "m_full_vn": "que củi"
+        },
+        {
+          "m_full_vn": "cán (ô, gươm, chổi...)"
+        },
+        {
+          "m_full_vn": "thỏi (kẹo, xi, kem cạo râu...); dùi (trống...)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) que chỉ huy nhạc (của người chỉ huy dàn nhạc)"
+        },
+        {
+          "m_full_vn": "(hàng hải), (đùa cợt) cột buồm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người đần độn; người cứng đờ đờ"
+        },
+        {
+          "m_full_vn": "đợt bom"
+        },
+        {
+          "m_full_vn": "( the sticks ) (từ Mỹ,nghĩa Mỹ), (thông tục) miền quê",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a cleft stick",
+              "list_im": [
+                {
+                  "im_full_vn": "ở vào thế bí, ở vào thế tiến lui đều khó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to want the stick",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn ăn đòn; muốn bị đòn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ stuck",
+      "list_m": [
+        {
+          "m_full_vn": "đâm, thọc, chọc",
+          "list_en_vn": [
+            {
+              "full_en": "to stick a pin through something",
+              "full_vn": "đâm đinh ghim qua một vật gì"
+            },
+            {
+              "full_en": "to stick pigs",
+              "full_vn": "chọc tiết lợn"
+            },
+            {
+              "full_en": "cake stuck over with almonds",
+              "full_vn": "bánh có điểm hạnh nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắm, cài, đặt, để, đội",
+          "list_en_vn": [
+            {
+              "full_en": "to stick pen behind one's ear",
+              "full_vn": "cài bút sau mái tai"
+            },
+            {
+              "full_en": "to stick up a target",
+              "full_vn": "dựng bia lên"
+            },
+            {
+              "full_en": "stick your cap on",
+              "full_vn": "đội mũ lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dán, dính",
+          "list_en_vn": [
+            {
+              "full_en": "to stick postage stamp on an envelope",
+              "full_vn": "dán tem lên một cái phong bì"
+            },
+            {
+              "full_en": "stick no bills",
+              "full_vn": "cấm dán quảng cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắm (cọc) để đỡ cho cây"
+        },
+        {
+          "m_full_vn": "( (thường) + out ) ngó, ló; ưỡn (ngựa), chìa (cằm), phình (bụng)...",
+          "list_en_vn": [
+            {
+              "full_en": "to stick one's head out of window",
+              "full_vn": "ló đầu ra ngoài cửa sổ"
+            },
+            {
+              "full_en": "to stick out one's chest",
+              "full_vn": "ưỡn ngực; vỗ ngực ta đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) xếp (chữ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm sa lầy, làm vướng mắc, làm trở ngại; giữ lại ( (thường) động tính từ quá khứ)",
+          "list_en_vn": [
+            {
+              "full_en": "the wheels were stuck",
+              "full_vn": "bánh xe bị sa lầy"
+            },
+            {
+              "full_en": "I was stuck in town",
+              "full_vn": "tôi bị giữ lại ở tỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) làm bối rối, làm cuống, làm lúng túng",
+          "list_en_vn": [
+            {
+              "full_en": "I'm stuck by this question",
+              "full_vn": "tôi lúng túng vì câu hỏi đó"
+            },
+            {
+              "full_en": "to stick somebody up",
+              "full_vn": "làm ai luống cuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lừa bịp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chịu đựng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắm",
+          "list_en_vn": [
+            {
+              "full_en": "arrow sticks in target",
+              "full_vn": "mũi tên cắm vào bia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựng đứng, đứng thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "his hair stuck straight up",
+              "full_vn": "tóc nó dựng đứng lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dính",
+          "list_en_vn": [
+            {
+              "full_en": "this envelope will not stick",
+              "full_vn": "cái phong bì này không dính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + out ) ló ra, chìa ra, ưỡn ra, nhô ra"
+        },
+        {
+          "m_full_vn": "bám vào, gắn bó với, trung thành với",
+          "list_en_vn": [
+            {
+              "full_en": "to stick to the point",
+              "full_vn": "bám vào vấn đề"
+            },
+            {
+              "full_en": "to stick like a bur",
+              "full_vn": "bám như đỉa đói"
+            },
+            {
+              "full_en": "friends should stick together",
+              "full_vn": "bạn bè phải gắn bó với nhau"
+            },
+            {
+              "full_en": "to stick to one's promise",
+              "full_vn": "trung thành với lời hứa của mình"
+            },
+            {
+              "full_en": "are you going to stick in all day ?",
+              "full_vn": "anh sẽ ở nhà suốt ngày à?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sa lầy, mắc, kẹt, vướng, tắc; bị chặn lại, bị hoãn lại, đi đến chỗ bế tắc",
+          "list_en_vn": [
+            {
+              "full_en": "carriage stuck in the mud",
+              "full_vn": "xe bị sa lầy"
+            },
+            {
+              "full_en": "he got through some ten lines and there stuck",
+              "full_vn": "nói đọc trôi được mười dòng rồi tắc tị"
+            },
+            {
+              "full_en": "the bill stuck in committee",
+              "full_vn": "đạo dự luật bị ngăn lại không được thông qua ở uỷ ban"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bối rối, luống cuống, lúng túng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stick around",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) ở quanh quẩn gần; lảng vảng gần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick at",
+              "list_im": [
+                {
+                  "im_full_vn": "miệt mài làm, bền bỉ tiếp tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to stick at a task for six hours",
+                      "full_vn": "miệt mài làm một công việc luôn sáu giờ liền"
+                    },
+                    {
+                      "full_en": "to stick /stop at nothing",
+                      "full_vn": "sẵn sàng làm mọi thứ trên đời để đạt mục đích của mình (dù phải mang tiếng là vô nhân đạo chăng nữa); không từ thủ đoạn nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick by",
+              "list_im": [
+                {
+                  "im_full_vn": "trung thành với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick down",
+              "list_im": [
+                {
+                  "im_full_vn": "dán, dán lên, dán lại"
+                },
+                {
+                  "im_full_vn": "ghi vào (sổ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick it out",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu đựng đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick out for",
+              "list_im": [
+                {
+                  "im_full_vn": "đòi; đạt được (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick to it",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên trì, bám vào (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ăn cướp bằng vũ khí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick up for",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bênh, bảo vệ (một người vắng mặt, quyền lợi...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick up to",
+              "list_im": [
+                {
+                  "im_full_vn": "không khúm núm, không phục tùng; đương đầu lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stick fast",
+              "list_im": [
+                {
+                  "im_full_vn": "bị sa lầy một cách tuyệt vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you throw mud enough , some of it will stick",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xấu một trăm câu, thế nào cũng có người tin một câu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "some of the money stuck in (to ) his fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "hắn tham ô một ít tiền"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084170_00bbfc2000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084170_2aff594df3_o.png",
+      "id_image": "stick_3441385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084200_e5ab064369_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084200_08c6f3f7e6_o.png",
+      "id_image": "stick_939445"
+    }
+  ]
+}

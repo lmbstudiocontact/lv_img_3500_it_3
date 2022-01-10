@@ -1,0 +1,151 @@
+{
+  "english": "stamp",
+  "phat_am": "[stæmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tem"
+        },
+        {
+          "m_full_vn": "tem thưởng hàng (như) trading stamp"
+        },
+        {
+          "m_full_vn": "con dấu; dấu"
+        },
+        {
+          "m_full_vn": "nhãn hiệu, dấu bảo đảm"
+        },
+        {
+          "m_full_vn": "dấu hiệu đặc trưng, phẩm chất đặc trưng",
+          "list_en_vn": [
+            {
+              "full_en": "to bear the stamp of genius",
+              "full_vn": "mang dấu hiệu một thiên tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạng, loại; tầng lớp; thể loại",
+          "list_en_vn": [
+            {
+              "full_en": "men of that stamp",
+              "full_vn": "loại người như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giậm chân; tiếng giậm chân"
+        },
+        {
+          "m_full_vn": "chày nghiền quặng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giậm (chân)",
+          "list_en_vn": [
+            {
+              "full_en": "to stamp one's foot",
+              "full_vn": "giậm chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đóng dấu lên, in dấu lên (kim loại, giấy...)"
+        },
+        {
+          "m_full_vn": "dán tem vào"
+        },
+        {
+          "m_full_vn": "nghiền (quặng)"
+        },
+        {
+          "m_full_vn": "chứng tỏ, tỏ rõ (tính chất của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "this alone stamps the story as a slander",
+              "full_vn": "chỉ riêng điều đó cũng chứng tỏ câu chuyện ấy là một sự nói xấu"
+            },
+            {
+              "full_en": "his manners stamp him as a genleman",
+              "full_vn": "tác phong của anh ta chứng tỏ anh ta là người quân tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "in vào (trí não)",
+          "list_en_vn": [
+            {
+              "full_en": "to stamp something on the mind",
+              "full_vn": "in việc gì vào óc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giậm chân",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stamp down",
+              "list_im": [
+                {
+                  "im_full_vn": "chà đạp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stamp out",
+              "list_im": [
+                {
+                  "im_full_vn": "dập tắt, dẹp, nghiền nát (bóng)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to stamp out the fire",
+                      "full_vn": "dập tắt lửa"
+                    },
+                    {
+                      "full_en": "to stamp out a rebellion",
+                      "full_vn": "dẹp một cuộc nổi loạn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stamp with rage",
+              "full_vn": "giậm chân vì tức giận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464648_b75a06a058_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464648_7ccec6a4a9_o.png",
+      "id_image": "stamp_1151163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394822_8302c27557_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394822_6954e7ed9a_o.png",
+      "id_image": "stamp_445270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350006_e04615f155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350006_bf2e2e8081_o.png",
+      "id_image": "stamp_928907"
+    }
+  ]
+}

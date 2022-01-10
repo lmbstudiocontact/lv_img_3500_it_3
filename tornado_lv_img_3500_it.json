@@ -1,0 +1,50 @@
+{
+  "english": "tornado",
+  "phat_am": "[tɔ:'neidou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều tornadoes , tornados",
+      "list_m": [
+        {
+          "m_full_vn": "bão táp, cơn lốc xoáy",
+          "list_en_vn": [
+            {
+              "full_en": "the town was hit by a tornado",
+              "full_vn": "thành phố đã bị tàn phá bởi một cơn bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cuộc biến loạn, cơn bão táp",
+          "list_en_vn": [
+            {
+              "full_en": "political tornado",
+              "full_vn": "cuộc biến loạn chính trị"
+            },
+            {
+              "full_en": "tornado of cheers",
+              "full_vn": "tiếng hoan hô như bão táp, tiếng hoan hô như sấm dậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388037_062e37d161_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388037_a40598a6ff_o.png",
+      "id_image": "tornado_2204426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698289_39e26c4c15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698289_e16ebec900_o.png",
+      "id_image": "tornado_2910097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080490_942087cda4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080490_fdfdb108f4_o.png",
+      "id_image": "tornado_5493308"
+    }
+  ]
+}

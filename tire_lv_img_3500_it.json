@@ -1,0 +1,77 @@
+{
+  "english": "tire",
+  "phat_am": "['taiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (như) tyre"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm mệt mỏi, làm mệt nhọc (cần nghỉ ngơi; người, động vật)",
+          "list_en_vn": [
+            {
+              "full_en": "the long lecture tires the audience",
+              "full_vn": "buổi thuyết trình dài làm cho người nghe mệt mỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hết kiên nhẫn, làm hết hứng thú; làm chán"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên mệt mỏi, trở nên mệt nhọc, cần nghỉ ngơi"
+        },
+        {
+          "m_full_vn": "( + of ) chán, không thiết, trở nên hết kiên nhẫn, trở nên hết hứng thú",
+          "list_en_vn": [
+            {
+              "full_en": "I tired of eating fish",
+              "full_vn": "tôi chán ăn cá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đồ trang sức trên đầu (của đàn bà); đồ trang sức"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang điểm, trang sức",
+          "list_en_vn": [
+            {
+              "full_en": "to tire one's head",
+              "full_vn": "trang điểm cái đầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391592_91248e42c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391592_45f7ef398a_o.png",
+      "id_image": "tire_4606879"
+    }
+  ]
+}

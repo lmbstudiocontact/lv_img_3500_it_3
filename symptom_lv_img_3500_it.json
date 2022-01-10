@@ -1,0 +1,35 @@
+{
+  "english": "symptom",
+  "phat_am": "['simptəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "triệu chứng (của một căn bệnh)"
+        },
+        {
+          "m_full_vn": "dấu hiệu về sự tồn tại của một cái gì xấu",
+          "list_en_vn": [
+            {
+              "full_en": "this demonstration was a symptom of discontent among the students",
+              "full_vn": "cuộc biểu tình này là dấu hiệu của sự bất mãn trong sinh viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685699_98cefb0a3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685699_e38a8d41c6_o.png",
+      "id_image": "symptom_5559834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067470_ef9ae84494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067470_0cedf7c15e_o.png",
+      "id_image": "symptom_670875"
+    }
+  ]
+}

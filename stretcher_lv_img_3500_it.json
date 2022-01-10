@@ -1,0 +1,55 @@
+{
+  "english": "stretcher",
+  "phat_am": "['stret∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người căng, người kéo"
+        },
+        {
+          "m_full_vn": "vật để nong, vật để căng",
+          "list_en_vn": [
+            {
+              "full_en": "boot stretcher",
+              "full_vn": "cái nong giày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khung căng (vải để vẽ)"
+        },
+        {
+          "m_full_vn": "cái cáng (để khiêng người ốm, người bị thương ở tư thế nằm)"
+        },
+        {
+          "m_full_vn": "ván đạp chân (của người bơi chèo)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) gạch lát dọc, đá lát dọc (bể dọc của viên gạch, viên đá song song với mặt tường)"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự nói ngoa; lời nói dối"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457298_8ae0aab5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457298_8ffcbcb384_o.png",
+      "id_image": "stretcher_1056591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387467_71f695acaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387467_bf61a51c80_o.png",
+      "id_image": "stretcher_1062563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079910_de73f19ab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079910_de3f8bd870_o.png",
+      "id_image": "stretcher_1098070"
+    }
+  ]
+}

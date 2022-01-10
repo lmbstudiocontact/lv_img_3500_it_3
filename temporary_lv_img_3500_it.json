@@ -1,0 +1,48 @@
+{
+  "english": "temporary",
+  "phat_am": "['temprəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạm thời, nhất thời, lâm thời",
+          "list_en_vn": [
+            {
+              "full_en": "temporary success",
+              "full_vn": "thắng lợi nhất thời"
+            },
+            {
+              "full_en": "temporary power",
+              "full_vn": "quyền hành tạm thời"
+            },
+            {
+              "full_en": "temporary rest",
+              "full_vn": "sự nghỉ ngơi chốc lát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lao động tạm thời; người ở mướn tạm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467048_b7868e62a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467048_5d6d37b8e5_o.png",
+      "id_image": "temporary_6214168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397212_15ae4e0109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397212_81cdc69993_o.png",
+      "id_image": "temporary_6214173"
+    }
+  ]
+}

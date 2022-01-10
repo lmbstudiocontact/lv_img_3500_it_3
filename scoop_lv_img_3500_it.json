@@ -1,0 +1,78 @@
+{
+  "english": "scoop",
+  "phat_am": "[sku:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái xẻng, cái xúc (xúc lúa, than..)"
+        },
+        {
+          "m_full_vn": "cái muỗng"
+        },
+        {
+          "m_full_vn": "cái môi dài cán; môi (đầu)"
+        },
+        {
+          "m_full_vn": "cái gàu múc nước"
+        },
+        {
+          "m_full_vn": "(thông tục) sự xúc, sự múc; động tác xúc, động tác múc"
+        },
+        {
+          "m_full_vn": "số lượng được múc lên bằng cái muỗng (xẻng, gầu..) (như) scoopful",
+          "list_en_vn": [
+            {
+              "full_en": "two scoops of mashed potato",
+              "full_vn": "hai muỗng khoai tây nghiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) cái nạo"
+        },
+        {
+          "m_full_vn": "tin sốt dẻo (mẩu tin của đài báo.. được công bố trước các đối thủ khác)"
+        },
+        {
+          "m_full_vn": "món lãi lớn (thu được do hành động trước các đối thủ khác trong kinh doanh)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xúc (than...), múc (nước...), khoét (lỗ..)"
+        },
+        {
+          "m_full_vn": "hành động trước (một đối thủ..) để thu được mẫu tin đặc biệt"
+        },
+        {
+          "m_full_vn": "thu được món lãi lớn trước (một đối thủ..) trong kinh doanh"
+        },
+        {
+          "m_full_vn": "( + out/up ) vốc, hất lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684339_b35c7f191a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684339_aa7edb688d_o.png",
+      "id_image": "scoop_4597359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329456_5b8b938f43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329456_1d1a4c44aa_o.png",
+      "id_image": "scoop_525805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684399_e1dc22f4d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684399_4927053b8d_o.png",
+      "id_image": "scoop_528329"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "sin",
+  "phat_am": "[sin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tội; tội lỗi; tội ác, lầm lỗi; sự vi phạm (một luật lệ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is no sin for a man to labour in his vocation",
+              "list_im": [
+                {
+                  "im_full_vn": "nghề gì cũng vinh quang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like sin",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) kịch liệt, mãnh liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as miserable as sin",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất khốn khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as ugly as sin",
+              "list_im": [
+                {
+                  "im_full_vn": "rất xấu xí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in sin",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nằm với nhau như vợ chồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the deadly sins",
+              "list_im": [
+                {
+                  "im_full_vn": "xem deadly"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a life of sin",
+              "full_vn": "một cuộc đời tội lỗi"
+            },
+            {
+              "full_en": "to commit a sin",
+              "full_vn": "phạm tội"
+            },
+            {
+              "full_en": "to confess one's sins to a priest",
+              "full_vn": "xưng tội với một tu sĩ"
+            },
+            {
+              "full_en": "it's a sin to stay indoors on such a fine day !",
+              "full_vn": "ở nhà vào một ngày đẹp trời thế này là có tội!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phạm tội, mắc tội; hành động sai trái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be more sinned against than sinning",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng thương hơn là đáng trách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it's human to sin",
+              "full_vn": "phạm tội là thuộc bản tính của con người"
+            },
+            {
+              "full_en": "they sinned against the unwritten rules of the school",
+              "full_vn": "họ đã vi phạm các quy tắc bất thành văn của nhà trường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) sin ( sine )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383062_4c5eb59799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383062_ff65b1eaed_o.png",
+      "id_image": "sin_4727683"
+    }
+  ]
+}

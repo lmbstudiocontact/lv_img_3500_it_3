@@ -1,0 +1,90 @@
+{
+  "english": "success",
+  "phat_am": "[sək'ses]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thành công; sự thắng lợi; sự thành đạt",
+          "list_en_vn": [
+            {
+              "full_en": "military success",
+              "full_vn": "thắng lợi quân sự"
+            },
+            {
+              "full_en": "to achieve great success in life",
+              "full_vn": "đạt được thành công lớn trong cuộc đời"
+            },
+            {
+              "full_en": "to make a success of something",
+              "full_vn": "làm cái gì thành công"
+            },
+            {
+              "full_en": "the race ended in success for the Irish horse",
+              "full_vn": "cuộc đua kết thúc bằng thắng lợi của con ngựa nòi Ai-len"
+            },
+            {
+              "full_en": "I haven't had much success in my applications for jobs",
+              "full_vn": "Tôi không mấy thành công trong chuyện xin việc làm"
+            },
+            {
+              "full_en": "nothing succeeds like success",
+              "full_vn": "thắng lợi này dẫn đến thắng lợi khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hoặc cái gì thành công",
+          "list_one_mean": [
+            {
+              "id_full_en": "a success story",
+              "list_im": [
+                {
+                  "im_full_vn": "người/cái gì rất thành công (nhất là bất ngờ hoặc đứng trước nhiều khó khăn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Her rapid rise to the top has been one of the film industry's most remarkable success stories",
+                      "full_vn": "Việc cô ta vươn lên đến đỉnh cao là một trong những thành công đặc sắc nhất của ngành điện ảnh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be a success in art",
+              "full_vn": "là một người thành công trong nghệ thuật"
+            },
+            {
+              "full_en": "of her plays , three were successes and one was a failure",
+              "full_vn": "về các vở kịch của bà ta, có ba vở thành công và một vở thất bại"
+            },
+            {
+              "full_en": "he wasn't a success as a teacher",
+              "full_vn": "anh ta làm thầy không đạt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076625_4a48ce8fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076625_803c4a72d2_o.png",
+      "id_image": "success_174685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694554_2fdc050b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694554_e6260ba1f6_o.png",
+      "id_image": "success_2065190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694609_4fc82a511f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694609_d728acff7b_o.png",
+      "id_image": "success_913930"
+    }
+  ]
+}

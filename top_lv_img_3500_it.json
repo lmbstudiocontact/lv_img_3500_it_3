@@ -1,0 +1,411 @@
+{
+  "english": "top",
+  "phat_am": "[tɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con vụ, con quay (đồ chơi quay trên một điểm khi cho quay bằng tay hoặc bằng sợi dây..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "old top",
+              "list_im": [
+                {
+                  "im_full_vn": "(thân mật) bạn tri kỷ, bạn nối khố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep like a top",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ say"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the top sleeps ; the top is asleep",
+              "full_vn": "con vụ quay tít"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chóp, đỉnh, ngọn, đầu; phần cao nhất, điểm cao nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the top of a hill",
+              "full_vn": "đỉnh đồi"
+            },
+            {
+              "full_en": "the top of the page",
+              "full_vn": "đầu trang"
+            },
+            {
+              "full_en": "at the top of",
+              "full_vn": "trên đỉnh"
+            },
+            {
+              "full_en": "on top",
+              "full_vn": "phía trên, trên"
+            },
+            {
+              "full_en": "on the top of",
+              "full_vn": "trên, nằm trên"
+            },
+            {
+              "full_en": "he came out at the top of the list",
+              "full_vn": "nó đứng đầu bảng (kỳ thi...)"
+            },
+            {
+              "full_en": "on top of that",
+              "full_vn": "thêm vào đó, phụ vào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt trên (mui xe, vun xoong, mặt bàn..)",
+          "list_en_vn": [
+            {
+              "full_en": "to put the luggage on top of the car",
+              "full_vn": "đặt hành lý lên mui xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỉnh cao, mức cao",
+          "list_en_vn": [
+            {
+              "full_en": "the top of the ladder",
+              "full_vn": "(nghĩa bóng) đỉnh cao của sự nghiệp"
+            },
+            {
+              "full_en": "to come to the top",
+              "full_vn": "được hưởng vinh quang, đạt được danh vọng; thắng lợi"
+            },
+            {
+              "full_en": "at the top of one's speed",
+              "full_vn": "chạy hết sức nhanh, ba chân bốn cẳng"
+            },
+            {
+              "full_en": "at the top of one's voice",
+              "full_vn": "(về tiếng nói) to đến mức cao nhất có thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chức vụ cao nhất, chức vụ quan trọng nhất, vị trí cao nhất, vị trí quan trọng nhất",
+          "list_en_vn": [
+            {
+              "full_en": "Liverpool finished the season (at the ) top of the football league",
+              "full_vn": "Liverpool đã kết thúc mùa bóng với vị trí đứng đầu liên đoàn bóng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật tạo nên của cái gì, vật bao phủ phần trên của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the top of the milk",
+              "full_vn": "phần váng sữa (lớp kem nổi trên sữa)"
+            },
+            {
+              "full_en": "she took off the top of her bikini",
+              "full_vn": "cô ấy cởi mảnh trên của bộ quần áo tắm hai mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nắp chai, nút chai"
+        },
+        {
+          "m_full_vn": "quần áo che phần trên của cơ thể (nhất là của đàn bà)",
+          "list_en_vn": [
+            {
+              "full_en": "I need a top to go with these slacks",
+              "full_vn": "tôi cần chiếc áo hợp với quần này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số cao nhất (đi ô tô) (như) top gear",
+          "list_en_vn": [
+            {
+              "full_en": "in (on ) top",
+              "full_vn": "gài số cao nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) lá (của loại cây trồng chủ yếu để lấy củ, rễ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the top of the tree",
+              "list_im": [
+                {
+                  "im_full_vn": "vị trí cao nhất, chức vụ cao nhất (trong nghề nghiệp, chuyên môn..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the top of one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "to đến mức cao nhất có thể (tiếng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from top to bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn thể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from top to toe",
+              "list_im": [
+                {
+                  "im_full_vn": "từ đầu xuống chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "off the top of one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không suy nghĩ trước, không cân nhắc (điều được nói ra)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on top",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trên"
+                },
+                {
+                  "im_full_vn": "ở vị trí cao hơn; trong tầm điều khiển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on top of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trên ai/cái gì"
+                },
+                {
+                  "im_full_vn": "thêm vào cái gì"
+                },
+                {
+                  "im_full_vn": "(thông tục) rất gần cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be /feel ) on top of the world",
+              "list_im": [
+                {
+                  "im_full_vn": "rất hạnh phúc, rất tự hào (nhất là do thành công hoặc gặp vận may)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "over the top",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tới mức thổi phồng, quá đáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(the ) top brass",
+              "list_im": [
+                {
+                  "im_full_vn": "sĩ quan cao cấp, quan chức cao cấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the top storey",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) bộ óc (của con người)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's a bit weak in the top storey",
+                      "full_vn": "anh ta hơi kém thông minh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở ngọn, đứng đầu, trên hết",
+          "list_en_vn": [
+            {
+              "full_en": "the top branch",
+              "full_vn": "cành ngọn"
+            },
+            {
+              "full_en": "the top boy",
+              "full_vn": "học sinh đầu lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao nhất, tối đa",
+          "list_en_vn": [
+            {
+              "full_en": "top speed",
+              "full_vn": "tốc độ cao nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp cái đỉnh, làm cái đỉnh cho"
+        },
+        {
+          "m_full_vn": "đặt ở trên, chụp lên",
+          "list_en_vn": [
+            {
+              "full_en": "mountains topped with clouds",
+              "full_vn": "ngọn núi có mây phủ"
+            },
+            {
+              "full_en": "to top a class",
+              "full_vn": "đứng đầu một lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bấm ngọn, cắt phần trên",
+          "list_en_vn": [
+            {
+              "full_en": "to top a plant",
+              "full_vn": "bấm ngọn một cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên đến đỉnh; ở trên đỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "to top a hill",
+              "full_vn": "lên tới đỉnh một quả đồi; đứng trên đỉnh đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở cao hơn; vượt qua",
+          "list_en_vn": [
+            {
+              "full_en": "to top someone by a head",
+              "full_vn": "cao hơn ai một cái đầu"
+            },
+            {
+              "full_en": "that story tops all I have ever heard",
+              "full_vn": "câu chuyện ấy hay hơn tất cả những câu chuyện mà tôi đã từng được nghe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng đầu trong (một cuộc bỏ phiếu..)",
+          "list_en_vn": [
+            {
+              "full_en": "a chart-topping record",
+              "full_vn": "kỷ lục đứng đầu bảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngắt bỏ ngọn (cây, quả..)"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) đánh trượt (quả bóng) do đánh vào phía trên tâm bóng (nhất là trong đáng gôn)"
+        },
+        {
+          "m_full_vn": "xử tử (ai) bằng treo cổ"
+        },
+        {
+          "m_full_vn": "(thông tục) đo được, cao đến",
+          "list_one_mean": [
+            {
+              "id_full_en": "to top off",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành, làm xong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to top up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho đầy ấp"
+                },
+                {
+                  "im_full_vn": "hoàn thành"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the tree tops three meters",
+              "full_vn": "cây cao đến ba mét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698809_cfc0bed686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698809_3115ac8544_o.png",
+      "id_image": "top_1677696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080990_b87c8d35eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080990_1e39f7dee8_o.png",
+      "id_image": "top_3603525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458238_8a00e13d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458238_a439a5fbe3_o.png",
+      "id_image": "top_4028302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458203_9f35429389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458203_1bbba296fc_o.png",
+      "id_image": "top_5216781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388602_402e642cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388602_4012117993_o.png",
+      "id_image": "top_941254"
+    }
+  ]
+}

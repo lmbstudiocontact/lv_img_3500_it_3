@@ -1,0 +1,83 @@
+{
+  "english": "station",
+  "phat_am": "[exalted]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạm, điểm, đồn, đài (phát thanh...)",
+          "list_en_vn": [
+            {
+              "full_en": "coastguard station",
+              "full_vn": "trạm canh gác bờ biển"
+            },
+            {
+              "full_en": "to be assigned a station on the frontier",
+              "full_vn": "được điều về một đồn ở biên giới"
+            },
+            {
+              "full_en": "lifeboat station",
+              "full_vn": "trạm tàu xuống cứu đắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạm, ty (phục vụ (như) cầu địa phương)"
+        },
+        {
+          "m_full_vn": "(viết tắt) Sta nhà ga"
+        },
+        {
+          "m_full_vn": "đồn binh ( Ân độ)"
+        },
+        {
+          "m_full_vn": "điểm gốc (đo đạc); khoảng cách tiêu chuẩn ( 30, 50 m hay 20 m)"
+        },
+        {
+          "m_full_vn": "( Uc) chỗ nuôi cừu"
+        },
+        {
+          "m_full_vn": "địa vị, chức"
+        },
+        {
+          "m_full_vn": "người ở địa vị cao"
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự ăn kiêng (vào ngày thứ tư và thứ sáu)"
+        },
+        {
+          "m_full_vn": "(sinh vật học) hoàn cảnh, môi trường"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) sự đứng lại, tình trạng đứng lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt vào vị trí, để vào vị trí; đóng (quân) ở một vị trí"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348821_17923c5239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348821_494ce2d45c_o.png",
+      "id_image": "station_1023364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086100_cb1d1ca605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086100_4fd042097e_o.png",
+      "id_image": "station_3540110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703499_8613773b98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703499_d2324a4029_o.png",
+      "id_image": "station_4426573"
+    }
+  ]
+}

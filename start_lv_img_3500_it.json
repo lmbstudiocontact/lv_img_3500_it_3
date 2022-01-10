@@ -1,0 +1,313 @@
+{
+  "english": "start",
+  "phat_am": "[stɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bắt đầu; lúc bắt đầu, buổi đầu",
+          "list_en_vn": [
+            {
+              "full_en": "it was difficult work at the start",
+              "full_vn": "lúc bắt đầu công việc rất khó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ hội lúc khởi đầu; sự giúp đỡ lúc khởi đầu",
+          "list_en_vn": [
+            {
+              "full_en": "the money gave him just the start he needed",
+              "full_vn": "tiền đó đã giúp cho anh ta đúng cái bước đầu mà anh ta cần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khởi hành, sự ra đi, sự lên đường",
+          "list_en_vn": [
+            {
+              "full_en": "to make an early start",
+              "full_vn": "đi sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the start ) điểm xuất phát, chỗ xuất phát; giờ xuất phát (của cuộc đua); lệnh bắt đầu, lệnh xuất phát (của cuộc đua)"
+        },
+        {
+          "m_full_vn": "sự giật mình; sự giật nảy người (vì đau...)"
+        },
+        {
+          "m_full_vn": "sự chấp (trong thể thao)",
+          "list_en_vn": [
+            {
+              "full_en": "I'll give him 40 meters start",
+              "full_vn": "tôi sẽ chấp cậu ấy 40 mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí lợi thế; thế lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to get the start of somebody",
+              "full_vn": "lợi thế hơn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cử động nhanh, đột ngột (do ngạc nhiên, sợ hãi..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a rum start",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) một sự xảy ra kỳ lạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by fits and starts",
+              "list_im": [
+                {
+                  "im_full_vn": "không đều, thất thường, từng đợt một"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for a start",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điểm đầu tiên (dùng trong một lý lẽ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the news gave me quite a start",
+              "full_vn": "tin tức làm tôi giật nảy người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu một chuyến đi; rời đi; khởi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to start on journey",
+              "full_vn": "bắt đầu lên đường, khởi hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt đầu chạy (máy..)"
+        },
+        {
+          "m_full_vn": "giật mình; nhảy lên đột ngột (vì sợ hãi..)",
+          "list_en_vn": [
+            {
+              "full_en": "to start out of one's sleep",
+              "full_vn": "giật mình thức dậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển động đột ngột, xuất hiện đột ngột"
+        },
+        {
+          "m_full_vn": "rời ra, long ra (gỗ)"
+        },
+        {
+          "m_full_vn": "( + back ) bắt đầu trở lại; nhảy lùi, bước lùi đột ngột (trong nỗi sợ hãi..)"
+        },
+        {
+          "m_full_vn": "( + for ) rời nơi này đến nơi khác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu (công việc..)",
+          "list_en_vn": [
+            {
+              "full_en": "to start work",
+              "full_vn": "bắt đầu công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (ai, cái gì) bắt đầu làm (một việc..), khiến (ai) phải",
+          "list_en_vn": [
+            {
+              "full_en": "this started me coughing",
+              "full_vn": "điều đó làm tôi phát ho lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra hiệu xuất phát (cho người đua)"
+        },
+        {
+          "m_full_vn": "làm cho (máy..) bắt đầu chạy"
+        },
+        {
+          "m_full_vn": "khêu, gây, nêu ra",
+          "list_en_vn": [
+            {
+              "full_en": "to start quarrel",
+              "full_vn": "gây chuyện cãi nhau"
+            },
+            {
+              "full_en": "to start a problem",
+              "full_vn": "nêu ra một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tách ra, làm rời ra, làm long ra (gỗ)"
+        },
+        {
+          "m_full_vn": "giúp đỡ, nâng đỡ (ai, trong công việc)"
+        },
+        {
+          "m_full_vn": "đuổi (thú săn) ra khỏi hang; lùa (con vật) khỏi chỗ ẩn nấp ra ngoài trời",
+          "list_en_vn": [
+            {
+              "full_en": "to start a hare",
+              "full_vn": "lùa con thỏ rừng ra khỏi hang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) (như) startle"
+        },
+        {
+          "m_full_vn": "( + in on somebody ; for something ) (thông tục) bắt đầu chỉ trích, bắt đầu mắng mỏ, bắt đầu la hét (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "start in to do something /on something /on doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bắt đầu làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start aside",
+              "list_im": [
+                {
+                  "im_full_vn": "né vội sang một bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start in",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bắt đầu làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start out",
+              "list_im": [
+                {
+                  "im_full_vn": "khởi hành"
+                },
+                {
+                  "im_full_vn": "khởi công, bắt đầu tiến hành (công việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start up",
+              "list_im": [
+                {
+                  "im_full_vn": "thình lình đứng dậy"
+                },
+                {
+                  "im_full_vn": "nảy ra, nổi lên; nảy ra trong óc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "many difficulties have started up",
+                      "full_vn": "nhiều khó khăn nảy ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "khởi động (máy)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start a baby",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bắt đầu có thai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start a family",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu có con"
+                }
+              ]
+            },
+            {
+              "id_full_en": "start something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mở đầu một cuộc chiến tranh (tranh cãi, chuyện phiền hà..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start with",
+              "list_im": [
+                {
+                  "im_full_vn": "ở điểm đầu tiên; là điểm đầu tiên"
+                },
+                {
+                  "im_full_vn": "lúc đầu; ban đầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we had six members to start with",
+                      "full_vn": "lúc bắt đầu chúng tôi có sáu hội viên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703914_84b22578d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703914_d9b553e1de_o.png",
+      "id_image": "start_1445124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349211_5bed6a40f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349211_4297a3d21d_o.png",
+      "id_image": "start_4606991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393967_82ef44affb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393967_f4332804ba_o.png",
+      "id_image": "start_5200702"
+    }
+  ]
+}

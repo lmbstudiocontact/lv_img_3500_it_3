@@ -1,0 +1,170 @@
+{
+  "english": "tilt",
+  "phat_am": "[tilt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghiêng, vị trí nghiêng; độ nghiêng; trạng thái nghiêng"
+        },
+        {
+          "m_full_vn": "sự đấu thương (trên ngựa, trên thuyền)"
+        },
+        {
+          "m_full_vn": "búa đòn (như) tilt-hammer",
+          "list_one_mean": [
+            {
+              "id_full_en": "full tilt",
+              "list_im": [
+                {
+                  "im_full_vn": "rất mau, hết tốc lực",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run (come ) full tilt against",
+                      "full_vn": "lao tới, xông tới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a tilt at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "trêu chọc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiêng đi",
+          "list_en_vn": [
+            {
+              "full_en": "the barrel tilted",
+              "full_vn": "cái thùng nghiêng đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) tròng trành, nghiêng",
+          "list_en_vn": [
+            {
+              "full_en": "the ship tilts on the waves",
+              "full_vn": "chiếc tàu tròng trành trên sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đấu thương"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tranh luận, tranh cãi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nghiêng, chuyển thành thế nghiêng",
+          "list_en_vn": [
+            {
+              "full_en": "don't tilt your chair or you'll fall over !",
+              "full_vn": "đừng nghiêng chiếc ghế kẻo ngã bây giờ!"
+            },
+            {
+              "full_en": "tilt the barrel forward to empty it",
+              "full_vn": "hãy nghiêng cái thùng ra trước để dốc cạn ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lật đổ, lật nghiêng (một chiếc xe)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) rèn bằng búa đòn, đập bằng búa đòn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tilt at",
+              "list_im": [
+                {
+                  "im_full_vn": "đâm ngọn thương vào, chĩa ngọn thương vào"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) công kích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tilt at windmills",
+              "list_im": [
+                {
+                  "im_full_vn": "xem windmill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tilk back",
+              "list_im": [
+                {
+                  "im_full_vn": "lật ra sau, lật lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tilt over",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho nghiêng; lật đổ; ngã nhào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tilt up",
+              "list_im": [
+                {
+                  "im_full_vn": "lật đứng lên, dựng đứng, dựng ngược"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mui che, bạt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che mui, phủ bạt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462348_023aa14910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462348_a7fb77d152_o.png",
+      "id_image": "tilt_1260013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084905_7ac50bb07e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084905_66cfb93e43_o.png",
+      "id_image": "tilt_4335020"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "since",
+  "phat_am": "[sins]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ đó, từ lúc ấy",
+          "list_en_vn": [
+            {
+              "full_en": "I have been his friend ever since",
+              "full_vn": "suốt từ đó đến nay tôi vẫn là bạn anh ta"
+            },
+            {
+              "full_en": "he left home two weeks ago and we haven't heard from him since",
+              "full_vn": "nó bỏ nhà đi cách đây hai tuần và từ đó đến nay, chúng tôi chẳng có tin tức gì về nó"
+            },
+            {
+              "full_en": "she moved to London last May and has since got a job on a newspaper",
+              "full_vn": "bà ấy dọn về Luân Đôn tháng năm vừa rồi và từ đó đã kiếm được việc làm tại một toà báo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ (một thời điểm xác định trong quá khứ) đến một sự kiện sau đó trong quá khứ hoặc đến nay",
+          "list_en_vn": [
+            {
+              "full_en": "he has been working here since 1967",
+              "full_vn": "anh ấy công tác ở đây từ năm 1967"
+            },
+            {
+              "full_en": "I haven't eaten since breakfast",
+              "full_vn": "từ sáng đến giờ tôi chưa ăn gì"
+            },
+            {
+              "full_en": "she's been working in a bank since leaving school",
+              "full_vn": "từ khi ra trường đến nay, cô ta làm việc tại một ngân hàng"
+            },
+            {
+              "full_en": "he had spoken to her only once since the party",
+              "full_vn": "từ sau bữa tiệc, anh ta chỉ nói với cô ấy một lần mà thôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ (một thời điểm xác định trong quá khứ) đến một sự kiện sau đó trong quá khứ hoặc đến nay",
+          "list_en_vn": [
+            {
+              "full_en": "where have you been since I last saw you ?",
+              "full_vn": "từ lần cuối cùng tôi gặp anh, anh đi đâu?"
+            },
+            {
+              "full_en": "it was the first time I'd won since I'd learnt to play chess",
+              "full_vn": "đó là lần đầu tiên tôi thắng kể từ khi học đánh cờ"
+            },
+            {
+              "full_en": "how long is it since you visited your mother ?",
+              "full_vn": "anh đến thăm mẹ tôi cách đây bao lâu rồi?"
+            },
+            {
+              "full_en": "we have not seen him since he married",
+              "full_vn": "từ khi nó đi ở riêng, chúng tôi không gặp nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vì, vì lẽ rằng, bởi",
+          "list_en_vn": [
+            {
+              "full_en": "since there is no more to be said , the meeting ends",
+              "full_vn": "vì không còn gì nói nữa, cuộc họp bế mạc"
+            },
+            {
+              "full_en": "since we've no money , we can't buy a new car",
+              "full_vn": "vì không có tiền, nên chúng tôi không mua được xe ô tô"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452943_983be7ee20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452943_4deb60284b_o.png",
+      "id_image": "since_5277664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075020_2a9e7f4c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075020_0288efdf66_o.png",
+      "id_image": "since_5361023"
+    }
+  ]
+}

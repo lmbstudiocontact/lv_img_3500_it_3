@@ -1,0 +1,63 @@
+{
+  "english": "summer",
+  "phat_am": "['sʌmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kiến trúc) cái rầm (như) summer-tree"
+        },
+        {
+          "m_full_vn": "mùa hạ, mùa hè"
+        },
+        {
+          "m_full_vn": "năm, tuổi, xuân xanh",
+          "list_en_vn": [
+            {
+              "full_en": "a man of twenty five summers",
+              "full_vn": "một thanh niên hai mươi nhăm xuân xanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) (thuộc) mùa hè",
+          "list_en_vn": [
+            {
+              "full_en": "summer holidays",
+              "full_vn": "kỳ nghỉ hè"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi nghỉ hè, đi nghỉ mát (ở núi, ở bờ biển...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chăn (vật nuôi) về mùa hè (ở núi...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693289_c942f72283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693289_5eab85c003_o.png",
+      "id_image": "summer_4359944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382992_d5053f670c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382992_7a0e66f968_o.png",
+      "id_image": "summer_4522556"
+    }
+  ]
+}

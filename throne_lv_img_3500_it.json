@@ -1,0 +1,51 @@
+{
+  "english": "throne",
+  "phat_am": "[θroun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngai, ngai vàng (ghế, chỗ ngồi đặc biệt của vua.. trong các nghi lễ)"
+        },
+        {
+          "m_full_vn": "( the throne ) ngôi, ngôi vua (quyền lực của nhà vua)",
+          "list_en_vn": [
+            {
+              "full_en": "to come to the throne",
+              "full_vn": "lên ngôi vua"
+            },
+            {
+              "full_en": "to succeed to the throne",
+              "full_vn": "nối ngôi"
+            },
+            {
+              "full_en": "to lose one's throne",
+              "full_vn": "mất ngôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa lên ngôi, tôn làm vua"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463633_fef51fa975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463633_27db0a70e5_o.png",
+      "id_image": "throne_1426773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393662_063ffcdfcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393662_fa9e3276d6_o.png",
+      "id_image": "throne_1835104"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "english": "sit",
+  "phat_am": "[sit]",
+  "list_type": [
+    {
+      "type": "động từ; thời quá khứ và động tính từ quá khứ là sat",
+      "list_m": [
+        {
+          "m_full_vn": "ngồi",
+          "list_en_vn": [
+            {
+              "full_en": "to sit round the fire",
+              "full_vn": "ngồi xung quanh lửa"
+            },
+            {
+              "full_en": "to sit on a chair /on the floor /in an armchair",
+              "full_vn": "ngồi trên ghế/trên sàn/trên ghế bành"
+            },
+            {
+              "full_en": "to sit at (a ) table to eat",
+              "full_vn": "ngồi vào bàn để ăn"
+            },
+            {
+              "full_en": "to sit on a horse",
+              "full_vn": "ngồi trên ngựa"
+            },
+            {
+              "full_en": "to sit still",
+              "full_vn": "ngồi yên"
+            },
+            {
+              "full_en": "are you sitting comfortably ?",
+              "full_vn": "anh ngồi có thoải mái không?"
+            },
+            {
+              "full_en": "to sit tight",
+              "full_vn": "(thông tục) ngồi lỳ; không chịu nhượng bộ"
+            },
+            {
+              "full_en": "all the others ran away , but I sat tight",
+              "full_vn": "mọi người khác đều bỏ chạy, riêng tôi vẫn ngồi yên tại chỗ"
+            },
+            {
+              "full_en": "she threatened us with dismissal if we didn't agree , but we all sat tight",
+              "full_vn": "bà ta doạ đuổi nếu chúng tôi không đồng ý, nhưng tất cả chúng tôi đều không nhượng bộ"
+            },
+            {
+              "full_en": "never stand when you can sit",
+              "full_vn": "đừng bao giờ đứng khi có thể ngồi được"
+            },
+            {
+              "full_en": "she sat (down ) on the chair and took her shoes off",
+              "full_vn": "bà ta ngồi xuống ghế và tháo giày ra"
+            },
+            {
+              "full_en": "we must sit down together and settle our differences",
+              "full_vn": "chúng ta phải ngồi lại với nhau và giải quyết những mối bất hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngồi làm mẫu để vẽ chân dung",
+          "list_en_vn": [
+            {
+              "full_en": "I sat every day for a week until the painting was finished",
+              "full_vn": "cả một tuần ngày nào tôi cũng phải ngồi làm mẫu cho đến khi bức tranh vẽ xong"
+            },
+            {
+              "full_en": "to sit for a famous painter",
+              "full_vn": "ngồi làm mẫu cho một hoạ sĩ nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về nghị viện, toà án, ủy ban....) họp",
+          "list_en_vn": [
+            {
+              "full_en": "The House of Commons was still sitting at 3 am",
+              "full_vn": "đến ba giờ sáng mà Hạ viện hãy còn họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về chim, gà) đậu",
+          "list_en_vn": [
+            {
+              "full_en": "a sparrow sitting on a branch",
+              "full_vn": "con chim sẻ đậu trên cành cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về chim, gà) ấp",
+          "list_en_vn": [
+            {
+              "full_en": "the hen sits for most of the day",
+              "full_vn": "con gà mái ấp hầu như suốt cả ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về chó) ngồi với hai chân sau gập lại và mông bệt xuống đất"
+        },
+        {
+          "m_full_vn": "( to sit on somebody ) (về quần áo) vừa vặn với thân người",
+          "list_en_vn": [
+            {
+              "full_en": "a dress that sits well /loosely on somebody",
+              "full_vn": "cái áo vừa vặn/rộng rãi với ai"
+            },
+            {
+              "full_en": "the coat sits badly across the shoulders",
+              "full_vn": "cái áo chật vai quá"
+            },
+            {
+              "full_en": "his new-found prosperity sits well on him",
+              "full_vn": "sự mới phát đạt rất hợp với hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở vào vị trí nào đó; nằm",
+          "list_en_vn": [
+            {
+              "full_en": "the book's still sitting on my shelf",
+              "full_vn": "cuốn sách vẫn nằm trên giá sách của tôi"
+            },
+            {
+              "full_en": "the farm sits on top of the hill",
+              "full_vn": "trang trại nằm trên đỉnh đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "là thí sinh của một kỳ thi",
+          "list_en_vn": [
+            {
+              "full_en": "to sit (for ) an exam /test",
+              "full_vn": "dự một kỳ thi/sát hạch"
+            },
+            {
+              "full_en": "to sit for a scholarship",
+              "full_vn": "thi lấy học bổng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngồi, cưỡi",
+          "list_en_vn": [
+            {
+              "full_en": "to sit a horse well",
+              "full_vn": "ngồi vững trên lưng ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt ai vào tư thế ngồi",
+          "list_en_vn": [
+            {
+              "full_en": "sit yourself down and tell us what happened",
+              "full_vn": "anh hãy ngồi xuống và kể cho chúng tôi nghe chuyện gì đã xảy ra"
+            },
+            {
+              "full_en": "to sit a child on the table",
+              "full_vn": "đặt đứa bé ngồi lên bàn"
+            },
+            {
+              "full_en": "he lifted the child and sat her on the wall",
+              "full_vn": "ông ta nâng đứa bé lên và đặt nó ngồi lên tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa được",
+          "list_en_vn": [
+            {
+              "full_en": "a theater that sits 2000 people",
+              "full_vn": "một nhà hát đủ sức chứa 2000 người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692124_7490a2f6a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692124_6af30234c9_o.png",
+      "id_image": "sit_619179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336756_eef75e76a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336756_6d5c884c3b_o.png",
+      "id_image": "sit_6401005"
+    }
+  ]
+}

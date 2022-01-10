@@ -1,0 +1,50 @@
+{
+  "english": "visionary",
+  "phat_am": "['viʒnəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hoặc tỏ ra nhìn xa thấy trước hoặc khôn ngoan; nhìn xa trông rộng",
+          "list_en_vn": [
+            {
+              "full_en": "visionary leaders /writers",
+              "full_vn": "những nhà lãnh đạo/nhà văn nhìn xa trông rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hoặc biểu lộ quá nhiều tưởng tượng nên không thực tế; hão huyền; hư ảo",
+          "list_en_vn": [
+            {
+              "full_en": "visionary ideas",
+              "full_vn": "ý nghĩ hảo huyền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nhìn xa trông rộng",
+          "list_en_vn": [
+            {
+              "full_en": "true visionaries are often misunderstood by their own generation",
+              "full_vn": "người thực sự nhìn xa trông rộng thường bị chính thế hệ của mình hiểu lầm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387307_3473be6191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387307_0feb191db8_o.png",
+      "id_image": "visionary_6299914"
+    }
+  ]
+}

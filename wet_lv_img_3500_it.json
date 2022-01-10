@@ -1,0 +1,175 @@
+{
+  "english": "wet",
+  "phat_am": "[wet]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ướt, đẫm nước, ẩm ướt",
+          "list_en_vn": [
+            {
+              "full_en": "as wet as a drowned rat",
+              "full_vn": "ướt như chuột lột"
+            },
+            {
+              "full_en": "to be wet to the skin ; to be wet through",
+              "full_vn": "ướt đẫm, ướt sạch"
+            },
+            {
+              "full_en": "cheeeks are wet with tears",
+              "full_vn": "má đầm đìa nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ẩm ướt, có mưa (thời tiết..)",
+          "list_en_vn": [
+            {
+              "full_en": "wet season",
+              "full_vn": "mùa mưa"
+            },
+            {
+              "full_en": "it is going to be wet",
+              "full_vn": "trời sắp mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa khô, còn ướt (mực, sơn, chất dẻo...)"
+        },
+        {
+          "m_full_vn": "(thông tục) say bí tỉ"
+        },
+        {
+          "m_full_vn": "(thông tục) thiếu mục đích, thiếu tinh thần, vô tích sự, thiếu quyết đoán; đần"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) không cấm bán rượu, không chủ trương cấm rượu (người, thành phố, bang)",
+          "list_one_mean": [
+            {
+              "id_full_en": "(still ) wet behind the ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) miệng còn hơi sữa; ngây thơ, thiếu kinh nghiệm, chưa trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a wet blanket",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) người phá hoại niềm vui của người khác (vì anh ta âu sầu, tẻ nhạt, bi quan..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wet through",
+              "list_im": [
+                {
+                  "im_full_vn": "ướt sũng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the wet ) thời tiết ẩm ướt; mưa",
+          "list_en_vn": [
+            {
+              "full_en": "come in out of the wet",
+              "full_vn": "hãy đi vào cho khỏi mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng ẩm ướt"
+        },
+        {
+          "m_full_vn": "người tẻ nhạt, người nhu nhược; nhà chính trị ưa thích các tính chất dung hoà hơn các chính sách cực đoan",
+          "list_en_vn": [
+            {
+              "full_en": "Tory wets",
+              "full_vn": "các đảng viên Bảo thủ ôn hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) ngụm nước nhấp giọng; cốc rượu",
+          "list_en_vn": [
+            {
+              "full_en": "to have a wet",
+              "full_vn": "uống cốc rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người phản đối sự cấm rượu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ wet ; wetted",
+      "list_m": [
+        {
+          "m_full_vn": "làm ẩm, làm ẩm ướt, làm ướt, thấm nước, dấp nước"
+        },
+        {
+          "m_full_vn": "uống rượu mừng",
+          "list_one_mean": [
+            {
+              "id_full_en": "wet the/one's bed",
+              "list_im": [
+                {
+                  "im_full_vn": "đái dầm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the baby has wetted its bed again",
+                      "full_vn": "đứa bé lại đái ướt giường rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "wet one's whistle",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) uống (nhất là rượu)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wet a bargain",
+              "full_vn": "uống rượu mừng một sự thoả thuận mua bán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686934_fedbcc84f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686934_8074cd7886_o.png",
+      "id_image": "wet_2885357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068560_eb0992a918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068560_bf560ec5c2_o.png",
+      "id_image": "wet_3217147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331871_24f99c978f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331871_e184494e3a_o.png",
+      "id_image": "wet_3750767"
+    }
+  ]
+}

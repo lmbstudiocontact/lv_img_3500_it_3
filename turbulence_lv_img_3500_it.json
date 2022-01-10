@@ -1,0 +1,30 @@
+{
+  "english": "turbulence",
+  "phat_am": "['tə:bjuləns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỗn loạn; sự bất an, sự náo động",
+          "list_en_vn": [
+            {
+              "full_en": "political turbulence",
+              "full_vn": "sự hỗn loạn về chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhiễu loạn, sự chuyển động dữ dội, sự chuyển động không đều (của không khí, nước)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373517_1b2f4404c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373517_b05d1ffa76_o.png",
+      "id_image": "turbulence_1638692"
+    }
+  ]
+}

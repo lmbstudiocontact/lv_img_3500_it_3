@@ -1,0 +1,118 @@
+{
+  "english": "why",
+  "phat_am": "[wai]",
+  "list_type": [
+    {
+      "type": "phó từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "tại sao, vì sao",
+          "list_en_vn": [
+            {
+              "full_en": "why was he late ?",
+              "full_vn": "vì sao anh ấy đến muộn?"
+            },
+            {
+              "full_en": "do you know why he invites me to dinner ?",
+              "full_vn": "anh có biết tại sao hắn mời anh đi ăn tối hay không?"
+            },
+            {
+              "full_en": "I don't know why he invites me to dinner",
+              "full_vn": "tôi chẳng biết tại sao hắn mời tôi đi ăn tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đứng trước một động từ để cho thấy rằng cái gì là không thể chấp nhận được hoặc không cần thiết) sao lại phải",
+          "list_one_mean": [
+            {
+              "id_full_en": "why ever",
+              "list_im": [
+                {
+                  "im_full_vn": "(biểu thị sự ngạc nhiên) tại sao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "why ever didn't you tell us before ?",
+                      "full_vn": "sao anh nói cho chúng tôi biết trước nhỉ?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "why get upset just because you got a bad mark ?",
+              "full_vn": "sao lại lo lắng chỉ vì một điểm xấu?"
+            },
+            {
+              "full_en": "Why bother to write ? We'll see him tomorrow",
+              "full_vn": "Sao lại phải viết thư? Ngày mai chúngta gặp ông ấy rồi"
+            },
+            {
+              "full_en": "why not go now ?",
+              "full_vn": "sao lại không đi luôn bây giờ nhỉ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "(đặc biệt là sau reason ) vì (lý do) gì",
+          "list_en_vn": [
+            {
+              "full_en": "the reason why you left her",
+              "full_vn": "lý do vì sao anh bỏ cô ấy"
+            },
+            {
+              "full_en": "that's (the reason ) why I came early",
+              "full_vn": "đó là (lý do) vì sao tôi đến sớm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "sao!, thế nào!",
+          "list_en_vn": [
+            {
+              "full_en": "why , it's quite easy !",
+              "full_vn": "sao, thật là dễ!"
+            },
+            {
+              "full_en": "why , it's you !",
+              "full_vn": "sao, anh đấy à!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the whys and the wherefores ) những lý do",
+          "list_en_vn": [
+            {
+              "full_en": "I don't need to hear all the whys and the wherefores , I just want to know what happened",
+              "full_vn": "tôi chẳng cần phải nghe lý do lý trấu gì cả, tôi chỉ muốn biết chuyện gì đã xảy ra thôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066570_cbc656d45a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066570_19426d7b60_o.png",
+      "id_image": "why_6028753"
+    }
+  ]
+}

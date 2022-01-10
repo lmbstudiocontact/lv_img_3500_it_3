@@ -1,0 +1,71 @@
+{
+  "english": "varnish",
+  "phat_am": "['vɑ:ni∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "véc-ni (lớp phủ ngoài cứng trong và bóng áp lên bề mặt, nhất là của đồ gỗ hoặc đồ sắt)",
+          "list_en_vn": [
+            {
+              "full_en": "scrape the varnish on a table",
+              "full_vn": "cạo lớp vécni trên mặt bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "véc-ni, sơn dầu (loại chất lỏng riêng biệt dùng để tạo ra lớp áo (như) thế)",
+          "list_en_vn": [
+            {
+              "full_en": "a natural varnish",
+              "full_vn": "dầu bóng thiên nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như nail-polish"
+        },
+        {
+          "m_full_vn": "men (đồ sành)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) mã ngoài, lớp sơn bên ngoài"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh véc ni, quét sơn dầu",
+          "list_en_vn": [
+            {
+              "full_en": "a highly varnished table-top",
+              "full_vn": "một mặt bàn đánh véc-ni rất kỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tráng men (đồ sành)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tô son điểm phấn; che đậy, ngụy trang",
+          "list_en_vn": [
+            {
+              "full_en": "some women varnish their toe-nails",
+              "full_vn": "một số phụ nữ sơn móng chân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702984_f36efaee5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702984_432e571641_o.png",
+      "id_image": "varnish_3468348"
+    }
+  ]
+}

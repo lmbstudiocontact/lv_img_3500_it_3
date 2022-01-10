@@ -1,0 +1,127 @@
+{
+  "english": "study",
+  "phat_am": "['stʌdi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự học tập; sự nghiên cứu (về một đề tài, nhất là từ sách vở)",
+          "list_en_vn": [
+            {
+              "full_en": "fond of study",
+              "full_vn": "ham học; hiếu học"
+            },
+            {
+              "full_en": "to give all one's spare time to study",
+              "full_vn": "dành hết thời gian rảnh rỗi vào việc học hành"
+            },
+            {
+              "full_en": "my studies show that ...",
+              "full_vn": "kết quả nghiên cừu của tôi cho thấy rằng...."
+            },
+            {
+              "full_en": "to make a study of anatomy",
+              "full_vn": "nghiên cứu về cơ thể học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đối tượng được nghiên cứu; đề tài nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "medical , legal studies",
+              "full_vn": "những vấn đề nghiên cứu y học, luật học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự suy nghĩ lung, sự trầm tư mặc tưởng (như) brown study",
+          "list_en_vn": [
+            {
+              "full_en": "to be lost in a brown study",
+              "full_vn": "đang suy nghĩ lung, đang trầm tư mặc tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng (nhất là trong nhà của ai) dùng để đọc sách và viết; phòng làm việc"
+        },
+        {
+          "m_full_vn": "(nghệ thuật) hình nghiên cứu"
+        },
+        {
+          "m_full_vn": "(âm nhạc) bài tập"
+        },
+        {
+          "m_full_vn": "(sân khấu) người học vở",
+          "list_en_vn": [
+            {
+              "full_en": "a slow study",
+              "full_vn": "người học vở lâu thuộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a study ) cái đáng quan sát; vẻ bất thường"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "học; nghiên cứu; xem rất cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "studying (for a degree in ) medicine",
+              "full_vn": "học (để lấy một học vị về) y khoa"
+            },
+            {
+              "full_en": "studying to be a lawyer",
+              "full_vn": "học để làm luật sư"
+            },
+            {
+              "full_en": "to study the map , menu , programme",
+              "full_vn": "nghiên cứu bản đồ, thực đơn, chương trình"
+            },
+            {
+              "full_en": "I'm studying how that machine operates",
+              "full_vn": "Tôi đang nghiên cứu xem cái máy đó vận hành như thế nào"
+            },
+            {
+              "full_en": "to study one' spart",
+              "full_vn": "học vai của mình"
+            },
+            {
+              "full_en": "to study books",
+              "full_vn": "nghiên cứu sách vở"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341211_484d283cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341211_2997f446bb_o.png",
+      "id_image": "study_1225910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455993_927c0aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455993_1fe3dc6456_o.png",
+      "id_image": "study_2598789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386197_738d705539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386197_8f6ce20e04_o.png",
+      "id_image": "study_392791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696384_0e8ef7a2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696384_0f420a1556_o.png",
+      "id_image": "study_4334817"
+    }
+  ]
+}

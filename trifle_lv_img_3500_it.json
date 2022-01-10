@@ -1,0 +1,101 @@
+{
+  "english": "trifle",
+  "phat_am": "['traifl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ lặt vặt; chuyện vặt",
+          "list_en_vn": [
+            {
+              "full_en": "to waste one's time on trifles",
+              "full_vn": "mất thì giờ vì những chuyện vặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món tiền nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "it cost only a trifle",
+              "full_vn": "cái đó giá chẳng đáng bao nhiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bánh xốp kem",
+          "list_one_mean": [
+            {
+              "id_full_en": "a trifle",
+              "list_im": [
+                {
+                  "im_full_vn": "hơi, đôi chút, một tí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a trifle too heavy",
+                      "full_vn": "hơi nặng một chút"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "coi thường, coi nhẹ, coi là chuyện vặt; đùa cợt, đùa giỡn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trifle away",
+              "list_im": [
+                {
+                  "im_full_vn": "lãng phí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to trifle away one's time",
+                      "full_vn": "lãng phí thì giờ"
+                    },
+                    {
+                      "full_en": "to trifle away one's money",
+                      "full_vn": "phung phí tiền bạc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "stop trifling with your work !",
+              "full_vn": "thôi đừng có đùa với công việc như vậy"
+            },
+            {
+              "full_en": "he is not a man to be trifled with",
+              "full_vn": "anh ta không phải là người có thể đùa được"
+            },
+            {
+              "full_en": "to trifle with one's food",
+              "full_vn": "nhấm nháp, ăn chơi ăn bời chút ít"
+            },
+            {
+              "full_en": "to trifle with one's paper-knife",
+              "full_vn": "nghịch con dao rọc giấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378317_ea530e79a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378317_c8d31b5aba_o.png",
+      "id_image": "trifle_3730755"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "vegetarian",
+  "phat_am": "[,vedʒi'teəriən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ăn chay (người không ăn thịt vì lý do nhân đạo, (tôn giáo) hoặc sức khoẻ)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) người ăn chay; ăn chay; chay",
+          "list_en_vn": [
+            {
+              "full_en": "a vegetarian meal",
+              "full_vn": "bữa ăn chay"
+            },
+            {
+              "full_en": "vegetarian food",
+              "full_vn": "thức ăn chay"
+            },
+            {
+              "full_en": "vegetarian diet",
+              "full_vn": "chế độ ăn toàn rau, chế độ ăn chay"
+            },
+            {
+              "full_en": "vegetarian priciples",
+              "full_vn": "thuyết ăn chay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702229_d6447735cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702229_77f1c2a917_o.png",
+      "id_image": "vegetarian_2117277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462148_a493ef44ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462148_4dd2b48464_o.png",
+      "id_image": "vegetarian_2689436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
+      "id_image": "vegetarian_5635512"
+    }
+  ]
+}

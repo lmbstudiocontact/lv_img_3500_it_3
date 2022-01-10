@@ -1,0 +1,43 @@
+{
+  "english": "smoker",
+  "phat_am": "['smoukə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hút thuốc đều đặn, người nghiện thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "smoker's heart",
+              "full_vn": "bệnh đau tim của người nghiện thuốc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toa hút thuốc (trên xe lửa) (như) smoking-car , smoking-carriage"
+        },
+        {
+          "m_full_vn": "buổi hoà nhạc được phép hút thuốc (như) smoking-concert"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330876_34763c73b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330876_9e56b25d3f_o.png",
+      "id_image": "smoker_261772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375502_14581d87b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375502_8edcc11b17_o.png",
+      "id_image": "smoker_2934322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375452_90e9d452c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375452_e67d0379de_o.png",
+      "id_image": "smoker_4728075"
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "english": "take",
+  "phat_am": "[teik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cầm, sự nắm, sự lấy"
+        },
+        {
+          "m_full_vn": "chầu, mẻ (số lượng săn được, câu được, bắt được)",
+          "list_en_vn": [
+            {
+              "full_en": "a great take of fish",
+              "full_vn": "mẻ cá lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tiền thu được, số tiền nhận được (trong buổi hoà nhạc, diễn kịch.. do bán vé mà có)"
+        },
+        {
+          "m_full_vn": "(điện ảnh) chuỗi cảnh của phim quay liền một lần không ngừng máy quay lại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ took ; taken",
+      "list_m": [
+        {
+          "m_full_vn": "cầm, nắm, giữ, lấy",
+          "list_en_vn": [
+            {
+              "full_en": "he took her in his arms and kissed her",
+              "full_vn": "anh ta ôm cô ấy trong tay và hôn cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy nhầm; lấy mất",
+          "list_en_vn": [
+            {
+              "full_en": "someone has taken my gloves",
+              "full_vn": "ai đó đã lấy cái găng tay của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm được, bắt được",
+          "list_en_vn": [
+            {
+              "full_en": "to be taken in the act",
+              "full_vn": "bị bắt quả tang"
+            },
+            {
+              "full_en": "to take a fortress",
+              "full_vn": "chiếm một pháo đài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) trừ vào; trừ đi, trích ra",
+          "list_en_vn": [
+            {
+              "full_en": "if you take five from twelve you're left with seven",
+              "full_vn": "lấy 12 trừ đi 5, anh sẽ còn lại 7"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mang, mang theo, đem, đem theo, đem đi; đem với",
+          "list_en_vn": [
+            {
+              "full_en": "take this letter to the post",
+              "full_vn": "hãy mang bức thư này ra bưu điện"
+            },
+            {
+              "full_en": "take your father this glass of water",
+              "full_vn": "bưng lên cho bố con cốc nước này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa, dẫn, dắt",
+          "list_en_vn": [
+            {
+              "full_en": "I'll take the children for a walk",
+              "full_vn": "tôi sẽ dẫn bọn trẻ con đi chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi bằng (phương tiện gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a bus",
+              "full_vn": "đi xe buýt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi theo đường",
+          "list_en_vn": [
+            {
+              "full_en": "I usually take the M6 when I go to Scotland",
+              "full_vn": "tôi thường đi đường M 6 khi đi tới Xcốtlen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt, quẹo, đi quanh",
+          "list_en_vn": [
+            {
+              "full_en": "the horse took the first fence beautifully",
+              "full_vn": "con ngựa vượt qua hàng rào thứ nhất rất đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) ngồi xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to take a chair",
+              "full_vn": "ngồi xuống ghế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) có, giữ (quan điểm, thái độ..)"
+        },
+        {
+          "m_full_vn": "( (thường) ở thể mệnh lệnh) hãy lấy làm thí dụ; coi như một tấm gương"
+        },
+        {
+          "m_full_vn": "thuê, mướn (nhà..)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a house",
+              "full_vn": "thuê một căn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chọn; mua",
+          "list_en_vn": [
+            {
+              "full_en": "to take a gift",
+              "full_vn": "chọn một món quà"
+            },
+            {
+              "full_en": "to take a ticket",
+              "full_vn": "mua vé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn, uống, dùng",
+          "list_en_vn": [
+            {
+              "full_en": "to take breakfast",
+              "full_vn": "ăn sáng, dùng điểm tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi, chép, ghi lại, chép lại",
+          "list_en_vn": [
+            {
+              "full_en": "to take notes",
+              "full_vn": "ghi chép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chụp ảnh ( ai/cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a photograph of somebody",
+              "full_vn": "chụp ảnh ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều khiển, làm chủ toạ, làm chủ lễ",
+          "list_en_vn": [
+            {
+              "full_en": "Mr Bean'll take the evening service",
+              "full_vn": "ông Bean sẽ điều khiển buổi lễ chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thử nghiệm, đo lường; đo",
+          "list_en_vn": [
+            {
+              "full_en": "to take somebody's pulse",
+              "full_vn": "bắt mạch ai"
+            },
+            {
+              "full_en": "the tailor took my measurements for a new suit",
+              "full_vn": "người thợ may đo người tôi để cắt một bộ com-lê mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm, thực hiện, thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to take a journey",
+              "full_vn": "làm một cuộc du lịch"
+            },
+            {
+              "full_en": "to take a bath",
+              "full_vn": "đi tắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi dụng, nắm",
+          "list_en_vn": [
+            {
+              "full_en": "to take the opportunity",
+              "full_vn": "lợi dụng cơ hội, nắm lấy cơ hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị, mắc, nhiễm",
+          "list_en_vn": [
+            {
+              "full_en": "to take cold",
+              "full_vn": "bị cảm lạnh, bị nhiễm lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi như, cho là, xem như, hiểu là",
+          "list_en_vn": [
+            {
+              "full_en": "do you take me for a fool ?",
+              "full_vn": "anh cho tôi là một thằng ngốc sao?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đòi hỏi, cần có, yêu cầu, phải",
+          "list_en_vn": [
+            {
+              "full_en": "it would take a strong man to move it",
+              "full_vn": "phải có một người khoẻ mới chuyển nổi cái này đi"
+            },
+            {
+              "full_en": "it does not take more than two minutes to do it",
+              "full_vn": "làm cái đó không (đòi hỏi) mất quá hai phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu, chấp nhận (một trách nhiệm..)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a beating",
+              "full_vn": "chịu một trận đòn"
+            },
+            {
+              "full_en": "to take all the responsibility",
+              "full_vn": "chịu hết trách nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) không dùng trong các thời tiếp diễn) chịu được, chịu đựng được",
+          "list_en_vn": [
+            {
+              "full_en": "he can take a joke",
+              "full_vn": "nó có thể chịu được sự đùa bỡn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản ứng",
+          "list_en_vn": [
+            {
+              "full_en": "she knows how to take him",
+              "full_vn": "cô ta biết nên phản ứng với anh ta như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) không dùng trong các thời tiếp diễn) nhận (ai) làm khách hàng (bệnh nhân, người thuê..)",
+          "list_en_vn": [
+            {
+              "full_en": "the school doesn't take girls",
+              "full_vn": "trường này không nhận con gái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thi",
+          "list_en_vn": [
+            {
+              "full_en": "she takes her finals next summer",
+              "full_vn": "cô ấy thi tốt nghiệp vào mùa hè tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được cấp, nhận được (một văn bằng)",
+          "list_en_vn": [
+            {
+              "full_en": "she took a first in English at Leeds",
+              "full_vn": "cô ta nhận được một văn bằng loại ưu về tiếng Anh ở Leeds"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được, đoạt; thu được, giành được",
+          "list_en_vn": [
+            {
+              "full_en": "to take a degree at the university",
+              "full_vn": "tốt nghiệp đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) đủ chỗ, chứa được",
+          "list_en_vn": [
+            {
+              "full_en": "the bus takes 60 passengers",
+              "full_vn": "xe búyt này chở được 60 hành khách"
+            },
+            {
+              "full_en": "I don't think the shelf will take any more books",
+              "full_vn": "tôi cho rằng giá không chứa thêm được sách nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mua thường xuyên, mua dài hạn (báo, tạp chí...)",
+          "list_en_vn": [
+            {
+              "full_en": "the \"Times \" is the only paper he takes",
+              "full_vn": "tờ \" Thời báo\" là tờ báo độc nhất anh ấy mua dài hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyến rũ, hấp dẫn, lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to be taken with",
+              "full_vn": "bị lôi cuốn, bị quyến rũ, say mê, say đắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt qua, đi tới, nhảy vào; trốn tránh ở",
+          "list_en_vn": [
+            {
+              "full_en": "to take an obstacle",
+              "full_vn": "vượt qua một điều trở ngại, vượt qua một vật chướng ngại"
+            },
+            {
+              "full_en": "the thoroughbred takes the hedge with greatest ease",
+              "full_vn": "con ngựa nòi vượt qua hàng rào một cách hết sức dễ dàng"
+            },
+            {
+              "full_en": "to take the water",
+              "full_vn": "nhảy xuống nước"
+            },
+            {
+              "full_en": "the bandits had taken the forest",
+              "full_vn": "bọn cướp đã trốn vào rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút ra, lấy ra",
+          "list_en_vn": [
+            {
+              "full_en": "the machine takes its name from its inventor",
+              "full_vn": "chiếc máy lấy tên của người đã phát minh ra nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) hiểu, giải thích (cái gì theo một cách riêng biệt)",
+          "list_en_vn": [
+            {
+              "full_en": "she took what he said as a compliment",
+              "full_vn": "cô ta hiểu những điều anh ấy nói như là một lời khen"
+            },
+            {
+              "full_en": "do you take my meaning ?",
+              "full_vn": "anh có hiểu ý tôi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không dùng trong các thời tiếp diễn) hiểu được, hiểu (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I don't think she took my meaning",
+              "full_vn": "tôi không nghĩ rằng bà ta hiểu ý tôi muốn nói"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt, bén (lửa); ngấm, có hiệu lực (thuốc)",
+          "list_en_vn": [
+            {
+              "full_en": "the medicine did not take",
+              "full_vn": "thuốc không có hiệu lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "she does not take well",
+              "full_vn": "cô ta không ăn ảnh lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành công, được ưa thích",
+          "list_en_vn": [
+            {
+              "full_en": "his second play took even more than the first",
+              "full_vn": "vở kịch thứ hai của ông ta còn thành công hơn cả vở kịch thứ nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from ) rút ra, lấy ra (từ một nơi hoặc nguồn đặc biệt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take after",
+              "list_im": [
+                {
+                  "im_full_vn": "giống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he takes after his uncle",
+                      "full_vn": "nó giống ông chú nó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take along",
+              "list_im": [
+                {
+                  "im_full_vn": "mang theo, đem theo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll take that book along with me",
+                      "full_vn": "tôi sẽ mang theo cuốn sách này với tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take aside",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo ra một chỗ, đưa ra một chỗ để nói riêng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take away",
+              "list_im": [
+                {
+                  "im_full_vn": "mang đi, lấy đi, đem đi, cất đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take back",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy lại, mang về, đem về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take back one's words",
+                      "full_vn": "nói lại, rút lui ý kiến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take down",
+              "list_im": [
+                {
+                  "im_full_vn": "tháo xuống, bỏ xuống, hạ xuống"
+                },
+                {
+                  "im_full_vn": "tháo ra, dỡ ra"
+                },
+                {
+                  "im_full_vn": "ghi chép"
+                },
+                {
+                  "im_full_vn": "làm nhục, sỉ nhục"
+                },
+                {
+                  "im_full_vn": "nuốt khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take from",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm bớt, làm yếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take in",
+              "list_im": [
+                {
+                  "im_full_vn": "mời vào, đưa vào, dẫn vào, đem vào (người đàn bà mình sẽ ngồi cạnh ở bàn tiệc)"
+                },
+                {
+                  "im_full_vn": "tiếp đón; nhận cho ở trọ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in lodgers",
+                      "full_vn": "nhận khách trọ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu nhận, nhận nuôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in an orphan",
+                      "full_vn": "nhận nuôi một trẻ mồ côi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mua dài hạn (báo chí...)"
+                },
+                {
+                  "im_full_vn": "nhận (công việc) về nhà làm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in sewing",
+                      "full_vn": "nhận đồ khâu về nhà làm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thu nhỏ, làm hẹp lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in a dress",
+                      "full_vn": "khâu hẹp cái áo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gồm có, bao gồm"
+                },
+                {
+                  "im_full_vn": "hiểu, nắm được, đánh giá đúng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in a situation",
+                      "full_vn": "nắm được tình hình"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "vội tin, nhắm mắt mà tin",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take in a statement",
+                      "full_vn": "nhắm mắt mà tin một bản tuyên bố"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lừa phỉnh, lừa gạt, cho vào tròng, cho vào bẫy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take into",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào, để vào, đem vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take someone into one's confidence",
+                      "full_vn": "thổ lộ chuyện riêng với ai"
+                    },
+                    {
+                      "full_en": "to take it into one's head (mind )",
+                      "full_vn": "có ý nghĩ, có ý định"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take off",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ (mũ), cởi (quần áo); giật ra, lấy đi, cuốn đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take off one's hat to somebody",
+                      "full_vn": "thán phục ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dẫn đi, đưa đi, tiễn đưa (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take oneself off",
+                      "full_vn": "ra đi, bỏ đi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhổ đi, xoá bỏ, làm mất tích"
+                },
+                {
+                  "im_full_vn": "nuốt chửng, nốc, húp sạch"
+                },
+                {
+                  "im_full_vn": "bớt, giảm (giá...)"
+                },
+                {
+                  "im_full_vn": "bắt chước; nhại, giễu"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) giậm nhảy"
+                },
+                {
+                  "im_full_vn": "(hàng không) cất cánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take on",
+              "list_im": [
+                {
+                  "im_full_vn": "đảm nhiệm, nhận làm, gách vác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take on extra work",
+                      "full_vn": "nhận làm việc thêm (việc ngoài giờ)"
+                    },
+                    {
+                      "full_en": "to take on responsibilities",
+                      "full_vn": "đảm nhận trách nhiệm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhận đánh cuộc, nhận lời thách đố",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take someone on at billiards",
+                      "full_vn": "nhận đấu bi a với ai"
+                    },
+                    {
+                      "full_en": "to take on a bet",
+                      "full_vn": "nhận đánh cuộc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhận vào làm, thuê, mướn (người làm...)"
+                },
+                {
+                  "im_full_vn": "dẫn đi tiếp"
+                },
+                {
+                  "im_full_vn": "(thông tục) choáng váng, xúc động mạnh, bị kích thích; làm hoảng lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take out",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra, dẫn ra ngoài"
+                },
+                {
+                  "im_full_vn": "lấy ra, rút ra; xoá sạch, tẩy sạch, làm mất đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take out a stain",
+                      "full_vn": "xoá sạch một vết bẩn"
+                    },
+                    {
+                      "full_en": "to take it out of",
+                      "full_vn": "rút hết sức lực (của ai), làm (ai) mệt lử; trả thù (ai)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhận được, được cấp, được phát (bằng, giấy phép, giấy đăng ký...)"
+                },
+                {
+                  "im_full_vn": "nhận (cái gì...) để bù vào; nhận số lượng tương đương để bù vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as he could not get paid he took it out in goods",
+                      "full_vn": "vì nó không lấy được tiền nên phải lấy hàng bù vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take over",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển, chở, đưa, dẫn qua (đường, sông...)"
+                },
+                {
+                  "im_full_vn": "tiếp quản, kế tục, nổi nghiệp, tiếp tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we take over Hanoi in 1954",
+                      "full_vn": "chúng ta tiếp quản Hà nội năm 1954"
+                    },
+                    {
+                      "full_en": "to take over the watch",
+                      "full_vn": "thay (đổi) phiên gác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take to",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng đến, nhờ cậy đến, cần đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the ship was sinking and they had to take to the boats",
+                      "full_vn": "tàu bị chìm và họ phải dùng đến thuyền"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "chạy trốn, trốn tránh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take to flight",
+                      "full_vn": "bỏ chạy, rút chạy"
+                    },
+                    {
+                      "full_en": "to take to the mountain",
+                      "full_vn": "trốn vào núi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt đầu ham thích, bắt đầu say mê, tập, nhiễm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take to drinking",
+                      "full_vn": "bắt đầu nghiện rượu"
+                    },
+                    {
+                      "full_en": "to take to bad habits",
+                      "full_vn": "nhiễm những thói xấu"
+                    },
+                    {
+                      "full_en": "to take to chemistry",
+                      "full_vn": "ham thích hoá học"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "có cảm tình, ưa, mến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the baby takes to her murse at once",
+                      "full_vn": "đứa bé mến ngay người vú"
+                    },
+                    {
+                      "full_en": "to take to the streets",
+                      "full_vn": "xuống đường (biểu tình, tuần hành...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhặt, cầm lên, lượm lên; đưa lên, dẫn lên, mang lên"
+                },
+                {
+                  "im_full_vn": "cho (hành khách) lên (ô tô, xe lửa)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the car stops to take up passengers",
+                      "full_vn": "xe đỗ lại cho hành khách lên, xe đỗ lại lấy khách"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiếp tục (một công việc bỏ dở...)"
+                },
+                {
+                  "im_full_vn": "chọn (một nghề); đảm nhiệm, gánh vác (một công việc)"
+                },
+                {
+                  "im_full_vn": "thu hút, choán, chiếm (thời gian, tâm trí...)"
+                },
+                {
+                  "im_full_vn": "hút, thấm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "sponges take up water",
+                      "full_vn": "bọt biển thấm (hút) nước"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt giữ, tóm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he was taken up by the police",
+                      "full_vn": "nó bị công an bắt giữ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) la rầy, quở mắng, trách móc"
+                },
+                {
+                  "im_full_vn": "ngắt lời (ai...)"
+                },
+                {
+                  "im_full_vn": "đề cập đến, xét đến, bàn đến (một vấn đề)"
+                },
+                {
+                  "im_full_vn": "hiểu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take up someone's idea",
+                      "full_vn": "hiểu ý ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhận, áp dụng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take up a bet",
+                      "full_vn": "nhận đánh cuộc"
+                    },
+                    {
+                      "full_en": "to take up a challenge",
+                      "full_vn": "nhận lời thách"
+                    },
+                    {
+                      "full_en": "to take up a method",
+                      "full_vn": "áp dụng một phương pháp"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "móc lên (một mũi đan tuột...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take up a dropped stitch",
+                      "full_vn": "móc lên một mũi đan tuột"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "vặn chặt (chỗ jơ); căng (dây cáp)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take up with",
+              "list_im": [
+                {
+                  "im_full_vn": "kết giao với, giao thiệp với, đi lại với, thân thiết với, chơi bời với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take earth",
+              "list_im": [
+                {
+                  "im_full_vn": "chui xuống lỗ (đen & bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's life in one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "liều mạng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "part of her article is taken from my book on the subject",
+              "full_vn": "một phần bài báo của bà ta là lấy từ cuốn sách của tôi viết về đề tài này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064355_9e902c276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064355_a9429557b4_o.png",
+      "id_image": "take_4151825"
+    }
+  ]
+}

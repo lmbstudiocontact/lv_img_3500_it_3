@@ -1,0 +1,84 @@
+{
+  "english": "unlike",
+  "phat_am": "[ʌn'laik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không giống; khác",
+          "list_en_vn": [
+            {
+              "full_en": "they are so unlike nobody would believe they were sisters",
+              "full_vn": "họ khác nhau đến nỗi không ai tin họ là chị em với nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "không giống; khác",
+          "list_en_vn": [
+            {
+              "full_en": "he is unlike his parents",
+              "full_vn": "nó không giống bố mẹ nó"
+            },
+            {
+              "full_en": "her latest novel is quite unlike her earlier work",
+              "full_vn": "tiểu thuyết mới nhất của bà ta hoàn toàn khác tác phẩm trước của bà ta"
+            },
+            {
+              "full_en": "the scenery was unlike anything I'd seen before",
+              "full_vn": "phong cảnh này khác tất cả những gì tôi thấy trước đây"
+            },
+            {
+              "full_en": "their celebrations at Christmas are not unlike our own",
+              "full_vn": "họ tổ chức lễ Nôen không khác chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đặc trưng cho ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "It's very unlike him to be so abrupt",
+              "full_vn": "tính nết anh ta xưa nay không thô lỗ như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trái với ai",
+          "list_en_vn": [
+            {
+              "full_en": "unlike me , my husband likes to stay in bed",
+              "full_vn": "trái với tôi, chồng tôi thích nằm trên giừơng"
+            },
+            {
+              "full_en": "I was very interested in the lecture , unlike many of the students",
+              "full_vn": "trái với nhiều sinh viên, tôi rất thích bài thuyết trình"
+            },
+            {
+              "full_en": "he managed to finish the race , unlike more than half of the competitors",
+              "full_vn": "trái với hơn một nửa số đấu thủ, anh ta đã cố gắng về được tới đích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352476_4bed4928e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352476_ec067afe21_o.png",
+      "id_image": "unlike_4470910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352451_b52a0a7e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352451_186e799418_o.png",
+      "id_image": "unlike_4567672"
+    }
+  ]
+}

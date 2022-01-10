@@ -1,0 +1,37 @@
+{
+  "english": "vaccine",
+  "phat_am": "['væksi:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) vắc-xin (chất tiêm vào mạch máu để bảo vệ cơ thể bằng cách làm cho cơ thể bị một dạng bệnh nhẹ)",
+          "list_en_vn": [
+            {
+              "full_en": "a polio vaccine",
+              "full_vn": "vắc-xin ngừa bệnh bại liệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349801_3b0c3f74ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349801_d97f7c3eb0_o.png",
+      "id_image": "vaccine_2746413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464523_c1ef3cbf6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464523_492d9414bc_o.png",
+      "id_image": "vaccine_484713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087095_44fde22988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087095_b4b10e0143_o.png",
+      "id_image": "vaccine_549106"
+    }
+  ]
+}

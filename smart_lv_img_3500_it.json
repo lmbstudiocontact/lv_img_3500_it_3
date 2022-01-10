@@ -1,0 +1,140 @@
+{
+  "english": "smart",
+  "phat_am": "[smɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đau đớn, sự nhức nhối; nỗi đau khổ (về tinh thần, thể xác)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đau đớn, nhức nhối, đau khổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to smart for",
+              "list_im": [
+                {
+                  "im_full_vn": "bị trừng phạt vì, chịu những hậu quả của"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "finger smart",
+              "full_vn": "ngón tay đau nhức"
+            },
+            {
+              "full_en": "smoke makes eyes smart",
+              "full_vn": "khói làm nhức mắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạnh, ác liệt (về một cú đánh)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a smart skirmish",
+              "full_vn": "có một cuộc chạm trán ác liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh, gây gắt (lời phê bình)"
+        },
+        {
+          "m_full_vn": "mau lẹ, nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "to go off at a smart pace",
+              "full_vn": "bước đi nhanh"
+            },
+            {
+              "full_en": "to have a smart box on the ear",
+              "full_vn": "bị một cái bạt tai nên thân, bị một cái tát điếng người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) khéo léo, tài tình, tỏ ra có trí thông minh",
+          "list_en_vn": [
+            {
+              "full_en": "a smart talker",
+              "full_vn": "người nói chuyện khéo"
+            },
+            {
+              "full_en": "a smart invention",
+              "full_vn": "phát minh tài tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh trí; tinh ranh, láu",
+          "list_en_vn": [
+            {
+              "full_en": "a smart officer",
+              "full_vn": "sĩ quan nhanh trí"
+            },
+            {
+              "full_en": "smart dealing",
+              "full_vn": "lối chơi láu cá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh nhã, lịch sự, bảnh bao, gọn gàng",
+          "list_en_vn": [
+            {
+              "full_en": "smart clothes",
+              "full_vn": "quần áo lịch sự"
+            },
+            {
+              "full_en": "a smart hat",
+              "full_vn": "một cái mũ lịch sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "diện, đúng mốt, lịch sự, sang trọng",
+          "list_en_vn": [
+            {
+              "full_en": "smart people",
+              "full_vn": "dân ăn diện"
+            },
+            {
+              "full_en": "the smart set",
+              "full_vn": "dáng dấp sang trọng"
+            },
+            {
+              "full_en": "to look quite smart",
+              "full_vn": "trông thật là sang trọng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376447_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376447_274baa4de2_o.png",
+      "id_image": "smart_2118746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376387_fb89fa073f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376387_d1a6a1f3b1_o.png",
+      "id_image": "smart_4865945"
+    }
+  ]
+}

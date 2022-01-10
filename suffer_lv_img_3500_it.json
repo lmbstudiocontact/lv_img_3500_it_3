@@ -1,0 +1,110 @@
+{
+  "english": "suffer",
+  "phat_am": "['sʌfə]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trải qua hoặc chịu (cái gì khó chịu)",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer a defeat",
+              "full_vn": "bị thua"
+            },
+            {
+              "full_en": "to suffer a pain",
+              "full_vn": "bị đau đớn"
+            },
+            {
+              "full_en": "to suffer torture",
+              "full_vn": "bị tra tấn"
+            },
+            {
+              "full_en": "we suffered heavy losses in the financial crisis",
+              "full_vn": "chúng tôi bị tổn thất nặng nề trong cuộc khủng hoảng tài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dung thứ, chịu đựng",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to suffer fools gladly",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể kiên nhẫn chịu đựng những kẻ mà mình cho là ngu xuẩn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "how can you suffer his insolence ?",
+              "full_vn": "làm thế nào mà anh có thể chịu đựng được sự láo xược của nó?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to suffer from / with / for something ) đau; đau khổ; bị",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer from neuralgia",
+              "full_vn": "đau dây thần kinh"
+            },
+            {
+              "full_en": "do you suffer from headaches ?",
+              "full_vn": "anh có bị nhức đầu hay không?"
+            },
+            {
+              "full_en": "to suffer from loss of memory",
+              "full_vn": "bị mất trí nhớ"
+            },
+            {
+              "full_en": "he suffers terribly with his feet",
+              "full_vn": "anh ta đau chân ghê gớm"
+            },
+            {
+              "full_en": "you made a rash decision - now you are suffering for it",
+              "full_vn": "anh đã có một quyết định liều lĩnh - bây giờ anh phải đau khổ vì việc đó"
+            },
+            {
+              "full_en": "think how much the parents of the kidnapped boy must have suffered",
+              "full_vn": "hãy nghĩ xem bố mẹ của đứa bé bị bắt cóc đau khổ đến thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên tồi tệ hơn; mất chất lượng",
+          "list_en_vn": [
+            {
+              "full_en": "trade is suffering from the war",
+              "full_vn": "sự buôn bán bị trì trệ vì chiến tranh"
+            },
+            {
+              "full_en": "your studies will suffer if you play too much football",
+              "full_vn": "việc học tập của anh sẽ sa sút nếu anh chơi đá bóng nhiều quá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694179_73e9f4c247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694179_d0be4bced3_o.png",
+      "id_image": "suffer_6001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454008_7ec042cbb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454008_300d6d13c8_o.png",
+      "id_image": "suffer_6003116"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "urinal",
+  "phat_am": "['juərinl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) bô, bình đái (cho người bệnh)"
+        },
+        {
+          "m_full_vn": "chỗ đi tiểu",
+          "list_en_vn": [
+            {
+              "full_en": "street urinal",
+              "full_vn": "chỗ đi tiểu ở đường phố, nhà đi tiểu công cộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) lo đựng nước tiểu (để xét nghiệm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465713_382bf71381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465713_4f9995459b_o.png",
+      "id_image": "urinal_1418163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465683_3bdcfd0308_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465683_ec87c997c1_o.png",
+      "id_image": "urinal_2203704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465733_6b7ce906bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465733_bbdfeb2c1f_o.png",
+      "id_image": "urinal_843882"
+    }
+  ]
+}

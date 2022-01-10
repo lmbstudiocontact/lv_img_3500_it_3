@@ -1,0 +1,106 @@
+{
+  "english": "ward",
+  "phat_am": "[wɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người (nhất là một đứa trẻ) được đặt dưới sự trông nom của một người bảo vệ hoặc dưới sự bảo trợ của một toà án; người được bảo trợ",
+          "list_en_vn": [
+            {
+              "full_en": "she invested money on behalf of her ward",
+              "full_vn": "bà ấy đầu tư tiền nhân danh người được bà ấy bảo trợ"
+            },
+            {
+              "full_en": "the child was made a ward of court",
+              "full_vn": "đứa bé được đặt dưới sự bảo trợ của toà án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân khu của một thành phố... được tổ chức bầu cử và có một ủy viên hội đồng đại diện trong chính quyền địa phương; phường; khu vực (thành phố)",
+          "list_en_vn": [
+            {
+              "full_en": "electoral ward",
+              "full_vn": "khu vực bầu cử"
+            },
+            {
+              "full_en": "there are three candidates standing for election in this ward",
+              "full_vn": "có ba ứng cử viên ra ứng cử trong phường này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gian hay phòng tách riêng dành cho một nhóm người bệnh; phòng dành riêng; khu",
+          "list_en_vn": [
+            {
+              "full_en": "a children's , maternity , surgical ward",
+              "full_vn": "phòng bệnh trẻ con, phòng hộ sinh, phòng mổ"
+            },
+            {
+              "full_en": "isolation ward",
+              "full_vn": "khu cách ly"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) khấc lõm vào hoặc lồi ra ở một chìa khoá hoặc ống khoá (thiết kế sao cho chỉ có chìa của người chủ mở được ống khoá mà thôi); răng khoá",
+          "list_one_mean": [
+            {
+              "id_full_en": "a ward in chancery",
+              "list_im": [
+                {
+                  "im_full_vn": "đứa trẻ được đại pháp quan (ở Anh) trông nom (do nó mồ côi cha mẹ chẳng hạn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to ward somebody / something off ) né tránh ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to ward off blows , disease , danger , intruders",
+              "full_vn": "tránh những cú đánh, bệnh tật, mối nguy hiểm, những kẻ xâm nhập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "theo hướng; về phía",
+          "list_en_vn": [
+            {
+              "full_en": "forward",
+              "full_vn": "về phía trước"
+            },
+            {
+              "full_en": "westward",
+              "full_vn": "về phía tây"
+            },
+            {
+              "full_en": "homeward",
+              "full_vn": "về hướng nhà mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693059_457d29b048_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693059_2231d814b1_o.png",
+      "id_image": "ward_298716"
+    }
+  ]
+}

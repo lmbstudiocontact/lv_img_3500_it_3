@@ -1,0 +1,119 @@
+{
+  "english": "where",
+  "phat_am": "[weə]",
+  "list_type": [
+    {
+      "type": "phó từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "đâu, ở đâu, ở nơi nào, ở chỗ nào, ở phía nào, ở mặt nào",
+          "list_en_vn": [
+            {
+              "full_en": "where are you going ?",
+              "full_vn": "anh đi đâu đấy?"
+            },
+            {
+              "full_en": "where are you from ?",
+              "full_vn": "anh từ đâu đến?, anh người nước nào?"
+            },
+            {
+              "full_en": "where are my gloves ?",
+              "full_vn": "đôi găng của tôi đâu?"
+            },
+            {
+              "full_en": "where am I wrong ?",
+              "full_vn": "tôi sai ở chỗ nào?"
+            },
+            {
+              "full_en": "I don't know where he is",
+              "full_vn": "tôi chẳng biết hắn ta ở đâu"
+            },
+            {
+              "full_en": "where is all this leading ?",
+              "full_vn": "tất cả các thứ này sẽ dẫn đến đâu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng sau từ hoặc nhóm từ nói về một địa điểm) tại, ở trong hoặc tới nơi nào",
+          "list_en_vn": [
+            {
+              "full_en": "the place where you last saw it",
+              "full_vn": "nơi mà anh tới thăm lần gần đây nhất"
+            },
+            {
+              "full_en": "one of the few countries where people drive on the left",
+              "full_vn": "một trong vài nước nơi người ta lái xe về bên trái"
+            },
+            {
+              "full_en": "the house where I was born",
+              "full_vn": "căn nhà nơi (mà) tôi sinh ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tại nơi nào đó, ở đó",
+          "list_en_vn": [
+            {
+              "full_en": "we then moved to Paris, where we lived for six years",
+              "full_vn": "rồi chúng tôi chuyển về Pari, nơi đó chúng tôi đã sống sáu năm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "tại chỗ nào đó, ở nơi mà",
+          "list_en_vn": [
+            {
+              "full_en": "put it where we can all see it",
+              "full_vn": "hãy đặt nó ở nơi mà tất cả chúng ta đều thấy được"
+            },
+            {
+              "full_en": "where food is hard to find , few birds remain throughout the year",
+              "full_vn": "ở nơi thức ăn khó kiếm, ít có chim muông ở lại suốt năm"
+            },
+            {
+              "full_en": "that's where you are wrong",
+              "full_vn": "đó là chỗ anh sai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi chốn, địa điểm",
+          "list_en_vn": [
+            {
+              "full_en": "I must have the wheres and whens",
+              "full_vn": "tôi cần có đầy đủ chi tiết về địa điểm và thời gian"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067890_9cac324e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067890_bebe9cd828_o.png",
+      "id_image": "where_5307387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331111_59280e6b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331111_8e246dba63_o.png",
+      "id_image": "where_5359676"
+    }
+  ]
+}

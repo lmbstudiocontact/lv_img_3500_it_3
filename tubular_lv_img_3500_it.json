@@ -1,0 +1,50 @@
+{
+  "english": "tubular",
+  "phat_am": "['tju:bjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình ống",
+          "list_en_vn": [
+            {
+              "full_en": "tubular bridge",
+              "full_vn": "cầu ống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có ống, chứa ống",
+          "list_en_vn": [
+            {
+              "full_en": "tubular boiler",
+              "full_vn": "nồi hơi có ống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bằng những chi tiết có hình ống",
+          "list_en_vn": [
+            {
+              "full_en": "tubular furniture",
+              "full_vn": "bàn ghế làm bằng vật liệu hình ống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374677_2b3b1d68a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374677_a2e32e78a5_o.png",
+      "id_image": "tubular_3255947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444953_7b3a033076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444953_ef758e219b_o.png",
+      "id_image": "tubular_5616002"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "tumor",
+  "phat_am": "['tju:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) khối u, u, bướu",
+          "list_en_vn": [
+            {
+              "full_en": "malignant tumor",
+              "full_vn": "u ác tính"
+            },
+            {
+              "full_en": "cancerous tumors",
+              "full_vn": "khối u ung thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nốt sưng tấy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329666_401846b65c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329666_1fe8fd3d10_o.png",
+      "id_image": "tumor_2712153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374252_393706632c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374252_74c059c273_o.png",
+      "id_image": "tumor_4072410"
+    }
+  ]
+}

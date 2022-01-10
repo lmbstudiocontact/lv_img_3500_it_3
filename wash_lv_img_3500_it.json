@@ -1,0 +1,349 @@
+{
+  "english": "wash",
+  "phat_am": "[wɔ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tắm rửa, sự tắm gội, sự rửa ráy",
+          "list_en_vn": [
+            {
+              "full_en": "to have a wash",
+              "full_vn": "tắm rửa, rửa ráy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rửa (vật gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to give something a wash",
+              "full_vn": "rửa vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the wash ) sự giặt giũ quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "all my shirts are in /have gone to the wash",
+              "full_vn": "tất cả áo sơ mi của tôi đã đưa đi giặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng quần áo (chăn..) được giặt",
+          "list_en_vn": [
+            {
+              "full_en": "there is a large wash this week",
+              "full_vn": "tuần này có nhiều thứ phải giặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng sóng, tiếng nước; tiếng gió rít"
+        },
+        {
+          "m_full_vn": "nước sơn lót"
+        },
+        {
+          "m_full_vn": "những mẩu thức ăn thừa trộn trong chất lỏng cho lợn ăn; nước vo gạo"
+        },
+        {
+          "m_full_vn": "sự giặt, sự giặt giũ; quần áo giặt; nơi giặt",
+          "list_en_vn": [
+            {
+              "full_en": "to send clothes to the wash",
+              "full_vn": "đem giặt quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước lã, nước ốc",
+          "list_en_vn": [
+            {
+              "full_en": "this soupe is a mere wash",
+              "full_vn": "súp nhạt như nước ốc"
+            },
+            {
+              "full_en": "this tea is like wash",
+              "full_vn": "nước chè này đúng là như nước lã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp tráng, lớp thiếp (trên mặt kim loại); nước vôi (quét tường)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) phù sa, đất bồi"
+        },
+        {
+          "m_full_vn": "(hội họa) lớp màu nước (trên mặt bức hoạ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come out in the wash",
+              "list_im": [
+                {
+                  "im_full_vn": "có kết quả tốt, kết thúc tốt"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) sớm muộn rồi cũng lộ ra, sớm muộn rồi cũng ra ánh sáng; sớm muộn rồi cũng giải thích ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come out in the wash",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) kết thúc tốt đẹp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rửa",
+          "list_en_vn": [
+            {
+              "full_en": "to wash one's hands",
+              "full_vn": "rửa tay; (nghĩa bóng) phủi tay, không chịu trách nhiệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giặt"
+        },
+        {
+          "m_full_vn": "chảy, chảy sát gần, vỗ vào",
+          "list_en_vn": [
+            {
+              "full_en": "the sea washes the base of the cliffs",
+              "full_vn": "biển vỗ vào chân vách đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuốn đi, giạt vào",
+          "list_en_vn": [
+            {
+              "full_en": "to be washed over ashore",
+              "full_vn": "bị giạt vào bờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoét, nạo",
+          "list_en_vn": [
+            {
+              "full_en": "the water had washed a channel in the sand",
+              "full_vn": "nước đã khoét thành một đường mương trong cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấm đẫm, làm ướt",
+          "list_en_vn": [
+            {
+              "full_en": "washed with dew",
+              "full_vn": "đẫm sương"
+            },
+            {
+              "full_en": "washed with tears",
+              "full_vn": "đầm đìa nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiếp vàng (một kim loại); quét vôi, quét sơn (tường)"
+        },
+        {
+          "m_full_vn": "(hội họa) tô màu nước (lên bức hoạ)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đãi (quặng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rửa ráy, tắm rửa, tắm gội"
+        },
+        {
+          "m_full_vn": "giặt quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "to wash for a living",
+              "full_vn": "làm nghề giặt quần áo để kiếm sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể giặt được (mà không hỏng...)",
+          "list_en_vn": [
+            {
+              "full_en": "this stuff won't wash",
+              "full_vn": "vải len này không giặt được"
+            },
+            {
+              "full_en": "that won't wash !",
+              "full_vn": "(nghĩa bóng) cái đó không được!"
+            },
+            {
+              "full_en": "that argument won't wash",
+              "full_vn": "lý lẽ ấy không vững"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bị nước xói lở (con đường...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wash away",
+              "list_im": [
+                {
+                  "im_full_vn": "rửa sạch (vết bẩn)"
+                },
+                {
+                  "im_full_vn": "làm lở, cuốn trôi, cuốn đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the bank is gradually washed by the current",
+                      "full_vn": "bờ sông bị dòng nước làm cho lở mòn dần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash down",
+              "list_im": [
+                {
+                  "im_full_vn": "rửa (bằng vòi nước)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to wash down a car",
+                      "full_vn": "rửa xe ô tô"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nuốt trôi, chiêu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he swallows a glass of water to wash his bread down",
+                      "full_vn": "nó uống một cốc nước để nuốt trôi miếng bánh"
+                    },
+                    {
+                      "full_en": "to wash down one's dinner with wine",
+                      "full_vn": "vừa ăn vừa chiêu rượu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash off",
+              "list_im": [
+                {
+                  "im_full_vn": "rửa sạch, giặt sạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash out",
+              "list_im": [
+                {
+                  "im_full_vn": "rửa sạch, súc sạch (cái chai)"
+                },
+                {
+                  "im_full_vn": "pha loãng; loãng ra, phai đi, bay mất (màu sắc), bạc màu (vì giặt nhiều)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "dress is quite washed out",
+                      "full_vn": "áo bạc hết màu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "có thể tẩy (rửa) đi được"
+                },
+                {
+                  "im_full_vn": "đãi (cát lấy vàng)"
+                },
+                {
+                  "im_full_vn": "giũ sạch (nợ); rửa (nhục)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to wash out an insult in blood",
+                      "full_vn": "rửa nhục bằng máu"
+                    },
+                    {
+                      "full_en": "all his debts are washed out",
+                      "full_vn": "nó đã giũ sạch được hết các món nợ"
+                    },
+                    {
+                      "full_en": "to be (look , feel ) washed out",
+                      "full_vn": "(thông tục) mệt lử, phờ phạc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash up",
+              "list_im": [
+                {
+                  "im_full_vn": "rửa bát đĩa"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) rửa mặt, tắm gội"
+                },
+                {
+                  "im_full_vn": "cuốn, đưa vào bờ, giạt vào bờ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) ( (thường) dạng bị động) bị loại ra, bị bỏ ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451558_b95eb32cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451558_c390386828_o.png",
+      "id_image": "wash_1221535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073620_b447ec2433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073620_ea3dcfbaed_o.png",
+      "id_image": "wash_1415756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336561_d8be23fe63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336561_0b19d9d212_o.png",
+      "id_image": "wash_2780644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451458_1210d2b27b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451458_6c69feff87_o.png",
+      "id_image": "wash_3690111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381687_20ae98da26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381687_3f34bda1f1_o.png",
+      "id_image": "wash_392763"
+    }
+  ]
+}

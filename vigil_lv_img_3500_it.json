@@ -1,0 +1,44 @@
+{
+  "english": "vigil",
+  "phat_am": "['vidʒil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thức đêm (để trông coi hoặc để cầu nguyện)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep vigil over a sick child",
+              "full_vn": "thức đêm để trông nom đứa trẻ ốm"
+            },
+            {
+              "full_en": "tired out by long nightly vigils at one's son's bedside",
+              "full_vn": "mệt nhoài sau nhiều đêm dài thức trắng bên cạnh giừơng của con trai mình"
+            },
+            {
+              "full_en": "to hold a candle-light vigil for peace",
+              "full_vn": "đốt nến thức cầu nguyện cho hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lễ vọng (ngày hôm trước của ngày lễ (tôn giáo), nhất là ngày phải ăn chay)",
+          "list_en_vn": [
+            {
+              "full_en": "the Easter vigil",
+              "full_vn": "ngày lễ vọng trước lễ Phục sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389157_33c01e88da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389157_6b1342a002_o.png",
+      "id_image": "vigil_3530379"
+    }
+  ]
+}

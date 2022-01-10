@@ -1,0 +1,69 @@
+{
+  "english": "transmission",
+  "phat_am": "[trænz'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phát, sự truyền; sự chuyển giao",
+          "list_en_vn": [
+            {
+              "full_en": "transmission of disease by mosquitoes",
+              "full_vn": "sự truyền bệnh do muỗi"
+            },
+            {
+              "full_en": "transmission of news",
+              "full_vn": "sự truyền tin"
+            },
+            {
+              "full_en": "transmission of electricity",
+              "full_vn": "sự truyền điện"
+            },
+            {
+              "full_en": "transmission from generation to generation",
+              "full_vn": "sự truyền từ thế hệ này qua thế hệ khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phát thanh, sự truyền hình; buổi phát",
+          "list_en_vn": [
+            {
+              "full_en": "a live transmission from Washington",
+              "full_vn": "truyền hình tại chỗ phát đi từ Washington"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ truyền lực, hộp truyền động (trong xe có động cơ)"
+        },
+        {
+          "m_full_vn": "sự truyền động, sự dẫn động"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074375_f11aaeb62c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074375_9965982551_o.png",
+      "id_image": "transmission_2080315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452108_6a820c262a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452108_4168fdbe52_o.png",
+      "id_image": "transmission_2660127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692549_4f1b83ae43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692549_ccbdcb7271_o.png",
+      "id_image": "transmission_4171403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337226_410194d545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337226_b70e7db1a1_o.png",
+      "id_image": "transmission_4796100"
+    }
+  ]
+}

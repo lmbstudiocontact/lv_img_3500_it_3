@@ -1,0 +1,70 @@
+{
+  "english": "shield",
+  "phat_am": "[∫i:ld]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái mộc, cái khiên"
+        },
+        {
+          "m_full_vn": "hình vẽ cái khiên, mô hình cái khiên thể hiện trên tấm gia huy (trong khoa nghiên cứu huy hiệu)"
+        },
+        {
+          "m_full_vn": "phần thưởng về chiến tích có hình dáng như cái khiên"
+        },
+        {
+          "m_full_vn": "tấm chắn bảo vệ, lưới chắn bảo vệ (trong máy móc..)",
+          "list_en_vn": [
+            {
+              "full_en": "a welder's eye-shield",
+              "full_vn": "tấm che mắt cho thợ hàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người che chở, vật che chở; người bảo vệ, vật bảo vệ"
+        },
+        {
+          "m_full_vn": "(sinh vật học) bộ phận hình khiên"
+        },
+        {
+          "m_full_vn": "miếng độn (ở cổ áo, nách áo, cho khỏi bẩn mồ hôi...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che chở, bảo vệ",
+          "list_en_vn": [
+            {
+              "full_en": "to shield one's eyes (from the sun ) with one's hand",
+              "full_vn": "lấy tay che mắt (cho khỏi nắng chói)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bao che, che đậy, lấp liếm"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chắn, che"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459863_bd893de4c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459863_94f3362ed3_o.png",
+      "id_image": "shield_486972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389997_f091ea73ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389997_6539eda20f_o.png",
+      "id_image": "shield_649082"
+    }
+  ]
+}

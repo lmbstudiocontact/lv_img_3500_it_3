@@ -1,0 +1,40 @@
+{
+  "english": "sifter",
+  "phat_am": "['siftə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sàng, người rây"
+        },
+        {
+          "m_full_vn": "(trong từ ghép) đồ dùng nhỏ như một cái rây (chủ yếu dùng trong nấu ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a flour-sifter",
+              "full_vn": "một cái rây bột mì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695424_06bf7bcce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695424_e14d19f8a6_o.png",
+      "id_image": "sifter_2269345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385042_e27135530e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385042_31188304ce_o.png",
+      "id_image": "sifter_3565441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384977_2ef25b4553_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384977_a54d6f6180_o.png",
+      "id_image": "sifter_3690162"
+    }
+  ]
+}

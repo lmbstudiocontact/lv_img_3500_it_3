@@ -1,0 +1,32 @@
+{
+  "english": "semicircle",
+  "phat_am": "['semisə:kl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình bán nguyệt; nửa vòng tròn, nửa đường tròn; vật được sắp theo hình bán nguyệt",
+          "list_en_vn": [
+            {
+              "full_en": "a semicircle of chairs",
+              "full_vn": "một dãy ghế xếp theo hình bán nguyệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465073_528b20ab85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465073_ff69868358_o.png",
+      "id_image": "semicircle_2249494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705109_84aa07813f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705109_214822e4aa_o.png",
+      "id_image": "semicircle_381253"
+    }
+  ]
+}

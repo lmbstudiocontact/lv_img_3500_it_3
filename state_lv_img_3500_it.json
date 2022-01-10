@@ -1,0 +1,206 @@
+{
+  "english": "state",
+  "phat_am": "[steit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái; tình trạng",
+          "list_en_vn": [
+            {
+              "full_en": "a precarious /poor state of health",
+              "full_vn": "tình trạng sức khoẻ mong manh/kém"
+            },
+            {
+              "full_en": "the house is in a bad state of repair",
+              "full_vn": "ngôi nhà cần được sửa sang lại"
+            },
+            {
+              "full_en": "a confused state of mind",
+              "full_vn": "tâm trạng bối rối"
+            },
+            {
+              "full_en": "in a state of undress",
+              "full_vn": "đang ở trong tình trạng loã lồ (trần truồng)"
+            },
+            {
+              "full_en": "not in a fit state to drive",
+              "full_vn": "không đủ tỉnh táo để lái xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất nước được xem như một cộng đồng chính trị có tổ chức do một chính phủ điều khiển; lãnh thổ của đất nước; nhà nước; quốc gia (cũng) State",
+          "list_en_vn": [
+            {
+              "full_en": "the State of Israel",
+              "full_vn": "Nhà nước Ixraen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính quyền dân sự của một nước; nhà nước",
+          "list_en_vn": [
+            {
+              "full_en": "matters /affairs of state",
+              "full_vn": "những vấn đề/công việc của Nhà nước"
+            },
+            {
+              "full_en": "Church and State",
+              "full_vn": "Nhà thờ và Nhà nước"
+            },
+            {
+              "full_en": "railways run by the state , state-run railways",
+              "full_vn": "đường sắt do nhà nước điều hành, đường sắt quốc doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghi lễ trọng thể",
+          "list_en_vn": [
+            {
+              "full_en": "The Queen was in her robes of state",
+              "full_vn": "Nữ hoàng mặc áo choàng nghi lễ"
+            },
+            {
+              "full_en": "To be welcomed in great state",
+              "full_vn": "Được đón tiếp rất trọng thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( State ) bang",
+          "list_en_vn": [
+            {
+              "full_en": "Southern States",
+              "full_vn": "những bang ở miền Nam nước Mỹ"
+            },
+            {
+              "full_en": "how many States are there in the United States of America ?",
+              "full_vn": "Hoa Kỳ có bao nhiêu bang?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the States ) nước Mỹ; Hoa Kỳ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /into a state",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lo lắng"
+                },
+                {
+                  "im_full_vn": "bẩn thỉu, bị bỏ mặc, không gọn gàng sách sẽ.. ( tùy theo văn cảnh)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "what a state this place is in !",
+                      "full_vn": "chỗ này mới bẩn thỉu làm sao!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a state of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) trần như nhộng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the state of play",
+              "list_im": [
+                {
+                  "im_full_vn": "tỉ số (nhất là trong cricket)"
+                },
+                {
+                  "im_full_vn": "tình trạng so sánh giữa hai bên đối lập đang tranh chấp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ (cũng) State",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) Nhà nước, cho Nhà nước, liên quan đến Nhà nước",
+          "list_en_vn": [
+            {
+              "full_en": "state documents",
+              "full_vn": "những văn kiện của nhà nước"
+            },
+            {
+              "full_en": "state leaders",
+              "full_vn": "những vị lãnh đạo nhà nước"
+            },
+            {
+              "full_en": "state railways",
+              "full_vn": "đường sắt quốc doanh"
+            },
+            {
+              "full_en": "state secrets",
+              "full_vn": "bí mật quốc gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) nghi lễ; liên quan đến nghi lễ; được sử dụng vào những dịp long trọng",
+          "list_en_vn": [
+            {
+              "full_en": "the state apartments",
+              "full_vn": "phòng khánh tiết"
+            },
+            {
+              "full_en": "the state opening of Parliament",
+              "full_vn": "lễ khai mạc trọng thể khoá họp của Nghị viện"
+            },
+            {
+              "full_en": "state carriage",
+              "full_vn": "xe ngựa chỉ dùng trong các nghi lễ cổ truyền của Anh"
+            },
+            {
+              "full_en": "state visit",
+              "full_vn": "cuộc đi thăm chính thức cấp nhà nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phát biểu; nói rõ, tuyên bố",
+          "list_en_vn": [
+            {
+              "full_en": "to state one's opinions /views",
+              "full_vn": "phát biểu ý kiến/quan điểm của mình"
+            },
+            {
+              "full_en": "at stated times /intervals",
+              "full_vn": "vào những thời điểm/khoảng cách đã nói rõ (đã định rõ)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086265_73610470e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086265_6274c27b26_o.png",
+      "id_image": "state_1354751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703719_1876708a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703719_2c1822ce02_o.png",
+      "id_image": "state_1605303"
+    }
+  ]
+}

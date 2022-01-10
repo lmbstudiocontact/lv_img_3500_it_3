@@ -1,0 +1,83 @@
+{
+  "english": "terror",
+  "phat_am": "['terə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kinh hoàng; sự khiếp sợ",
+          "list_en_vn": [
+            {
+              "full_en": "to run away in terror",
+              "full_vn": "bỏ chạy vì khiếp sợ"
+            },
+            {
+              "full_en": "to scream with terror",
+              "full_vn": "thét lên vì khiếp sợ"
+            },
+            {
+              "full_en": "to be in terror of one's life",
+              "full_vn": "khiếp sợ cho cái mạng sống của mình"
+            },
+            {
+              "full_en": "to strike terror into somebody",
+              "full_vn": "gieo rắc nỗi kinh hoàng cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trường hợp khiếp sợ; trường hợp kinh hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a terror of heights",
+              "full_vn": "khiếp sợ các độ cao"
+            },
+            {
+              "full_en": "the terrors of the night were past",
+              "full_vn": "những nỗi kinh hoàng đêm tối đã qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật làm khiếp sợ, người làm khiếp sợ; mối kinh hãi, nỗi khiếp sợ",
+          "list_en_vn": [
+            {
+              "full_en": "to be a terror to ...; to be the terror of ...",
+              "full_vn": "làm nỗi kinh hoàng đối với..."
+            },
+            {
+              "full_en": "death holds no terrors for me",
+              "full_vn": "cái chết không làm tôi khiếp sợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người ghê gớm, người quấy rầy; vật ghê gớm, vật quấy rầy",
+          "list_en_vn": [
+            {
+              "full_en": "that puppy is an absolute terror",
+              "full_vn": "cái con chó này thật quấy rầy hết sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khủng bố",
+          "list_en_vn": [
+            {
+              "full_en": "white terror",
+              "full_vn": "sự khủng bố trắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396427_7df9d3bf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396427_f7223ecbe3_o.png",
+      "id_image": "terror_708634"
+    }
+  ]
+}

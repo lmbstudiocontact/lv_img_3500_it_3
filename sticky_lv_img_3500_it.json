@@ -1,0 +1,83 @@
+{
+  "english": "sticky",
+  "phat_am": "['stiki]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dính; nhớt; bầy nhầy, nhớp nháp",
+          "list_en_vn": [
+            {
+              "full_en": "sticky fingers covered in jam",
+              "full_vn": "những ngón tay dính đầy mứt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nồm (thời tiết nóng và ẩm một cách khó chịu, làm đổ mồ hôi)",
+          "list_en_vn": [
+            {
+              "full_en": "a sticky August afternoon",
+              "full_vn": "một buổi chiều nồm tháng tám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) khó tính, khó khăn (tính nết)",
+          "list_en_vn": [
+            {
+              "full_en": "to be very sticky about something",
+              "full_vn": "làm khó làm dễ cái gì 3 (từ lóng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) rất khó chịu, rất đau đớn",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a sticky end",
+              "full_vn": "chết một cách rất đau đớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) có phần phản đối",
+          "list_one_mean": [
+            {
+              "id_full_en": "sticky fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "xu hướng ăn cắp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sticky wicket",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt sân bị ướt, khô nhanh dưới ánh nắng mặt trời và khó đánh bóng (trong môn cricket)"
+                },
+                {
+                  "im_full_vn": "tình huống khó giải quyết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701444_bed6379370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701444_04d8805c89_o.png",
+      "id_image": "sticky_1443457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346541_004ccf7b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346541_0dcc6607af_o.png",
+      "id_image": "sticky_2519446"
+    }
+  ]
+}

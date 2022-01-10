@@ -1,0 +1,118 @@
+{
+  "english": "toll",
+  "phat_am": "[toul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền trả cho việc sử dụng đường, cầu, cảng; lệ phí cầu, lệ phí đường, thuế qua đường, thuế qua cầu"
+        },
+        {
+          "m_full_vn": "sự mất mát, sự thiệt hại (do cái gì gây ra)",
+          "list_en_vn": [
+            {
+              "full_en": "the death-toll in the earthquake , on the roads , after the massacre",
+              "full_vn": "số người chết trong vụ động đất, trên đường giao thông, sau vụ thảm sát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần thóc công xay (phần thóc giữ lại để cho tiền công xay)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take a heavy toll /take its toll (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "gây thiệt hại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the war took a heavy toll of human life",
+                      "full_vn": "cuộc chiến tranh gây thiệt hại nặng nề về sinh mạng con người"
+                    },
+                    {
+                      "full_en": "every year at Christmas drunken driving takes its toll",
+                      "full_vn": "Vào dịp lễ Nôen hàng năm, nạn lái xe trong tinh trạng say rượu gây ra nhiều thiệt hại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "road toll",
+              "list_im": [
+                {
+                  "im_full_vn": "số người bị tai nạn xe cộ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu thuế (cầu, đường, chợ...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rung chuông; tiếng chuông rung"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to toll for somebody / something ) rung chuông (nhất là khi có người chết hoặc đám tang)",
+          "list_en_vn": [
+            {
+              "full_en": "to toll the bell",
+              "full_vn": "rung chuông"
+            },
+            {
+              "full_en": "to toll someone's death",
+              "full_vn": "rung chuông báo tử người nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về chuông) rung chậm và đều đặn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082365_5117ec3789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082365_8c18f5d317_o.png",
+      "id_image": "toll_1666273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459683_1812b3bd08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459683_9925f5c283_o.png",
+      "id_image": "toll_2554888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344846_6687aa06b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344846_628ba9e83c_o.png",
+      "id_image": "toll_4092025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699924_7345225624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699924_825f9d27c2_o.png",
+      "id_image": "toll_6158062"
+    }
+  ]
+}

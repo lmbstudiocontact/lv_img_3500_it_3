@@ -1,0 +1,42 @@
+{
+  "english": "withdrawal",
+  "phat_am": "[wið'drɔ:əl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rút khỏi, sự bị rút khỏi; sự thu hồi",
+          "list_en_vn": [
+            {
+              "full_en": "the withdrawal of supplies",
+              "full_vn": "việc rút bỏ tiếp tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cai nghiện, quá trình cai nghiện"
+        },
+        {
+          "m_full_vn": "(quân sự) sự rút quân"
+        },
+        {
+          "m_full_vn": "sự rút lui (ý kiến)"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự rút (đơn kiện...)"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự huỷ bỏ; sự thu hồi (sắc lệnh...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690854_788610fcd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690854_62bef02c9e_o.png",
+      "id_image": "withdrawal_1349720"
+    }
+  ]
+}

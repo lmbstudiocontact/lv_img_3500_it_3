@@ -1,0 +1,32 @@
+{
+  "english": "therapist",
+  "phat_am": "['θerəpist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bác sĩ chuyên khoa về một phép chữa bệnh nào đó; nhà trị liệu",
+          "list_en_vn": [
+            {
+              "full_en": "a speech therapist",
+              "full_vn": "bác sĩ chuyên khoa chữa trị những tật về nói"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394962_1f9bfb5a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394962_a0bc16305e_o.png",
+      "id_image": "therapist_3378754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350176_3b02194467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350176_3e0de477d4_o.png",
+      "id_image": "therapist_3467877"
+    }
+  ]
+}

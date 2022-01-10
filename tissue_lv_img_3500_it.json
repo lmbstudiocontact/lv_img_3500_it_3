@@ -1,0 +1,51 @@
+{
+  "english": "tissue",
+  "phat_am": "['ti∫u:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một loạt, một chuỗi liên quan với nhau, một chuỗi đan xen với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "his story is a tissue of lies",
+              "full_vn": "câu chuyện của anh là một chuỗi những lời nói dối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như tissue-paper"
+        },
+        {
+          "m_full_vn": "(sinh vật học) mô (vô số các tế bào tạo nên cơ thể động vật và cây cối)",
+          "list_en_vn": [
+            {
+              "full_en": "nervous tissue",
+              "full_vn": "mô thần kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải dệt mỏng, mịn"
+        },
+        {
+          "m_full_vn": "miếng mỏng, thấm nước, vứt đi sau khi dùng (khăn giấy..)",
+          "list_en_vn": [
+            {
+              "full_en": "face /facial tissue",
+              "full_vn": "giấy lau mặt, khăn giấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461268_6d588dd802_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461268_1845cf86dd_o.png",
+      "id_image": "tissue_843871"
+    }
+  ]
+}

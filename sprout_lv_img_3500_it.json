@@ -1,0 +1,81 @@
+{
+  "english": "sprout",
+  "phat_am": "[spraut]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mầm, chồi, búp (của cây)",
+          "list_en_vn": [
+            {
+              "full_en": "soya sprouts",
+              "full_vn": "giá đậu tương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mới mọc"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) cải bruxen (như) Brussels sprouts"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mọc lên, nhú lên, đâm chồi, nảy mầm",
+          "list_en_vn": [
+            {
+              "full_en": "new buds sprouting on the trees",
+              "full_vn": "những chồi mới đang nảy trên các cây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngắt mầm, ngắt chồi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhú lên, xuất hiện, mọc lên",
+          "list_en_vn": [
+            {
+              "full_en": "to sprout horns",
+              "full_vn": "nhú sừng (trâu, bò)"
+            },
+            {
+              "full_en": "to sprout a moustache",
+              "full_vn": "để râu mép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát triển, sinh ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466723_e29048e801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466723_f8311e51e5_o.png",
+      "id_image": "sprout_179148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089420_3e7bd1aa1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089420_500e1a894d_o.png",
+      "id_image": "sprout_209199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089400_d6501355e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089400_5cdde40a75_o.png",
+      "id_image": "sprout_649154"
+    }
+  ]
+}

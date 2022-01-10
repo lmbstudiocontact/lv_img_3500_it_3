@@ -1,0 +1,117 @@
+{
+  "english": "slide",
+  "phat_am": "[slaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trượt"
+        },
+        {
+          "m_full_vn": "đường trượt trên tuyết"
+        },
+        {
+          "m_full_vn": "mặt nghiêng, ván trượt (để trượt hàng hoá...)"
+        },
+        {
+          "m_full_vn": "khe trượt; bộ phận trượt (trong máy)"
+        },
+        {
+          "m_full_vn": "bản kính mang vật (ở kính hiển vi)"
+        },
+        {
+          "m_full_vn": "bản kính dương (đèn chiếu)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) luyến ngắt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ slid",
+      "list_m": [
+        {
+          "m_full_vn": "trượt, chuyển động nhẹ nhàng",
+          "list_en_vn": [
+            {
+              "full_en": "piston slides noiselessly up and down",
+              "full_vn": "pittông chuyển động lên xuống rất êm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt qua, đi lướt",
+          "list_en_vn": [
+            {
+              "full_en": "to slide over a delicate subject",
+              "full_vn": "đi lướt qua một vấn đề tế nhị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua, trôi qua",
+          "list_en_vn": [
+            {
+              "full_en": "let things slide",
+              "full_vn": "để sự việc trôi qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rơi vào, sa ngã",
+          "list_en_vn": [
+            {
+              "full_en": "to slide into sin",
+              "full_vn": "sa ngã vào vòng tội lỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) luyến",
+          "list_en_vn": [
+            {
+              "full_en": "to slide from one note to another",
+              "full_vn": "luyến từ nốt này sang nốt khác"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ, thả, đẩy nhẹ, đẩy trượt",
+          "list_en_vn": [
+            {
+              "full_en": "to slide timber",
+              "full_vn": "thả gỗ theo sườn núi"
+            },
+            {
+              "full_en": "to slide drawer into place",
+              "full_vn": "đẩy nhẹ ngăn kéo vào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070005_9e6b4a86fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070005_23e6695e0e_o.png",
+      "id_image": "slide_4001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688229_606249d848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688229_cd30935726_o.png",
+      "id_image": "slide_950737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448258_3a6f61d4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448258_bbe672bd9c_o.png",
+      "id_image": "slide_950754"
+    }
+  ]
+}

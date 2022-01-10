@@ -1,0 +1,60 @@
+{
+  "english": "whisper",
+  "phat_am": "['wispə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng nói thầm, tiếng xì xào (của lá...); tiếng vi vu xào xạc (của gió...)",
+          "list_en_vn": [
+            {
+              "full_en": "to talk in whispers (in a whisper )",
+              "full_vn": "nói chuyện thì thầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin đồn kín, tiếng đồn kín; lời xì xào bàn tán nhỏ to"
+        },
+        {
+          "m_full_vn": "lời nhận xét rỉ tai"
+        },
+        {
+          "m_full_vn": "lời gợi ý bí mật"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói thầm; xì xào (lá); xào xạc (gió)"
+        },
+        {
+          "m_full_vn": "xì xào bàn tán"
+        },
+        {
+          "m_full_vn": "bí mật phao lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067365_72d230a120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067365_4af32aa6f5_o.png",
+      "id_image": "whisper_4893347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375187_0a274319e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375187_7c8fbd7b0c_o.png",
+      "id_image": "whisper_5024490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067300_6622b77e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067300_8f71b4a792_o.png",
+      "id_image": "whisper_5508102"
+    }
+  ]
+}

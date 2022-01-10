@@ -1,0 +1,43 @@
+{
+  "english": "trophy",
+  "phat_am": "['troufi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiến tích; chiến lợi phẩm, vật kỷ niệm chiến thắng (trong chiến tranh..)"
+        },
+        {
+          "m_full_vn": "nhóm đồ vật trần thiết, trưng bày"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cúp (vật được làm giải thưởng khi giành phần thắng trong cuộc thi đấu thể thao)",
+          "list_en_vn": [
+            {
+              "full_en": "the Wimbledon tennis trophy",
+              "full_vn": "cúp quần vợt Wimbledon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069155_ca6d900246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069155_59cf5dd9ea_o.png",
+      "id_image": "trophy_344652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687334_238afb1528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687334_e233867234_o.png",
+      "id_image": "trophy_344671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332341_fe90e0c220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332341_5e2ef78dbf_o.png",
+      "id_image": "trophy_344689"
+    }
+  ]
+}

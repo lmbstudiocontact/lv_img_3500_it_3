@@ -1,0 +1,37 @@
+{
+  "english": "teenager",
+  "phat_am": "['ti:neidʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thanh thiếu niên (người ở tuổi 13 đến 19)",
+          "list_en_vn": [
+            {
+              "full_en": "a club for teenagers",
+              "full_vn": "một câu lạc bộ cho thanh thiếu niên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397892_56c6256a0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397892_e2f478e25e_o.png",
+      "id_image": "teenager_4472485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397867_439f188c54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397867_13223e36d5_o.png",
+      "id_image": "teenager_4472488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090345_0426590d22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090345_2e7ff25876_o.png",
+      "id_image": "teenager_6032281"
+    }
+  ]
+}

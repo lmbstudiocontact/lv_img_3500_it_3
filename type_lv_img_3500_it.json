@@ -1,0 +1,126 @@
+{
+  "english": "type",
+  "phat_am": "[taip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểu; loại (người, vật)",
+          "list_en_vn": [
+            {
+              "full_en": "different racial types",
+              "full_vn": "những loại chủng tộc khác nhau"
+            },
+            {
+              "full_en": "which type of tea do you prefer ?",
+              "full_vn": "anh thích loại trà nào hơn?"
+            },
+            {
+              "full_en": "All types of jobs /Jobs of all types",
+              "full_vn": "đủ loại công việc/công việc đủ loại"
+            },
+            {
+              "full_en": "Wines of the Burgundy type /Burgundy-type wines",
+              "full_vn": "rượu vang loại Bourgogne"
+            },
+            {
+              "full_en": "I don't think she's the artistic type",
+              "full_vn": "tôi không nghĩ rằng cô ta thuộc loại nghệ sĩ tiêu biểu"
+            },
+            {
+              "full_en": "the old-fashioned type of English gentleman",
+              "full_vn": "loại quý phái Anh kiểu cổ"
+            },
+            {
+              "full_en": "Just the type of situation to avoid . He's true to type",
+              "full_vn": "Đúng là loại tình hình nên tránh. Hắn ta vẫn có cái thói đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) loại, típ (người có đặc tính nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a brainy type",
+              "full_vn": "một típ thông minh"
+            },
+            {
+              "full_en": "he's not my type (of person )",
+              "full_vn": "anh ta không cùng kiểu (người) với tôi (chúng tôi ít suy nghĩ giống nhau)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chữ in",
+          "list_en_vn": [
+            {
+              "full_en": "printed in large type",
+              "full_vn": "in chữ lớn"
+            },
+            {
+              "full_en": "to be in type",
+              "full_vn": "sẵn sàng đưa in"
+            },
+            {
+              "full_en": "to set something in bold /roman /italic type",
+              "full_vn": "xếp cái gì theo kiểu chữ đậm/đứng/nghiêng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân loại, xếp loại; định kiểu",
+          "list_en_vn": [
+            {
+              "full_en": "patients typed by age and blood group",
+              "full_vn": "người bệnh được phân loại theo tuổi và nhóm máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh máy",
+          "list_en_vn": [
+            {
+              "full_en": "to type a letter",
+              "full_vn": "đánh máy một bức thư"
+            },
+            {
+              "full_en": "to type well",
+              "full_vn": "đánh máy giỏi"
+            },
+            {
+              "full_en": "to type (away ) with four fingers",
+              "full_vn": "đánh máy chữ bằng bốn ngón"
+            },
+            {
+              "full_en": "this will need to be typed (out ) again",
+              "full_vn": "bản này cần đánh máy lại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399557_5d0d21033c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399557_0514d820cf_o.png",
+      "id_image": "type_1440391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092060_b8362559e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092060_4d5baa20e8_o.png",
+      "id_image": "type_2748894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709284_eaaeb4fd0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709284_bff0086412_o.png",
+      "id_image": "type_2844576"
+    }
+  ]
+}

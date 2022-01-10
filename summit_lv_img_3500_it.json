@@ -1,0 +1,34 @@
+{
+  "english": "summit",
+  "phat_am": "['sʌmit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỉnh, chỏm, chóp, ngọn; điểm cao nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the icy summits of the Alps",
+              "full_vn": "những đỉnh núi phủ băng của dãy An-pơ"
+            },
+            {
+              "full_en": "the summits of somebody's ambition",
+              "full_vn": "đỉnh cao của hoài bão của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc gặp thượng đỉnh; cuộc gặp cấp cao (của các vị đứng đầu chính phủ) (cũng) summit conference"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074940_d51104f6d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074940_5fd29498b0_o.png",
+      "id_image": "summit_2282493"
+    }
+  ]
+}

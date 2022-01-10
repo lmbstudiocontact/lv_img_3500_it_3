@@ -1,0 +1,78 @@
+{
+  "english": "tailor",
+  "phat_am": "['teilə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người may quần áo cho nam giới; thợ may",
+          "list_one_mean": [
+            {
+              "id_full_en": "the tailor makes the man",
+              "list_im": [
+                {
+                  "im_full_vn": "người tốt vì lụa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to ride like a tailor",
+              "list_im": [
+                {
+                  "im_full_vn": "cưỡi ngựa kém"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go to the tailor to be measured for a suit",
+              "full_vn": "đến thợ may để đo may một bộ com lê"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "may (quần áo..)",
+          "list_en_vn": [
+            {
+              "full_en": "to tailor a costume",
+              "full_vn": "may một bộ quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to tailor something for / to somebody / something ) làm cho cái gì thích ứng với ai/cái gì"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thợ may"
+        },
+        {
+          "m_full_vn": "biến đổi, làm cho đáp ứng nhu cầu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327851_4f0c66e43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327851_8a9813961c_o.png",
+      "id_image": "tailor_5857235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064485_38d86b59f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064485_973d867ae4_o.png",
+      "id_image": "tailor_6036809"
+    }
+  ]
+}

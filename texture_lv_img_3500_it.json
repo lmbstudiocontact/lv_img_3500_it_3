@@ -1,0 +1,61 @@
+{
+  "english": "texture",
+  "phat_am": "['tekst∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dệt; lối dệt (cách sắp đặt các sợi trong một tấm vải)",
+          "list_en_vn": [
+            {
+              "full_en": "fine texture",
+              "full_vn": "lối dệt mịn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải"
+        },
+        {
+          "m_full_vn": "kết cấu (bề ngoài hoặc cảm giác khi sờ vào của một bề mặt.. nhận biết được độ dày, cứng, mịn.. của vật)",
+          "list_en_vn": [
+            {
+              "full_en": "the delicate texture of her skin",
+              "full_vn": "làn da mịn màng của cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết cấu, bố cục (bài thơ..)",
+          "list_en_vn": [
+            {
+              "full_en": "the fine texture of a poem",
+              "full_vn": "kết cấu tinh vi của một bài thơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bề mặt (mịn, nhẵn, nhám..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705409_7ec25140d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705409_b8e07970fc_o.png",
+      "id_image": "texture_2845074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705389_924dc4dbe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705389_0d514d98b8_o.png",
+      "id_image": "texture_5003145"
+    }
+  ]
+}

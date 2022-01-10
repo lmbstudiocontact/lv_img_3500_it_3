@@ -1,0 +1,203 @@
+{
+  "english": "trust",
+  "phat_am": "[trʌst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tín nhiệm, lòng tin, sự tin cậy",
+          "list_en_vn": [
+            {
+              "full_en": "to have (put , repose ) trust in someone",
+              "full_vn": "tin cậy ai, tín nhiệm ai"
+            },
+            {
+              "full_en": "a breach of trust",
+              "full_vn": "sự bội tín"
+            },
+            {
+              "full_en": "you must take what I say on trust",
+              "full_vn": "anh cứ tin vào lời tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm hy vọng, kỳ vọng, sự tin tưởng, sự trông mong",
+          "list_en_vn": [
+            {
+              "full_en": "you are my sole trust",
+              "full_vn": "anh là nguồn hy vọng duy nhất của tôi, tôi chỉ biết trông mong vào anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giao phó, sự phó thác, sự uỷ thác",
+          "list_en_vn": [
+            {
+              "full_en": "to commit to someone's trust",
+              "full_vn": "giao phó cho ai trông nom, uỷ thác cho ai"
+            },
+            {
+              "full_en": "to have in trust",
+              "full_vn": "được giao phó, được uỷ thác"
+            },
+            {
+              "full_en": "to leave in trust",
+              "full_vn": "uỷ thác"
+            },
+            {
+              "full_en": "to lold a property in trust",
+              "full_vn": "(pháp lý) trông nom một tài sản được uỷ thác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trách nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "a position of great trust",
+              "full_vn": "một chức vị có trách nhiệm lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự mua chịu, sự bán chịu",
+          "list_en_vn": [
+            {
+              "full_en": "to supply goods on trust",
+              "full_vn": "cung cấp hàng chịu"
+            },
+            {
+              "full_en": "to deliver goods on trust",
+              "full_vn": "giao hàng chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh tế) tơrơt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tin, tin cậy, tín nhiệm; trông cậy, tin tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to trust someone implicitly",
+              "full_vn": "tuyệt đối tin ai"
+            },
+            {
+              "full_en": "his words can't be trusted",
+              "full_vn": "lời nói của nó không thể tin được"
+            },
+            {
+              "full_en": "you can't trust what the papers say",
+              "full_vn": "anh không thể tin vào những lời báo chí viết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hy vọng, kỳ vọng",
+          "list_en_vn": [
+            {
+              "full_en": "we trust to receive a cheque at your earliest convenience",
+              "full_vn": "chúng tôi hy vọng sẽ nhận được tấm séc vào thời điểm sớm nhất (vào lúc nào thuận tiện nhất cho ông)"
+            },
+            {
+              "full_en": "I trust that you are in good health",
+              "full_vn": "tôi hy vọng rằng anh vẫn khoẻ mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tùy thuộc vào (ai) để làm, dùng, trông nom cái gì... một cách chu đáo hoặc an toàn",
+          "list_en_vn": [
+            {
+              "full_en": "I know I can trust my children with you",
+              "full_vn": "tôi biết tôi có thể giao phó con cái tôi cho anh được"
+            },
+            {
+              "full_en": "I'd trust him with my life",
+              "full_vn": "cả cuộc đời tôi, tôi đã giao phó cho nó"
+            },
+            {
+              "full_en": "I can't trust you out of my sight",
+              "full_vn": "tôi không thể phó mặc anh không trông nom dòm ngó gì đến"
+            },
+            {
+              "full_en": "can I trust you to post this letter ?",
+              "full_vn": "tôi nhờ anh bỏ lá thư này vào thùng được không?"
+            },
+            {
+              "full_en": "trust you to forget my birthday !",
+              "full_vn": "tin vào cậu để mà quên ngày sinh nhật của tớ à!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán chịu, cho chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trust in somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "tin ở ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to trust in providence",
+                      "full_vn": "tin ở thượng đế"
+                    },
+                    {
+                      "full_en": "you must trust in your own judgement",
+                      "full_vn": "anh phải tin vào chính khả năng xét đoán của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trust to something",
+              "list_im": [
+                {
+                  "im_full_vn": "phó mặc cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to trust to luck /fate /fortune",
+                      "full_vn": "phó mặc cho sự may rủi/số phận/vận may"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you can trust him for any amount",
+              "full_vn": "anh có thể cho hắn chịu bao nhiêu cũng được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686024_4507f63361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686024_afcc4a6d3a_o.png",
+      "id_image": "trust_1622629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375662_688869184c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375662_c27e189949_o.png",
+      "id_image": "trust_2191224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375597_91f67dfa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375597_2c3acce27a_o.png",
+      "id_image": "trust_3317740"
+    }
+  ]
+}

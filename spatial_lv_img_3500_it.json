@@ -1,0 +1,27 @@
+{
+  "english": "spatial",
+  "phat_am": "['spei∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) không gian; nói về không gian, có trong không gian",
+          "list_en_vn": [
+            {
+              "full_en": "the spatial qualities of the new concert hall",
+              "full_vn": "những phẩm chất về không gian của phòng hoà nhạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369682_e4cc60a70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369682_0f86e32331_o.png",
+      "id_image": "spatial_5105547"
+    }
+  ]
+}

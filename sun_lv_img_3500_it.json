@@ -1,0 +1,138 @@
+{
+  "english": "sun",
+  "phat_am": "[sʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt trời; vầng thái dương"
+        },
+        {
+          "m_full_vn": "( the sun ) ánh nắng, ánh mặt trời",
+          "list_en_vn": [
+            {
+              "full_en": "to take the sun",
+              "full_vn": "phơi nắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định tinh (một ngôi sao)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) thế, thời",
+          "list_en_vn": [
+            {
+              "full_en": "his sun is set",
+              "full_vn": "anh ta hết thời rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) ngày; năm"
+        },
+        {
+          "m_full_vn": "cụm đèn trần (ở trần nhà) (như) sun-burner",
+          "list_one_mean": [
+            {
+              "id_full_en": "against the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "ngược chiều kim đồng hồ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hail (adore ) the rising sun",
+              "list_im": [
+                {
+                  "im_full_vn": "khúm núm xun xoe với thế lực mới, phù thịnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold a candle to the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt đèn giữa ban ngày (làm một việc thừa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a place in the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "địa vị tốt trong xã hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rise with the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "dậy sớm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Sun of righteousness",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "theo chiều kim đồng hồ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phơi, phơi nắng",
+          "list_en_vn": [
+            {
+              "full_en": "to sun oneself",
+              "full_vn": "tắm nắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm nắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452748_7295d97564_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452748_1c261bd0f3_o.png",
+      "id_image": "sun_272723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337841_e212faa2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337841_896e76bd3e_o.png",
+      "id_image": "sun_499401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382807_a7f430348b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382807_a7f24fd50c_o.png",
+      "id_image": "sun_616645"
+    }
+  ]
+}

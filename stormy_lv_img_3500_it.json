@@ -1,0 +1,54 @@
+{
+  "english": "stormy",
+  "phat_am": "['stɔ:mi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mãnh liệt như bão tố, có bão",
+          "list_en_vn": [
+            {
+              "full_en": "stormy passions",
+              "full_vn": "những tình cảm mãnh liệt"
+            },
+            {
+              "full_en": "stormy sea",
+              "full_vn": "biển nổi sóng dữ dội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ào ạt, sôi nổi",
+          "list_en_vn": [
+            {
+              "full_en": "stormy debate",
+              "full_vn": "cuộc tranh luận sôi nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sóng gió; bão tố",
+          "list_en_vn": [
+            {
+              "full_en": "stormy life",
+              "full_vn": "cuộc đời sóng gió"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699689_410e6d34a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699689_7e2b1544d6_o.png",
+      "id_image": "stormy_3217139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389492_57958b83a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389492_7f99bf5b68_o.png",
+      "id_image": "stormy_3217141"
+    }
+  ]
+}

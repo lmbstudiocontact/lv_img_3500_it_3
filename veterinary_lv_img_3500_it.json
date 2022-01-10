@@ -1,0 +1,50 @@
+{
+  "english": "veterinary",
+  "phat_am": "['vetrinri; 'vetərineri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thú y",
+          "list_en_vn": [
+            {
+              "full_en": "veterinary medicine , studies",
+              "full_vn": "thuốc thú y, sự nghiên cứu về thú y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như veterinarian"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700524_4534f2af7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700524_8b2abd7f2d_o.png",
+      "id_image": "veterinary_1312500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390307_c8ec504a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390307_11d54ef7e7_o.png",
+      "id_image": "veterinary_1312527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700454_5919a9b6e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700454_99b7384750_o.png",
+      "id_image": "veterinary_2201608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345266_bc72485316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345266_276f41d6a4_o.png",
+      "id_image": "veterinary_5745198"
+    }
+  ]
+}

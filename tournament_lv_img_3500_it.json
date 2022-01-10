@@ -1,0 +1,50 @@
+{
+  "english": "tournament",
+  "phat_am": "['tɔ:nəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) một loạt cuộc thi đấu thể thao giữa các đấu thủ trên cơ sở đấu loại; vòng thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "tennis tournament",
+              "full_vn": "vòng thi đấu quần vợt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) cuộc đấu trên ngựa (thời trung cổ) (như) tourney"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342166_2297216f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342166_823c29b5e4_o.png",
+      "id_image": "tournament_2464910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079505_0164fe5e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079505_4295ce36cb_o.png",
+      "id_image": "tournament_3475996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342106_770a28eced_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342106_5ed0a9d98f_o.png",
+      "id_image": "tournament_3708078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342061_8dd653ac24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342061_cc28bcf4b2_o.png",
+      "id_image": "tournament_5322274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456848_243eeddd2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456848_a1e1514c02_o.png",
+      "id_image": "tournament_5492479"
+    }
+  ]
+}

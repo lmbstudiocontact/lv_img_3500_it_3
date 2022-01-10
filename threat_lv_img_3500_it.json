@@ -1,0 +1,65 @@
+{
+  "english": "threat",
+  "phat_am": "[θret]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đe doạ",
+          "list_en_vn": [
+            {
+              "full_en": "there is a threat of rain",
+              "full_vn": "có cơn mưa đang đe doạ, trời muốn mưa"
+            },
+            {
+              "full_en": "he is impervious to threat (s)",
+              "full_vn": "nó trơ lì trước sự đe doạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời đe doạ, lời hăm doạ",
+          "list_en_vn": [
+            {
+              "full_en": "a empty threat",
+              "full_vn": "lời đe doạ suông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mối đe doạ (người, vật được coi là nguy hiểm)"
+        },
+        {
+          "m_full_vn": "sự chỉ dẫn, sự báo trước (nguy hiểm..) trong tương lai",
+          "list_en_vn": [
+            {
+              "full_en": "the railway is under threat of closure",
+              "full_vn": "đường sắt đang bị đe doạ phải đóng cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu hiệu sự đến gần của điều gì không mong muốn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086400_f8c289bb90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086400_cac5989859_o.png",
+      "id_image": "threat_4736158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086370_7ddc6f0741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086370_e0aaec47c9_o.png",
+      "id_image": "threat_6305947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703819_98d9d05154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703819_934e3e4827_o.png",
+      "id_image": "threat_6339322"
+    }
+  ]
+}

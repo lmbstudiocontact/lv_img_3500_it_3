@@ -1,0 +1,47 @@
+{
+  "english": "toffee",
+  "phat_am": "['tɔfi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẹo bơ cứng (kẹo cứng, dính làm bằng cách đun nóng đường, bơ..) (như) taffy",
+          "list_one_mean": [
+            {
+              "id_full_en": "can't do something for toffee",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thiếu kỹ năng cần thiết để làm gì, thiếu khả năng cần thiết để làm gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he can't sing for toffee",
+                      "full_vn": "nó không biết hát tí nào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083220_460207fbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083220_af62daf703_o.png",
+      "id_image": "toffee_119536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460503_fd5bff98ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460503_c73671ca63_o.png",
+      "id_image": "toffee_1918939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700814_96176bb662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700814_87c6163e2b_o.png",
+      "id_image": "toffee_2007944"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "tack",
+  "phat_am": "[tæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ ăn"
+        },
+        {
+          "m_full_vn": "đinh đầu bẹt; đinh mũ"
+        },
+        {
+          "m_full_vn": "đường khâu lược"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây néo góc buồm"
+        },
+        {
+          "m_full_vn": "(hàng hải) đường chạy vát theo gió thổi vào một bên mạn thuyền",
+          "list_en_vn": [
+            {
+              "full_en": "on the right tack",
+              "full_vn": "chạy theo đúng hướng gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) đường lối hành động, chính sách, chiến thuật"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng bằng đinh đầu bẹt; đóng bằng đinh mũ",
+          "list_en_vn": [
+            {
+              "full_en": "to tack the carpet down",
+              "full_vn": "đóng thấm thảm vào sàn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khâu lược, đính tạm",
+          "list_en_vn": [
+            {
+              "full_en": "to tack a ribbon onto a hat",
+              "full_vn": "đính tạm một dải băng vào mũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) đổi đường chạy, trở buồm chạy chữ chi"
+        },
+        {
+          "m_full_vn": "thay đổi đường lối, thay đổi chính sách",
+          "list_one_mean": [
+            {
+              "id_full_en": "tack something on (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cộng thêm cái gì như một khoản phụ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443613_164273db21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443613_562b673365_o.png",
+      "id_image": "tack_1014667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443563_f9afa03439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443563_6dc9bb9d9e_o.png",
+      "id_image": "tack_1180290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328546_bec9107e1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328546_1305d55719_o.png",
+      "id_image": "tack_2052642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443473_8b88b274fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443473_d4c7fe4f56_o.png",
+      "id_image": "tack_3391752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683714_77bca1f8fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683714_0993063d35_o.png",
+      "id_image": "tack_732408"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "stack",
+  "phat_am": "[stæk]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều stacks",
+      "list_m": [
+        {
+          "m_full_vn": "Xtec (đơn vị đo gỗ bằng khoảng 3 mét khối)"
+        },
+        {
+          "m_full_vn": "đụn rơm, đống thóc",
+          "list_en_vn": [
+            {
+              "full_en": "a haystack",
+              "full_vn": "một đụn cỏ khô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cụm, chồng, đống (than, củi.. được xếp rất chặt)",
+          "list_en_vn": [
+            {
+              "full_en": "a stack of newspaper",
+              "full_vn": "một chồng báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) số lượng lớn, khối lượng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to have stacks of work",
+              "full_vn": "có nhiều việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) cụm súng dựng chụm vào nhau"
+        },
+        {
+          "m_full_vn": "ống khói cao (nhà máy), ống khói (xe lửa, tàu thủy...); cụm ống khói (trong nhà máy)"
+        },
+        {
+          "m_full_vn": "núi đá cao (ngoài biển khơi Scốtlen)"
+        },
+        {
+          "m_full_vn": "giá sách; ( số nhiều) kho sách (trong thư viện)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh (rơm, rạ) thành đống; chồng thành đống, chất thành đống, xếp thành chồng"
+        },
+        {
+          "m_full_vn": "sắp xếp (bài, hoàn cảnh..) để triệt; xếp (quân bài) gian lận"
+        },
+        {
+          "m_full_vn": "(hàng không) hướng dẫn (máy bay) bay lượn vòng (trước khi hạ cánh)"
+        },
+        {
+          "m_full_vn": "(quân sự) dựng (súng) chụm vào nhau"
+        },
+        {
+          "m_full_vn": "( + up , against ) (từ Mỹ, nghĩa Mỹ) (thông tục) so sánh (với cái gì); đo lường cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stack the cards",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) xếp bài gian lận (để chia đúng cho ai một quân gì)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) gian lận bố trí trước, bí mật sắp đặt trước để gian lận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395662_e2c54ece35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395662_92f6596664_o.png",
+      "id_image": "stack_1580485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705479_47ca6b8d45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705479_6d827dde07_o.png",
+      "id_image": "stack_2450181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465443_f949dc96ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465443_dfafecd104_o.png",
+      "id_image": "stack_3342140"
+    }
+  ]
+}

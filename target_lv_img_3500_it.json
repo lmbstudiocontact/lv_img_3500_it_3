@@ -1,0 +1,55 @@
+{
+  "english": "target",
+  "phat_am": "['tɑ:git]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bia; mục tiêu; đích (để bắn)",
+          "list_en_vn": [
+            {
+              "full_en": "target practice",
+              "full_vn": "sự tập bắn bia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết quả nhằm tới, mục tiêu",
+          "list_en_vn": [
+            {
+              "full_en": "a sales campaign targeted at the youth market",
+              "full_vn": "một cuộc vận động bán hàng nhằm vào thị trường thanh niên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) cọc tín hiệu (cắm ở đường ghi)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) khiên nhỏ, mộc nhỏ"
+        },
+        {
+          "m_full_vn": "chỉ tiêu phấn đấu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399512_46fda12866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399512_f234151bb9_o.png",
+      "id_image": "target_167866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092005_05b4f12247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092005_93a99ac9a2_o.png",
+      "id_image": "target_287522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399467_2c13271d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399467_08fca769f4_o.png",
+      "id_image": "target_377144"
+    }
+  ]
+}

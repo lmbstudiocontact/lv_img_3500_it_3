@@ -1,0 +1,88 @@
+{
+  "english": "web",
+  "phat_am": "[web]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) mảng bằng những sợi rất mảnh (do nhện hoặc con vật chăng tơ nào khác sản sinh ra)",
+          "list_en_vn": [
+            {
+              "full_en": "a spider's web",
+              "full_vn": "mạng nhện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of ) (nghĩa bóng) mớ; một loạt phức tạp, một mạng lưới phức tạp, một chuỗi phức tạp",
+          "list_en_vn": [
+            {
+              "full_en": "a web of lies",
+              "full_vn": "một mớ chuyện dối trá"
+            },
+            {
+              "full_en": "the web of life",
+              "full_vn": "cuộc đời; số phận con người"
+            },
+            {
+              "full_en": "a web of intrigue",
+              "full_vn": "một mớ mưu đồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải dệt; tấm vải"
+        },
+        {
+          "m_full_vn": "súc giấy, cuộn giấy lớn để in",
+          "list_en_vn": [
+            {
+              "full_en": "web paper",
+              "full_vn": "giấy súc (chưa cắt ra từng tờ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) tơ (lông chim)"
+        },
+        {
+          "m_full_vn": "(động vật học) màng da (ở chân vịt...)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) thân (thanh rầm)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đĩa (bánh xe), mỏ (chìa khoá); lưỡi (cưa); thân (của thanh ray)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070525_0e05725b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070525_cd45f33ab3_o.png",
+      "id_image": "web_1138464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688739_543a6105a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688739_3ab18a9d50_o.png",
+      "id_image": "web_169137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070485_acde68565d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070485_b775951892_o.png",
+      "id_image": "web_2419365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688629_2b1c84cd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688629_482524d06e_o.png",
+      "id_image": "web_2570137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070410_279a963189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070410_9867326854_o.png",
+      "id_image": "web_5767738"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "unload",
+  "phat_am": "[ʌn'loud]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cất gánh nặng khỏi, dỡ hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to unload a ship",
+              "full_vn": "dỡ hàng ở tàu xuống"
+            },
+            {
+              "full_en": "to unload cargo",
+              "full_vn": "dỡ hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tháo, tháo đạn (ở súng) ra; tháo phim ra khỏi (máy ảnh)"
+        },
+        {
+          "m_full_vn": "(thông tục) chuyển đi, tống khứ ( ai/cái gì không thích sang người khác)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho khuây, an ủi; thổ lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to unload one's heart",
+              "full_vn": "thổ lộ tâm tình; làm cho khuây nỗi lòng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dỡ hàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089660_201760274e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089660_68c376506e_o.png",
+      "id_image": "unload_4651153"
+    }
+  ]
+}

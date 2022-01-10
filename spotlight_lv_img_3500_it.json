@@ -1,0 +1,67 @@
+{
+  "english": "spotlight",
+  "phat_am": "['spɔtlait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đèn dùng để toả ra) một tia sáng mạnh hướng về một chỗ hoặc người đặc biệt (trên (sân khấu) của rạp hát chẳng hạn); đèn chiếu điểm; đèn rọi; đèn pha"
+        },
+        {
+          "m_full_vn": "( the spotlight ) sự nổi bật trong công chúng; sự chú ý cao độ; địa vị nổi bật",
+          "list_en_vn": [
+            {
+              "full_en": "a sportsman who likes to be in the spotlight",
+              "full_vn": "một nhà thể thao muốn được mọi người chú ý đến"
+            },
+            {
+              "full_en": "this week , the spotlight is on the world of fashion",
+              "full_vn": "tuần này điểm nổi bật là về thế giới thời trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ spotlit (hoặc) spotlighted",
+      "list_m": [
+        {
+          "m_full_vn": "hướng đèn chiếu vào (ai); rọi sáng",
+          "list_en_vn": [
+            {
+              "full_en": "a spotlit stage",
+              "full_vn": "sân khấu được chiếu sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lôi cuốn sự chú ý đến (cái gì); làm cho đập vào mắt, làm cho hiển nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "the report has spotlighted real deprivation in the inner cities",
+              "full_vn": "báo cáo đã làm sáng tỏ tình trạng nghèo đói thật sự trong nội thị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397452_2fc49a959c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397452_daba6ccc02_o.png",
+      "id_image": "spotlight_208671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089950_2546eac373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089950_129a4557c3_o.png",
+      "id_image": "spotlight_493435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397402_fc187f4bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397402_099bd38cd6_o.png",
+      "id_image": "spotlight_879521"
+    }
+  ]
+}

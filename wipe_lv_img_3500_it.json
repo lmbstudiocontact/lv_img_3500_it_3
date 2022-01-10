@@ -1,0 +1,185 @@
+{
+  "english": "wipe",
+  "phat_am": "[waip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lau sạch, sự xoá sách, sự chùi sạch"
+        },
+        {
+          "m_full_vn": "(từ lóng) cái tát, cái quật"
+        },
+        {
+          "m_full_vn": "(từ lóng) khăn tay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lau chùi, làm khô, làm sạch",
+          "list_en_vn": [
+            {
+              "full_en": "to wipe one's face",
+              "full_vn": "lau mặt"
+            },
+            {
+              "full_en": "to wipe something dry",
+              "full_vn": "lau khô một vật gì"
+            },
+            {
+              "full_en": "to wipe one's eyes",
+              "full_vn": "lau nước mắt, thôi khóc"
+            },
+            {
+              "full_en": "to wipe the dishes",
+              "full_vn": "lau đĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cọ (mảnh vải..) lên bề mặt cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to wipe a damp sponge across one's face",
+              "full_vn": "cọ miếng cao su xốp ướt lên mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lau sạch, tẩy, xoá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wipe at",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) quật, tống cho một quả; giáng cho một đòn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe away",
+              "list_im": [
+                {
+                  "im_full_vn": "tẩy (vết bẩn); lau sạch (nước mắt)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe off",
+              "list_im": [
+                {
+                  "im_full_vn": "lau đi, lau sạch, tẩy đi"
+                },
+                {
+                  "im_full_vn": "làm tắt (một nụ cười)"
+                },
+                {
+                  "im_full_vn": "thanh toán, trả hết, giũ sạch (nợ cũ)"
+                },
+                {
+                  "im_full_vn": "quên đi, xoá sạch (mối bất hoà cũ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe up",
+              "list_im": [
+                {
+                  "im_full_vn": "lau sạch, chùi sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to wipe up the spilt milk off the floor",
+                      "full_vn": "chùi sạch chỗ sữa đổ ra sàn nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe someone's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) phỗng tay trên ai, đi nước trước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe the floor with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đánh bại ai hoàn toàn (trong cuộc tranh luận)"
+                },
+                {
+                  "im_full_vn": "(thông tục) hạ ai đo ván (trong cuộc đấu võ); đánh bại nhục nhã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe something off the face of the earth /off the map",
+              "list_im": [
+                {
+                  "im_full_vn": "phá hủy, hủy diệt hoàn toàn cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe the slate clean",
+              "list_im": [
+                {
+                  "im_full_vn": "quên những lỗi lầm đã qua, quên những xúc phạm đã qua; khởi sự lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe something out",
+              "list_im": [
+                {
+                  "im_full_vn": "lau chùi, lau sạch bên trong (cái bát...)"
+                },
+                {
+                  "im_full_vn": "xoá đi, bỏ đi (vật gì)"
+                },
+                {
+                  "im_full_vn": "phá hủy hoàn toàn"
+                },
+                {
+                  "im_full_vn": "tiêu diệt (quân đội); triệt hạ (thành phố)"
+                },
+                {
+                  "im_full_vn": "thanh toán, trả hết (nợ); rửa (nhục)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wipe the writing from the blackboard",
+              "full_vn": "xoá chữ viết trên bảng đen"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451678_7db721f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451678_1c9555656a_o.png",
+      "id_image": "wipe_1619248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381782_d088ec6f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381782_c1eceb8d42_o.png",
+      "id_image": "wipe_3027997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336821_40eac7a365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336821_9b6a2e61c5_o.png",
+      "id_image": "wipe_578005"
+    }
+  ]
+}

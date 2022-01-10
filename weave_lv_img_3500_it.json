@@ -1,0 +1,105 @@
+{
+  "english": "weave",
+  "phat_am": "[wi:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách dệt, kiểu dệt",
+          "list_en_vn": [
+            {
+              "full_en": "a loose weave",
+              "full_vn": "cách dệt thưa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ wove ; woven",
+      "list_m": [
+        {
+          "m_full_vn": "dệt",
+          "list_en_vn": [
+            {
+              "full_en": "to weave thread into cloth",
+              "full_vn": "dệt sợi thành vải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đan, kết lại",
+          "list_en_vn": [
+            {
+              "full_en": "to weave baskets",
+              "full_vn": "đan rổ"
+            },
+            {
+              "full_en": "to weave flowers",
+              "full_vn": "kết hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kết lại; thêu dệt, bày ra",
+          "list_en_vn": [
+            {
+              "full_en": "to weave facts into a story",
+              "full_vn": "lấy sự việc kết lại thành một câu chuyện"
+            },
+            {
+              "full_en": "to weave a plot",
+              "full_vn": "bày ra một âm mưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dệt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đi len lỏi, đi quanh co",
+          "list_en_vn": [
+            {
+              "full_en": "the road weaves through the plain",
+              "full_vn": "con đường đi quanh co qua cánh đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắc lư, đua đưa"
+        },
+        {
+          "m_full_vn": "(quân sự), (hàng không) bay tránh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to weave one's way",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đi lách, len lỏi qua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333796_1d2b58e6f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333796_e8121bf227_o.png",
+      "id_image": "weave_1230735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070790_70fe264aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070790_a214bace13_o.png",
+      "id_image": "weave_3461831"
+    }
+  ]
+}

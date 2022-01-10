@@ -1,0 +1,97 @@
+{
+  "english": "stable",
+  "phat_am": "['steibl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vững chắc; ổn định; không có khả năng di động, không có khả năng thay đổi; kiên định, kiên quyết",
+          "list_en_vn": [
+            {
+              "full_en": "a stable relationship",
+              "full_vn": "quan hệ bền vững"
+            },
+            {
+              "full_en": "a stable politician",
+              "full_vn": "một nhà chính trị kiên định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình tĩnh; vững vàng; đáng tin; cân bằng; không dễ bị xáo lộn (người, tính cách của người đó)"
+        },
+        {
+          "m_full_vn": "bền vững; không dễ dàng phân hủy, không tự nhiên phân hủy (chất)"
+        },
+        {
+          "m_full_vn": "(vật lý) ổn định, bền"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuồng ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "a stable door",
+              "full_vn": "cái cửa chuồng ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) chuồng ngựa chuyên dùng (để dùng vào một mục đích nào đó); đàn ngựa được nuôi trong chuồng"
+        },
+        {
+          "m_full_vn": "đàn ngựa đua (ở một chuồng nào); cơ sở luyện ngựa đua"
+        },
+        {
+          "m_full_vn": "lò"
+        },
+        {
+          "m_full_vn": "người có chung nguồn gốc, sản phẩm có chung nguồn gốc; nguồn gốc chung (của người, sản phẩm)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (quân sự) công tác ở chuồng ngựa",
+          "list_one_mean": [
+            {
+              "id_full_en": "lock ..the stable door after the horse has bolted",
+              "list_im": [
+                {
+                  "im_full_vn": "mất bò mới lo làm chuồng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho (ngựa) vào chuồng, nhốt (ngựa) vào chuồng; nuôi (ngựa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088195_52424b23b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088195_9eb2356466_o.png",
+      "id_image": "stable_5906668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088140_6e5915a7d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088140_e4b4970683_o.png",
+      "id_image": "stable_5966537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465503_f6ddbafda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465503_e1c10ce109_o.png",
+      "id_image": "stable_6264218"
+    }
+  ]
+}

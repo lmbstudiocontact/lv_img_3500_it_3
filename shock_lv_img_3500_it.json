@@ -1,0 +1,132 @@
+{
+  "english": "shock",
+  "phat_am": "[∫ɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đụng chạm; sự va chạm; cú va chạm",
+          "list_en_vn": [
+            {
+              "full_en": "earthquake shocks",
+              "full_vn": "động đất"
+            },
+            {
+              "full_en": "the shock of the blast shattered many windows",
+              "full_vn": "sức ép của tiếng nổ đã làm vỡ tung nhiều cửa sổ"
+            },
+            {
+              "full_en": "I felt the shock as the aircraft hit the ground",
+              "full_vn": "Tôi cảm thấy rung lên khi máy bay chạm mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như electric shock"
+        },
+        {
+          "m_full_vn": "sự náo động đột ngột dữ dội của tâm trí hoặc tình cảm (do nhận được hung tin, do quá kinh sợ...); cú sốc; cú choáng",
+          "list_en_vn": [
+            {
+              "full_en": "the news was a great shock",
+              "full_vn": "tin đó làm mọi người sửng sốt vô cùng"
+            },
+            {
+              "full_en": "the news of his teacher's death was a terrible shock to him",
+              "full_vn": "cái tin thầy anh ta qua đời là cú sốc khủng khiếp đối với anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng cực kỳ yếu (do bị thương, đau..)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in /go into shock",
+              "full_vn": "bị sốc"
+            },
+            {
+              "full_en": "what's the correct medical treatment for shock ?",
+              "full_vn": "người bị sốc phải được điều trị thế nào cho đúng cách?"
+            },
+            {
+              "full_en": "she died of shock following an operation on her brain",
+              "full_vn": "cô ấy chết vì bị sốc sau khi phẫu thuật não"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai ghê tởm, kinh sợ hoặc căm phẫn"
+        },
+        {
+          "m_full_vn": "làm căm phẫn, làm đau buồn; làm kinh tởm",
+          "list_en_vn": [
+            {
+              "full_en": "I was shocked at the news of her death",
+              "full_vn": "tôi bàng hoàng khi nghe tin bà ấy chết"
+            },
+            {
+              "full_en": "he was shocked to hear his child swearing",
+              "full_vn": "anh ấy sửng sốt khi nghe con anh ấy chửi thề"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đống lúa ( (thường) là 12 lượm) ( Scốtlen stook )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xếp (lúa) thành đống ( 12 lượm) ( Scốtlen stook )"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mớ tóc bù xù (như) shock of hair",
+          "list_en_vn": [
+            {
+              "full_en": "shock head",
+              "full_vn": "đầu bù tóc rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chó xù"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081400_f006238171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081400_52786809fe_o.png",
+      "id_image": "shock_1612470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699154_48aa621560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699154_b9828f423b_o.png",
+      "id_image": "shock_5020482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699124_c47b362cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699124_8d0742257b_o.png",
+      "id_image": "shock_5020953"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "english": "steam",
+  "phat_am": "[sti:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơi nước; năng lượng hơi nước",
+          "list_en_vn": [
+            {
+              "full_en": "a building heated by steam",
+              "full_vn": "một toà nhà sưởi ấm bằng hơi nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám hơi nước",
+          "list_en_vn": [
+            {
+              "full_en": "the laundry was full of steam",
+              "full_vn": "chỗ giặt là quần áo mù tịt hơi nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nghị lực, sức cố gắng",
+          "list_one_mean": [
+            {
+              "id_full_en": "blow off /let off steam",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) xả hơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "get up steam",
+              "list_im": [
+                {
+                  "im_full_vn": "tăng ga (của xe, máy..)"
+                },
+                {
+                  "im_full_vn": "thu hơi sức lại; hơi đưa dần lên cổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "run out of steam",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) xì hết hơi; xẹp đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under one's own steam",
+              "list_im": [
+                {
+                  "im_full_vn": "dựa vào hơi sức mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to get up steam",
+              "full_vn": "tập trung sức lực, đem hết nghị lực"
+            },
+            {
+              "full_en": "to let off steam",
+              "full_vn": "xả hơi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bốc hơi, lên hơi",
+          "list_en_vn": [
+            {
+              "full_en": "soup steams",
+              "full_vn": "cháo bốc hơi"
+            },
+            {
+              "full_en": "steaming hot coffee",
+              "full_vn": "cà phê nóng đang bốc hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + across , along , away , off ) chạy bằng hơi nước",
+          "list_en_vn": [
+            {
+              "full_en": "a boat steaming up the Nile",
+              "full_vn": "một con tàu chạy bằng hơi nước ngược sông Nin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) làm việc hăng say, làm việc tích cực",
+          "list_en_vn": [
+            {
+              "full_en": "let's steam ahead !",
+              "full_vn": "nào! chúng ta tích cực lên nào!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) bị phủ đầy hơi nước",
+          "list_en_vn": [
+            {
+              "full_en": "the car windows steamed up",
+              "full_vn": "cửa xe ô tô bị phủ đầy hơi nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ, hấp (thức ăn; gỗ cho đẻo ra để uốn...)",
+          "list_en_vn": [
+            {
+              "full_en": "steamed pudding",
+              "full_vn": "bánh putđinh hấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + off ) hơ hơi nước để bóc",
+          "list_one_mean": [
+            {
+              "id_full_en": "be /get (all ) steamed up (about /over something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nổi cơn lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to steam stamps off envelopes",
+              "full_vn": "hơ hơi nước bóc tem ra khỏi phong bì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392767_f4131975ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392767_da69b69f4b_o.png",
+      "id_image": "steam_3690227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085160_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085160_07a4a88fbe_o.png",
+      "id_image": "steam_4636822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347821_1e7bb26a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347821_8c093afb0c_o.png",
+      "id_image": "steam_4675580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392702_4428d53ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392702_ab9fc04720_o.png",
+      "id_image": "steam_5234464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702599_be42ab0688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702599_59272728e5_o.png",
+      "id_image": "steam_532373"
+    }
+  ]
+}

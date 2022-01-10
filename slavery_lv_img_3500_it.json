@@ -1,0 +1,52 @@
+{
+  "english": "slavery",
+  "phat_am": "['sleivəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảnh nô lệ; sự nô lệ; tình trạng nô lệ",
+          "list_en_vn": [
+            {
+              "full_en": "to prefer death to slavery",
+              "full_vn": "thà chết không chịu làm nô lệ"
+            },
+            {
+              "full_en": "to be sold into slavery",
+              "full_vn": "bị bán làm nô lệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chiếm hữu nô lệ; chế độ chiếm hữu nô lệ"
+        },
+        {
+          "m_full_vn": "sự lao động vất vả; công việc cực nhọc, công việc được trả công rẻ mạt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071400_e854166db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071400_a11c8a1733_o.png",
+      "id_image": "slavery_1396585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334426_4b077f731d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334426_5d9dcbf1ac_o.png",
+      "id_image": "slavery_3782230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334396_96fe7a4132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334396_33e27695e6_o.png",
+      "id_image": "slavery_4110378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334331_ee5df6150f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334331_546f40676e_o.png",
+      "id_image": "slavery_4484310"
+    }
+  ]
+}

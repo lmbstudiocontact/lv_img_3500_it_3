@@ -1,0 +1,52 @@
+{
+  "english": "zebra",
+  "phat_am": "['zi:brə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) ngựa vằn",
+          "list_one_mean": [
+            {
+              "id_full_en": "zebra crossing",
+              "list_im": [
+                {
+                  "im_full_vn": "phần của một con đường, được đánh dấu bằng những vạch trắng rộng, nơi mà xe cộ phải dừng lại nếu người đi bộ cần băng ngang; chỗ vạch trắng ngang đường; đường vằn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "striped like a zebra",
+              "full_vn": "có vằn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067080_3517035b47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067080_ccdeaf0389_o.png",
+      "id_image": "zebra_292687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374872_456ed81e73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374872_c1dc54d470_o.png",
+      "id_image": "zebra_371972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330176_c1dc54d470_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330176_de86b49d8f_o.png",
+      "id_image": "zebra_5150879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685244_fab7af56de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685244_4ce739b0f9_o.png",
+      "id_image": "zebra_520080"
+    }
+  ]
+}

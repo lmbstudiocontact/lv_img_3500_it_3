@@ -1,0 +1,449 @@
+{
+  "english": "way",
+  "phat_am": "[wei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường, đường đi, lối đi",
+          "list_en_vn": [
+            {
+              "full_en": "way in",
+              "full_vn": "lối vào"
+            },
+            {
+              "full_en": "way out",
+              "full_vn": "lối ra"
+            },
+            {
+              "full_en": "way through",
+              "full_vn": "lối đi qua"
+            },
+            {
+              "full_en": "a public way",
+              "full_vn": "con đường công cộng"
+            },
+            {
+              "full_en": "covered way",
+              "full_vn": "lối đi có mái che"
+            },
+            {
+              "full_en": "permanent way",
+              "full_vn": "nền đường sắt (đã làm xong)"
+            },
+            {
+              "full_en": "to be on one's way to",
+              "full_vn": "trên đường đi tới"
+            },
+            {
+              "full_en": "on the way",
+              "full_vn": "dọc đường"
+            },
+            {
+              "full_en": "to be under way",
+              "full_vn": "đang đi, đang trên đường đi; (nghĩa bóng) đang tiến hành"
+            },
+            {
+              "full_en": "to lose one's way",
+              "full_vn": "lạc đường"
+            },
+            {
+              "full_en": "to find way home",
+              "full_vn": "tìm đường về nhà"
+            },
+            {
+              "full_en": "to block (stop ) the way",
+              "full_vn": "ngăn (chặn, chắn) đường"
+            },
+            {
+              "full_en": "to clear the way",
+              "full_vn": "dọn đường; mở thông đường"
+            },
+            {
+              "full_en": "to make the best of one's way",
+              "full_vn": "đi thật nhanh"
+            },
+            {
+              "full_en": "to make way for",
+              "full_vn": "tránh đường cho, để cho qua"
+            },
+            {
+              "full_en": "to pave the way for",
+              "full_vn": "mở đường cho, chuẩn bị cho"
+            },
+            {
+              "full_en": "in the way",
+              "full_vn": "làm trở ngại, chặn lối, ngáng đường"
+            },
+            {
+              "full_en": "to be in someone's way",
+              "full_vn": "làm trở ngại ai, ngáng trở ai"
+            },
+            {
+              "full_en": "to get out of the way of someone",
+              "full_vn": "tránh khỏi đường đi của ai"
+            },
+            {
+              "full_en": "to stand in the way of someone",
+              "full_vn": "chặn đường (tiến lên) của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn đường, quãng đường, khoảng cách",
+          "list_en_vn": [
+            {
+              "full_en": "it's a long way from Hanoi",
+              "full_vn": "cách Hà nội rất xa"
+            },
+            {
+              "full_en": "to go a long way",
+              "full_vn": "đi xa"
+            },
+            {
+              "full_en": "to be still a long way off perfection",
+              "full_vn": "còn xa mới hoàn mỹ được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phía, phương, hướng, chiều",
+          "list_en_vn": [
+            {
+              "full_en": "the right way",
+              "full_vn": "phía phải; (nghĩa bóng) con đường ngay, con đường đúng"
+            },
+            {
+              "full_en": "the wrong way",
+              "full_vn": "phía trái; (nghĩa bóng) con đường sai lầm"
+            },
+            {
+              "full_en": "which way is the wind blowing ?",
+              "full_vn": "gió thổi theo phương nào?"
+            },
+            {
+              "full_en": "this way",
+              "full_vn": "hướng này"
+            },
+            {
+              "full_en": "this way out",
+              "full_vn": "đường ra phía này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách, phương pháp, phương kế, biện pháp",
+          "list_en_vn": [
+            {
+              "full_en": "in no way",
+              "full_vn": "chẳng bằng cách nào"
+            },
+            {
+              "full_en": "to go the right way to",
+              "full_vn": "chọn cách tốt để"
+            },
+            {
+              "full_en": "to go one's own way",
+              "full_vn": "làm theo cách của mình"
+            },
+            {
+              "full_en": "to see one's way to",
+              "full_vn": "có cách để"
+            },
+            {
+              "full_en": "to find way to",
+              "full_vn": "tìm ra cách để"
+            },
+            {
+              "full_en": "to have one's own way",
+              "full_vn": "làm theo ý muốn; muốn gì được nấy"
+            },
+            {
+              "full_en": "where there is a will there is a way",
+              "full_vn": "có chí thì nên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cá tính, lề thói",
+          "list_en_vn": [
+            {
+              "full_en": "in the way of business",
+              "full_vn": "theo thói thường, theo lề thói"
+            },
+            {
+              "full_en": "English ways of living",
+              "full_vn": "lối sống Anh"
+            },
+            {
+              "full_en": "in a friendly way",
+              "full_vn": "một cách thân mật"
+            },
+            {
+              "full_en": "way of speaking",
+              "full_vn": "cách nói"
+            },
+            {
+              "full_en": "it is his way",
+              "full_vn": "đó là cá tính của nó"
+            },
+            {
+              "full_en": "it is the way of the world",
+              "full_vn": "lề thói chung là thế; mọi người cũng làm như thế cả"
+            },
+            {
+              "full_en": "ways and customs",
+              "full_vn": "phong tục lề thói"
+            },
+            {
+              "full_en": "to be ignorant of the ways of society",
+              "full_vn": "không biết phép xã giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc; phạm vi, thẩm quyền",
+          "list_en_vn": [
+            {
+              "full_en": "it is not in my way ; it does not lie (come , fall ) in my way",
+              "full_vn": "không phải việc của tôi; không thuộc thẩm quyền của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) vùng ở gần",
+          "list_en_vn": [
+            {
+              "full_en": "to live somewhere Hanoi way",
+              "full_vn": "ở đâu đó gần Hà nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng, tình thế, tình hình; giả định, giả thuyết",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a bad way",
+              "full_vn": "ở vào tình trạng xấu"
+            },
+            {
+              "full_en": "to be in a fair way of (to )",
+              "full_vn": "ở trong tình thế thuận lợi để"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ, chừng mực",
+          "list_en_vn": [
+            {
+              "full_en": "in a small way",
+              "full_vn": "ở mức thấp, tầm thường; nho nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại",
+          "list_en_vn": [
+            {
+              "full_en": "something in the way of stationery",
+              "full_vn": "cái gì đó thuộc loại đồ dùng văn phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt, phương diện",
+          "list_en_vn": [
+            {
+              "full_en": "in many ways",
+              "full_vn": "về nhiều mặt"
+            },
+            {
+              "full_en": "in no way",
+              "full_vn": "chẳng mặt nào, tuyệt nhiên không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiến bộ, sự thịnh vượng",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's [own ] way",
+              "full_vn": "làm ăn thịnh vượng"
+            },
+            {
+              "full_en": "to make way",
+              "full_vn": "tiến, tiến bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quy mô; ngành kinh doanh; phạm vi hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "way of business",
+              "full_vn": "ngành kinh doanh"
+            },
+            {
+              "full_en": "to be in a large way of business",
+              "full_vn": "kinh doanh quy mô lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) sự chạy; tốc độ",
+          "list_en_vn": [
+            {
+              "full_en": "to gather way",
+              "full_vn": "tăng tốc độ"
+            },
+            {
+              "full_en": "to lose way",
+              "full_vn": "giảm tốc độ"
+            },
+            {
+              "full_en": "to get under way",
+              "full_vn": "lên đường, khởi hành, nhổ neo; khởi công"
+            },
+            {
+              "full_en": "to be under way ; to have way on",
+              "full_vn": "đang chạy (tàu thuỷ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the way",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) by"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by way of",
+              "list_im": [
+                {
+                  "im_full_vn": "đi qua, bằng con đường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "by way of Haiphong",
+                      "full_vn": "bằng con đường Hải phòng, qua Hải phòng như là, coi như là, như thể"
+                    },
+                    {
+                      "full_en": "by way of compliment",
+                      "full_vn": "như là một lời khen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the longest way round is the shortest way home",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đường chính lại gần, đường tắt hoá xa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give way",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) give"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go out of one's way to be rude",
+              "list_im": [
+                {
+                  "im_full_vn": "hỗn xược một cách vô cớ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go the way of nature",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead the way",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "parting of the ways",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) parting"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put oneself out of the way",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu phiền chịu khó để giúp người khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "way ahead (back , down , off , up )",
+              "full_vn": "đằng trước (đằng sau, phía dưới, đằng xa, phía trên)"
+            },
+            {
+              "full_en": "to know someone way back in 1950",
+              "full_vn": "quen biết người nào từ năm 1950"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(phương ngữ; từ Mỹ, nghĩa Mỹ) xa; phía đằng..",
+          "list_en_vn": [
+            {
+              "full_en": "way behind , way ahead",
+              "full_vn": "xa về phía sau, xa về phía trước"
+            },
+            {
+              "full_en": "way up in Canada",
+              "full_vn": "về phía Bắc; ở Canada"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450008_1108772823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450008_2b3b727559_o.png",
+      "id_image": "way_5930364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334871_0298479a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334871_ed5779d08f_o.png",
+      "id_image": "way_5956734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334926_011237b653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334926_a15eda3dfc_o.png",
+      "id_image": "way_661923"
+    }
+  ]
+}

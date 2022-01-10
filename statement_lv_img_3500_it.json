@@ -1,0 +1,56 @@
+{
+  "english": "statement",
+  "phat_am": "['steitmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bày tỏ, sự trình bày, sự phát biểu, lời phát biểu",
+          "list_en_vn": [
+            {
+              "full_en": "to require clearer statement",
+              "full_vn": "cần được trình bày rõ ràng hơn nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tuyên bố; lời tuyên bố; bản tuyên bố",
+          "list_en_vn": [
+            {
+              "full_en": "a well-founded statement",
+              "full_vn": "lời tuyên bố có cơ sở"
+            },
+            {
+              "full_en": "joint statement",
+              "full_vn": "bản tuyên bố chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trình bày (một quan điểm, vấn đề..); báo cáo"
+        },
+        {
+          "m_full_vn": "bản kê in sẵn (ghi rõ tất cả các số tiền nhập và xuất ở tài khoản của khách hàng trong một kỳ hạn nhất định) (như) bank statement"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348906_6056c39451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348906_10bede6651_o.png",
+      "id_image": "statement_1556246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086180_926483bdd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086180_a8d900c9bb_o.png",
+      "id_image": "statement_4539935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393687_5d69a1c582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393687_0da7623cdb_o.png",
+      "id_image": "statement_6330711"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "speculation",
+  "phat_am": "[,spekju'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự suy xét, sự nghiên cứu"
+        },
+        {
+          "m_full_vn": "sự suy đoán"
+        },
+        {
+          "m_full_vn": "sự đầu cơ, sự tích trữ; hoạt động đầu cơ, tích trữ",
+          "list_en_vn": [
+            {
+              "full_en": "to buy something as a speculation",
+              "full_vn": "mua tích trữ vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) trò chơi mua bán"
+        },
+        {
+          "m_full_vn": "quan hệ buôn bán kinh doanh.. trong sự đầu cơ",
+          "list_en_vn": [
+            {
+              "full_en": "to buy many shares as a speculation",
+              "full_vn": "mua nhiều cổ phần để đầu cơ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679614_6367e6f3b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679614_a96049f3f2_o.png",
+      "id_image": "speculation_5116030"
+    }
+  ]
+}

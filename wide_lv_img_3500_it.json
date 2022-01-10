@@ -1,0 +1,135 @@
+{
+  "english": "wide",
+  "phat_am": "[waid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rộng, rộng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a wide river",
+              "full_vn": "con sông rộng"
+            },
+            {
+              "full_en": "wide plain",
+              "full_vn": "cánh đồng rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở rộng, mở to",
+          "list_en_vn": [
+            {
+              "full_en": "with wide eyes",
+              "full_vn": "với đôi mắt mở to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) rộng, uyên bác (học vấn)",
+          "list_en_vn": [
+            {
+              "full_en": "a man of wide culture",
+              "full_vn": "một người học rộng"
+            },
+            {
+              "full_en": "wide views",
+              "full_vn": "quan điểm rộng rãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) rộng rãi, phóng khoáng, không có thành kiến (tư tưởng)"
+        },
+        {
+          "m_full_vn": "xa, cách xa",
+          "list_en_vn": [
+            {
+              "full_en": "to be wide of the target (mark )",
+              "full_vn": "xa mục tiêu, xa đích"
+            },
+            {
+              "full_en": "wide of the truth",
+              "full_vn": "xa sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xảo trá",
+          "list_en_vn": [
+            {
+              "full_en": "a wide boy",
+              "full_vn": "một đứa bé xảo trá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "rộng, rộng rãi, rộng khắp",
+          "list_en_vn": [
+            {
+              "full_en": "to spread far and wide",
+              "full_vn": "lan rộng khắp, trải rộng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xa, trệch xa",
+          "list_en_vn": [
+            {
+              "full_en": "wide apart",
+              "full_vn": "cách xa"
+            },
+            {
+              "full_en": "the blow went wide",
+              "full_vn": "cú đánh trệch xa đích"
+            },
+            {
+              "full_en": "the ball went wide of the goal",
+              "full_vn": "quả bóng bay chệch xa khung thành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) w (thể dục,thể thao) quả bóng cách xa đích ( crickê)"
+        },
+        {
+          "m_full_vn": "( the wide ) vũ trụ bao la",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be broken to the wide",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không một xu dính túi, kiết lõ đít"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444618_e57b79747f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444618_61f5b03445_o.png",
+      "id_image": "wide_2205431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329616_4954f21d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329616_053c8bbb44_o.png",
+      "id_image": "wide_4563957"
+    }
+  ]
+}

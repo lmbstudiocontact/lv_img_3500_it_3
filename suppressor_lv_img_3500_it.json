@@ -1,0 +1,35 @@
+{
+  "english": "suppressor",
+  "phat_am": "[sə'presə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đàn áp; vật đàn áp"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bộ triệt, máy triệt",
+          "list_en_vn": [
+            {
+              "full_en": "noise suppressor",
+              "full_vn": "máy triệt tiếng ồn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336176_11845106ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336176_e95198d0c7_o.png",
+      "id_image": "suppressor_1485090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073070_e879db4dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073070_bfb90faa7d_o.png",
+      "id_image": "suppressor_1487571"
+    }
+  ]
+}

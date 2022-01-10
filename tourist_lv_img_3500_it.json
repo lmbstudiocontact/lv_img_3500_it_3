@@ -1,0 +1,49 @@
+{
+  "english": "tourist",
+  "phat_am": "['tuərist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khách du lịch",
+          "list_en_vn": [
+            {
+              "full_en": "a tourist agency",
+              "full_vn": "hãng du lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) thành viên của một đội đang đi thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "the Australian tourists",
+              "full_vn": "những người Uc đang đi thi đấu ở nhiều nơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(khinh miệt) kẻ lang thang; đứa cầu bơ cầu bất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387252_19c49f17be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387252_0078e53570_o.png",
+      "id_image": "tourist_4891414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697429_ce2fa62345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697429_709d4afed3_o.png",
+      "id_image": "tourist_5020871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079630_462cc2fce5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079630_3cc55450e4_o.png",
+      "id_image": "tourist_5406483"
+    }
+  ]
+}

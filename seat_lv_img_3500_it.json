@@ -1,0 +1,168 @@
+{
+  "english": "seat",
+  "phat_am": "[si:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế",
+          "list_en_vn": [
+            {
+              "full_en": "the seats are comfortable",
+              "full_vn": "những ghế này ngồi rất thoải mái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ ngồi (xem) phim.., vé đặt chỗ (đi du lịch..)",
+          "list_en_vn": [
+            {
+              "full_en": "to book a seat in a plane",
+              "full_vn": "giữ một chỗ đi máy bay"
+            },
+            {
+              "full_en": "to take a seat for Hamlet",
+              "full_vn": "mua một vé đi xem Hăm-lét"
+            },
+            {
+              "full_en": "pray take a seat",
+              "full_vn": "mời ngồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt ghế"
+        },
+        {
+          "m_full_vn": "mông đít"
+        },
+        {
+          "m_full_vn": "đũng quần"
+        },
+        {
+          "m_full_vn": "ghế; chân; vị trí (trong ủy ban, hội đồng quản trị..)",
+          "list_en_vn": [
+            {
+              "full_en": "a seat on the council",
+              "full_vn": "một chân trong hội đồng"
+            },
+            {
+              "full_en": "a seat on the Parliament",
+              "full_vn": "một ghế trong Quốc hội"
+            },
+            {
+              "full_en": "he has a seat in the House",
+              "full_vn": "ông ta có chân trong nghị viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực bầu cử nghị viện"
+        },
+        {
+          "m_full_vn": "tư thế ngồi, kiểu ngồi, cách ngồi",
+          "list_en_vn": [
+            {
+              "full_en": "a firm seat",
+              "full_vn": "tư thế ngồi vững"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ, nơi (bị đau..)",
+          "list_en_vn": [
+            {
+              "full_en": "the live is the seat of disease",
+              "full_vn": "gan là chỗ bị đau"
+            },
+            {
+              "full_en": "the seat of war",
+              "full_vn": "chiến trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ ngơi, nhà cửa, trang bị"
+        },
+        {
+          "m_full_vn": "trụ sở, trung tâm (văn hoá, (công nghiệp))",
+          "list_en_vn": [
+            {
+              "full_en": "an ancient seat of learning",
+              "full_vn": "một trung tâm văn hoá thời cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang trại (như) country seat",
+          "list_one_mean": [
+            {
+              "id_full_en": "drive /fly by the seat of one's pants",
+              "list_im": [
+                {
+                  "im_full_vn": "phản ứng theo bản năng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để ngồi, đặt ngồi",
+          "list_en_vn": [
+            {
+              "full_en": "pray be seated",
+              "full_vn": "mời ngồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đủ chỗ ngồi, chứa được; có ghế cho",
+          "list_en_vn": [
+            {
+              "full_en": "this room can seat three hundred",
+              "full_vn": "phòng này đủ chỗ cho ba trăm người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt ghế vào",
+          "list_en_vn": [
+            {
+              "full_en": "to seat a room for 20",
+              "full_vn": "đặt đủ ghế vào trong một căn phòng cho 20 người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vá (đũng quần, mặt ghế...)"
+        },
+        {
+          "m_full_vn": "bầu (ai) vào (nghị viện...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324471_688498c54a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324471_97344e0cea_o.png",
+      "id_image": "seat_2052451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324401_ceb4e87c37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324401_f9023cd766_o.png",
+      "id_image": "seat_2540901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324366_c22a388156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324366_1719315c7d_o.png",
+      "id_image": "seat_3163536"
+    }
+  ]
+}

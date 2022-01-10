@@ -1,0 +1,104 @@
+{
+  "english": "transfer",
+  "phat_am": "[træns'fə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự di chuyển, sự dời chỗ; sự truyền",
+          "list_en_vn": [
+            {
+              "full_en": "heat transfer",
+              "full_vn": "sự truyền nhiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhượng, sự nhường lại, sự chuyển cho"
+        },
+        {
+          "m_full_vn": "(nghệ thuật) bản đồ lại"
+        },
+        {
+          "m_full_vn": "sự thuyên chuyển (nhân viên...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) vé chuyển"
+        },
+        {
+          "m_full_vn": "sự chuyển khoản (tài vụ)"
+        },
+        {
+          "m_full_vn": "vé chuyển xe tàu (để tiếp tục đi trên tuyến đường khác)"
+        },
+        {
+          "m_full_vn": "binh sĩ thuyên chuyển (từ đơn vị này sang đơn vị khác)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dời, chuyển, dọn (từ chỗ này sang chỗ khác)"
+        },
+        {
+          "m_full_vn": "chuyển, nhượng, nhường lại, chuyển giao quyền sở hữu (tài sản..)",
+          "list_en_vn": [
+            {
+              "full_en": "to transfer land",
+              "full_vn": "nhượng đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from.. ) ( to.. ) chuyển, chuyển sang (một nhóm, công việc, nghề.. khác)",
+          "list_en_vn": [
+            {
+              "full_en": "he transfered from the warehouse to the accounts office",
+              "full_vn": "nó đã chuyển từ nhà kho lên phòng kế toán"
+            },
+            {
+              "full_en": "to transfer a student from English department to Chinese department",
+              "full_vn": "chuyển một học sinh từ khoa Anh sang khoa Trung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from.. ) ( to.. ) chuyển sang lối đi khác, chuyển sang phương tiện giao thông khác.. trong một chuyến đi"
+        },
+        {
+          "m_full_vn": "đồ lại, in lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693824_2a6bfdec52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693824_14a13956ef_o.png",
+      "id_image": "transfer_1349712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075685_e89093a67f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075685_9d6c476ec4_o.png",
+      "id_image": "transfer_1364961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693909_b0239a933f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693909_58f3b9a616_o.png",
+      "id_image": "transfer_296902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383657_4f641bb4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383657_c119ea5cb2_o.png",
+      "id_image": "transfer_855401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693839_3d89cc81e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693839_45ab775c4d_o.png",
+      "id_image": "transfer_901039"
+    }
+  ]
+}

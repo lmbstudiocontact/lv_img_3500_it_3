@@ -1,0 +1,100 @@
+{
+  "english": "weigh",
+  "phat_am": "[wei]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đo xem cái gì nặng bao nhiêu; cân",
+          "list_en_vn": [
+            {
+              "full_en": "he weighed the stone in his hand",
+              "full_vn": "nó nhấc nhấc hòn đá trong bàn tay xem nặng bao nhiêu"
+            },
+            {
+              "full_en": "he weighed himself on the bathroom scales",
+              "full_vn": "nó tự cân trên bàn cân trong buồng tắm"
+            },
+            {
+              "full_en": "the load must be weighed before it is put in the washing-machine",
+              "full_vn": "mớ quần áo này phải cân trước khi bỏ vào máy giặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to weigh something with / against something ) ( to weigh something ( up )) cân nhắc; xem xét cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "to weigh one plan against another",
+              "full_vn": "cân nhắc kế hoạch này với kế hoạch khác"
+            },
+            {
+              "full_en": "to weigh the pros and cons",
+              "full_vn": "cân nhắc lợi hại"
+            },
+            {
+              "full_en": "to weigh anchor",
+              "full_vn": "nhổ neo (tàu)"
+            },
+            {
+              "full_en": "to weigh (up ) the consequences of an action",
+              "full_vn": "cân nhắc hậu quả của một hành động"
+            },
+            {
+              "full_en": "to weigh up one's chances of success",
+              "full_vn": "cân nhắc kỹ cơ may thành công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cân nặng, nặng",
+          "list_en_vn": [
+            {
+              "full_en": "she weighs 60 kilos",
+              "full_vn": "bà ta nặng 60 kilô"
+            },
+            {
+              "full_en": "how much do you weigh ?",
+              "full_vn": "anh cân nặng bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to weigh with somebody ; to weigh against somebody / something ) có tác dụng; có ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "an accusation without evidence does not weigh much",
+              "full_vn": "lời buộc tội không có chứng cớ thì không có tác dụng bao nhiêu"
+            },
+            {
+              "full_en": "his criminal record weighed heavily against him (with the jury )",
+              "full_vn": "hồ sơ phạm tội của nó (bị hội đồng xét xử coi là) có ảnh hưởng nặng nề chống lại nó"
+            },
+            {
+              "full_en": "her past achievements weighed in her favour as a candidate",
+              "full_vn": "những thành tích của bà ta trong quá khứ rất có lợi cho việc bà ta ra ứng cử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448128_13325cdb02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448128_f4ec9b515a_o.png",
+      "id_image": "weigh_2302591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448068_3e66974195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448068_48fd1bf34b_o.png",
+      "id_image": "weigh_5571674"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "son",
+  "phat_am": "[sʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con trai của bố mẹ",
+          "list_en_vn": [
+            {
+              "full_en": "I have a son and two daughters",
+              "full_vn": "tôi có một con trai và hai con gái"
+            },
+            {
+              "full_en": "he his father's son",
+              "full_vn": "nó thật xứng là con cha nó, nó giống cha nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con cháu trai; thành viên nam trong gia đình (trong nước..)",
+          "list_en_vn": [
+            {
+              "full_en": "one of France's most famous sons",
+              "full_vn": "một trong những người con nổi tiếng nhất của nước Pháp"
+            },
+            {
+              "full_en": "a son of the soil",
+              "full_vn": "con trai của đất (tức là người theo cha mình công việc đồng ruộng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cách xưng hô của người lớn tuổi với một thanh niên hoặc một cậu bé)",
+          "list_en_vn": [
+            {
+              "full_en": "'What's the matter with you , son ? ' asked the doctor",
+              "full_vn": "'Nào có việc gì thế, con? ' bác sĩ hỏi"
+            },
+            {
+              "full_en": "listen , son , don't start giving me orders",
+              "full_vn": "này thằng nhãi hãy nghe đây, đừng có giở trò bắt đầu ra lệnh cho tao đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Son ) Chúa Giê-su; Chúa Con",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Son of Man ; the Son of God",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúa Giê su"
+                }
+              ]
+            },
+            {
+              "id_full_en": "son of Mars",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến sĩ, quân lính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sons of men",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân loại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a son of a bitch",
+              "list_im": [
+                {
+                  "im_full_vn": "người đáng ghét; con hoang"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Father , the Son and the Holy Spirit",
+              "full_vn": "Cha, Con và Thánh thần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370767_78b52ddfb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370767_4f42a9985b_o.png",
+      "id_image": "son_2880690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370762_15cca66a93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370762_746da6c839_o.png",
+      "id_image": "son_4842674"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "tamper",
+  "phat_am": "['tæmpə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đầm (đất)"
+        },
+        {
+          "m_full_vn": "cái đầm (để đầm đất)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phá rối, quấy nhiễu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( + with )",
+      "list_m": [
+        {
+          "m_full_vn": "can thiệp vào; lục lọi, làm xáo trộn",
+          "list_en_vn": [
+            {
+              "full_en": "to tamper with the cash",
+              "full_vn": "lục lọi tủ tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mua chuộc, đút lót",
+          "list_en_vn": [
+            {
+              "full_en": "to tamper with someone",
+              "full_vn": "mua chuộc ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giả mạo, làm giả, chữa, sửa bậy (giấy tờ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to tamper with a document",
+              "full_vn": "làm giả tài liệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442108_9e3764bbe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442108_49673598fb_o.png",
+      "id_image": "tamper_2007973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371722_ed304fd974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371722_ec9a434a3f_o.png",
+      "id_image": "tamper_2954813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682219_7fa17603b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682219_1354865e28_o.png",
+      "id_image": "tamper_3219336"
+    }
+  ]
+}

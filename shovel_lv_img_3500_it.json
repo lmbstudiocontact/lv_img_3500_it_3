@@ -1,0 +1,62 @@
+{
+  "english": "shovel",
+  "phat_am": "['∫ʌvl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái xẻng"
+        },
+        {
+          "m_full_vn": "bộ phận của chiếc máy ủi đất lớn (có thể xúc được đất.. giống (như) cái xẻng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhấc, dịch chuyển (cái gì) bằng xẻng",
+          "list_en_vn": [
+            {
+              "full_en": "spend hours shovelling snow",
+              "full_vn": "mất nhiều thời giờ để xúc tuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo ra, dọn sạch (cái gì) bằng xẻng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shovel food into one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "ngốn, ăn ngấu nghiến"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shovel the pavement clear of snow",
+              "full_vn": "xúc dọn tuyết bằng xẻng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457183_0606702d60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457183_aea66a0528_o.png",
+      "id_image": "shovel_184004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457163_c660d1f891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457163_c85374c8b6_o.png",
+      "id_image": "shovel_313102"
+    }
+  ]
+}

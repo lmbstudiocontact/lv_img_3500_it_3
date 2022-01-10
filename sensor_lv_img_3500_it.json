@@ -1,0 +1,42 @@
+{
+  "english": "sensor",
+  "phat_am": "['sensə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật), (vật lý) phần tử nhạy; cái cảm biến",
+          "list_en_vn": [
+            {
+              "full_en": "smoke sensors warned us of the fire",
+              "full_vn": "cái cảm biến khói báo cho chúng ta biết có lửa cháy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349961_acc37ea7b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349961_87c49b2029_o.png",
+      "id_image": "sensor_3231354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349916_cac4af84c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349916_3897811ee3_o.png",
+      "id_image": "sensor_4335016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349896_18a0231cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349896_e3c8774ed0_o.png",
+      "id_image": "sensor_5772775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349976_90f90b6105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349976_7d1b0c396d_o.png",
+      "id_image": "sensor_976005"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "english": "tear",
+  "phat_am": "[tiə]",
+  "list_type": [
+    {
+      "type": "danh từ, (thường) số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "nước mắt, lệ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in tears",
+              "list_im": [
+                {
+                  "im_full_vn": "đang khóc"
+                },
+                {
+                  "im_full_vn": "giọt (nhựa...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shed tears",
+              "full_vn": "rơi lệ, nhỏ lệ"
+            },
+            {
+              "full_en": "to weep tears of joy",
+              "full_vn": "mừng chảy nước mắt, mừng phát khóc"
+            },
+            {
+              "full_en": "to move to tears",
+              "full_vn": "làm cho cảm động ứa nước mắt"
+            },
+            {
+              "full_en": "to keep back one's tears",
+              "full_vn": "cầm nước mắt"
+            },
+            {
+              "full_en": "full of tears ; wet will tears",
+              "full_vn": "đẫm nước mắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ hỏng, chỗ rách, miếng xé (do xé gây ra)"
+        },
+        {
+          "m_full_vn": "(thông tục) cơn giận dữ"
+        },
+        {
+          "m_full_vn": "(thông tục) cách đi mau",
+          "list_en_vn": [
+            {
+              "full_en": "to go full tears",
+              "full_vn": "đi rất mau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) cuộc chè chén say sưa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ tore ; torn",
+      "list_m": [
+        {
+          "m_full_vn": "xé, làm rách",
+          "list_en_vn": [
+            {
+              "full_en": "to tear a piece of paper in two",
+              "full_vn": "xé một tờ giấy làm đôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoét",
+          "list_en_vn": [
+            {
+              "full_en": "to tore a hole in the wall",
+              "full_vn": "khoét một lỗ trên tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm toạc ra, cắt sâu, làm đứt sâu",
+          "list_en_vn": [
+            {
+              "full_en": "to one's hand on a nail",
+              "full_vn": "bị một cái đi làm toạc tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo mạnh, giật",
+          "list_en_vn": [
+            {
+              "full_en": "to tear one's hair",
+              "full_vn": "giật tóc, bứt tóc"
+            },
+            {
+              "full_en": "to tear a page out of a book",
+              "full_vn": "xé một trang rời khỏi một cuốn sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giằng",
+          "list_en_vn": [
+            {
+              "full_en": "the child was torn from its mother's arms",
+              "full_vn": "đứa bé bị giằng ra khỏi tay mẹ nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá hủy sự bình yên của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a country torn by war",
+              "full_vn": "một đất nước bị chiến tranh tàn phá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị rách",
+          "list_en_vn": [
+            {
+              "full_en": "paper tears easily",
+              "full_vn": "giấy dễ rách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lao vút, đâm bổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tear something apart , to shreds , to bits ..",
+              "list_im": [
+                {
+                  "im_full_vn": "đập tan; đả kích tơi bời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear along",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy nhanh, đi gấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear at",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo mạnh, giật mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear away",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy vụt đi, lao đi"
+                },
+                {
+                  "im_full_vn": "giật cướp đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear in and out",
+              "list_im": [
+                {
+                  "im_full_vn": "ra vào hối hả; lao vào lao ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ, giật mạnh, giật phăng ra"
+                },
+                {
+                  "im_full_vn": "lao đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear out",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ ra, giật ra, xé ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear something up",
+              "list_im": [
+                {
+                  "im_full_vn": "xé nát (một tài liệu..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear up and down",
+              "list_im": [
+                {
+                  "im_full_vn": "lên xuống hối hả, lồng lộn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear oneself away (from somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "dứt ra, rời đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear one's hair (out )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vò đầu bứt tóc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be in ) a tearing hurry , rush ..",
+              "list_im": [
+                {
+                  "im_full_vn": "(tỏ ra) hết sức vội vã; cuống cuồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear somebody limb from limb",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) đánh tới tấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear somebody off a strip ; to tear a strip off somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mắng nhiếc, trách móc ai gay gắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's torn it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hỏng bét rồi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be torn between A and B",
+              "list_im": [
+                {
+                  "im_full_vn": "bị giằng xé giữa.."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tear something down",
+              "list_im": [
+                {
+                  "im_full_vn": "giật đổ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "cars tearing past",
+              "full_vn": "những chiếc xe vút qua"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398367_7a2c8a8a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398367_75ff0e0f32_o.png",
+      "id_image": "tear_1650369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090740_896890a973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090740_d980ce9985_o.png",
+      "id_image": "tear_2911067"
+    }
+  ]
+}

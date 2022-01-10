@@ -1,0 +1,45 @@
+{
+  "english": "thief",
+  "phat_am": "[θi:f]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều thieves",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ trộm, kẻ cắp",
+          "list_one_mean": [
+            {
+              "id_full_en": "set a thief to catch a thief",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) dùng trộm cướp bắt trộm cướp, lấy độc trị độc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a thief in the night",
+              "list_im": [
+                {
+                  "im_full_vn": "lén lút, không để ai nhìn thấy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to cry out thieves",
+              "full_vn": "kêu trộm, hô hoán kẻ trộm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394507_46191b537e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394507_61ded5759a_o.png",
+      "id_image": "thief_2267675"
+    }
+  ]
+}

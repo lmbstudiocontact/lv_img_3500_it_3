@@ -1,0 +1,92 @@
+{
+  "english": "tart",
+  "phat_am": "[tɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh tạc (nhân hoa quả, nhân ngọt, nhân mứt) ( (thường) không có bột bọc ngoài)"
+        },
+        {
+          "m_full_vn": "gái điếm"
+        },
+        {
+          "m_full_vn": "phụ nữ (nhất là người bị coi là hư hỏng, đĩ thoả)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cay, chát; chua",
+          "list_en_vn": [
+            {
+              "full_en": "this fruit tastes rather tart",
+              "full_vn": "quả này hơi chát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gây gắt, chua cay, cay độc, chanh chua (trong thái độ)",
+          "list_en_vn": [
+            {
+              "full_en": "a tart answer",
+              "full_vn": "một câu trả lời chua chát"
+            },
+            {
+              "full_en": "a tart tone",
+              "full_vn": "giọng nói chanh chua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn mặc, trang trí cho ai/cái gì một cách loè loẹt rẻ tiền"
+        },
+        {
+          "m_full_vn": "làm dáng, làm đỏm cho ai/cái gì một cách rẻ tiền, hời hợt",
+          "list_en_vn": [
+            {
+              "full_en": "tarting herself up for the disco",
+              "full_vn": "trang điểm loè loẹt để đi nhảy disco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang trí loè loẹt"
+        },
+        {
+          "m_full_vn": "trang điểm loè loẹt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091815_eceb13b7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091815_8bcb70d893_o.png",
+      "id_image": "tart_1686736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354446_b72e9e321e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354446_166427f67e_o.png",
+      "id_image": "tart_1999903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709004_eb4300f545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709004_f5a9d6172e_o.png",
+      "id_image": "tart_2258350"
+    }
+  ]
+}

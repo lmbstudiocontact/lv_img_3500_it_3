@@ -1,0 +1,99 @@
+{
+  "english": "theatre",
+  "phat_am": "['θiətə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rạp hát, nhà hát",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the theatre",
+              "full_vn": "đi xem hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giảng đường"
+        },
+        {
+          "m_full_vn": "(y học) phòng mổ (như) operating-theatre",
+          "list_en_vn": [
+            {
+              "full_en": "a theatre sister",
+              "full_vn": "nữ y tá phòng mổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kịch bản; kịch nghệ sân khấu; biên kịch; lên sân khấu",
+          "list_en_vn": [
+            {
+              "full_en": "the rules of the theatre",
+              "full_vn": "những quy tắc của phép soạn kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the theatre ) giới sân khấu, nghề ca kịch, nghề diễn kịch",
+          "list_en_vn": [
+            {
+              "full_en": "to be destined to the theatre",
+              "full_vn": "dự định làm diễn viên kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập kịch bản, tập tuồng hát",
+          "list_en_vn": [
+            {
+              "full_en": "theatre of Shakespeare",
+              "full_vn": "tập kịch bản của Sếch-xpia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trường (nơi xảy ra những sự kiện quan trọng nhất, nhất là của chiến tranh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "theatre-in-the-round",
+              "list_im": [
+                {
+                  "im_full_vn": "hình thức diễn kịch với khán giả ngồi chung quanh một sân khấu nằm ở giữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the theatre of war",
+              "full_vn": "nơi giao chiến, chiến trường"
+            },
+            {
+              "full_en": "the theatre of the crime",
+              "full_vn": "nơi xảy ra tộc ác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705104_2dd74f8e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705104_5f67bba76e_o.png",
+      "id_image": "theatre_1754073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705084_e639116242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705084_053dda1232_o.png",
+      "id_image": "theatre_1838433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087795_2fcec6e13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087795_420f1ca585_o.png",
+      "id_image": "theatre_647651"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "wage",
+  "phat_am": "[weidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ ( (thường) số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "tiền lương, tiền công",
+          "list_en_vn": [
+            {
+              "full_en": "to earn (get ) good wages",
+              "full_vn": "được trả lương cao"
+            },
+            {
+              "full_en": "starving wages",
+              "full_vn": "đồng lương chết đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phần thưởng; hậu quả",
+          "list_en_vn": [
+            {
+              "full_en": "the wages of sin is death",
+              "full_vn": "hậu quả của tội lỗi là chết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đầu, tiến hành (một cuộc đấu tranh..)",
+          "list_en_vn": [
+            {
+              "full_en": "no country wants to wage a nuclear war",
+              "full_vn": "không có nước nào muốn tiến hành một cuộc chiến tranh hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đánh cuộc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454458_117f8158b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454458_2f4a0d5af6_o.png",
+      "id_image": "wage_2419709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339506_9dd79c2e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339506_2656a7e727_o.png",
+      "id_image": "wage_3003270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454393_1a8a715b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454393_7dd6200c87_o.png",
+      "id_image": "wage_5308010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694649_d98045efd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694649_edb8964ea3_o.png",
+      "id_image": "wage_5796984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694594_da064d4bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694594_56002ace0c_o.png",
+      "id_image": "wage_6213869"
+    }
+  ]
+}

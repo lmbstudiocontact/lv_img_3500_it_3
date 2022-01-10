@@ -1,0 +1,54 @@
+{
+  "english": "turnover",
+  "phat_am": "['tə:n,ouvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(số lượng công việc kinh doanh của một công ty đã thực hiện trong một khoảng thời gian nào đó); doanh số; doanh thu",
+          "list_en_vn": [
+            {
+              "full_en": "this company has a monthly turnover of two million dollars",
+              "full_vn": "công ty này đạt doanh thu hàng tháng là hai triệu đôla"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quay vòng hàng hoá (tỷ lệ hàng hoá bán ra và được thay thế ở trong cửa hàng)"
+        },
+        {
+          "m_full_vn": "tốc độ thay thế công nhân (tốc độ công nhân rời nhà máy, công ty.. và được thay thế)"
+        },
+        {
+          "m_full_vn": "bài báo lấn sang trang"
+        },
+        {
+          "m_full_vn": "bánh kẹp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683269_4f281e7e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683269_9ab4e5526f_o.png",
+      "id_image": "turnover_2168756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372897_de95551e89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372897_57417f982c_o.png",
+      "id_image": "turnover_2910460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064885_74a1d17146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064885_c436d6d04b_o.png",
+      "id_image": "turnover_3830700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064880_4e09f1c7fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064880_992dc5a25d_o.png",
+      "id_image": "turnover_4133649"
+    }
+  ]
+}

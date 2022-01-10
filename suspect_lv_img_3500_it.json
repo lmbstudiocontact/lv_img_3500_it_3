@@ -1,0 +1,94 @@
+{
+  "english": "suspect",
+  "phat_am": "['sʌspekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi; nghi ngờ; hoài nghi; ngờ vực",
+          "list_en_vn": [
+            {
+              "full_en": "he suspected an ambush",
+              "full_vn": "nó nghi có một cuộc phục kích"
+            },
+            {
+              "full_en": "I strongly suspect that they're trying to get rid of me",
+              "full_vn": "tôi rất nghi rằng họ đang tìm cách gạt tôi ra"
+            },
+            {
+              "full_en": "what he said sounded convincing , but I suspect it to be a lie",
+              "full_vn": "những gì hắn nói nghe có vẻ thuyết phục đấy, nhưng tôi vẫn nghi đó là là lời nói dối"
+            },
+            {
+              "full_en": "to suspect somebody's motives",
+              "full_vn": "nghi ngờ động cơ của ai"
+            },
+            {
+              "full_en": "to suspect the authenticity of the evidence",
+              "full_vn": "hoài nghi tính xác thực của chứng cớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to suspect somebody of something / doing something ) cảm thấy ai phạm tội gì đó mà không có bằng chứng chắc chắn; nghi",
+          "list_en_vn": [
+            {
+              "full_en": "who do the police suspect (of the crime )?",
+              "full_vn": "cảnh sát nghi ai (là kẻ phạm tội đó)?"
+            },
+            {
+              "full_en": "what made you suspect her of having taken money ?",
+              "full_vn": "điều gì khiến anh nghi cô ấy lấy tiền?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đáng ngờ, khả nghi; không thể tin được; có thể sai, có thể giả",
+          "list_en_vn": [
+            {
+              "full_en": "his statements are suspect",
+              "full_vn": "những lời phát biểu của nó không thể tin được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người khả nghi; người bị tình nghi",
+          "list_en_vn": [
+            {
+              "full_en": "he's a prime suspect in the murder case",
+              "full_vn": "anh ta là kẻ khả nghi hàng đầu trong vụ giết người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335086_9d4dd0c19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335086_ee0df0f519_o.png",
+      "id_image": "suspect_1781247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335051_76045b24e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335051_64b4fc92ae_o.png",
+      "id_image": "suspect_1865686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380042_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380042_6da39e6b0d_o.png",
+      "id_image": "suspect_2621952"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "squad",
+  "phat_am": "[skwɔd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) tổ, đội (cùng làm việc, huấn luyện với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "flying squad",
+              "full_vn": "đội cảnh sát cơ giới"
+            },
+            {
+              "full_en": "suicide squad",
+              "full_vn": "đội cảm tử"
+            },
+            {
+              "full_en": "awkward squad",
+              "full_vn": "tổ lính mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kíp (thợ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đội thể thao; nhóm người (vận động viên..) tạo thành đội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351886_9ee975876f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351886_2e5ee6a78e_o.png",
+      "id_image": "squad_1485088"
+    }
+  ]
+}

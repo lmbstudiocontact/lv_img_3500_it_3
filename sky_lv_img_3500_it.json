@@ -1,0 +1,87 @@
+{
+  "english": "sky",
+  "phat_am": "[skai]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều skies",
+      "list_m": [
+        {
+          "m_full_vn": "trời, bầu trời",
+          "list_en_vn": [
+            {
+              "full_en": "clear sky",
+              "full_vn": "trời trong"
+            },
+            {
+              "full_en": "under the open sky",
+              "full_vn": "ngoài trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cõi tiên, thiêng đường"
+        },
+        {
+          "m_full_vn": "( số nhiều) trời, khí hậu, thời tiết",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of a clear sky",
+              "list_im": [
+                {
+                  "im_full_vn": "thình lình, không báo trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "praise somebody /something to the skies",
+              "list_im": [
+                {
+                  "im_full_vn": "tán dương lên tận mây xanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the sky's the limit",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) (tục ngữ) không có giới hạn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "under warmer skies",
+              "full_vn": "ở (nơi) khí hậu ấm hơn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ skied , skyed",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh (bóng..) vọt lên cao (bóng crickê)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380062_1bc552feb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380062_9be4904257_o.png",
+      "id_image": "sky_390702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450028_309178e2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450028_d0df9f6283_o.png",
+      "id_image": "sky_3982016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071975_5a25f62696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071975_93ac7acd47_o.png",
+      "id_image": "sky_673897"
+    }
+  ]
+}

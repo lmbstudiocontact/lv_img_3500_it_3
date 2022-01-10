@@ -1,0 +1,46 @@
+{
+  "english": "winner",
+  "phat_am": "['winə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được cuộc, người thắng; con vật thắng trong cuộc đua (ngựa...)",
+          "list_en_vn": [
+            {
+              "full_en": "the winner was presented with a trophy",
+              "full_vn": "người thắng đã được tặng cúp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) vật (ý kiến...) thành công",
+          "list_en_vn": [
+            {
+              "full_en": "their latest model is certain to be a winner",
+              "full_vn": "mẫu mới nhất của họ chắc chắn sẽ là một thành công"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443668_f6670e9f96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443668_584ae6a161_o.png",
+      "id_image": "winner_1055838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683719_ce814c1c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683719_42b3cd11a6_o.png",
+      "id_image": "winner_1929165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683764_6d71134c49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683764_deb712b827_o.png",
+      "id_image": "winner_826264"
+    }
+  ]
+}

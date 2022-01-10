@@ -1,0 +1,64 @@
+{
+  "english": "selection",
+  "phat_am": "[si'lek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lựa chọn, sự chọn lọc, sự tuyển lựa; sự được lựa chọn, sự được chọn lọc, sự được tuyển lựa",
+          "list_en_vn": [
+            {
+              "full_en": "the selection of the football team",
+              "full_vn": "sự tuyển chọn một đội bóng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người (vật) được chọn lựa; số lượng các khoản được chọn lựa",
+          "list_en_vn": [
+            {
+              "full_en": "the new headmaster is a good selection",
+              "full_vn": "ông hiệu trưởng mới là người đã được tuyển lựa cẩn thận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) sự chọn lọc",
+          "list_en_vn": [
+            {
+              "full_en": "natural selection",
+              "full_vn": "sự chọn lọc tự nhiên"
+            },
+            {
+              "full_en": "artificial selection",
+              "full_vn": "sự chọn lọc nhân tạo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395737_91353d6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395737_a0438b4be8_o.png",
+      "id_image": "selection_165011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705539_cb2042bb16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705539_463ccbb635_o.png",
+      "id_image": "selection_3645318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088105_f4344f3880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088105_2101e1a96b_o.png",
+      "id_image": "selection_3645485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350986_7a642e7586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350986_307e429334_o.png",
+      "id_image": "selection_6092338"
+    }
+  ]
+}

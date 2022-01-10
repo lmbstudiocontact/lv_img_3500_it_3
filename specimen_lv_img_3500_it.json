@@ -1,0 +1,52 @@
+{
+  "english": "specimen",
+  "phat_am": "['spesimən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẫu, mẫu vật (để nghiên cứu, sưu tập..)",
+          "list_en_vn": [
+            {
+              "full_en": "specimens of copper over",
+              "full_vn": "những mẫu quặng đồng"
+            },
+            {
+              "full_en": "specimen page",
+              "full_vn": "trang mẫu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu xét nghiệm (nhất là vì mục đích (y học))"
+        },
+        {
+          "m_full_vn": "(thông tục) hạng người; loại người",
+          "list_en_vn": [
+            {
+              "full_en": "what a specimen !",
+              "full_vn": "thật là một thằng kỳ quái!"
+            },
+            {
+              "full_en": "an unsavoury specimen",
+              "full_vn": "một thằng cha ghê tởm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679684_46751dd13c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679684_1df313286d_o.png",
+      "id_image": "specimen_3335633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439533_bd6984f954_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439533_08dc880319_o.png",
+      "id_image": "specimen_4118508"
+    }
+  ]
+}

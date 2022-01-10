@@ -1,0 +1,198 @@
+{
+  "english": "true",
+  "phat_am": "[tru:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thật, đúng (phù hợp với hiện thực, đúng với sự thật đã biết)",
+          "list_en_vn": [
+            {
+              "full_en": "is the news true ?",
+              "full_vn": "tin ấy có thực không?"
+            },
+            {
+              "full_en": "to come true",
+              "full_vn": "trở thành sự thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng đắn (hợp với những nguyên lý, tiêu chuẩn đã được chấp nhận)",
+          "list_en_vn": [
+            {
+              "full_en": "a true judgement",
+              "full_vn": "một sự xét xử đúng đắn"
+            },
+            {
+              "full_en": "a true analysis",
+              "full_vn": "một sự phân tích đúng đắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thật sự, đúng, không giả; đích thực (gọi đúng cái tên đã được gọi)",
+          "list_en_vn": [
+            {
+              "full_en": "true love",
+              "full_vn": "tình yêu đích thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "true description",
+              "full_vn": "sự mô tả chính xác"
+            },
+            {
+              "full_en": "true voice",
+              "full_vn": "(âm nhạc) giọng đúng"
+            },
+            {
+              "full_en": "true to specimen",
+              "full_vn": "đúng với mẫu hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chân chính",
+          "list_en_vn": [
+            {
+              "full_en": "a true man",
+              "full_vn": "một người chân chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành khẩn, chân thành"
+        },
+        {
+          "m_full_vn": "( + to something ) trung thành, có lương tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to be true to one's fatherland",
+              "full_vn": "trung với nước"
+            },
+            {
+              "full_en": "true to one's promise",
+              "full_vn": "trung thành với lời hứa, giữ đúng lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng chỗ, đúng vị trí; hợp; vừa",
+          "list_en_vn": [
+            {
+              "full_en": "Is the wheel true ?",
+              "full_vn": "bánh xe có khớp khít không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng phẳng (đất)",
+          "list_one_mean": [
+            {
+              "id_full_en": "come true",
+              "list_im": [
+                {
+                  "im_full_vn": "thực tế xảy ra; trở thành sự thật (về hy vọng, lời dự đoán..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's true colours",
+              "list_im": [
+                {
+                  "im_full_vn": "bộ mặt thực"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thật, thực",
+          "list_en_vn": [
+            {
+              "full_en": "tell me true",
+              "full_vn": "nói thật với tôi đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, một cách chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "to sing true",
+              "full_vn": "hát đúng"
+            },
+            {
+              "full_en": "to aim true",
+              "full_vn": "nhắm đúng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) vị trí đúng"
+        },
+        {
+          "m_full_vn": "sự lắp đúng chỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "out of true",
+              "list_im": [
+                {
+                  "im_full_vn": "lệch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the door is out of true",
+                      "full_vn": "cửa ra vào bị lệch"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) ( + up ) điều chỉnh cho đúng chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to true up a wheel",
+              "full_vn": "điều chỉnh cái bánh xe cho đúng chỗ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331466_3738d3a68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331466_aa46cf819a_o.png",
+      "id_image": "true_5226408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331396_cf46183e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331396_16184c9540_o.png",
+      "id_image": "true_5706248"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "servant",
+  "phat_am": "['sə:vənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hầu, người đầy tớ, người ở",
+          "list_en_vn": [
+            {
+              "full_en": "servants of the people",
+              "full_vn": "đầy tớ của nhân dân"
+            },
+            {
+              "full_en": "civil servants",
+              "full_vn": "công chức, viên chức nhà nước"
+            },
+            {
+              "full_en": "public servants",
+              "full_vn": "quan chức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bầy tôi trung thành",
+          "list_one_mean": [
+            {
+              "id_full_en": "a good servant but a bad master",
+              "list_im": [
+                {
+                  "im_full_vn": "vật để dùng chứ không phải để thờ; cái coi là phương tiện chứ đừng coi là mục đích"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a servant of Jesus Christ",
+              "full_vn": "bầy tôi của Chúa Giê-xu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464043_95ee6ed239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464043_4d82da1f5a_o.png",
+      "id_image": "servant_2014227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394107_8069438297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394107_c78f14aca8_o.png",
+      "id_image": "servant_2307598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704109_3d7b7fe456_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704109_a9bca9f6f4_o.png",
+      "id_image": "servant_376485"
+    }
+  ]
+}

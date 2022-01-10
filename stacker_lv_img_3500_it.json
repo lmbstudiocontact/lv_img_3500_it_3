@@ -1,0 +1,48 @@
+{
+  "english": "stacker",
+  "phat_am": "['stækə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy xếp chồng",
+          "list_en_vn": [
+            {
+              "full_en": "bag stacker",
+              "full_vn": "máy xếp chồng bao tải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xe tải có máy xếp đống"
+        },
+        {
+          "m_full_vn": "bộ tiếp nhận thẻ",
+          "list_en_vn": [
+            {
+              "full_en": "input stacker",
+              "full_vn": "bộ xếp bìa đưa vào"
+            },
+            {
+              "full_en": "output stacker",
+              "full_vn": "bộ xếp bìa đưa ra"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705449_e80d835aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705449_1c34ec9fd0_o.png",
+      "id_image": "stacker_5015719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395587_22cd76f3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395587_707a2e2877_o.png",
+      "id_image": "stacker_6347471"
+    }
+  ]
+}

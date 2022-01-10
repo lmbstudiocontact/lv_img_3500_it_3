@@ -1,0 +1,239 @@
+{
+  "english": "small",
+  "phat_am": "[smɔ:l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhỏ, bé, chật",
+          "list_en_vn": [
+            {
+              "full_en": "a small house /town /room /sum of money",
+              "full_vn": "một ngôi nhà/thành phố/căn phòng/số tiền nhỏ"
+            },
+            {
+              "full_en": "my influence over her is small , so she won't do as I say",
+              "full_vn": "ảnh hưởng của tôi đối với bà ta là nhỏ mọn, nên bà ta sẽ không làm theo lời tôi đâu"
+            },
+            {
+              "full_en": "the coat is too small for me",
+              "full_vn": "cái áo bành tô đối với tôi chật quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trẻ, nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "would a small child know that ?",
+              "full_vn": "liệu một đứa nhỏ có biết điều đó hay không?"
+            },
+            {
+              "full_en": "I lived in the country when I was small",
+              "full_vn": "tôi sống ở nông thôn hồi còn nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không to bằng cái gì khác cùng một loại",
+          "list_en_vn": [
+            {
+              "full_en": "the small intestine",
+              "full_vn": "ruột non"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về chữ) không viết hoặc in hoa; chữ nhỏ, chữ thường"
+        },
+        {
+          "m_full_vn": "không làm trên quy mô lớn",
+          "list_en_vn": [
+            {
+              "full_en": "small shopkeeper",
+              "full_vn": "tiểu chủ"
+            },
+            {
+              "full_en": "a small farmer /trader /company",
+              "full_vn": "một chủ trại/nhà buôn/công ty nhỏ"
+            },
+            {
+              "full_en": "more help for small businesses",
+              "full_vn": "sự giúp đỡ thêm cho các doanh nghiệp nhỏ"
+            },
+            {
+              "full_en": "a small eater",
+              "full_vn": "người ít ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không quan trọng; nhỏ nhặt",
+          "list_en_vn": [
+            {
+              "full_en": "a small matter /change /mistake",
+              "full_vn": "một vấn đề/sự thay đổi/sai lầm không đáng kể"
+            },
+            {
+              "full_en": "there are only small differences between the two translations",
+              "full_vn": "chỉ có những chỗ khác nhau không đáng kể giữa hai bản dịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ti tiện, thấp hèn",
+          "list_en_vn": [
+            {
+              "full_en": "a very small man",
+              "full_vn": "một kẻ rất ti tiện"
+            },
+            {
+              "full_en": "only somebody with a small mind would have refused to help",
+              "full_vn": "chỉ có kẻ nào đầu óc nhỏ nhen mới từ chối giúp đỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với danh từ không đếm được) ít hoặc không",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feel (look ) small",
+              "list_im": [
+                {
+                  "im_full_vn": "tủi hổ, thấy nhục nhã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's a small world",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) quả đất tròn mà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be grateful /thankful for small mercies",
+              "list_im": [
+                {
+                  "im_full_vn": "được an ủi rằng một tình hình xấu đã không tệ hại hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "great and small",
+              "list_im": [
+                {
+                  "im_full_vn": "xem great"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a big /small way",
+              "list_im": [
+                {
+                  "im_full_vn": "xem way"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no /little /small wonder",
+              "list_im": [
+                {
+                  "im_full_vn": "xem wonder"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the small print",
+              "list_im": [
+                {
+                  "im_full_vn": "phần văn bản in chữ nhỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the still small voice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem still"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have small cause to be glad",
+              "full_vn": "không có lý do gì để mà vui mừng"
+            },
+            {
+              "full_en": "he failed , and small wonder",
+              "full_vn": "nó thi trượt, chẳng có gì phải ngạc nhiên cả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều smalls",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) kỳ thi đấu (trong ba kỳ thi để lấy bằng tú tài văn chương ở Oc-phớt)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) đồ lặt vặt (nhất là quần áo lót)"
+        },
+        {
+          "m_full_vn": "phần thon nhỏ của cái gì (nhất là trong cụm từ dưới đây)",
+          "list_en_vn": [
+            {
+              "full_en": "the small of the back",
+              "full_vn": "chỗ thắt lưng (eo lưng)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành những mảnh nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to chop the wood small",
+              "full_vn": "chẻ nhỏ củi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cỡ nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "don't draw the picture too small",
+              "full_vn": "đừng vẽ bức tranh nhỏ quá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376607_c3fe561376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376607_8c41636c52_o.png",
+      "id_image": "small_2210698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686824_f0f90a16e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686824_8a529f7ed9_o.png",
+      "id_image": "small_2210703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446803_1bdf6c57b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446803_bbc568cb65_o.png",
+      "id_image": "small_2844495"
+    }
+  ]
+}

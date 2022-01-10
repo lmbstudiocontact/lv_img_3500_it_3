@@ -1,0 +1,104 @@
+{
+  "english": "unknown",
+  "phat_am": "[ʌn'noun]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không biết, không được nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "unknown forces were at work to overthrow the government",
+              "full_vn": "những thế lực ngấm ngầm đang hoạt động để lật đổ chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không nổi tiếng, không được biết, lạ, vô danh",
+          "list_one_mean": [
+            {
+              "id_full_en": "an unknown quantity",
+              "list_im": [
+                {
+                  "im_full_vn": "ẩn số"
+                }
+              ]
+            },
+            {
+              "id_full_en": "unknown to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "không có sự hay biết của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "quite unknown to me , she'd gone ahead and booked the holiday",
+                      "full_vn": "tôi chẳng hay biết gì cả, cô ta đã đi trước và mua vé đi nghỉ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "unknown country",
+              "full_vn": "xứ lạ"
+            },
+            {
+              "full_en": "an unknown author",
+              "full_vn": "một tác giả vô danh"
+            },
+            {
+              "full_en": "the Unknown Warrior",
+              "full_vn": "chiến sĩ vô danh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ ( the unknown )",
+      "list_m": [
+        {
+          "m_full_vn": "điều (nơi..) chưa biết",
+          "list_en_vn": [
+            {
+              "full_en": "a journey into the unknown",
+              "full_vn": "một chuyến đi đến nơi chưa từng biết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người không nổi tiếng"
+        },
+        {
+          "m_full_vn": "(toán học) ẩn số; lượng chưa được xác định",
+          "list_en_vn": [
+            {
+              "full_en": "equation of two unknowns",
+              "full_vn": "phương trình hai ẩn số"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707149_2966e85fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707149_c0e14a1732_o.png",
+      "id_image": "unknown_1207583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397242_03cc28be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397242_30a56de0fc_o.png",
+      "id_image": "unknown_2748784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467043_c4f31d6e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467043_e404df1150_o.png",
+      "id_image": "unknown_5059613"
+    }
+  ]
+}

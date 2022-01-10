@@ -1,0 +1,58 @@
+{
+  "english": "trash",
+  "phat_am": "[træ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bã; bã mía (như) cane-trash"
+        },
+        {
+          "m_full_vn": "cành cây tỉa bớt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) rác rưởi"
+        },
+        {
+          "m_full_vn": "vật rác rưởi, đồ vô giá trị (vật liệu, bài viết.. chất lượng kém)",
+          "list_en_vn": [
+            {
+              "full_en": "that novel is mere trash",
+              "full_vn": "cuốn tiểu thuyết ấy thật vô giá trị"
+            },
+            {
+              "full_en": "to talk trash",
+              "full_vn": "nói nhăng nói nhít, nói láo lếu"
+            },
+            {
+              "full_en": "to write trash",
+              "full_vn": "viết láo lếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) đồ rác rưởi, đồ cặn bã (người mà không ai tôn trọng)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tỉa, xén (cành, lá)"
+        },
+        {
+          "m_full_vn": "(thông tục) xử tệ, coi như rác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691654_12a638f3e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691654_fc88ccc63b_o.png",
+      "id_image": "trash_548561"
+    }
+  ]
+}

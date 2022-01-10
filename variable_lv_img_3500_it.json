@@ -1,0 +1,76 @@
+{
+  "english": "variable",
+  "phat_am": "['veəriəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể thay đổi được, có thể thay biến đổi được",
+          "list_en_vn": [
+            {
+              "full_en": "variable weather",
+              "full_vn": "thời tiết có thể thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) thay đổi độ sáng theo từng thời kỳ (về ngôi sao)"
+        },
+        {
+          "m_full_vn": "hay thay đổi; thay đổi, biến thiên",
+          "list_en_vn": [
+            {
+              "full_en": "variable length",
+              "full_vn": "chiều dài thay đổi"
+            },
+            {
+              "full_en": "variable function",
+              "full_vn": "hàm số biến thiên"
+            },
+            {
+              "full_en": "variable flow",
+              "full_vn": "dòng chảy biến thiên"
+            },
+            {
+              "full_en": "variable wind",
+              "full_vn": "gió hay thay đổi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ (thường) số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "biến số; vật, lượng có thể thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "temperature was a variable in the experiment",
+              "full_vn": "trong thí nghiệm, nhiệt độ là một biến số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) gió thay đổi"
+        },
+        {
+          "m_full_vn": "(hàng hải) vùng (biển) không có gió thường xuyên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393262_65100419f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393262_d978723028_o.png",
+      "id_image": "variable_1900284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393217_70774fc1d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393217_ffeb547b76_o.png",
+      "id_image": "variable_2620328"
+    }
+  ]
+}

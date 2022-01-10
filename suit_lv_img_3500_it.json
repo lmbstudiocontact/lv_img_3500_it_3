@@ -1,0 +1,234 @@
+{
+  "english": "suit",
+  "phat_am": "[sju:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ quần áo ngoài may cùng một loại vải, gồm áo vét tông và quần (đối với đàn ông) và áo vét và váy (đối với phụ nữ); bộ com-lê; trang phục",
+          "list_en_vn": [
+            {
+              "full_en": "a dress suit",
+              "full_vn": "bộ quần áo dạ hội"
+            },
+            {
+              "full_en": "a business suit",
+              "full_vn": "một bộ com lê để đi giao dịch"
+            },
+            {
+              "full_en": "a pin-stripe lounge suit",
+              "full_vn": "một bộ trang phục có sọc nhỏ"
+            },
+            {
+              "full_en": "a two /three-piece suit",
+              "full_vn": "một bộ com lê hai/ba chiếc (không có/có gilê)"
+            },
+            {
+              "full_en": "a trouser-suit",
+              "full_vn": "một bộ com lê phụ nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ quần áo dùng trong một hoạt động riêng biệt, bộ quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "a spacesuit",
+              "full_vn": "một bộ quần áo vũ trụ"
+            },
+            {
+              "full_en": "a diving suit",
+              "full_vn": "một bộ quần áo lặn"
+            },
+            {
+              "full_en": "an asbestos suit",
+              "full_vn": "bộ đồ bằng amiăng (để chống nóng)"
+            },
+            {
+              "full_en": "a suit of armour",
+              "full_vn": "một bộ áo giáp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời xin, lời thỉnh cầu",
+          "list_en_vn": [
+            {
+              "full_en": "to grant somebody's suit",
+              "full_vn": "chấp thuận lời thỉnh cầu của ai"
+            },
+            {
+              "full_en": "to press one's suit",
+              "full_vn": "nài nỉ, xin xỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như lawsuit",
+          "list_en_vn": [
+            {
+              "full_en": "to file /bring a suit against somebody",
+              "full_vn": "phát đơn kiện ai"
+            },
+            {
+              "full_en": "a criminal /civil suit",
+              "full_vn": "một vụ tố tụng hình sự/dân sự"
+            },
+            {
+              "full_en": "a divorce suit",
+              "full_vn": "một vụ kiện ly hôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) hoa (tức là một trong bốn con pích, cơ, nhép, rô)"
+        },
+        {
+          "m_full_vn": "(hàng hải) bộ buồm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to follow suit",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động hay xử sự theo cách mà người khác vừa mới làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's birthday suit",
+              "list_im": [
+                {
+                  "im_full_vn": "xem birthday"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's / somebody's strong suit",
+              "list_im": [
+                {
+                  "im_full_vn": "xem strong"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp với, thích hợp với",
+          "list_en_vn": [
+            {
+              "full_en": "does this skirt suit me ?",
+              "full_vn": "cái váy này có hợp với tôi không?"
+            },
+            {
+              "full_en": "it doesn't suit you to have your hair cut short",
+              "full_vn": "cắt tóc ngắn không hợp với anh"
+            },
+            {
+              "full_en": "that colour doesn't suit your complexion",
+              "full_vn": "màu đó không hợp với nước da của chị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiện cho; thích hợp với, chấp nhận được đối với (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "If you want to go by bus , that suits me fine",
+              "full_vn": "nếu anh muốn đi bằng xe búyt thì rất tiện cho tôi"
+            },
+            {
+              "full_en": "will Thursday suit (you )?",
+              "full_vn": "liệu ngày thứ năm có tiện (cho anh) hay không?"
+            },
+            {
+              "full_en": "would it suit you to come at five ?",
+              "full_vn": "đến lúc năm giờ có tiện cho anh không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) dùng trong câu phủ định) phù hợp; thích hợp, có lợi đối với (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "this climate doesn't suit me",
+              "full_vn": "khí hậu này không hợp với tôi"
+            },
+            {
+              "full_en": "very spicy food doesn't suit my stomach",
+              "full_vn": "thức ăn bỏ nhiều gia vị không hợp với dạ dày của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoả mãn, đáp ứng nhu cầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to suit somebody down to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hoàn toàn thích hợp với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suit oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động theo ý muốn của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "suit yourself !",
+              "list_im": [
+                {
+                  "im_full_vn": "tuỳ anh muốn làm gì thì làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suit somebody's book",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp ý ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it does not suit all tastes",
+              "full_vn": "điều đó không thoả mãn tất cả thị hiếu"
+            },
+            {
+              "full_en": "to suit the punishment to the crime",
+              "full_vn": "làm cho hình phạt đích đáng với tội ác"
+            },
+            {
+              "full_en": "to suit the play to the audience",
+              "full_vn": "làm cho vở kịch thoả mãn khán giả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383397_ecbe801295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383397_178bd26022_o.png",
+      "id_image": "suit_2600934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453468_26c23ebb11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453468_cb59cd7734_o.png",
+      "id_image": "suit_281385"
+    }
+  ]
+}

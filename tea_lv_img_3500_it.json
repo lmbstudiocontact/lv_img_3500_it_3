@@ -1,0 +1,99 @@
+{
+  "english": "tea",
+  "phat_am": "[ti:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây chè; chè, trà"
+        },
+        {
+          "m_full_vn": "nước chè, nước trà; chén trà",
+          "list_en_vn": [
+            {
+              "full_en": "weak tea",
+              "full_vn": "trà loãng"
+            },
+            {
+              "full_en": "strong tea",
+              "full_vn": "trà đậm"
+            },
+            {
+              "full_en": "two teas , please",
+              "full_vn": "cho hai chén trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước trà (của các lá cây khác, không phải cây chè)",
+          "list_en_vn": [
+            {
+              "full_en": "camomile tea",
+              "full_vn": "trà cúc cam"
+            },
+            {
+              "full_en": "mint tea",
+              "full_vn": "trà bạc hà"
+            },
+            {
+              "full_en": "herb tea",
+              "full_vn": "trà hương thảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiệc trà, bữa trà, dịp uống trà (nhất là buổi chiều)",
+          "list_one_mean": [
+            {
+              "id_full_en": "husband's tea",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục); (đùa cợt) nước trà nhạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I don't eat tea",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi không hay ăn gì nặng trong khi uống trà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not for all the tea in China",
+              "list_im": [
+                {
+                  "im_full_vn": "bất kể phần thưởng lớn đến đâu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398647_e27cde99c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398647_b4a4669142_o.png",
+      "id_image": "tea_1140850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468553_73eaf18a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468553_0fb697d88e_o.png",
+      "id_image": "tea_170321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468523_07981f54c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468523_efc87a09ed_o.png",
+      "id_image": "tea_509934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468513_804e2499c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468513_d1cb787fa2_o.png",
+      "id_image": "tea_703020"
+    }
+  ]
+}

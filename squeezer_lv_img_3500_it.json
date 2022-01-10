@@ -1,0 +1,43 @@
+{
+  "english": "squeezer",
+  "phat_am": "['skwi:zə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ép, người vắt; máy ép, máy vắt",
+          "list_en_vn": [
+            {
+              "full_en": "a lemon-squeezer",
+              "full_vn": "máy vắt chanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người tống tiền, người bòn tiền, người bóp nặn"
+        },
+        {
+          "m_full_vn": "máy ép khử bọt khí (trong sắt nóng chảy)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465783_c66b4c1789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465783_9b84ed6038_o.png",
+      "id_image": "squeezer_2457464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465853_4526cee372_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465853_1a1748c8de_o.png",
+      "id_image": "squeezer_823223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465823_9f25d2066c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465823_e9f113a96b_o.png",
+      "id_image": "squeezer_995860"
+    }
+  ]
+}

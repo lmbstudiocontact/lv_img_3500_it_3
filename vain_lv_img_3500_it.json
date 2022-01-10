@@ -1,0 +1,71 @@
+{
+  "english": "vain",
+  "phat_am": "[vein]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có giá trị hoặc ý nghĩa; vô hiệu; hão huyền",
+          "list_en_vn": [
+            {
+              "full_en": "vain efforts /attempts",
+              "full_vn": "những cố gắng vô ích"
+            },
+            {
+              "full_en": "vain promises /triumphs /pleasures",
+              "full_vn": "những lời hứa/thắng lợi/niềm vui hão huyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rỗng tuếch, không có ý nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "vain words",
+              "full_vn": "những lời rỗng tuếch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiêu ngạo, tự phụ, tự đắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "as vain as a peacock",
+              "list_im": [
+                {
+                  "im_full_vn": "dương dương tự đắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in vain",
+              "list_im": [
+                {
+                  "im_full_vn": "không có kết quả; không ăn thua gì; vô ích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he tried in vain to sleep",
+                      "full_vn": "nó cố ngủ mà vẫn không ngủ được"
+                    },
+                    {
+                      "full_en": "all our work was in vain",
+                      "full_vn": "mọi công việc của chúng ta đều vô ích"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086795_fe4454c05e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086795_b50938624f_o.png",
+      "id_image": "vain_260230"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "stylist",
+  "phat_am": "['stailist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người có một phong cách riêng biệt, người cố gắng có một phong cách riêng (nhất là nhà văn)"
+        },
+        {
+          "m_full_vn": "người tạo mẫu kiểu dáng cho các đồ vật, đồ dùng (quần áo, uốn tóc..)",
+          "list_en_vn": [
+            {
+              "full_en": "a hair stylist",
+              "full_vn": "người tạo mốt tóc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695979_848af7a819_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695979_413b9828b9_o.png",
+      "id_image": "stylist_3124960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695949_30979db3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695949_b1df27c91d_o.png",
+      "id_image": "stylist_4515789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340621_b3aa922d01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340621_e9bf7c0210_o.png",
+      "id_image": "stylist_4647502"
+    }
+  ]
+}

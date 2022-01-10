@@ -1,0 +1,113 @@
+{
+  "english": "tool",
+  "phat_am": "[tu:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ, đồ dùng (cầm tay dùng làm vườn..)",
+          "list_en_vn": [
+            {
+              "full_en": "garden tools",
+              "full_vn": "dụng cụ làm vườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công cụ (bất cứ cái gì được dùng để làm hoặc đạt được cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the computer is now an indispensable tool in many bussinesses",
+              "full_vn": "hiện nay, máy vi tính là công cụ không thể thiếu được trong nhiều doanh nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) công cụ; lợi khí; tay sai (người bị người khác sử dụng, bóc lột.. để phục vụ cho lợi ích cá nhân, mục đích không lương thiện)",
+          "list_en_vn": [
+            {
+              "full_en": "a tool of new colonialism",
+              "full_vn": "một công cụ của chủ nghĩa thực dân mới"
+            },
+            {
+              "full_en": "to make a tool of someone",
+              "full_vn": "lợi dụng ai, sử dụng ai làm tay sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dương vật (bộ phận sinh dục của nam)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép nhũ, tạo ra hình trang trí, rập hình trang trí (vào gáy sách...)",
+          "list_en_vn": [
+            {
+              "full_en": "the spine is tooled in gold",
+              "full_vn": "gáy sách được rập hình trang trí bằng vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chế tạo thành dụng cụ"
+        },
+        {
+          "m_full_vn": "chạm"
+        },
+        {
+          "m_full_vn": "(thông tục) lái (xe) một cách phóng khoáng",
+          "list_one_mean": [
+            {
+              "id_full_en": "tool along",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lái xe một cách đủng đỉnh và thư giãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "tool something up",
+              "list_im": [
+                {
+                  "im_full_vn": "trang bị (cho một nhà máy) các công cụ máy móc cần thiết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458903_b3c34fe776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458903_fb0051bb6e_o.png",
+      "id_image": "tool_1870930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344066_67881d737f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344066_e72f6ae408_o.png",
+      "id_image": "tool_4301256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389182_eb3063a7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389182_531a6443da_o.png",
+      "id_image": "tool_452704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458948_d532d7caaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458948_53aba136e1_o.png",
+      "id_image": "tool_966733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699289_346e55dfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699289_4cbde04c4a_o.png",
+      "id_image": "tool_966734"
+    }
+  ]
+}

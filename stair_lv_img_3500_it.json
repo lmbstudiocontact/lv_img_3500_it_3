@@ -1,0 +1,50 @@
+{
+  "english": "stair",
+  "phat_am": "[steə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bậc thang"
+        },
+        {
+          "m_full_vn": "( số nhiều) cầu thang (như) flight of stairs ; pair of stairs",
+          "list_one_mean": [
+            {
+              "id_full_en": "below stairs",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới hầm nhà (chỗ dành riêng cho những người giúp việc ở)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this was discussed belows stairs",
+                      "full_vn": "điều đó được những người ở (đầy tớ) bàn ra tán vào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350421_81066abcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350421_7c14352131_o.png",
+      "id_image": "stair_1533284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704939_4f351c4c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704939_94b1113c17_o.png",
+      "id_image": "stair_5798480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087555_9d632d00ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087555_3bb40c5560_o.png",
+      "id_image": "stair_6342781"
+    }
+  ]
+}

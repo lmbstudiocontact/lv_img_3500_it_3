@@ -1,0 +1,111 @@
+{
+  "english": "whisk",
+  "phat_am": "[wisk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cử động mau lẹ; cái lướt nhanh, động tác vút nhanh; cái vẫy nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "a whisk of the tail",
+              "full_vn": "cái vẫy đuôi nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phất trần, chổi quét bụi; cái xua ruồi"
+        },
+        {
+          "m_full_vn": "cái đánh trứng, cái đánh kem"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vụt, đập vút vút",
+          "list_en_vn": [
+            {
+              "full_en": "to whisk the air",
+              "full_vn": "đập vút vút vào không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫy (đuôi)"
+        },
+        {
+          "m_full_vn": "đánh (trứng, kem...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lướt nhanh như gió",
+          "list_one_mean": [
+            {
+              "id_full_en": "to whisk along",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi nhanh đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whisk away",
+              "list_im": [
+                {
+                  "im_full_vn": "xua (ruồi)"
+                },
+                {
+                  "im_full_vn": "lấy nhanh, đưa (mang) nhanh đi, lấy biến đi (cái gì)"
+                },
+                {
+                  "im_full_vn": "gạt thầm, chùi vội (nước mắt)"
+                },
+                {
+                  "im_full_vn": "đi vun vút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whisk off",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa (mang) nhanh ra khỏi; lấy biến đi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375532_4582b2b428_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375532_fe6c457ac2_o.png",
+      "id_image": "whisk_184490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067555_466780a4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067555_19064a359f_o.png",
+      "id_image": "whisk_2455937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685864_3b2828553d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685864_3dec61a5f3_o.png",
+      "id_image": "whisk_527770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330781_a0fe1fc3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330781_8ee5d5ff6b_o.png",
+      "id_image": "whisk_741367"
+    }
+  ]
+}

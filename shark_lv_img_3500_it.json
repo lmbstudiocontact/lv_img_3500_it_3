@@ -1,0 +1,55 @@
+{
+  "english": "shark",
+  "phat_am": "[∫ɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) cá mập",
+          "list_en_vn": [
+            {
+              "full_en": "man-eating shark",
+              "full_vn": "cá mập trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nặn bóp tiền của người khác; người cho vay tiền lấy lãi rất cao; kẻ lừa đảo"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường), (từ lóng) tay cừ, tay chiến"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lừa đảo; nặn bóp tiền của người khác, cho vay lấy tiền lãi rất cao",
+          "list_en_vn": [
+            {
+              "full_en": "to shark for a living",
+              "full_vn": "lừa đảo để sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngốn, nuốt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461543_cd43b91dc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461543_acf18e0b3a_o.png",
+      "id_image": "shark_184351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346681_4a231032cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346681_84be50b4fc_o.png",
+      "id_image": "shark_194957"
+    }
+  ]
+}

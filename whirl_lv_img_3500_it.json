@@ -1,0 +1,100 @@
+{
+  "english": "whirl",
+  "phat_am": "[wə:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xoay tít, sư xoáy, sự quay lộn"
+        },
+        {
+          "m_full_vn": "gió cuốn, gió lốc",
+          "list_en_vn": [
+            {
+              "full_en": "a whirl of dust",
+              "full_vn": "làn bụi cuốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hoạt động quay cuồng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in a whirl",
+              "list_im": [
+                {
+                  "im_full_vn": "quay cuồng (đầu óc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give something a whirl",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thử một vật gì, đưa một vật gì ra thử"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the whirl of modern life in a city",
+              "full_vn": "sự hoạt động quay cuồng của cuộc sống hiện đại trong một thành phố"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xoay tít, xoáy, quay lộn"
+        },
+        {
+          "m_full_vn": "lao đi, chạy nhanh như gió"
+        },
+        {
+          "m_full_vn": "quay cuồng (đầu óc); chóng mặt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho xoay tít, làm xoáy, làm quay lộn"
+        },
+        {
+          "m_full_vn": "cuốn đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to whirl along",
+              "list_im": [
+                {
+                  "im_full_vn": "lao đi, cuốn đi, chạy nhanh như gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whirl down",
+              "list_im": [
+                {
+                  "im_full_vn": "xoáy cuộn rồi rơi xuống"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375587_3e8c710a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375587_7bf5b172c0_o.png",
+      "id_image": "whirl_2430106"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "simplify",
+  "phat_am": "['simplifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đơn giản, đơn giản hoá",
+          "list_en_vn": [
+            {
+              "full_en": "a simplified text",
+              "full_vn": "một bài khoá đã đơn giản hoá (cho những người học ngoại ngữ..)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338346_8f8fd632e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338346_8576210151_o.png",
+      "id_image": "simplify_5184298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453308_a3457341f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453308_0b0415c00c_o.png",
+      "id_image": "simplify_5398110"
+    }
+  ]
+}

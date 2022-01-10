@@ -1,0 +1,71 @@
+{
+  "english": "theory",
+  "phat_am": "['θiəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "học thuyết; lý thuyết (nhằm giải thích sự việc hoặc sự kiện)",
+          "list_en_vn": [
+            {
+              "full_en": "Darwin's theory of evolution",
+              "full_vn": "thuyết tiến hoá của Đác-uyn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuyết (ý kiến hoặc giả định, không nhất thiết dựa trên sự lập luận)",
+          "list_en_vn": [
+            {
+              "full_en": "he has a theory that wearing hats makes men go bald",
+              "full_vn": "anh ta có cái thuyết cho rằng đội mũ làm cho đàn ông hói đầu"
+            },
+            {
+              "full_en": "there's a theory that the lung cancer is caused by cigarettes",
+              "full_vn": "có thuyết cho là bệnh ung thư phổi do thuốc lá gây nên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý kiến; giả định (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "in theory , three things could happen",
+              "full_vn": "về lý thuyết, có ba khả năng có thể xảy ra"
+            },
+            {
+              "full_en": "it sounds fine in theory , but will it work ?",
+              "full_vn": "về lý thuyết nghe có vẻ hay đấy, nhưng liệu nó có tác dụng hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý thuyết; lý luận; nguyên lý (những nguyên tắc làm cơ sở cho một môn học)",
+          "list_en_vn": [
+            {
+              "full_en": "good in theory but inapplicable in practice",
+              "full_vn": "hay về lý thuyết nhưng không áp dụng được trong thực hành"
+            },
+            {
+              "full_en": "studying music theory",
+              "full_vn": "nghiên cứu lý luận âm nhạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704814_d8598d9629_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704814_1ef6a80c3b_o.png",
+      "id_image": "theory_1900281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395082_b4914a29c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395082_5957db947c_o.png",
+      "id_image": "theory_647856"
+    }
+  ]
+}

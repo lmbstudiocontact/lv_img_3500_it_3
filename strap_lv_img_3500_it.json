@@ -1,0 +1,79 @@
+{
+  "english": "strap",
+  "phat_am": "[stræp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây (da, lụa, vải...); đai; quai",
+          "list_en_vn": [
+            {
+              "full_en": "a watch strap",
+              "full_vn": "dây đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải vải hẹp đeo qua vai như một bộ phận của một chiếc áo..",
+          "list_en_vn": [
+            {
+              "full_en": "bra-strap",
+              "full_vn": "những dải xu chiêng"
+            },
+            {
+              "full_en": "a summer dress with thin shoulder-straps",
+              "full_vn": "một chiếc áo dài mùa hè với những dây brơten mỏnh mảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dây liếc dao cạo"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bản giằng (mảnh sắt nối hai tấm gỗ...)"
+        },
+        {
+          "m_full_vn": "( the strap ) hình phạt đánh bằng dây da, roi da"
+        },
+        {
+          "m_full_vn": "cánh bản lề"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột bằng dây da, buộc bằng dây da; đeo bằng dây da, trói bằng dây da; đánh đai"
+        },
+        {
+          "m_full_vn": "liếc (dao cạo)"
+        },
+        {
+          "m_full_vn": "(y học) băng, buộc (vết thương..) bằng băng dính"
+        },
+        {
+          "m_full_vn": "đánh bằng dây da, đánh bằng roi da"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458658_3c5435f3ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458658_1d13936f31_o.png",
+      "id_image": "strap_2044023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388862_07c06398d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388862_19e9a6ff00_o.png",
+      "id_image": "strap_372583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388772_4aa2682153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388772_b342ceb1a7_o.png",
+      "id_image": "strap_4656913"
+    }
+  ]
+}

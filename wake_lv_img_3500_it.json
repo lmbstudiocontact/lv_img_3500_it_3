@@ -1,0 +1,151 @@
+{
+  "english": "wake",
+  "phat_am": "[weik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) lằn tàu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to follow in the wake of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "theo chân ai, theo liền ngay sau ai"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) theo gương ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thức canh người chết (trước khi đưa đi chôn)"
+        },
+        {
+          "m_full_vn": "sự tụ tập người để canh người chết (có đồ ăn thức uống mà gia đình có tang dọn cho; nhất là ở Ai len)"
+        },
+        {
+          "m_full_vn": "đường rẽ nước (phía sau một con tàu đang chạy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the wake of something",
+              "list_im": [
+                {
+                  "im_full_vn": "theo gót; đến sau, theo sau"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( woke , waked ; waked , woken )",
+      "list_m": [
+        {
+          "m_full_vn": "thôi ngủ, thức giấc, tỉnh dậy",
+          "list_en_vn": [
+            {
+              "full_en": "to wake up with a start",
+              "full_vn": "giật mình tỉnh dậy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ai thôi ngủ, đánh thức ai",
+          "list_en_vn": [
+            {
+              "full_en": "try not to wake the baby up",
+              "full_vn": "cố đừng làm đứa bé thức giấc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hồi tỉnh lại, làm sống lại; phá, khuấy động (sự yên tĩnh)",
+          "list_en_vn": [
+            {
+              "full_en": "a cold shower will soon wake you up",
+              "full_vn": "tắm nước lạnh sẽ làm anh tỉnh lại ngay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm náo động, quấy rầy bằng tiếng động, làm cho vang dội lại",
+          "list_en_vn": [
+            {
+              "full_en": "his echoing cry woke the mountain valley",
+              "full_vn": "tiếng kêu vang vọng của anh ta làm náo động thung lũng núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khêu gợi, khích động",
+          "list_en_vn": [
+            {
+              "full_en": "to wake desires",
+              "full_vn": "khêu gợi dục vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gợi lại (một kỷ niệm)",
+          "list_en_vn": [
+            {
+              "full_en": "to wake memories",
+              "full_vn": "gợi lại những ký ức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thức canh (người chết)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wake the dead",
+              "list_im": [
+                {
+                  "im_full_vn": "ầm ĩ một cách khó chịu (tiếng động)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's waking hours",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc tỉnh giấc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wake up to something",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu biết đến điều gì; nhận ra điều gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693969_e4cd062c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693969_ff5fdf35f8_o.png",
+      "id_image": "wake_5284836"
+    }
+  ]
+}

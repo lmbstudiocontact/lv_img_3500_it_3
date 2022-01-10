@@ -1,0 +1,48 @@
+{
+  "english": "wizard",
+  "phat_am": "['wizəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thầy phù thuỷ, thầy pháp, người có pháp thuật (là nam giới)"
+        },
+        {
+          "m_full_vn": "người có tài năng phi thường, thiên tài",
+          "list_en_vn": [
+            {
+              "full_en": "she's a wizard with computers",
+              "full_vn": "cô ấy là một thiên tài về máy tính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ nhà trường) phi thường"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380497_1800c8b952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380497_d83d2c2492_o.png",
+      "id_image": "wizard_2210034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380452_b7b270ca4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380452_c3bde6ff69_o.png",
+      "id_image": "wizard_2332835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335356_9e413fe9e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335356_02478b48c2_o.png",
+      "id_image": "wizard_5149040"
+    }
+  ]
+}

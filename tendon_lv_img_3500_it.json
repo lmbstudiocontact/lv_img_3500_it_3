@@ -1,0 +1,32 @@
+{
+  "english": "tendon",
+  "phat_am": "['tendən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) gân; dây chằng",
+          "list_en_vn": [
+            {
+              "full_en": "strain a tendon",
+              "full_vn": "bong gân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706909_9294f37e98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706909_b1a884caf2_o.png",
+      "id_image": "tendon_3978817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352321_226b0c614c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352321_0f3cd2b93d_o.png",
+      "id_image": "tendon_5746310"
+    }
+  ]
+}

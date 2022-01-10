@@ -1,0 +1,67 @@
+{
+  "english": "tomorrow",
+  "phat_am": "[tə'mɔrou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngày mai",
+          "list_en_vn": [
+            {
+              "full_en": "it may rain tomorrow",
+              "full_vn": "mai trời có thể mưa"
+            },
+            {
+              "full_en": "tomorrow morning",
+              "full_vn": "sáng mai"
+            },
+            {
+              "full_en": "the day after tomorrow",
+              "full_vn": "ngày kia"
+            },
+            {
+              "full_en": "never put off till tomorrow what you can do today",
+              "full_vn": "đừng để sang ngày mai việc gì có thể làm hôm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tương lai gần",
+          "list_en_vn": [
+            {
+              "full_en": "tomorrow's world",
+              "full_vn": "thế giới của ngày mai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vào ngày mai",
+          "list_en_vn": [
+            {
+              "full_en": "she's getting married tomorrow",
+              "full_vn": "cô ấy sẽ kết hôn vào ngày mai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081960_5bb4d5d4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081960_0f43f78b12_o.png",
+      "id_image": "tomorrow_6357026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699589_75169750f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699589_53a7525cff_o.png",
+      "id_image": "tomorrow_6381382"
+    }
+  ]
+}

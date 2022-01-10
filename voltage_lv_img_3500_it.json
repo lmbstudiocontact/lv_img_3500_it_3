@@ -1,0 +1,41 @@
+{
+  "english": "voltage",
+  "phat_am": "['voultidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(điện học) điện áp, sức điện động đo bằng vôn",
+          "list_en_vn": [
+            {
+              "full_en": "high /low voltage",
+              "full_vn": "điện áp cao/thấp"
+            },
+            {
+              "full_en": "to check the voltage of an appliance against the supply",
+              "full_vn": "kiểm tra điện áp của một thiết bị so với nguồn điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696119_25236753e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696119_d8b2cc9fb8_o.png",
+      "id_image": "voltage_4152051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696089_91c2ce232f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696089_d6ce645161_o.png",
+      "id_image": "voltage_4276377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385827_4174181b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385827_121a6e8309_o.png",
+      "id_image": "voltage_916066"
+    }
+  ]
+}

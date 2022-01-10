@@ -1,0 +1,73 @@
+{
+  "english": "victim",
+  "phat_am": "['viktim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạn nhân (người, loài vật, đồ vật bị thương, bị giết do sự thiếu cẩn thận, tội ác, bất hạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "many pets are victims of overfeeding",
+              "full_vn": "nhiều con vật cảnh là nạn nhân của việc cho ăn quá độ"
+            },
+            {
+              "full_en": "murder , rape victims",
+              "full_vn": "nạn nhân của vụ sát nhân, vụ hiếp dâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người bị lừa, người bị phỉnh, nạn nhân",
+          "list_en_vn": [
+            {
+              "full_en": "the victim of one's own ambition",
+              "full_vn": "là nạn nhân của tham vọng của chính mình"
+            },
+            {
+              "full_en": "the victim of a hoax",
+              "full_vn": "nạn nhân của trò chơi xỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) vật tế thần",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fall victim to something",
+              "list_im": [
+                {
+                  "im_full_vn": "không chống nổi; chịu thua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he soon fell victim to her charms",
+                      "full_vn": "chẳng bao lâu, anh ta đã bị vẻ duyên dáng của cô ấy chinh phục"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345036_385caec6f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345036_f6c648404d_o.png",
+      "id_image": "victim_2117465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389982_3f09b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389982_f6628e3942_o.png",
+      "id_image": "victim_2155410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082475_f12663411a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082475_efcbc55887_o.png",
+      "id_image": "victim_5781221"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "english": "stroke",
+  "phat_am": "[strouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đánh; đòn; nhát",
+          "list_en_vn": [
+            {
+              "full_en": "20 strokes with a whip",
+              "full_vn": "hai mươi cú đánh bằng roi"
+            },
+            {
+              "full_en": "to kill somebody with one stroke of a sword",
+              "full_vn": "giết ai bằng một nhát gươm"
+            },
+            {
+              "full_en": "killed by a stroke of lightning",
+              "full_vn": "bị sét đánh chết"
+            },
+            {
+              "full_en": "finishing stroke",
+              "full_vn": "đòn kết liễu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể thao) hành động đánh quả bóng; cú đánh dùng làm đơn vị ghi điểm",
+          "list_en_vn": [
+            {
+              "full_en": "a forehand stroke",
+              "full_vn": "một cú tiu bên phải"
+            },
+            {
+              "full_en": "a graceful stroke with the bat",
+              "full_vn": "cầm gậy đánh một cú thật đẹp"
+            },
+            {
+              "full_en": "she won by two strokes",
+              "full_vn": "cô ta đánh thắng hai điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) đột quỵ",
+          "list_en_vn": [
+            {
+              "full_en": "a stroke of apoplexy",
+              "full_vn": "đột quỵ ngập máu"
+            },
+            {
+              "full_en": "the stroke left him paralysed on one side of his body",
+              "full_vn": "cơn đột quỵ khiến ông ta liệt nửa người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sải; nhịp chèo",
+          "list_en_vn": [
+            {
+              "full_en": "long powerful strokes",
+              "full_vn": "những sải bơi dài và mạnh mẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiểu bơi",
+          "list_en_vn": [
+            {
+              "full_en": "to do the breast-stroke , back-stroke",
+              "full_vn": "bơi ếch, bơi ngửa"
+            },
+            {
+              "full_en": "which stroke are you best at ?",
+              "full_vn": "anh thạo kiểu bơi nào nhất?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong đội chèo thuyền) người cầm chèo ngồi gần lái nhất và giữ nhịp chèo cho chiếc thuyền đua"
+        },
+        {
+          "m_full_vn": "nét (bút)",
+          "list_en_vn": [
+            {
+              "full_en": "thin /thick strokes",
+              "full_vn": "những nét bút mảnh/đậm"
+            },
+            {
+              "full_en": "up stroke",
+              "full_vn": "nét lên"
+            },
+            {
+              "full_en": "down stroke",
+              "full_vn": "nét xuống"
+            },
+            {
+              "full_en": "to portray with a few strokes",
+              "full_vn": "vẽ bằng một vài nét"
+            },
+            {
+              "full_en": "I could do it with a stroke of the pen",
+              "full_vn": "tôi chỉ gạch một nét bút là xong việc ấy"
+            },
+            {
+              "full_en": "finishing strokes",
+              "full_vn": "những nét sửa sang cuối cùng, những nét trau chuốt cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng chuông đồng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "on the stroke of nine",
+              "full_vn": "khi đồng hồ điểm chín tiếng"
+            },
+            {
+              "full_en": "to arrive on the stroke of time",
+              "full_vn": "đến đúng giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động hoặc việc xảy ra duy nhất thành công hoặc có hiệu quả (thuộc một loại nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a stroke of business",
+              "full_vn": "sự buôn may bán lời; một món phát tài"
+            },
+            {
+              "full_en": "your idea was a stroke of genius",
+              "full_vn": "ý kiến của anh là một sáng kiến thiên tài!"
+            },
+            {
+              "full_en": "it was a stroke of luck that I found you here",
+              "full_vn": "tôi gặp anh ở đây thật là may"
+            },
+            {
+              "full_en": "various strokes of misfortune led to his ruin",
+              "full_vn": "nhiều chuyện không may đã dẫn ông ấy đến chỗ phá sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động vuốt ve; động tác vuốt ve",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a /one stroke",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng một hành động duy nhất tức khắc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they threatened to cancel the whole project at a stroke",
+                      "full_vn": "họ doạ xoá toẹt toàn bộ đề án"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to do a stroke of work",
+              "list_im": [
+                {
+                  "im_full_vn": "không làm việc; chẳng làm việc gì cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody off his stroke",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phải do dự, ngập ngừng trong việc anh ta đang làm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my speech went quite well until I was put off my stroke by the interruption",
+                      "full_vn": "bài diễn văn của tôi rất trôi chảy cho đếnkhi sự xen ngang đó làm cho tôi phải ngắc ngứ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I gave her hair an affectionate stroke",
+              "full_vn": "tôi trìu mến vuốt tóc cô ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm người cầm chèo ở phía lái cho (một chiếc thuyền hoặc một đoàn thủy thủ)"
+        },
+        {
+          "m_full_vn": "đánh (quả bóng)"
+        },
+        {
+          "m_full_vn": "vuốt; vuốt ve",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stroke somebody down",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai nguôi giận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stroke somebody's hair the wrong way",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai phát cáu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stroke a cat / one's beard / somebody's back",
+              "full_vn": "vuốt ve con mèo/vuốt râu/vuốt lưng ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342056_9fc75e91e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342056_087876a65d_o.png",
+      "id_image": "stroke_2451380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697179_b93bd10f9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697179_6280217635_o.png",
+      "id_image": "stroke_2844517"
+    }
+  ]
+}

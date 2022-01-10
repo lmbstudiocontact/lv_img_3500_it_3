@@ -1,0 +1,103 @@
+{
+  "english": "warp",
+  "phat_am": "[wɔ:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the warp ) sợi dọc trên khung cửi (trong dệt)",
+          "list_en_vn": [
+            {
+              "full_en": "warp frame",
+              "full_vn": "khung mắc cửi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) thừng để kéo tàu"
+        },
+        {
+          "m_full_vn": "đất bồi, đất phù sa"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) trạng thái oằn, trạng thái cong, trạng thái vênh (của thanh sắt, tấm ván...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tình trạng lệch lạc, tình trạng hư hỏng, tình trạng sa đoạ tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "a time warp",
+              "full_vn": "một sự sai lệch về thời gian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) làm cong, làm oằn (thanh sắt, tấm ván), làm vênh (bánh xe)",
+          "list_en_vn": [
+            {
+              "full_en": "the hot sun had warped the cover of the book",
+              "full_vn": "sức nóng mặt trời đã làm bìa sách cong lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) kéo (thuyền)"
+        },
+        {
+          "m_full_vn": "bồi đất phù sa (cho ruộng)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho thiên lệch, làm cho méo mó, làm cho hư hỏng (tinh thần)",
+          "list_en_vn": [
+            {
+              "full_en": "his judgement was warped by self-interest",
+              "full_vn": "nhận định của ông ta đã bị thiên lệch vì lợi ích riêng tư"
+            },
+            {
+              "full_en": "a warped mind",
+              "full_vn": "đầu óc lệch lạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cong, oằn, vênh"
+        },
+        {
+          "m_full_vn": "(hàng hải) được kéo",
+          "list_en_vn": [
+            {
+              "full_en": "to warp out of port",
+              "full_vn": "được kéo ra khỏi cảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trở nên thiên lệch, trở nên méo mó, trở nên hư hỏng (tinh thần)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382142_0b47f6e368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382142_c53e7e692e_o.png",
+      "id_image": "warp_1699460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337081_be83e8dd3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337081_0bf53fd5d8_o.png",
+      "id_image": "warp_2590546"
+    }
+  ]
+}

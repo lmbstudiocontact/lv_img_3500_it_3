@@ -1,0 +1,210 @@
+{
+  "english": "spirit",
+  "phat_am": "['spirit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tinh thần, tâm hồn; linh hồn (khác biệt với cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "his spirit is troubled",
+              "full_vn": "tâm hồn anh ấy bị xáo động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "linh hồn; hồn ma; linh hồn không có cơ thể",
+          "list_en_vn": [
+            {
+              "full_en": "the spirits of the dead",
+              "full_vn": "linh hồn những người đã chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thần linh, thần thánh, tiên; quỷ thần, yêu tinh, sinh vật siêu tự nhiên"
+        },
+        {
+          "m_full_vn": "linh hồn; sự sống và ý thức không kết hợp với một cơ thể",
+          "list_en_vn": [
+            {
+              "full_en": "God is pure spirit",
+              "full_vn": "Chúa là linh hồn thanh khiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(luôn đi với một tính từ) người (thuộc một loại, xúc cảm, tâm tính nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a brave spirit",
+              "full_vn": "một người dũng cảm"
+            },
+            {
+              "full_en": "a proud spirit",
+              "full_vn": "một người kiêu căng"
+            },
+            {
+              "full_en": "she's an independent spirit",
+              "full_vn": "cô ấy là một người không đảng phái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần; lòng can đảm; tính hăng hái, nhiệt tình; nghị lực; khí thế",
+          "list_en_vn": [
+            {
+              "full_en": "a man of unbending spirit",
+              "full_vn": "người có tinh thần bất khuất"
+            },
+            {
+              "full_en": "the poor in spirit",
+              "full_vn": "những người nhu nhược"
+            },
+            {
+              "full_en": "to show a great spirit",
+              "full_vn": "tỏ ra rất can đảm"
+            },
+            {
+              "full_en": "he infused spirit into his men",
+              "full_vn": "anh ta truyền nhiệt tình cho đồng đội"
+            },
+            {
+              "full_en": "people of spirit",
+              "full_vn": "người giàu nghị lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần; tâm trạng; thái độ; trạng thái tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "the result depends on the spirit in which it is done",
+              "full_vn": "kết quả tuỳ thuộc vào tinh thần thực hiện công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần (phẩm chất đặc trưng, tính tình đặc trưng của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the spirit of the times",
+              "full_vn": "tinh thần của một thời đại"
+            },
+            {
+              "full_en": "the 16th-century spirit of exploration",
+              "full_vn": "tinh thần thám hiểm của thế kỷ 16"
+            },
+            {
+              "full_en": "the spirit of the age",
+              "full_vn": "xu hướng tinh thần của thời đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thần (ý nghĩa, mục đích thực, sự có dụng ý)",
+          "list_en_vn": [
+            {
+              "full_en": "obey the spirit , not the letter of the law",
+              "full_vn": "tuân theo tinh thần, chứ không phải lời văn của luật pháp"
+            },
+            {
+              "full_en": "we have followed out the spirit of his instructions",
+              "full_vn": "chúng ta đã theo đúng tinh thần những chỉ thị của ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "linh hồn, trụ cột",
+          "list_en_vn": [
+            {
+              "full_en": "to be the animating spirit of the uprising",
+              "full_vn": "là linh hồn thôi thúc cuộc nổi dậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ óc (bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "one of the most ardent spirits of the time",
+              "full_vn": "một trong những bộ óc nồng nhiệt nhất của thời đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) rượu mạnh; cồn"
+        },
+        {
+          "m_full_vn": "( số nhiều) cảm xúc, tâm trạng của con người",
+          "list_one_mean": [
+            {
+              "id_full_en": "in spirit",
+              "list_im": [
+                {
+                  "im_full_vn": "trong ý nghĩ của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I shall be with you in spirit",
+                      "full_vn": "em se luôn nghĩ đến anh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in high spirits",
+              "full_vn": "vui vẻ phấn chấn"
+            },
+            {
+              "full_en": "in low /poor spirits",
+              "full_vn": "buồn rầu chán nản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) khuyến khích, cổ vũ, làm phấn khởi"
+        },
+        {
+          "m_full_vn": "làm biến mất, chuyển nhanh, đưa biến đi, cuỗm nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to spirit something away",
+              "full_vn": "cuỗm nhẹ vật gì"
+            },
+            {
+              "full_en": "to spirit someone off",
+              "full_vn": "đưa nhẹ người nào đi, đưa biến ai đi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091075_e1dbac648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091075_08b1a0ed04_o.png",
+      "id_image": "spirit_1635969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353631_fbae4a0660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353631_ac46b56548_o.png",
+      "id_image": "spirit_2210185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398627_19729795af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398627_f3f19d06d2_o.png",
+      "id_image": "spirit_861636"
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "english": "turn",
+  "phat_am": "[tə:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quay; vòng quay",
+          "list_en_vn": [
+            {
+              "full_en": "a turn of the wheel",
+              "full_vn": "một vòng bánh xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòng cuộn, vòng xoắn (dây thép...)"
+        },
+        {
+          "m_full_vn": "sự đổi hướng, sự rẽ; chỗ ngoặt, chỗ rẽ",
+          "list_en_vn": [
+            {
+              "full_en": "the turn of the tide",
+              "full_vn": "lúc thuỷ triều thay đổi"
+            },
+            {
+              "full_en": "the turn of the road",
+              "full_vn": "chỗ ngoặt của con đường"
+            },
+            {
+              "full_en": "to take a turn to the right",
+              "full_vn": "rẽ về bên phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiều hướng, sự diễn biến",
+          "list_en_vn": [
+            {
+              "full_en": "things are taking a bad turn",
+              "full_vn": "sự việc diễn biến xấu"
+            },
+            {
+              "full_en": "to take a turn for the better",
+              "full_vn": "có chiều hướng tốt lên"
+            },
+            {
+              "full_en": "to take a turn for the worse",
+              "full_vn": "có chiều hướng xấu đi"
+            },
+            {
+              "full_en": "to give another turn to the discussion",
+              "full_vn": "đưa cuộc thảo luận sang một chiều hướng khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "the milk is on the turn",
+              "full_vn": "sữa bắt đầu trở, sữa bắt đầu chua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khuynh hướng, thiên hướng, năng khiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to have a turn for music",
+              "full_vn": "có năng khiếu về âm nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tâm tính, tính khí",
+          "list_en_vn": [
+            {
+              "full_en": "to be of a caustic turn",
+              "full_vn": "tính hay châm biếm chua cay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lần, lượt, phiên",
+          "list_en_vn": [
+            {
+              "full_en": "it is my turn to keep watch",
+              "full_vn": "đến phiên tôi gác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời gian hoạt động ngắn; chầu",
+          "list_en_vn": [
+            {
+              "full_en": "to take a turn in the garden",
+              "full_vn": "dạo chơi một vòng trong vườn"
+            },
+            {
+              "full_en": "I'll take a turn at the oars",
+              "full_vn": "tôi sẽ đi bơi thuyền một vòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự kiến, ý định, mục đích",
+          "list_en_vn": [
+            {
+              "full_en": "that will save my turn",
+              "full_vn": "cái đó sẽ giúp ích cho ý định của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành vi, hành động, cách đối đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to do someone a good turn",
+              "full_vn": "giúp đỡ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết mục",
+          "list_en_vn": [
+            {
+              "full_en": "a short turn",
+              "full_vn": "tiết mục ngắn (trong chương trình ca nhạc)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự thấy kinh (của đàn bà)"
+        },
+        {
+          "m_full_vn": "(ngành in) chữ sắp ngược (để thế tạm chỗ chữ thiếu)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự xúc động; cú, vố",
+          "list_one_mean": [
+            {
+              "id_full_en": "at every turn",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi, mọi chỗ; mọi lúc, luôn luôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "turn and turn about",
+              "list_im": [
+                {
+                  "im_full_vn": "lần lượt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he has not done a turn of work for weeks",
+              "list_im": [
+                {
+                  "im_full_vn": "hàng tuần nay nó chẳng mó đến việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the cake is done to a turn",
+              "list_im": [
+                {
+                  "im_full_vn": "bánh vừa chín tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the turn of a hand",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ nhoáng một cái, chóng như trở bàn tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a fine turn of speed",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể chạy rất nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one good turn deserves another",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ở hiền gặp lành, làm ơn lại được trả ơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of turn",
+              "list_im": [
+                {
+                  "im_full_vn": "lộn xộn, không theo trật tự lần lượt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk out of one's turn",
+              "list_im": [
+                {
+                  "im_full_vn": "nói nhiều, nói thừa; nói lung tung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take turns about",
+              "list_im": [
+                {
+                  "im_full_vn": "theo thứ tự lần lượt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it gave me quite a turn !",
+              "full_vn": "cái đó giáng cho tôi một cú điếng người!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay, xoay, vặn; chuyển động xung quanh một điểm, một trục",
+          "list_en_vn": [
+            {
+              "full_en": "to turn a wheel",
+              "full_vn": "quay bánh xe"
+            },
+            {
+              "full_en": "to turn the key",
+              "full_vn": "vặn chìa khoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lộn",
+          "list_en_vn": [
+            {
+              "full_en": "to turn a dress",
+              "full_vn": "lộn một cái áo"
+            },
+            {
+              "full_en": "to turn a bag inside out",
+              "full_vn": "lộn cái túi trong ra ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lật, trở, dở",
+          "list_en_vn": [
+            {
+              "full_en": "to turn a page",
+              "full_vn": "giở trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay về, hướng về, ngoảnh về",
+          "list_en_vn": [
+            {
+              "full_en": "to turn one's head",
+              "full_vn": "quay đầu, ngoảnh đầu"
+            },
+            {
+              "full_en": "he turned his eyes on me",
+              "full_vn": "nó khoảnh nhìn về phía tôi"
+            },
+            {
+              "full_en": "to turn one's mind to other things",
+              "full_vn": "hướng ý nghĩ về những điều khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quành, đi quanh, đi vòng rẽ, ngoặt",
+          "list_en_vn": [
+            {
+              "full_en": "to turn the flank of the enemy",
+              "full_vn": "đi vòng để tránh thọc vào sườn địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá (một tuổi nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "he has turned fifty",
+              "full_vn": "ông ấy đã quá năm mươi tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tránh; gạt",
+          "list_en_vn": [
+            {
+              "full_en": "to turn a difficulty",
+              "full_vn": "tránh sự khó khăn"
+            },
+            {
+              "full_en": "to turn a blow",
+              "full_vn": "gạt một cú đấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịch; đổi, biến, chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "to turn English into Vietnamese",
+              "full_vn": "dịch tiếng Anh sang tiếng Việt"
+            },
+            {
+              "full_en": "to turn a house into a hotel",
+              "full_vn": "biến một căn nhà thành khách sạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho",
+          "list_en_vn": [
+            {
+              "full_en": "you will turn him mad",
+              "full_vn": "anh sẽ làm cho hắn phát điên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chua (sữa...)",
+          "list_en_vn": [
+            {
+              "full_en": "hot weather will turn milk",
+              "full_vn": "thời tiết nóng làm chua sữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm khó chịu, làm buồn nôn",
+          "list_en_vn": [
+            {
+              "full_en": "such food would turn my stomach",
+              "full_vn": "thức ăn như thế này làm cho tôi buồn nôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm say sưa; làm hoa lên; làm điên cuồng",
+          "list_en_vn": [
+            {
+              "full_en": "overwork has turned his brain",
+              "full_vn": "làm việc quá sức làm cho đầu óc anh ấy hoa lên"
+            },
+            {
+              "full_en": "success has turned his head",
+              "full_vn": "thắng lợi làm cho anh ấy say sưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiện",
+          "list_en_vn": [
+            {
+              "full_en": "to turn a table-leg",
+              "full_vn": "tiện một cái chân bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp, sắp đặt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quay, xoay, xoay tròn",
+          "list_en_vn": [
+            {
+              "full_en": "the wheel turns",
+              "full_vn": "bánh xe quay"
+            },
+            {
+              "full_en": "to turn on one's heels",
+              "full_vn": "quay gót"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lật",
+          "list_en_vn": [
+            {
+              "full_en": "the boat turned upside down",
+              "full_vn": "con thuyền bị lật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay về, đi về, ngoặt, rẽ, đổi chiều, đổi hướng",
+          "list_en_vn": [
+            {
+              "full_en": "he turned towards me",
+              "full_vn": "nó quay (ngoảnh) về phía tôi"
+            },
+            {
+              "full_en": "to turn to the left",
+              "full_vn": "rẽ về phía tay trái"
+            },
+            {
+              "full_en": "the wind has turned",
+              "full_vn": "gió đã đổi chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên, trở thành, đổi thành, biến thành",
+          "list_en_vn": [
+            {
+              "full_en": "he has turned proletarian",
+              "full_vn": "anh ấy đã trở thành người vô sản"
+            },
+            {
+              "full_en": "his face turns pale",
+              "full_vn": "mặt anh ấy tái đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở, thành chua",
+          "list_en_vn": [
+            {
+              "full_en": "the milk has turned",
+              "full_vn": "sữa chua ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buồn nôn, buồn mửa, lợm giọng",
+          "list_en_vn": [
+            {
+              "full_en": "my stomach has turned at the sight of blood",
+              "full_vn": "trông thấy máu tôi buồn nôn lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay cuồng, hoa lên (đầu óc)",
+          "list_en_vn": [
+            {
+              "full_en": "my head turns at the thought",
+              "full_vn": "nghĩ đến điều đó đầu óc tôi quay cuồng"
+            },
+            {
+              "full_en": "his brain has turned with overwork",
+              "full_vn": "đầu óc anh ta hoa lên vì làm việc quá sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể tiện được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to turn about",
+              "list_im": [
+                {
+                  "im_full_vn": "quay vòng, xoay vòng"
+                },
+                {
+                  "im_full_vn": "xoay sang hướng khác; làm cho xoay sang hướng khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "about turn !",
+                      "full_vn": "(quân sự) đằng sau quay!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn against",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại, trở nên thù địch với; làm cho chống lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn away",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ra, thải (người làm...)"
+                },
+                {
+                  "im_full_vn": "bỏ đi"
+                },
+                {
+                  "im_full_vn": "ngoảnh (mặt) đi, quay đi, đưa (mắt) ra chỗ khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn back",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho quay lại lui trở lại, quay trở lại (người)"
+                },
+                {
+                  "im_full_vn": "lật (cổ áo...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn down",
+              "list_im": [
+                {
+                  "im_full_vn": "gấp (trang sách); gập xuống; bẻ (cổ áo); lui (bấc đèn); lập úp (chụp đèn...)"
+                },
+                {
+                  "im_full_vn": "(thông tục) gạt bỏ, bác bỏ (lời đề nghị...)"
+                },
+                {
+                  "im_full_vn": "đánh hỏng (một thí sinh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn in",
+              "list_im": [
+                {
+                  "im_full_vn": "gấp vào (mép bìa...); gập lại, thu lại"
+                },
+                {
+                  "im_full_vn": "xoay vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his toes turn in",
+                      "full_vn": "ngón chân nó xoay vào"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trả lại, nộp lại"
+                },
+                {
+                  "im_full_vn": "(thông tục) đi ngủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn into",
+              "list_im": [
+                {
+                  "im_full_vn": "trở thành, đổi thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has turned intoa miser",
+                      "full_vn": "nó trở thành một thằng bủn xỉn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn off",
+              "list_im": [
+                {
+                  "im_full_vn": "khoá, tắt, cắt (đèn, (rađiô), điện, nước...)"
+                },
+                {
+                  "im_full_vn": "đuổi ra, thải (người làm)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) cho cưới"
+                },
+                {
+                  "im_full_vn": "(từ lóng) treo cổ (người có tội...)"
+                },
+                {
+                  "im_full_vn": "ngoặt, rẽ đi hướng khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn on",
+              "list_im": [
+                {
+                  "im_full_vn": "bật, vặn, mở (đèn, (rađiô), điện, nước...)"
+                },
+                {
+                  "im_full_vn": "tuỳ thuộc vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "everything turns on today's weather",
+                      "full_vn": "mọi việc đều còn tuỳ thuộc vào thời tiết hôm nay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "chống lại, trở thành thù địch với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn out",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ra, thải (người làm)"
+                },
+                {
+                  "im_full_vn": "sản xuất ra (hàng hoá)"
+                },
+                {
+                  "im_full_vn": "dốc ra (túi)"
+                },
+                {
+                  "im_full_vn": "đưa ra đồng (trâu, bò...)"
+                },
+                {
+                  "im_full_vn": "gọi ra"
+                },
+                {
+                  "im_full_vn": "xoay ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his toes turn out",
+                      "full_vn": "ngón chân nó xoay ra ngoài"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(quân sự) tập hợp (để nhận công tác)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) chơi cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he turns out for Racing",
+                      "full_vn": "nó chơi cho đội Ra-xinh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) ngủ dậy, trở dậy"
+                },
+                {
+                  "im_full_vn": "đình công"
+                },
+                {
+                  "im_full_vn": "hoá ra, thành ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it turned out to be true",
+                      "full_vn": "câu chuyện thế mà hoá ra thật"
+                    },
+                    {
+                      "full_en": "he turned out to be a liar",
+                      "full_vn": "hoá ra nó là một thằng nói dối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn over",
+              "list_im": [
+                {
+                  "im_full_vn": "lật, giở"
+                },
+                {
+                  "im_full_vn": "giao, chuyển giao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he has turned the business over to his friend",
+                      "full_vn": "anh ấy giao công việc kinh doanh cho người bạn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "doanh thu, mua ra bán vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they turned over 1,000,000d last week",
+                      "full_vn": "tuần trước họ mua ra bán vào đến một triệu đồng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đắn đo, cân nhắc, lật đi lật lại (một vấn đề)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have turned the question over more than one",
+                      "full_vn": "tôi đã lật đi lật lại vấn đề"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn up",
+              "list_im": [
+                {
+                  "im_full_vn": "lật lên; xắn, vén (tay áo...)"
+                },
+                {
+                  "im_full_vn": "xới (đất...)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm lộn mửa, làm buồn nôn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the smell nearly turned me up",
+                      "full_vn": "cái mùi ấy làm tôi suýt lộn mửa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "lật, lật ngược, hếch lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his nose turned up",
+                      "full_vn": "mũi nó hếch lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xảy ra, đến, xuất hiện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "at what time did he turn up ?",
+                      "full_vn": "nó đến lúc nào?"
+                    },
+                    {
+                      "full_en": "he was always expecting something to turn up",
+                      "full_vn": "hắn ta luôn luôn mong đợi có một việc gì xảy ra"
+                    },
+                    {
+                      "full_en": "he turns up like a bad penny",
+                      "full_vn": "(nghĩa bóng) hắn ta cứ vác cái bộ mặt đến luôn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn upon",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to turn on"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the edge of a knife",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cùn lưỡi dao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the edge of a remark",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho lời phê bình đỡ gay gắt; nhẹ lời đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn something to account",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) account"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn the scale (balance )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lệch cán cân"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) quyết định cách giải quyết vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn a bullet",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại được đạn, đạn bắn không thủng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn on the waterworks",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) waterworks"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn up one's nose at",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn up one's toes",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) toe"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this wood doesn't turn easily",
+              "full_vn": "gỗ này không dễ tiện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065215_19111839af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065215_ba274e307e_o.png",
+      "id_image": "turn_536739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328321_4f301ed722_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328321_2d91eb4419_o.png",
+      "id_image": "turn_5776385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683479_f2025298f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683479_d752ba877c_o.png",
+      "id_image": "turn_933091"
+    }
+  ]
+}

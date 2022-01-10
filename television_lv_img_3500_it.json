@@ -1,0 +1,56 @@
+{
+  "english": "television",
+  "phat_am": "['teliviʒn]",
+  "list_type": [
+    {
+      "type": "danh từ, viết tắt là TV",
+      "list_m": [
+        {
+          "m_full_vn": "vô tuyến truyền hình; sự truyền hình"
+        },
+        {
+          "m_full_vn": "các chương trình trên truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "a television documentary",
+              "full_vn": "một phim tài liệu truyền hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như television set",
+          "list_en_vn": [
+            {
+              "full_en": "a colour television",
+              "full_vn": "một ti-vi màu"
+            },
+            {
+              "full_en": "a black-and-white television",
+              "full_vn": "một ti-vi đen trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đài truyền hình",
+          "list_one_mean": [
+            {
+              "id_full_en": "on (the ) television",
+              "list_im": [
+                {
+                  "im_full_vn": "đang phát bằng truyền hình, đang được phát đi bằng truyền hình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397577_048b8432c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397577_dd443c2104_o.png",
+      "id_image": "television_170972"
+    }
+  ]
+}

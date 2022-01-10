@@ -1,0 +1,134 @@
+{
+  "english": "struggle",
+  "phat_am": "['strʌgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đấu tranh; cuộc đấu tranh; cuộc chiến đấu",
+          "list_en_vn": [
+            {
+              "full_en": "the struggle for independence",
+              "full_vn": "cuộc đấu tranh giành độc lập"
+            },
+            {
+              "full_en": "the struggle for existence",
+              "full_vn": "cuộc đấu tranh sinh tồn"
+            },
+            {
+              "full_en": "a fierce struggle between two boxers",
+              "full_vn": "cuộc vật lộn dữ dội giữa hai võ sĩ"
+            },
+            {
+              "full_en": "the class struggle",
+              "full_vn": "cuộc đấu tranh giai cấp"
+            },
+            {
+              "full_en": "a power struggle",
+              "full_vn": "cuộc tranh giành quyền lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cố gắng đáng kể; nỗ lực lớn",
+          "list_en_vn": [
+            {
+              "full_en": "after a long struggle , she gained control of the bank",
+              "full_vn": "sau một nỗ lực lâu dài, bà ta đã giành được quyền kiểm soát ngân hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to struggle with somebody ) đánh nhau với ai",
+          "list_en_vn": [
+            {
+              "full_en": "two ringleaders struggled (together ) fiercely",
+              "full_vn": "hai tay anh chị đánh nhau dữ dội"
+            },
+            {
+              "full_en": "the publican struggled with the drunkards",
+              "full_vn": "chủ quán đánh nhau với những kẻ say rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to struggle against / with somebody / something ) ( for something ) vùng vẫy; vật lộn; đấu tranh",
+          "list_en_vn": [
+            {
+              "full_en": "the highwayman struggled (against the policemen ), but couldn't escape",
+              "full_vn": "tên cướp vùng vẫy (vật lộn với cảnh sát), nhưng vẫn không thoát được"
+            },
+            {
+              "full_en": "she struggled to get away from the ruffian",
+              "full_vn": "cô ta vùng vẫy để thoát khỏi tay tên côn đồ"
+            },
+            {
+              "full_en": "to struggle with one's conscience",
+              "full_vn": "đấu tranh với lương tâm"
+            },
+            {
+              "full_en": "to struggle with a mathematical problem",
+              "full_vn": "đánh vật với một bài toán"
+            },
+            {
+              "full_en": "the two chieftains are struggling for power",
+              "full_vn": "hai tù trưởng đang tranh giành quyền lực với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố gắng; gắng sức",
+          "list_en_vn": [
+            {
+              "full_en": "to struggle to express oneself",
+              "full_vn": "cố gắng diễn đạt, cố gắng phát biểu ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "di chuyển một cách khó khăn; len qua",
+          "list_one_mean": [
+            {
+              "id_full_en": "to struggle along /on",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm cách tồn tại dù có nhiều trở ngại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we're struggling along on a tiny income",
+                      "full_vn": "chúng tôi đang vất vả xoay xở với một khoản thu nhập ít ỏi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to struggle through the crowd",
+              "full_vn": "len qua đám đông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341626_0dd2b3f075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341626_075c71ea83_o.png",
+      "id_image": "struggle_4185454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079025_672b8eb54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079025_98500c5648_o.png",
+      "id_image": "struggle_4813857"
+    }
+  ]
+}

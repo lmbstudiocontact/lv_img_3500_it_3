@@ -1,0 +1,41 @@
+{
+  "english": "souvenir",
+  "phat_am": "[,su:və'niə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật lấy, mua hoặc nhận như quà tặng và giữ để nhắc ta nhớ tới một người, địa điểm hoặc sự kiện; vật kỷ niệm, đồ lưu niệm",
+          "list_en_vn": [
+            {
+              "full_en": "a souvenir of my holiday",
+              "full_vn": "vật kỷ niệm về ngày nghỉ của tôi"
+            },
+            {
+              "full_en": "a souvenir shop for tourists",
+              "full_vn": "cửa hàng bán đồ lưu niệm cho du khách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440353_81a651512a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440353_7a61c76049_o.png",
+      "id_image": "souvenir_2424645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370207_ae95109fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370207_b30d53a790_o.png",
+      "id_image": "souvenir_2664652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440368_7fa8317873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440368_4eeb22a9da_o.png",
+      "id_image": "souvenir_614716"
+    }
+  ]
+}

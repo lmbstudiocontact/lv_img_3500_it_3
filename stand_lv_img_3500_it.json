@@ -1,0 +1,629 @@
+{
+  "english": "stand",
+  "phat_am": "[stænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dừng, sự đứng yên, trạng thái không di chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a stand",
+              "full_vn": "đến chỗ bế tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí đứng; sự đứng",
+          "list_en_vn": [
+            {
+              "full_en": "he took his stand near the window",
+              "full_vn": "anh ấy đứng gần cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chống cự, sự đấu tranh chống lại, sự kháng cự; thời gian kháng cự",
+          "list_en_vn": [
+            {
+              "full_en": "to make a stand against the enemy",
+              "full_vn": "chống cự lại quân địch"
+            },
+            {
+              "full_en": "a stand of sixty days",
+              "full_vn": "cuộc cầm cự sáu mươi ngày"
+            },
+            {
+              "full_en": "the rebel's last stand",
+              "full_vn": "đợt kháng cự cuối cùng của quân nổi loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ đứng, vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "to take one's stand near the door",
+              "full_vn": "đứng gần cửa"
+            },
+            {
+              "full_en": "to take one's stand on the precise wording of the act",
+              "full_vn": "căn cứ vào từng lời của đạo luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lập trường, quan điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to maintain one's stand",
+              "full_vn": "giữ vững lập trường"
+            },
+            {
+              "full_en": "to make one's stand clear",
+              "full_vn": "tỏ rõ lập trường của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá, bệ, khung (để đặt cái gì lên trên hoặc vào trong)",
+          "list_en_vn": [
+            {
+              "full_en": "a music-stand",
+              "full_vn": "giá để bản nhạc"
+            },
+            {
+              "full_en": "a cake stand",
+              "full_vn": "giá đựng bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gian hàng, quán (ở chợ); cấu trúc (bàn, quán) bán hàng hoá",
+          "list_en_vn": [
+            {
+              "full_en": "a newspaper stand",
+              "full_vn": "quán bán báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu vực, cấu trúc để trưng bày (triển lãm, quảng cáo..) các đồ vật",
+          "list_en_vn": [
+            {
+              "full_en": "one of the stands at a book fair",
+              "full_vn": "một trong những quầy tại hội chợ sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ đậu xe ( taxi.. để chờ khách)",
+          "list_en_vn": [
+            {
+              "full_en": "a taxi-stand",
+              "full_vn": "bến đỗ xe tắc xi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấu trúc lớn tại sân thể thao, có các dãy ghế dành cho khán giả; khán đài"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) chỗ dành cho người làm chứng (trong toà án)",
+          "list_en_vn": [
+            {
+              "full_en": "to take the stand",
+              "full_vn": "ra làm chứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây trồng đang mọc, mùa màng chưa gặt"
+        },
+        {
+          "m_full_vn": "sự dừng lại (ở một nơi nào) để biểu diễn (đoàn kịch...); nơi dừng lại"
+        },
+        {
+          "m_full_vn": "( Uc), (thương nghiệp) rừng; gỗ rừng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at a stand",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) không tiến lên được"
+                },
+                {
+                  "im_full_vn": "lúng túng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stand of arms",
+              "list_im": [
+                {
+                  "im_full_vn": "bộ vũ khí cá nhân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stand of colours",
+              "list_im": [
+                {
+                  "im_full_vn": "những cờ của trung đoàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a stand (against /for somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng chống cự, chiến đấu, tranh luận..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make a stand against the enemy",
+                      "full_vn": "chống cự lại kẻ thù"
+                    },
+                    {
+                      "full_en": "to make a stand for one's principles",
+                      "full_vn": "sẵn sàng đấu tranh bảo vệ nguyên tắc của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a / one's stand (on something )",
+              "list_im": [
+                {
+                  "im_full_vn": "tuyên bố quan điểm, ý kiến của mình.. (về cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she took a firm stand on nuclear disarmament",
+                      "full_vn": "cô ấy có quan điểm cứng rắn về giải trừ vũ khí hạt nhân"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ stood",
+      "list_m": [
+        {
+          "m_full_vn": "đứng",
+          "list_en_vn": [
+            {
+              "full_en": "to stand at ease",
+              "full_vn": "đứng ở tư thế nghỉ"
+            },
+            {
+              "full_en": "to be too weak to stand",
+              "full_vn": "yếu quá không đứng được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có, ở, đứng",
+          "list_en_vn": [
+            {
+              "full_en": "a bookcase stands in one corner",
+              "full_vn": "ở góc nhà có một tủ sách"
+            },
+            {
+              "full_en": "here once stood a huge tree",
+              "full_vn": "trước đây ở chỗ này có một cây to lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao",
+          "list_en_vn": [
+            {
+              "full_en": "to stand 1.60 metre high",
+              "full_vn": "cao 1, 60 m"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng vững, bền",
+          "list_en_vn": [
+            {
+              "full_en": "this house will stand another score of year",
+              "full_vn": "nhà còn vững đến vài chục năm nữa"
+            },
+            {
+              "full_en": "this small house has stood through worse storms",
+              "full_vn": "ngôi nhà nhỏ này qua rất nhiều cơn bão ghê hơn thế này mà vẫn không việc gì"
+            },
+            {
+              "full_en": "how do we stand in the matter of munitions ?",
+              "full_vn": "liệu chúng ta có đủ đạn được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "the former conditions stand",
+              "full_vn": "những điều kiện trước vẫn có giá trị"
+            },
+            {
+              "full_en": "the same remark stands good",
+              "full_vn": "lời nhận xét như thế vẫn đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đọng lại, tù hãm (nước)"
+        },
+        {
+          "m_full_vn": "giữ vững quan điểm, giữ vững lập trường"
+        },
+        {
+          "m_full_vn": "đồng ý, thoả thuận"
+        },
+        {
+          "m_full_vn": "ra ứng cử",
+          "list_en_vn": [
+            {
+              "full_en": "to stand for Parliament",
+              "full_vn": "ra ứng cử nghị viện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắt đứng; đặt, để, dựng",
+          "list_en_vn": [
+            {
+              "full_en": "to stand somebody in the corner",
+              "full_vn": "bắt phạt ai đứng vào góc tường"
+            },
+            {
+              "full_en": "to stand a bicycle against the wal",
+              "full_vn": "dựng cái xe đạp vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ vững",
+          "list_en_vn": [
+            {
+              "full_en": "to stand one's ground",
+              "full_vn": "giữ vững lập trường; không lùi bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu đựng",
+          "list_en_vn": [
+            {
+              "full_en": "to stand a pain",
+              "full_vn": "chịu đựng sự đau đớn"
+            },
+            {
+              "full_en": "to stand fire",
+              "full_vn": "(quân sự) chịu được hoả lực (của địch)"
+            },
+            {
+              "full_en": "to fail to stand the test",
+              "full_vn": "không chịu đựng nổi sự thử thách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp cái gì cho ai do mình chi phí; thết; đãi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stand by",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng cạnh, đứng bên cạnh"
+                },
+                {
+                  "im_full_vn": "bênh vực, ủng hộ"
+                },
+                {
+                  "im_full_vn": "thực hiện, thi hành (lời hứa...)"
+                },
+                {
+                  "im_full_vn": "(hàng hải) chuẩn bị thả neo"
+                },
+                {
+                  "im_full_vn": "ở vị trí sẵn sàng chiến đấu, ở tình trạng báo động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand down",
+              "list_im": [
+                {
+                  "im_full_vn": "rút lui (người làm chứng, người ứng cử)"
+                },
+                {
+                  "im_full_vn": "(quân sự) hết phiên gác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand for something",
+              "list_im": [
+                {
+                  "im_full_vn": "là chữ viết tắt của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "What does ' T. G' stand for in ' T. G. Smith'?",
+                      "full_vn": "T. G là viết tắt cho cái gì trong T. G Smith vậy?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đại diện cho cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I condemn fascism and all it stands for",
+                      "full_vn": "tôi lên án chủ nghĩa phát xít và tất cả những gì nó đại diện"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "ủng hộ cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a party that stands for racial tolerance",
+                      "full_vn": "một đảng ủng hộ sự dung nạp sắc tộc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tha thứ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't stand for this insolence",
+                      "full_vn": "tôi sẽ không tha thứ cho thái độ láo xược này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand in",
+              "list_im": [
+                {
+                  "im_full_vn": "đại diện cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand in with",
+              "list_im": [
+                {
+                  "im_full_vn": "vào hùa với, cấu kết với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand off",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh xa, lảng xa"
+                },
+                {
+                  "im_full_vn": "tạm giãn (thợ, người làm...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand on",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) cứ tiếp tục đi"
+                },
+                {
+                  "im_full_vn": "giữ đúng; khăng khăng đòi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to stand on (upon ) ceremony",
+                      "full_vn": "giữ đúng nghi thức; giữ vẻ khách khí"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand out",
+              "list_im": [
+                {
+                  "im_full_vn": "chống lại, kiên trì chống cự"
+                },
+                {
+                  "im_full_vn": "nghiến răng chịu"
+                },
+                {
+                  "im_full_vn": "nổi bật lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand over",
+              "list_im": [
+                {
+                  "im_full_vn": "bị hoãn lại (vấn đề)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand to",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện (lời hứa)"
+                },
+                {
+                  "im_full_vn": "bám sát, giữ vững (vị trí, công việc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand up",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng dậy, đứng lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand up for",
+              "list_im": [
+                {
+                  "im_full_vn": "về phe với, ủng hộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand up to",
+              "list_im": [
+                {
+                  "im_full_vn": "dũng cảm đương đầu với; có thể chịu được (sự dãi dầu...) (vật liệu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand corrected",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu cải tạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Stand easy !",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nghỉ!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand somebody in a sum of money",
+              "list_im": [
+                {
+                  "im_full_vn": "cấp cho ai một số tiền tiêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand in somebody's light",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) light"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand on one's own bottom",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bottom"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it stands to reason that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "thật là hợp lý là..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand to sea",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) ra khơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand to win",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc mẩm sẽ thắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand well with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) well"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "không giữ hẹn với ai; cho ai leo cây"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stand somebody a drink",
+              "full_vn": "thết ai một chầu uống"
+            },
+            {
+              "full_en": "to stand drinks all round",
+              "full_vn": "đãi mọi người đồ uống"
+            },
+            {
+              "full_en": "she was kind enough to stand us a meal",
+              "full_vn": "bà ấy đã tử tế thết chúng tôi một bữa cơm"
+            },
+            {
+              "full_en": "who is going to stand treat ?",
+              "full_vn": "ai thết đãi nào?; ai bao nào?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349806_1cdb82e9cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349806_afe57e4aee_o.png",
+      "id_image": "stand_2455844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464428_50dd93d5f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464428_5cc7f6a130_o.png",
+      "id_image": "stand_2598214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464388_903b7ed3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464388_a05144984e_o.png",
+      "id_image": "stand_4615756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349711_0b3a60cab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349711_8a196ca8bb_o.png",
+      "id_image": "stand_5332548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394617_5365875c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394617_7f564b0ddf_o.png",
+      "id_image": "stand_938109"
+    }
+  ]
+}

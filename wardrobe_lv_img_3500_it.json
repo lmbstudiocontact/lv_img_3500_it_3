@@ -1,0 +1,39 @@
+{
+  "english": "wardrobe",
+  "phat_am": "['wɔ:droub]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tủ quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "a built-in wardrobe",
+              "full_vn": "tủ quần áo xây liền tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toàn bộ quần áo của một người",
+          "list_en_vn": [
+            {
+              "full_en": "they buy a new winter wardrobe",
+              "full_vn": "họ mua một đống quần áo mới mùa đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kho quần áo của diễn viên ở một nhà hát"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693049_ab823ebe08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693049_0cf731b553_o.png",
+      "id_image": "wardrobe_700116"
+    }
+  ]
+}

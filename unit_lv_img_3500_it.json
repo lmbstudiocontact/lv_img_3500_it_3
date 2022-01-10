@@ -1,0 +1,122 @@
+{
+  "english": "unit",
+  "phat_am": "['ju:nit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật, người hoặc nhóm đơn lẻ, được xem xét để tính toán như là đơn chiếc và hoàn chỉnh hoặc như bộ phận của một tổng thể phức hợp; đơn vị",
+          "list_en_vn": [
+            {
+              "full_en": "the family is the unit of society",
+              "full_vn": "gia đình là đơn vị của xã hội"
+            },
+            {
+              "full_en": "the course book has twenty units",
+              "full_vn": "sách giáo trình có hai mươi bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng được chọn làm chuẩn để diễn tả, biểu hiện các đại lượng hoặc để tính tiền phải trả; đơn vị",
+          "list_en_vn": [
+            {
+              "full_en": "The metre is a unit of length",
+              "full_vn": "Mét là đơn vị đo chiều dài"
+            },
+            {
+              "full_en": "a unit of weight",
+              "full_vn": "đơn vị trọng lượng"
+            },
+            {
+              "full_en": "The monetary unit of Great Britain is the pound",
+              "full_vn": "Đơn vị tiền tệ của Anh là đồng pao"
+            },
+            {
+              "full_en": "magnetic unit",
+              "full_vn": "đơn vị từ"
+            },
+            {
+              "full_en": "a bill for fifty units of electricity",
+              "full_vn": "hoá đơn thanh toán năm mươi đơn vị điện"
+            },
+            {
+              "full_en": "a filter unit",
+              "full_vn": "đơn vị lọc"
+            },
+            {
+              "full_en": "the central processing unit in a computer",
+              "full_vn": "đơn vị xử lý trung tâm trong một máy tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm có chức năng đặc biệt trong một tổ chức lớn hoặc phức hợp",
+          "list_en_vn": [
+            {
+              "full_en": "a combat unit",
+              "full_vn": "một đơn vị chiến đấu"
+            },
+            {
+              "full_en": "a unit of highly -trained soldiers",
+              "full_vn": "một đơn vị lính tinh nhuệ"
+            },
+            {
+              "full_en": "a bomb -disposal unit",
+              "full_vn": "một đơn vị phá bom nổ chậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một thứ đồ đạc, thiết bị... nhằm khớp với những cái khác tương tự hoặc bổ sung nhau",
+          "list_en_vn": [
+            {
+              "full_en": "matching kitchen units",
+              "full_vn": "bộ đồ làm bếp lắp ráp được với nhau"
+            },
+            {
+              "full_en": "storage units",
+              "full_vn": "những đơn vị lưu trữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số nguyên nhỏ nhất, con số một",
+          "list_en_vn": [
+            {
+              "full_en": "The number 34 consists of three tens and four units",
+              "full_vn": "Con số 34 gồm ba số hàng chục và bốn số hàng đơn vị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ số nguyên nào từ 0 đến 9",
+          "list_en_vn": [
+            {
+              "full_en": "a column for the tens and a column for the units",
+              "full_vn": "một cột cho hàng chục và một cột cho hàng đơn vị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352766_1beb99e1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352766_23d3ebace5_o.png",
+      "id_image": "unit_1088879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397637_cd992117ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397637_88dd348bb2_o.png",
+      "id_image": "unit_4099187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090150_4a3936fb06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090150_27d0f09296_o.png",
+      "id_image": "unit_6133665"
+    }
+  ]
+}

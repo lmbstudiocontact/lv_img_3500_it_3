@@ -1,0 +1,281 @@
+{
+  "english": "view",
+  "phat_am": "[vju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhìn; tầm nhìn, tầm mắt",
+          "list_en_vn": [
+            {
+              "full_en": "The lake came into view /We came in view of the lake as we turned the corner",
+              "full_vn": "Cái hồ hiện ra trong tầm mắt/Chúng tôi nhìn thấy cái hồ hiện ra khi rẽ qua góc phố"
+            },
+            {
+              "full_en": "The sun disappeared from view behind a cloud /A cloud hid the sun from view",
+              "full_vn": "Mặt trời khuất sau đám mây/Đám mây che khuất mặt trời"
+            },
+            {
+              "full_en": "She was soon lost from view among the crowd",
+              "full_vn": "chẳng bao lâu cô ta đã mất hút trong đám đông"
+            },
+            {
+              "full_en": "The man in front was obstructing my view of the pitch",
+              "full_vn": "Người đứng trước đã che lấp khiến tôi không thấy sân chơi"
+            },
+            {
+              "full_en": "to keep somebody /something in view",
+              "full_vn": "luôn để mắt đến ai/cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quang cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "Enjoying the magnificent views from the summit , over the mountains",
+              "full_vn": "đứng trên đỉnh núi ngắm cảnh vật hùng vĩ"
+            },
+            {
+              "full_en": "10 different views of London",
+              "full_vn": "10 cảnh đẹp của Luân Đôn"
+            },
+            {
+              "full_en": "You'll get a better view of the pianist if you stand up",
+              "full_vn": "Nếu đứng lên, anh sẽ trông thấy nghệ sĩ đàn dương cầm rõ hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịp được xem, cơ hội được thấy",
+          "list_en_vn": [
+            {
+              "full_en": "We had a private view of the jewels before the public auction",
+              "full_vn": "Chúng tôi đã được xem riêng các đồ kim hoàn trước khi đem ra bán đấu giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( view on / about something ) quan điểm về vấn đề gì",
+          "list_en_vn": [
+            {
+              "full_en": "Political view",
+              "full_vn": "chính kiến"
+            },
+            {
+              "full_en": "To have /hold /express /air strong political views",
+              "full_vn": "có/giữ/bày tỏ/bộc lộ những quan điểm chính trị mạnh mẽ"
+            },
+            {
+              "full_en": "To oppose /support somebody's extreme views",
+              "full_vn": "chống đối/ủng hộ quan điểm cực đoan của ai"
+            },
+            {
+              "full_en": "What are your views on his resignation ?",
+              "full_vn": "Quan điểm của anh như thế nào về việc ông ấy từ chức?"
+            },
+            {
+              "full_en": "We fell in with the committee's views",
+              "full_vn": "Chúng tôi đồng ý với những nhận xét của ủy ban"
+            },
+            {
+              "full_en": "to hold advanced views",
+              "full_vn": "có những quan điểm tiên tiến"
+            },
+            {
+              "full_en": "to share someone's views",
+              "full_vn": "cùng quan điểm với ai"
+            },
+            {
+              "full_en": "to have opposite views",
+              "full_vn": "có những ý kiến đối lập nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan niệm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have something in view",
+              "list_im": [
+                {
+                  "im_full_vn": "có cái gì như là một ý nghĩ, ý định, kế hoạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "What the President in view is a world without nuclear weapons",
+                      "full_vn": "Điều mà Tổng thống dự kiến là một thế giới không có vũ khí hạt nhân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in full view of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn có thể trông thấy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he performed the trick in full view of the whole audience",
+                      "full_vn": "nó thực hiện cái trò đó hoàn toàn trước mắt mọi người đang có mặt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in my view",
+              "list_im": [
+                {
+                  "im_full_vn": "theo ý kiến của tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in view of something",
+              "list_im": [
+                {
+                  "im_full_vn": "xét thấy, bởi vì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in view of the weather , we will cancel the outing",
+                      "full_vn": "do tình hình thời tiết, chúng ta sẽ huỷ bỏ cuộc đi chơi này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on view",
+              "list_im": [
+                {
+                  "im_full_vn": "được trưng bày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a dim , poor , serious view of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thường; xem nhẹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the long view",
+              "list_im": [
+                {
+                  "im_full_vn": "xem long"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a view to doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "với ý định làm cái gì, với hy vọng làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is decorating the house with a view to selling it",
+                      "full_vn": "ông ta đang trang trí ngôi nhà với ý định là sẽ bán nhà"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the scientific , legal , medical view is that ....",
+              "full_vn": "quan niệm về khoa học, pháp lý, y học là...."
+            },
+            {
+              "full_en": "a highly controversial view of modern art",
+              "full_vn": "một quan niệm gây nhiều tranh luận về nghệ thuật hiện đại"
+            },
+            {
+              "full_en": "to take a realistic , favourable , pessimistic view of the problem",
+              "full_vn": "có một quan niệm hiện thực, thoả đáng, bi quan về vấn đề đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn hoặc xem một cách cẩn thận; quan sát",
+          "list_en_vn": [
+            {
+              "full_en": "to view a battle through binoculars from the top of a hill",
+              "full_vn": "từ trên đỉnh đồi dùng ống nhòm quan sát trận đánh"
+            },
+            {
+              "full_en": "the film hasn't been viewed by the censor",
+              "full_vn": "bộ phim không được người kiểm duyệt xem qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem kỹ ( ngôi nhà....) với ý định mua nó",
+          "list_en_vn": [
+            {
+              "full_en": "open for viewing between 10.00 and 12.00",
+              "full_vn": "mở cửa cho vào xem từ 10 giờ đến 12 giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem truyền hình",
+          "list_en_vn": [
+            {
+              "full_en": "the viewing public",
+              "full_vn": "khán giả vô tuyến truyền hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to view something as something ) coi cái gì như cái gì; suy nghĩ",
+          "list_one_mean": [
+            {
+              "id_full_en": "an order to view",
+              "list_im": [
+                {
+                  "im_full_vn": "xem order"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "how do you view your chances of success ?",
+              "full_vn": "anh nghĩ thế nào về cơ hội thành công của anh?"
+            },
+            {
+              "full_en": "future developments will be viewed with interest",
+              "full_vn": "những phát triển trong tương lai sẽ được quan tâm xem xét"
+            },
+            {
+              "full_en": "the attack on the ship was viewed as an act of war",
+              "full_vn": "việc tấn công vào chiếc tàu thủy đã được xem như một hành động khiêu chiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699634_d45ed68c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699634_dc0ac8ba52_o.png",
+      "id_image": "view_2033280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389442_9bc2ffd822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389442_2179cbf243_o.png",
+      "id_image": "view_4470917"
+    }
+  ]
+}

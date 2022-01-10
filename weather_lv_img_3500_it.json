@@ -1,0 +1,172 @@
+{
+  "english": "weather",
+  "phat_am": "['weðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời tiết, tiết trời",
+          "list_en_vn": [
+            {
+              "full_en": "bad weather",
+              "full_vn": "thời tiết xấu, trời xấu"
+            },
+            {
+              "full_en": "heavy weather",
+              "full_vn": "(hàng hải) trời bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản thông báo thời tiết (đăng trên báo)",
+          "list_one_mean": [
+            {
+              "id_full_en": "in all weathers",
+              "list_im": [
+                {
+                  "im_full_vn": "trong mọi loại thời tiết, cả tốt lẫn xấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a weather eye open",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh giác để tránh rắc rối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make heavy weather of",
+              "list_im": [
+                {
+                  "im_full_vn": "khổ vì, điêu đứng vì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the weather",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) khó ở, hơi mệt, cảm thấy không khoẻ, cảm thấy chán nản"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho thay đổi hình dáng, làm cho thay đổi màu sắc (do tác động của mưa, nắng, gió..)",
+          "list_en_vn": [
+            {
+              "full_en": "rocks weathered by wind and water",
+              "full_vn": "các tảng đá biến dạng vì gió và nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "an toàn thoát khỏi, vượt qua, khắc phục",
+          "list_en_vn": [
+            {
+              "full_en": "to weather one's difficulties",
+              "full_vn": "khắc phục (vượt) khó khăn"
+            },
+            {
+              "full_en": "to weather a storm",
+              "full_vn": "vượt qua cơn bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) làm giả sắc cũ, làm giả nước cũ",
+          "list_en_vn": [
+            {
+              "full_en": "to weather a bronzed statue",
+              "full_vn": "làm giả sắc cũ một bức tượng đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua bên phía trên gió của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the ship weathered the cape",
+              "full_vn": "chiếc tàu vượt qua bên phía trên gió của mũi đất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phơi nắng"
+        },
+        {
+          "m_full_vn": "thay đổi hình dáng, thay đổi màu sắc (do tác động của nắng, mưa, gió..)",
+          "list_en_vn": [
+            {
+              "full_en": "teak weathers to a greyish colour",
+              "full_vn": "gỗ tếch đổi màu sang màu xám nhạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sống sót",
+          "list_one_mean": [
+            {
+              "id_full_en": "to weather through",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát khỏi, khắc phục được, vượt được"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về phía gió",
+          "list_en_vn": [
+            {
+              "full_en": "on the weather side",
+              "full_vn": "phía có gió"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071060_c950d9cb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071060_acfbba208b_o.png",
+      "id_image": "weather_1669524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378892_832297a381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378892_e009b69607_o.png",
+      "id_image": "weather_1971908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378852_1aff1a0756_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378852_914bb56136_o.png",
+      "id_image": "weather_2640477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378822_ccf9e4dc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378822_17e117161d_o.png",
+      "id_image": "weather_2646793"
+    }
+  ]
+}

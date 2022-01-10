@@ -1,0 +1,51 @@
+{
+  "english": "upgrade",
+  "phat_am": "['ʌpgreid]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cải tạo giống (gia súc)"
+        },
+        {
+          "m_full_vn": "nâng cao chất lượng (sản phẩm)"
+        },
+        {
+          "m_full_vn": "đưa lên cấp bậc cao hơn, nâng cấp, đề bạt",
+          "list_en_vn": [
+            {
+              "full_en": "She was upgraded to (the post of ) sales director",
+              "full_vn": "Bà ta được đề bạt lên (chức vụ) giám đốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) dốc đi lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466388_d062bf6208_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466388_7531bbd1a1_o.png",
+      "id_image": "upgrade_2790406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351916_7631b5dbb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351916_b13cd0e491_o.png",
+      "id_image": "upgrade_3231374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089045_821b6f1d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089045_181dd6d613_o.png",
+      "id_image": "upgrade_5956427"
+    }
+  ]
+}

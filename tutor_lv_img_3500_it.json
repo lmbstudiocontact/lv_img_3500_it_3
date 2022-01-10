@@ -1,0 +1,88 @@
+{
+  "english": "tutor",
+  "phat_am": "['tju:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) người giám hộ (cho một người vị thành niên)"
+        },
+        {
+          "m_full_vn": "người dạy một học sinh duy nhất hoặc một nhóm rất ít; thầy giáo dạy kèm; gia sư"
+        },
+        {
+          "m_full_vn": "thầy phụ đạo (giáo viên ở trường đại học giám sát việc học tập của một sinh viên)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) trợ giáo (trợ lý giảng viên trong trường cao đẳng)"
+        },
+        {
+          "m_full_vn": "sách hướng dẫn một đề tài riêng (nhất là về (âm nhạc))"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) giám hộ"
+        },
+        {
+          "m_full_vn": "( to tutor somebody in something ) dạy kèm",
+          "list_en_vn": [
+            {
+              "full_en": "to tutor somebody for an examination",
+              "full_vn": "dạy kèm ai để đi thi"
+            },
+            {
+              "full_en": "to tutor somebody in mathematics",
+              "full_vn": "dạy kèm ai về môn toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiềm chế (mình hoặc những cảm xúc của mình)",
+          "list_en_vn": [
+            {
+              "full_en": "to tutor one's passions",
+              "full_vn": "kiềm chế những đam mê của mình"
+            },
+            {
+              "full_en": "to tutor oneself to be patient",
+              "full_vn": "tự kiềm chế mình phải kiên nhẫn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nhiệm vụ giám hộ"
+        },
+        {
+          "m_full_vn": "làm nhiệm vụ gia sư; làm nhiệm vụ trợ giáo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443038_4c85ba041f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443038_908a831be5_o.png",
+      "id_image": "tutor_4016173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064670_b4e919cf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064670_73e9de7e5f_o.png",
+      "id_image": "tutor_4079292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682999_a43d262268_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682999_ffbec86e0b_o.png",
+      "id_image": "tutor_4419295"
+    }
+  ]
+}

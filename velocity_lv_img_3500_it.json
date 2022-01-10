@@ -1,0 +1,44 @@
+{
+  "english": "velocity",
+  "phat_am": "[vi'lɔsəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận tốc, tốc độ (nhất là theo một hướng đã định), tốc lực",
+          "list_en_vn": [
+            {
+              "full_en": "initial velocity",
+              "full_vn": "tốc độ ban đầu"
+            },
+            {
+              "full_en": "the velocity of a projectile",
+              "full_vn": "vận tốc của đầu đạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự nhanh nhẹn, sự linh lợi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461683_02794fe2b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461683_2e16f1f48f_o.png",
+      "id_image": "velocity_2464304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461773_e38cf623ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461773_4ce271ef1c_o.png",
+      "id_image": "velocity_353578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084305_5cca6eaf4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084305_b0116674f3_o.png",
+      "id_image": "velocity_408319"
+    }
+  ]
+}

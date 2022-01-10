@@ -1,0 +1,69 @@
+{
+  "english": "wooden",
+  "phat_am": "['wudn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bằng gỗ",
+          "list_en_vn": [
+            {
+              "full_en": "wooden furniture",
+              "full_vn": "nhà cửa bằng gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cứng đơ, vụng về (trong cung cách)",
+          "list_one_mean": [
+            {
+              "id_full_en": "wooden head",
+              "list_im": [
+                {
+                  "im_full_vn": "người ngu độn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wooden spoon",
+              "list_im": [
+                {
+                  "im_full_vn": "(sử học) thìa gỗ (tặng người đậu bét môn toán ở trường đại học Căm-brít)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a wooden smile",
+              "full_vn": "một nụ cười gượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379912_b030060558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379912_1801881a49_o.png",
+      "id_image": "wooden_1580242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449988_b4c57cc26c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449988_830bbcbddb_o.png",
+      "id_image": "wooden_1951235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071850_57dc5f558f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071850_41714d6cd9_o.png",
+      "id_image": "wooden_2858877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379822_1a785a63f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379822_08ee2cfa02_o.png",
+      "id_image": "wooden_6006256"
+    }
+  ]
+}

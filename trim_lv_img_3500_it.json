@@ -1,0 +1,200 @@
+{
+  "english": "trim",
+  "phat_am": "[trim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắt tỉa (tóc..)",
+          "list_en_vn": [
+            {
+              "full_en": "the lawn needs a trim",
+              "full_vn": "sân cỏ cần được cắt xén"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ trang trí (đính vào quần áo, đồ gỗ..)"
+        },
+        {
+          "m_full_vn": "sự ngăn nắp, sự gọn gàng",
+          "list_en_vn": [
+            {
+              "full_en": "everything is in perfect trim",
+              "full_vn": "mọi thứ đều đâu vào đấy, mọi thứ đều ngắn nắp gọn gàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "y phục, cách ăn mặc",
+          "list_en_vn": [
+            {
+              "full_en": "in travelling trim",
+              "full_vn": "ăn mặc theo lối đi du lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) sự xoay (buồm) theo đúng hướng gió",
+          "list_one_mean": [
+            {
+              "id_full_en": "be in /get into trim",
+              "list_im": [
+                {
+                  "im_full_vn": "trạng thái sẵn sàng; lấy lại phong độ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be in fighting trim",
+                      "full_vn": "sẵn sàng chiến đấu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in good trim",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) sung sức"
+                },
+                {
+                  "im_full_vn": "(hàng hải) sắp xếp đâu vào đấy (tàu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be out of trim",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) không sung sức, không sẵn sàng"
+                },
+                {
+                  "im_full_vn": "(hàng hải) chưa sắp xếp đâu vào đấy (tàu)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngăn nắp, gọn gàng, sạch sẽ, có trật tự",
+          "list_en_vn": [
+            {
+              "full_en": "a trim room",
+              "full_vn": "căn phòng ngăn nắp"
+            },
+            {
+              "full_en": "a trim girl",
+              "full_vn": "cô gái ăn mặc gọn gàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thon thả, thanh mảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a trim waistline",
+              "full_vn": "một eo lưng thon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xén tỉa, đẽo gọt",
+          "list_en_vn": [
+            {
+              "full_en": "to trim the top of a hedge",
+              "full_vn": "xén tỉa trên đầu hàng rào"
+            },
+            {
+              "full_en": "to trim one's bread (back )",
+              "full_vn": "tỉa râu mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lọc, cắt, loại bỏ, làm nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "please trim the excess fat off (the meat )",
+              "full_vn": "làm ơn lọc bớt mỡ thừa (ở thịt)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp, thu dọn, sắp đặt cho ngăn nắp thứ tự"
+        },
+        {
+          "m_full_vn": "trang hoàng, tô điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to trim a dress with lace",
+              "full_vn": "điểm thêm dải đăng ten vào cái áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) mắng mỏ, sửa cho một trận"
+        },
+        {
+          "m_full_vn": "cân bằng trọng tải"
+        },
+        {
+          "m_full_vn": "xoay (buồm) theo hướng gió"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lựa chiều, nước đôi, không đứng hẳn về phía bên nào; tìm cách chiều lòng cả đôi bên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trim away (off )",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt, xén, tỉa, gọt bớt (những phần thừa...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to trim up",
+              "list_im": [
+                {
+                  "im_full_vn": "sửa sang quần áo cho gọn gàng; ăn mặc gọn gàng diêm dúa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070215_1ef2cf0f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070215_a56647d45d_o.png",
+      "id_image": "trim_217250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070180_8472ecec9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070180_9b9ecd10cc_o.png",
+      "id_image": "trim_2780690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333271_c419989daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333271_2777706fc3_o.png",
+      "id_image": "trim_3996603"
+    }
+  ]
+}

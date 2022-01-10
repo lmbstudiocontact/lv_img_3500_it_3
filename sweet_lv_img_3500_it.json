@@ -1,0 +1,203 @@
+{
+  "english": "sweet",
+  "phat_am": "[swi:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngọt; có vị như đường, có vị như mật ong",
+          "list_en_vn": [
+            {
+              "full_en": "as sweet as honey",
+              "full_vn": "ngọt như mật"
+            },
+            {
+              "full_en": "sweet stuff",
+              "full_vn": "của ngọt, mức kẹo"
+            },
+            {
+              "full_en": "to have a sweet tooth",
+              "full_vn": "thích ăn của ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngọt (nước), không mặn",
+          "list_en_vn": [
+            {
+              "full_en": "sweet water",
+              "full_vn": "nước ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có mùi thơm",
+          "list_en_vn": [
+            {
+              "full_en": "air is sweet with orchid",
+              "full_vn": "không khí sực mùi hoa lan thơm ngát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu dàng, êm ái, du dương, nghe dễ chịu; êm đềm",
+          "list_en_vn": [
+            {
+              "full_en": "a sweet voice",
+              "full_vn": "giọng êm ái"
+            },
+            {
+              "full_en": "a sweet song",
+              "full_vn": "bài hát du dương"
+            },
+            {
+              "full_en": "a sweet sleep",
+              "full_vn": "giấc ngủ êm đềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tươi, thuần khiết; lành mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "sweet milk",
+              "full_vn": "sữa tươi"
+            },
+            {
+              "full_en": "is the meat still sweet ?",
+              "full_vn": "thịt còn tươi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) xinh xắn, hấp dẫn, duyên dáng",
+          "list_en_vn": [
+            {
+              "full_en": "a sweet face",
+              "full_vn": "khuôn mặt xinh xắn"
+            },
+            {
+              "full_en": "sweet one",
+              "full_vn": "em yêu"
+            },
+            {
+              "full_en": "a sweet toil",
+              "full_vn": "việc vất vả nhưng thích thú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tử tế, dễ dãi; có duyên; dễ thương, đáng yêu",
+          "list_one_mean": [
+            {
+              "id_full_en": "at one's own sweet will",
+              "list_im": [
+                {
+                  "im_full_vn": "tuỳ ý, tuỳ thích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "be sweet on (upon ) somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) phải lòng ai, mê ai, yêu ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "keep somebody sweet",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lấy lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweet nothings",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) (đùa cợt) những lời âu yếm trao đổi giữa hai người yêu nhau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that's very sweet of you",
+              "full_vn": "anh thật tử tế"
+            },
+            {
+              "full_en": "sweet temper",
+              "full_vn": "tính nết dễ thương"
+            },
+            {
+              "full_en": "a sweet girl",
+              "full_vn": "cô gái đáng yêu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngọt bùi; phần ngọt bùi",
+          "list_en_vn": [
+            {
+              "full_en": "the sweet and the bitter of life",
+              "full_vn": "sự ngọt bùi và sự cay đắng của cuộc đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của ngọt, mứt, kẹo, món bánh ngọt tráng miệng (như) candy"
+        },
+        {
+          "m_full_vn": "như dessert"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) hương thơm",
+          "list_en_vn": [
+            {
+              "full_en": "flowers diffusing their sweets on the air",
+              "full_vn": "hoa toả hương thơm vào không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những điều thú vị, những thú vui, những sự khoái trá",
+          "list_en_vn": [
+            {
+              "full_en": "the sweets of success",
+              "full_vn": "những điều thú vị của sự thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "anh yêu, em yêu (để gọi ai một cách trìu mến)",
+          "list_en_vn": [
+            {
+              "full_en": "yes , my sweet",
+              "full_vn": "phải rồi em yêu ạ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333026_d222f36848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333026_199999bba6_o.png",
+      "id_image": "sweet_1065227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687989_1565aa88e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687989_6637b7c1f4_o.png",
+      "id_image": "sweet_2570495"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "vintage",
+  "phat_am": "['vintidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hái nho; thời kỳ hái nho, mùa hái nho; nho hái về (để làm rượu)"
+        },
+        {
+          "m_full_vn": "rượu vang chính vụ (rượu vang làm từ nho thu hoạch chính vụ)"
+        },
+        {
+          "m_full_vn": "đặc trưng của một thời kỳ trong quá khứ; cổ điển",
+          "list_en_vn": [
+            {
+              "full_en": "a vintage plane",
+              "full_vn": "máy bay loại cũ"
+            },
+            {
+              "full_en": "vintage science fiction of the 1950's",
+              "full_vn": "chuyện khoa học viễn tưởng cổ điển của những năm 1950"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại cũ (chế tạo giữa những năm 1917 và 1930)",
+          "list_en_vn": [
+            {
+              "full_en": "vintage Fords",
+              "full_vn": "những chiếc xe Ford loại cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "năm được mùa nho"
+        },
+        {
+          "m_full_vn": "miền sản xuất nho; rượu chế ở miền sản xuất nho",
+          "list_en_vn": [
+            {
+              "full_en": "vintage champagne",
+              "full_vn": "rượu sâm banh chính cống"
+            },
+            {
+              "full_en": "vintage wines",
+              "full_vn": "rượu vang nổi tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) xuất sắc, điển hình, tiêu biểu (cho một tác phẩm hay nhất của một người nào đó..)",
+          "list_en_vn": [
+            {
+              "full_en": "this film is vintage Chaplin",
+              "full_vn": "bộ phim này là bộ phim xuất sắc của Chaplin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080795_9336d5ba53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080795_ebc5e6f1d2_o.png",
+      "id_image": "vintage_2454188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388257_e4640bdf8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388257_5e11663371_o.png",
+      "id_image": "vintage_2569980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698504_8b51a362a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698504_da60d282d5_o.png",
+      "id_image": "vintage_2818433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080890_7160f6935b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080890_5529716dab_o.png",
+      "id_image": "vintage_948501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458083_94d08ee4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458083_9ec254627a_o.png",
+      "id_image": "vintage_964029"
+    }
+  ]
+}

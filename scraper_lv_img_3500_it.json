@@ -1,0 +1,43 @@
+{
+  "english": "scraper",
+  "phat_am": "['skreipə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nạo, người cạo"
+        },
+        {
+          "m_full_vn": "người kéo viôlông cò cử"
+        },
+        {
+          "m_full_vn": "cái nạo, vật dụng dùng để cạo",
+          "list_en_vn": [
+            {
+              "full_en": "shoe scraper",
+              "full_vn": "đồ giậm chân, cái gạt bùn đế giày (đặt ở cửa ra vào)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683009_c014ab8bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683009_2a7ea8f767_o.png",
+      "id_image": "scraper_164333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372647_d4b3f6d084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372647_bedd76487a_o.png",
+      "id_image": "scraper_387742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372602_cfd2e4d444_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372602_1259139229_o.png",
+      "id_image": "scraper_4728085"
+    }
+  ]
+}

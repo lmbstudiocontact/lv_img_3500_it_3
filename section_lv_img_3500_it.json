@@ -1,0 +1,107 @@
+{
+  "english": "section",
+  "phat_am": "['sek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắt; chỗ cắt"
+        },
+        {
+          "m_full_vn": "(viết tắt) sect phần cắt ra; đoạn, khúc, phần"
+        },
+        {
+          "m_full_vn": "bộ phận; nhóm tách biệt nằm trong khối lớn dân chúng",
+          "list_en_vn": [
+            {
+              "full_en": "a discontented section of the army",
+              "full_vn": "một bộ phận bất mãn trong quân đội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu, khu vực (của một tổ chức..)"
+        },
+        {
+          "m_full_vn": "tiết đoạn (một quyển sách)"
+        },
+        {
+          "m_full_vn": "mục (của tài liệu..)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) mảnh đất rộng một dặm vuông (bằng 640 mẫu Anh khoảng 260 hécta); khu vực của thành phố",
+          "list_en_vn": [
+            {
+              "full_en": "the business section",
+              "full_vn": "khu vực kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt cắt, tiết diện",
+          "list_en_vn": [
+            {
+              "full_en": "vertical section",
+              "full_vn": "mặt cắt đứng"
+            },
+            {
+              "full_en": "horizontal section",
+              "full_vn": "mặt cắt ngang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân chi (đơn vị phân loại dưới giống, trên loài)"
+        },
+        {
+          "m_full_vn": "(quân sự) tiểu đội"
+        },
+        {
+          "m_full_vn": "(sinh vật học) lát cắt",
+          "list_en_vn": [
+            {
+              "full_en": "microscopic section",
+              "full_vn": "lát cắt để nhìn qua kính hiển vi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp nhân dân",
+          "list_en_vn": [
+            {
+              "full_en": "he was popular with all section and classes",
+              "full_vn": "ông ấy được mọi tầng lớp, mọi giai cấp yêu mến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) quá trình cắt, quá trình tách (cái gì) bằng phẫu thuật; mẩu cắt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp thành chương, chia thành phần; chia thành khu"
+        },
+        {
+          "m_full_vn": "(y học) cắt, tách (mô..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060345_a167a9befb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060345_105b1134b1_o.png",
+      "id_image": "section_1042378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368362_908f8fbf12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368362_7b0003239f_o.png",
+      "id_image": "section_1806589"
+    }
+  ]
+}

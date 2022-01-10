@@ -1,0 +1,81 @@
+{
+  "english": "subscribe",
+  "phat_am": "[səb'skraib]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to subscribe something to something ) ký (tên) vào bên dưới một văn kiện",
+          "list_en_vn": [
+            {
+              "full_en": "to subscribe one's name to a petition",
+              "full_vn": "ký tên mình vào một bản kiến nghị"
+            },
+            {
+              "full_en": "to subscribe a few remarks at the end of the essay",
+              "full_vn": "ghi vài nhận xét vào cuối một bài tiểu luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to subscribe something to something ) quyên tiền; góp tiền",
+          "list_en_vn": [
+            {
+              "full_en": "to subscribe to a charity",
+              "full_vn": "quyên góp tiền cho một công cuộc từ thiện"
+            },
+            {
+              "full_en": "he subscribed 100 dollars to the flood relief fund",
+              "full_vn": "anh ta đã góp 100 đôla vào quỹ cứu trợ nạn lụt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to subscribe to something ) (đồng ý) mua (báo, tạp chí....) đều đặn trong một thời gian); đặt mua dài hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to subscribe to a newspaper",
+              "full_vn": "mua báo dài hạn"
+            },
+            {
+              "full_en": "the magazine is trying to get more readers to subscribe",
+              "full_vn": "tạp chí đang cố gắng có thêm nhiều độc giả đặt mua dài hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to subscribe to something ) tán thành",
+          "list_en_vn": [
+            {
+              "full_en": "Do you subscribe to her pessimistic view of the state of the economy ?",
+              "full_vn": "Anh có đồng ý với cái nhìn bi quan của bà ta về tình hình kinh tế hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077360_5351540c27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077360_f0676bc91c_o.png",
+      "id_image": "subscribe_2033254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454963_64b35333cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454963_31232b6155_o.png",
+      "id_image": "subscribe_4659043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695319_852a21fff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695319_9a6947aaca_o.png",
+      "id_image": "subscribe_5638277"
+    }
+  ]
+}

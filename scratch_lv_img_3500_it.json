@@ -1,0 +1,193 @@
+{
+  "english": "scratch",
+  "phat_am": "[skræt∫]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạp nham, hỗn tạp, linh tinh, không chọn lựa",
+          "list_en_vn": [
+            {
+              "full_en": "a scratch group of people",
+              "full_vn": "một nhóm người linh tinh"
+            },
+            {
+              "full_en": "a scratch team",
+              "full_vn": "(thể dục,thể thao) một đội gồm những đối thủ không được chọn lựa"
+            },
+            {
+              "full_en": "a scratch dinner",
+              "full_vn": "một bữa cơm làm cào làm cấu qua loa (có cái gì thì dọn ra cái đó)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng sột soạt (của ngòi bút)"
+        },
+        {
+          "m_full_vn": "sự trầy da; vết xây sát, vết xước; vết thương nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to get off with a scratch or two",
+              "full_vn": "thoát khỏi với một vài vết thương nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạch xuất phát (trong cuộc đua)"
+        },
+        {
+          "m_full_vn": "sự gãi, sự cào"
+        },
+        {
+          "m_full_vn": "( số nhiều) bệnh nẻ (của ngựa)"
+        },
+        {
+          "m_full_vn": "bộ tóc giả che một phần đầu (như) scratch-wig"
+        },
+        {
+          "m_full_vn": "(như) scratch race",
+          "list_one_mean": [
+            {
+              "id_full_en": "(to start something ) from scratch",
+              "list_im": [
+                {
+                  "im_full_vn": "(bắt đầu cái gì) từ đầu (không sử dụng bất kỳ việc nào đã làm trước); từ con số không; từ bàn tay trắng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "There were so many spelling mistakes , I had to write the letter out again from scratch",
+                      "full_vn": "Có quá nhiều lỗi chính tả, nên tôi phải viết lại bức thư từ đầu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to be /come ) up to scratch ; (to bring somebody /something ) up to scratch",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt như ai/cái gì phải được như thế; hài lòng; mãn nguyện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Is her schoolwork up to scratch ?",
+                      "full_vn": "Bài tập ở trường của cô ấy có đạt hay không?"
+                    },
+                    {
+                      "full_en": "We 'll have to bring the house up to scratch before we sell it",
+                      "full_vn": "Chúng ta phải sửa sang ngôi nhà cho tử tế trước khi bán"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cào, làm xước da"
+        },
+        {
+          "m_full_vn": "thảo luận qua loa, bàn sơ qua (một vấn đề)"
+        },
+        {
+          "m_full_vn": "nạo kèn kẹt, quẹt",
+          "list_en_vn": [
+            {
+              "full_en": "to scratch a match on the wall",
+              "full_vn": "quẹt cái diêm vào tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + out ) gạch xoá đi",
+          "list_en_vn": [
+            {
+              "full_en": "to scratch out words",
+              "full_vn": "gạch đi mấy chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết nguệch ngoạc"
+        },
+        {
+          "m_full_vn": "gãi",
+          "list_en_vn": [
+            {
+              "full_en": "to scratch one's head",
+              "full_vn": "gãi đầu, gãi tai (lúng túng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bới, tìm",
+          "list_en_vn": [
+            {
+              "full_en": "to scratch about for evidence",
+              "full_vn": "tìm chứng cớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành dụm, tằn tiện"
+        },
+        {
+          "m_full_vn": "xoá tên, xoá sổ; rút tên (ai) khỏi danh sách (cuộc đua...); rút lui (khỏi cuộc đua...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to scratch along",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) xoay sở để sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to scratch at oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "tự lo liệu tự xoay xở"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "old Scratch quỷ sứ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682819_4c5166201e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682819_e2d1c2eecd_o.png",
+      "id_image": "scratch_2372956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372397_a60cfb47b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372397_d5656834a5_o.png",
+      "id_image": "scratch_4243236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372372_f085e484cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372372_761b82bd09_o.png",
+      "id_image": "scratch_5052400"
+    }
+  ]
+}

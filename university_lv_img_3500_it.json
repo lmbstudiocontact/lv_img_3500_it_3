@@ -1,0 +1,37 @@
+{
+  "english": "university",
+  "phat_am": "[,ju:ni'və:səti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường đại học (thiết chế giảng dạy và sát hạch các sinh viên trong những ngành học cao cấp, phát học vị và cung cấp tiện nghi cho nghiên cứu học thuật)",
+          "list_en_vn": [
+            {
+              "full_en": "she hopes to go to university next year",
+              "full_vn": "cô ta hy vọng sang năm vào đại học"
+            },
+            {
+              "full_en": "a university student , lecturer , professor",
+              "full_vn": "sinh viên, giảng viên, giáo sư đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập thể của trường đại học (các thành viên nói chung của thiết chế đó)"
+        },
+        {
+          "m_full_vn": "đội đại học (đội thể thao của một trường đại học)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707164_5de3a02692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707164_b539515efc_o.png",
+      "id_image": "university_4459470"
+    }
+  ]
+}

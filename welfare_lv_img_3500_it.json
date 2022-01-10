@@ -1,0 +1,62 @@
+{
+  "english": "welfare",
+  "phat_am": "['welfeə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức khoẻ tốt, hạnh phúc, sự thịnh vượng.. của một người, một nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "parents are responsible for the welfare of their children",
+              "full_vn": "cha mẹ có trách nhiệm đối với hạnh phúc của con cái"
+            },
+            {
+              "full_en": "the welfare of the nation",
+              "full_vn": "sự thịnh vượng của dân tộc"
+            },
+            {
+              "full_en": "we are concerned about his welfare",
+              "full_vn": "chúng tôi quan tâm đến sức khoẻ của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) tiền trợ cấp, phúc lợi xã hội (tiền của nhà nước trả cho người thất nghiệp, người đau ốm..) (như) social security",
+          "list_en_vn": [
+            {
+              "full_en": "social welfare",
+              "full_vn": "phúc lợi xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự bảo vệ, sự chăm sóc (sức khoẻ, sự an toàn..)",
+          "list_en_vn": [
+            {
+              "full_en": "child /infant welfare",
+              "full_vn": "sự chăm sóc trẻ em/trẻ sơ sinh"
+            },
+            {
+              "full_en": "child welfare clinic",
+              "full_vn": "viện điều dưỡng trẻ em"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687219_b4b13bb6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687219_bd821fc521_o.png",
+      "id_image": "welfare_2191170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332201_16d0947dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332201_493a651fac_o.png",
+      "id_image": "welfare_3053805"
+    }
+  ]
+}

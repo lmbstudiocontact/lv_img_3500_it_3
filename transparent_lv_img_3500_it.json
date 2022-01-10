@@ -1,0 +1,53 @@
+{
+  "english": "transparent",
+  "phat_am": "[træns'pærənt]",
+  "list_type": [
+    {
+      "type": "tính từ (như) transpicuous",
+      "list_m": [
+        {
+          "m_full_vn": "trong suốt (có thể nhìn thấy rõ)"
+        },
+        {
+          "m_full_vn": "(văn học) dễ hiểu, minh bạch, sáng sủa, trong sáng",
+          "list_en_vn": [
+            {
+              "full_en": "a transparent style",
+              "full_vn": "lối hành văn trong sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ ràng, rõ rệt, không thể nhầm lẫn được, không thể nghi ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "a transparent attempt to deceive",
+              "full_vn": "một mưu toan đánh lừa rõ rệt"
+            },
+            {
+              "full_en": "transparent lie",
+              "full_vn": "lời nói dối rành rành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692299_d3b52f0fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692299_2dc68a097d_o.png",
+      "id_image": "transparent_5261923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336906_ced84f860a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336906_31744fe0b4_o.png",
+      "id_image": "transparent_5454022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336871_14f5762457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336871_b57d971298_o.png",
+      "id_image": "transparent_5518082"
+    }
+  ]
+}

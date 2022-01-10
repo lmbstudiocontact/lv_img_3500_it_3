@@ -1,0 +1,122 @@
+{
+  "english": "think",
+  "phat_am": "[θiηk]",
+  "list_type": [
+    {
+      "type": "động từ thought",
+      "list_m": [
+        {
+          "m_full_vn": "nghĩ, suy nghĩ, ngẫm nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "he does not say much but he thinks a lot",
+              "full_vn": "nó nói ít nhưng suy nghĩ nhiều"
+            },
+            {
+              "full_en": "think twice before doing",
+              "full_vn": "hãy suy nghĩ chính chắn trước khi làm"
+            },
+            {
+              "full_en": "one would have thought that",
+              "full_vn": "người ta có thể nghĩ rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩ, tưởng, tưởng tượng, nghĩ được, nghĩ là, cho là, coi như",
+          "list_en_vn": [
+            {
+              "full_en": "I think so",
+              "full_vn": "tôi nghĩ thế, tôi cho là thế"
+            },
+            {
+              "full_en": "and to think he has gone away",
+              "full_vn": "và ai mà tưởng được rằng nó đã đi rồi"
+            },
+            {
+              "full_en": "Do you think him brave ?",
+              "full_vn": "anh có cho nó là dũng cảm không?"
+            },
+            {
+              "full_en": "to think scorn",
+              "full_vn": "khinh bỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩ ra, thấy, hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "I can't think why",
+              "full_vn": "tôi không hiểu tại sao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩ đến, nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "to think to do something",
+              "full_vn": "nhớ làm một việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trông mong",
+          "list_en_vn": [
+            {
+              "full_en": "I thought to have heard from you",
+              "full_vn": "tôi mong được nhận tin anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự suy nghĩ",
+          "list_one_mean": [
+            {
+              "id_full_en": "have (got ) another think coming",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc phải suy nghĩ lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I'd better have a think before I decide",
+              "full_vn": "tôi phải suy nghĩ trước khi quyết định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086800_8fb787490a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086800_395111e844_o.png",
+      "id_image": "think_1285375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464263_a69db36371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464263_b7fd34bb8c_o.png",
+      "id_image": "think_2244730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704219_f764dea4b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704219_17380f1375_o.png",
+      "id_image": "think_3636168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464218_913dae466c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464218_daa5d69109_o.png",
+      "id_image": "think_4576351"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "subcutaneous",
+  "phat_am": "[,sʌbkju:'teiniəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới da",
+          "list_en_vn": [
+            {
+              "full_en": "subcutaneous injection",
+              "full_vn": "sự tiêm dưới da"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077795_689a42df46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077795_31e7274175_o.png",
+      "id_image": "subcutaneous_4813876"
+    }
+  ]
+}

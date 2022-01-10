@@ -1,0 +1,142 @@
+{
+  "english": "slow",
+  "phat_am": "[slou]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậm, chậm chạp",
+          "list_en_vn": [
+            {
+              "full_en": "slow and sure",
+              "full_vn": "chậm mà chắc"
+            },
+            {
+              "full_en": "the clock is five minutes slow",
+              "full_vn": "đồng hồ chậm năm phút"
+            },
+            {
+              "full_en": "to be not slow to defend oneself",
+              "full_vn": "không ngần ngại đứng ra tự bảo vệ"
+            },
+            {
+              "full_en": "to be slow to anger",
+              "full_vn": "khó trêu tức (người)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trì độn, không nhanh trí",
+          "list_en_vn": [
+            {
+              "full_en": "to be slow of wit",
+              "full_vn": "kém thông minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buồn tẻ, kém vui",
+          "list_en_vn": [
+            {
+              "full_en": "the entertainment was voted slow",
+              "full_vn": "ai cũng cho buổi biểu diễn đó là tẻ"
+            },
+            {
+              "full_en": "a slow afternoon",
+              "full_vn": "một buổi chiều buồn tẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở nhỏ (ống kính máy ảnh)"
+        },
+        {
+          "m_full_vn": "cháy lom rom",
+          "list_en_vn": [
+            {
+              "full_en": "a slow fire",
+              "full_vn": "ngọn lửa cháy lom khom"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không nảy",
+          "list_en_vn": [
+            {
+              "full_en": "a slow tenniscourt",
+              "full_vn": "sân quần vượt không nảy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậm, chầm chậm",
+          "list_one_mean": [
+            {
+              "id_full_en": "go slow",
+              "list_im": [
+                {
+                  "im_full_vn": "lãn công, làm việc chậm (nhất là khi công nhân phản đối hoặc buộc chủ đáp ứng các yêu sách của họ)"
+                },
+                {
+                  "im_full_vn": "không tích cực như thường lệ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "how slow he climbs !",
+              "full_vn": "sao hắn trèo chậm thế!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chậm lại, làm trì hoãn",
+          "list_en_vn": [
+            {
+              "full_en": "to slow down a process",
+              "full_vn": "làm chậm lại một quá trình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi chậm lại, chạy chậm lại",
+          "list_en_vn": [
+            {
+              "full_en": "to slow up to a stop",
+              "full_vn": "chạy chậm lại rồi đỗ hẳn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068885_461523b9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068885_8b6a6d333c_o.png",
+      "id_image": "slow_1455342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447123_0a6be9a4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447123_e1907de091_o.png",
+      "id_image": "slow_2674453"
+    }
+  ]
+}

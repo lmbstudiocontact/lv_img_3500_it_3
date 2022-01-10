@@ -1,0 +1,251 @@
+{
+  "english": "wait",
+  "phat_am": "[weit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chờ đợi; thời gian chờ",
+          "list_en_vn": [
+            {
+              "full_en": "we had a long wait for the bus",
+              "full_vn": "chúng tôi mất một thời gian chờ xe búyt khá lâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rình, sự mai phục; chỗ rình, chỗ mai phục",
+          "list_en_vn": [
+            {
+              "full_en": "to lie in wait for",
+              "full_vn": "nằm rình, mai phục"
+            },
+            {
+              "full_en": "to lay wait for",
+              "full_vn": "bố trí mai phục; đặt bẫy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chờ, đợi",
+          "list_en_vn": [
+            {
+              "full_en": "to wait until (till )...",
+              "full_vn": "... đợi đến khi..."
+            },
+            {
+              "full_en": "please wait a bit (moment , minute )",
+              "full_vn": "xin đợi một lát"
+            },
+            {
+              "full_en": "to wait about (around )",
+              "full_vn": "đứng chờ lâu một chỗ"
+            },
+            {
+              "full_en": "to wait for somebody",
+              "full_vn": "chờ ai"
+            },
+            {
+              "full_en": "to keep a person waiting",
+              "full_vn": "bắt ai chờ đợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dừng xe một lát ở bên lề đường",
+          "list_en_vn": [
+            {
+              "full_en": "no waiting",
+              "full_vn": "không dừng xe (biển báo (giao thông))"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + about/around ) đứng ngồi không yên (vì bồn chồn, lo lắng..)"
+        },
+        {
+          "m_full_vn": "( + behind ) ở lại sau"
+        },
+        {
+          "m_full_vn": "( + in ) ở nhà, đợi ở nhà (nhất là vì chờ ai)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chờ, đợi",
+          "list_en_vn": [
+            {
+              "full_en": "to wait orders",
+              "full_vn": "đợi lệnh"
+            },
+            {
+              "full_en": "to wait one's turn",
+              "full_vn": "đợi lượt mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoãn lại, lùi lại",
+          "list_en_vn": [
+            {
+              "full_en": "don't wait dinner for me",
+              "full_vn": "cứ ăn trước đừng đợi tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) theo hầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wait on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu hạ, phục dịch"
+                },
+                {
+                  "im_full_vn": "đến thăm (người trên mình)"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) bám sát (địch thủ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait up for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thức đợi ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep somebody waiting",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phải đợi, làm cho ai bị chậm trễ (do mình không đúng hẹn..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait and see",
+              "list_im": [
+                {
+                  "im_full_vn": "chờ xem (đợi để (xem) điều gì sẽ xảy ra trước khi hành động); kiên nhẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait at table ; wait on table",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu bàn (cho ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wait for the cat to jump /to see which way the cat jumps",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đợi gió xoay chiều (không vội vàng hành động hoặc quyết định cho đến khi rõ các sự kiện chuyển biến thế nào)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wait for it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đợi đấy (dùng (như) lời cảnh cáo ai không được hành động, không được nói...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "play a waiting game",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng cách hoãn binh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait on somebody hand and foot",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu hạ từ đầu đến chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what are we waiting for ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) còn chờ gì nữa?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what are you waiting for ?",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) anh còn chờ gì nữa?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) you wait",
+              "list_im": [
+                {
+                  "im_full_vn": "liệu hồn đấy (dùng khi đe doạ ai..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu hạ, phục dịch"
+                },
+                {
+                  "im_full_vn": "thăm viếng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait up (for somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "thức chờ (ai)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339171_e23ff2d660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339171_b7cf2532d2_o.png",
+      "id_image": "wait_1686925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694234_a50347ec61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694234_53c5aebd77_o.png",
+      "id_image": "wait_1687059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384042_cbb21df0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384042_1ca097a9c0_o.png",
+      "id_image": "wait_4401450"
+    }
+  ]
+}

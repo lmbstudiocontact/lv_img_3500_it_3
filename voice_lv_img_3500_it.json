@@ -1,0 +1,233 @@
+{
+  "english": "voice",
+  "phat_am": "[vɔis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng, giọng nói",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in a loud /low /rough /husky /gentle /sweet voice",
+              "full_vn": "nói to/khẽ/cộc cằn/khàn khàn/dịu dàng/êm ái"
+            },
+            {
+              "full_en": "to lift up one's voice",
+              "full_vn": "lên tiếng, cất tiếng nói"
+            },
+            {
+              "full_en": "to raise /lower one's voice",
+              "full_vn": "cất cao/hạ thấp giọng của mình"
+            },
+            {
+              "full_en": "his voice has broken",
+              "full_vn": "nó đã vỡ giọng (giọng trở nên trầm (như) của người lớn)"
+            },
+            {
+              "full_en": "I can hear voices through the wall",
+              "full_vn": "tôi có thể nghe thấy những tiếng nói ở bên kia bức tường"
+            },
+            {
+              "full_en": "keep your voice down",
+              "full_vn": "nói khẽ thôi"
+            },
+            {
+              "full_en": "he has a good singing voice",
+              "full_vn": "anh ta có giọng ca hay"
+            },
+            {
+              "full_en": "her voice shook /trembled with emotion",
+              "full_vn": "giọng cô ấy run lên vì xúc động"
+            },
+            {
+              "full_en": "commands given in a firm tone of voice",
+              "full_vn": "hiệu lệnh được phát ra bằng một giọng rắn rỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tiếng nói, thế lực",
+          "list_en_vn": [
+            {
+              "full_en": "the voice of conscience",
+              "full_vn": "tiếng nói (gọi) của lương tâm"
+            },
+            {
+              "full_en": "to have a voice in the matter",
+              "full_vn": "có tiếng nói về vấn đề đó"
+            },
+            {
+              "full_en": "to listen to the voice of reason /conscience",
+              "full_vn": "nghe tiếng nói của lẽ phải/lương tâm"
+            },
+            {
+              "full_en": "to have little , some , no voice in management decisions",
+              "full_vn": "có tiếng nói tầm thường, đáng kể, không có tiếng nói trong các quyết định về quản lý"
+            },
+            {
+              "full_en": "our newspaper represents the voice of the people",
+              "full_vn": "tờ báo của chúng tôi đại diện cho tiếng nói của nhân dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) âm rung ( b, d, z)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) dạng, thể (bị động, chủ động..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the top of one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức mình, đến khản cổ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "cheering , shouting , screaming at the top of their voices",
+                      "full_vn": "hoan hô, reo hò, gào thét hết sức mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give voice to something",
+              "list_im": [
+                {
+                  "im_full_vn": "biểu lộ, bày tỏ (cảm xúc..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give voice to one's indignation /dismay /concern",
+                      "full_vn": "bày tỏ sự phẫn nộ, biểu lộ sự mất tinh thần, sự quan tâm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one voice",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng tâm nhất trí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "with one voice , the workers voted to strike",
+                      "full_vn": "các công nhân nhất trí bỏ phiếu cho cuộc đình công"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an edge to one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "thể hiện một mức độ giận dữ, bối rối, lo ngại trong lời nói",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was trying to remain calm , but there was a distinct edge to her voice",
+                      "full_vn": "cô ta cố giữ bình tĩnh, nhưng vẫn không giấu được sự giận dữ trong giọng nói"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in good /poor voice",
+              "list_im": [
+                {
+                  "im_full_vn": "nói hoặc hát như bìnhthương/kém hơn bình thường; có giọng bình thường/tồi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the bass soloist was in excellent voice",
+                      "full_vn": "người đơn ca giọng trầm có giọng hát tuyệt vời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "like the sound of one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sound"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's voice heard",
+              "list_im": [
+                {
+                  "im_full_vn": "bày tỏ tình cảm, ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise one's voice against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "xem raise"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the still small voice",
+              "list_im": [
+                {
+                  "im_full_vn": "xem still"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the passive voice",
+              "full_vn": "ở dạng bị động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bày tỏ, nói lên (những tình cảm..)",
+          "list_en_vn": [
+            {
+              "full_en": "to voice the feelings of the crowd",
+              "full_vn": "nói lên cảm nghĩ của quần chúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) phát thành âm kêu",
+          "list_en_vn": [
+            {
+              "full_en": "to voice a consonant",
+              "full_vn": "phát một phụ âm thành âm kêu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386352_c8181769c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386352_6b1ab1e9b3_o.png",
+      "id_image": "voice_2080863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386307_92c2bc3d57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386307_afdc95f510_o.png",
+      "id_image": "voice_2597094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456218_f29f16aa42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456218_7661412653_o.png",
+      "id_image": "voice_450461"
+    }
+  ]
+}

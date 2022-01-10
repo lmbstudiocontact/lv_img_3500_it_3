@@ -1,0 +1,53 @@
+{
+  "english": "sorrel",
+  "phat_am": "['sɔrəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có màu nâu hơi đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a sorrel coat",
+              "full_vn": "chiếc áo khoác màu nâu đỏ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu nâu hơi đỏ"
+        },
+        {
+          "m_full_vn": "con vật có màu nâu đỏ; ngựa hồng"
+        },
+        {
+          "m_full_vn": "hươu (nai) đực ba tuổi (như) sorel"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây chút chí chua"
+        },
+        {
+          "m_full_vn": "cây chua me đất",
+          "list_en_vn": [
+            {
+              "full_en": "sorrel soup",
+              "full_vn": "canh chua me"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062630_594c90e71e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062630_ef1ee81fc7_o.png",
+      "id_image": "sorrel_6108799"
+    }
+  ]
+}

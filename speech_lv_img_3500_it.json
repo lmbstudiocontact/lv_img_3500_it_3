@@ -1,0 +1,84 @@
+{
+  "english": "speech",
+  "phat_am": "[spi:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng hoặc hành động nói; lời nói",
+          "list_en_vn": [
+            {
+              "full_en": "man is the only animal that has the faculty of speech",
+              "full_vn": "người là động vật duy nhất có khả năng nói thành lời"
+            },
+            {
+              "full_en": "to express one's thoughts by speech",
+              "full_vn": "dùng lời nói diễn đạt những suy nghĩ của mình"
+            },
+            {
+              "full_en": "the car accident left him without the power of speech",
+              "full_vn": "tai nạn xe hơi đã làm cho anh ấy mất khả năng nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách nói; lối nói",
+          "list_en_vn": [
+            {
+              "full_en": "his indistinct speech made it impossible to understand him",
+              "full_vn": "cách nói không rành rọt của ông ta làm cho người ta không hiểu được ông nói gì"
+            },
+            {
+              "full_en": "she's doing a study of children's speech",
+              "full_vn": "bà ấy đang nghiên cứu về tiếng nói của trẻ thơ"
+            },
+            {
+              "full_en": "his speech was slurred",
+              "full_vn": "tiếng nói của hắn líu nhíu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( speech on / about something ) bài diễn thuyết; bài diễn văn",
+          "list_en_vn": [
+            {
+              "full_en": "to make /deliver /give a speech",
+              "full_vn": "đọc/trình bày một bài diễn văn"
+            },
+            {
+              "full_en": "a speech on /about illiteracy",
+              "full_vn": "bài diễn văn về nạn mù chữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm câu (dài) do một diễn viên nói",
+          "list_en_vn": [
+            {
+              "full_en": "I've got some very long speeches to learn in Act 2",
+              "full_vn": "tôi có mấy đoạn thoại rất dài trong Hồi 2 cần phải học thuộc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369272_b71e041547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369272_edf673ea3b_o.png",
+      "id_image": "speech_1312516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439418_e3f77d1bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439418_a5b88f2383_o.png",
+      "id_image": "speech_1902220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679574_2a9d2c4a02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679574_6fb348c22d_o.png",
+      "id_image": "speech_696395"
+    }
+  ]
+}

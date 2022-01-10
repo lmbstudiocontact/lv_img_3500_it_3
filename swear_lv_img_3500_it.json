@@ -1,0 +1,144 @@
+{
+  "english": "swear",
+  "phat_am": "[sweə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời thề"
+        },
+        {
+          "m_full_vn": "lời nguyền rủa, câu chửi rủa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rủa, chửi, nguyền rủa"
+        },
+        {
+          "m_full_vn": "chính thức hứa rằng đó là sự thật",
+          "list_en_vn": [
+            {
+              "full_en": "to swear an accusation /charge against somebody",
+              "full_vn": "thề rằng lời buộc tội ai là đúng sự thật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ swore ; sworn",
+      "list_m": [
+        {
+          "m_full_vn": "thề; hứa, nói (một cách nghiêm túc, dứt khoác, trịnh trọng)"
+        },
+        {
+          "m_full_vn": "bắt thề; làm cho ai hứa, làm cho ai tuyên bố trịnh trọng về (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "they have sworn (an oath of ) allegiance to the crown",
+              "full_vn": "họ đã thề trung thành với nhà vua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viện ( ai/cái gì) ra để thề"
+        },
+        {
+          "m_full_vn": "( + off ) (thông tục) thề bỏ, thề chừa (tật xấu..)"
+        },
+        {
+          "m_full_vn": "( + to ) (thông tục) nói dứt khoát rằng cái gì là sự thật",
+          "list_one_mean": [
+            {
+              "id_full_en": "to swear at",
+              "list_im": [
+                {
+                  "im_full_vn": "nguyền rủa (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swear by",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tỏ ra tin, tỏ ra tín nhiệm"
+                },
+                {
+                  "im_full_vn": "đưa ra (để làm thí dụ)"
+                },
+                {
+                  "im_full_vn": "viện (ai, thần thánh...) để thề",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to swear by Jupiter ; to swear by all Gods",
+                      "full_vn": "thề có trời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swear off",
+              "list_im": [
+                {
+                  "im_full_vn": "thề bỏ, thề chừa (rượu...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "swear blind",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nói dứt khoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "swear like a trooper",
+              "list_im": [
+                {
+                  "im_full_vn": "nói tục, chửi thề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "swear somebody to secrecy",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai hứa giữ một bí mật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689004_3174ab2988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689004_d8eacb02e2_o.png",
+      "id_image": "swear_2323084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448958_eb0d807d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448958_b903197765_o.png",
+      "id_image": "swear_247659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378792_faaf30708b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378792_e369f3c32e_o.png",
+      "id_image": "swear_2861317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448883_63966c7980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448883_4ed7522097_o.png",
+      "id_image": "swear_3561933"
+    }
+  ]
+}

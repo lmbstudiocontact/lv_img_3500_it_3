@@ -1,0 +1,49 @@
+{
+  "english": "synchronize",
+  "phat_am": "['siηkrənaiz]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xảy ra đồng thời"
+        },
+        {
+          "m_full_vn": "chỉ cùng một giờ (đồng hồ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xác định sự đồng bộ (của các sự kiện...)"
+        },
+        {
+          "m_full_vn": "đồng bộ hoá; làm cho đồng bộ, làm cho khớp với",
+          "list_en_vn": [
+            {
+              "full_en": "the sound on a film must synchronize with the action",
+              "full_vn": "âm thanh trong phim phải khớp với hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho (đồng hồ) chỉ cùng một giờ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445238_aa4353009a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445238_82e20a8538_o.png",
+      "id_image": "synchronize_2748790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685379_f5173629a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685379_7528043718_o.png",
+      "id_image": "synchronize_984457"
+    }
+  ]
+}

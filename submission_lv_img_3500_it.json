@@ -1,0 +1,39 @@
+{
+  "english": "submission",
+  "phat_am": "[səb'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trình, sự đệ trình; sự đưa ra xem xét (quyết định..)",
+          "list_en_vn": [
+            {
+              "full_en": "the submission of a plan",
+              "full_vn": "sự đệ trình một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khuất phục; sự phục tùng, sự quy phục",
+          "list_en_vn": [
+            {
+              "full_en": "parents who want children to show complete submission to their wishes",
+              "full_vn": "các bố mẹ muốn con cái tỏ ra hoàn toàn phục tùng ý muốn của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) ý kiến trình toà (của luật sư); bài biện hộ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077580_db60bb28aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077580_1f922c6f88_o.png",
+      "id_image": "submission_2019393"
+    }
+  ]
+}

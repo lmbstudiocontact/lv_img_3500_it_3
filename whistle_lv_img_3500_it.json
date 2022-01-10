@@ -1,0 +1,101 @@
+{
+  "english": "whistle",
+  "phat_am": "['wisl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự huýt sáo; sự huýt còi; sự thổi còi; tiếng huýt gió; tiếng còi"
+        },
+        {
+          "m_full_vn": "tiếng hót (chim); tiếng rít (gió); tiếng réo (đạn)"
+        },
+        {
+          "m_full_vn": "tiếng còi hiệu"
+        },
+        {
+          "m_full_vn": "cái còi"
+        },
+        {
+          "m_full_vn": "(thông tục) cổ, cuống họng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "huýt sáo; huýt còi, thổi còi"
+        },
+        {
+          "m_full_vn": "hót (chim); rít (gió); réo (đạn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "huýt sáo; huýt gió gọi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to whistle for",
+              "list_im": [
+                {
+                  "im_full_vn": "huýt gió để gọi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whistle past",
+              "list_im": [
+                {
+                  "im_full_vn": "vèo qua (đạn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whistle someone down the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ rơi người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can whistle for it",
+              "list_im": [
+                {
+                  "im_full_vn": "thôi không mong gì được đâu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to whistle a song",
+              "full_vn": "huýt sáo một bài hát"
+            },
+            {
+              "full_en": "to whistle a dog",
+              "full_vn": "huýt gió gọi chó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330386_445932b58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330386_19d02f9174_o.png",
+      "id_image": "whistle_165054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375067_2df2b2fccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375067_9d3b189f60_o.png",
+      "id_image": "whistle_451691"
+    }
+  ]
+}

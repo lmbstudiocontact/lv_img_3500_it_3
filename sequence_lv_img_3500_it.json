@@ -1,0 +1,76 @@
+{
+  "english": "sequence",
+  "phat_am": "['si:kwəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuỗi gồm nhiều sự kiện, con số, hành động... tiếp nối nhau hoặc theo một trình tự nào đó; chuỗi",
+          "list_en_vn": [
+            {
+              "full_en": "to deal with events in historical sequence",
+              "full_vn": "bàn về các biến cố theo dòng lịch sử"
+            },
+            {
+              "full_en": "to describe the sequence of events",
+              "full_vn": "mô tả chuỗi sự kiện (theo trình tự xảy ra các sự kiện)"
+            },
+            {
+              "full_en": "a sequence of playing-cards",
+              "full_vn": "chuỗi quân bài liền nhau"
+            },
+            {
+              "full_en": "a sequence of belly-dance movements",
+              "full_vn": "chuỗi động tác múa bụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh (trong phim)",
+          "list_en_vn": [
+            {
+              "full_en": "a thrilling sequence that shows a plane crash",
+              "full_vn": "một cảnh hồi hộp cho thấy một tai nạn máy bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) khúc xê-căng"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) sự phối hợp",
+          "list_en_vn": [
+            {
+              "full_en": "sequence of tenses",
+              "full_vn": "sự phối hợp các thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) bài ca xê-căng"
+        },
+        {
+          "m_full_vn": "(toán học) dãy",
+          "list_en_vn": [
+            {
+              "full_en": "sequence of functions",
+              "full_vn": "dãy hàm"
+            },
+            {
+              "full_en": "sequence of numbers",
+              "full_vn": "dãy số"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464403_bb16daacc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464403_3dafa3386e_o.png",
+      "id_image": "sequence_5485976"
+    }
+  ]
+}

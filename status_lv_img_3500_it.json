@@ -1,0 +1,53 @@
+{
+  "english": "status",
+  "phat_am": "['steitəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng (làm việc, ăn ở..)"
+        },
+        {
+          "m_full_vn": "địa vị, thân phận, thân thế",
+          "list_en_vn": [
+            {
+              "full_en": "official status",
+              "full_vn": "địa vị chính thức"
+            },
+            {
+              "full_en": "diplomatic status",
+              "full_vn": "thân phận ngoại giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cấp bậc; địa vị xã hội cao; uy tín"
+        },
+        {
+          "m_full_vn": "(pháp lý) quân hệ pháp lý (giữa người này với những người khác)"
+        },
+        {
+          "m_full_vn": "tình trạng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703049_25061ba298_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703049_ae9d072a14_o.png",
+      "id_image": "status_1088935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393177_8336ec5e27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393177_4438617c2e_o.png",
+      "id_image": "status_2671385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703009_04911fef5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703009_55aeff9a1a_o.png",
+      "id_image": "status_3053796"
+    }
+  ]
+}

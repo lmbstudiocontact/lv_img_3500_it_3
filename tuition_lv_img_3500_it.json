@@ -1,0 +1,39 @@
+{
+  "english": "tuition",
+  "phat_am": "[tju:'i∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dạy hoặc giảng dạy (nhất là cho những cá nhân hoặc nhóm nhỏ)",
+          "list_en_vn": [
+            {
+              "full_en": "postal tuition",
+              "full_vn": "sự giảng dạy bằng thư"
+            },
+            {
+              "full_en": "to give private tuition in French",
+              "full_vn": "dạy tư tiếng Pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền học, học phí (nhất là ở các trường trung học, đại học)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374602_c7f687eb1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374602_ff32f0bb1f_o.png",
+      "id_image": "tuition_2387683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066610_0dd21bb18d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066610_9bef61734b_o.png",
+      "id_image": "tuition_4650660"
+    }
+  ]
+}

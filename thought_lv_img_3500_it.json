@@ -1,0 +1,135 @@
+{
+  "english": "thought",
+  "phat_am": "[θɔ:t]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của think"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự suy nghĩ; khả năng suy nghĩ; quá trình suy nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "to be lost (wrapped , absorbed ) in thought",
+              "full_vn": "suy nghĩ miên man; tư lự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý nghĩ, tư duy, tư tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to read someone's thoughts",
+              "full_vn": "đoán được ý nghĩ của ai"
+            },
+            {
+              "full_en": "a thought struck me",
+              "full_vn": "tôi chợt có ý nghĩ, một ý nghĩ thoáng trong óc tôi"
+            },
+            {
+              "full_en": "a noble thought",
+              "full_vn": "tư tưởng cao đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý, ý kiến (do suy nghĩ mà có)",
+          "list_en_vn": [
+            {
+              "full_en": "to speak one's thought",
+              "full_vn": "nói rõ ý kiến của mình ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý định; ý muốn",
+          "list_en_vn": [
+            {
+              "full_en": "I had no thought of hurting your feelings",
+              "full_vn": "tôi không hề có ý định đến tình cảm của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự suy xét; sự quan tâm lo lắng",
+          "list_en_vn": [
+            {
+              "full_en": "the doctor is full of thought for the patient",
+              "full_vn": "người bác sĩ hết lòng lo lắng quan tâm đến người bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a thought ) một tí, một chút",
+          "list_one_mean": [
+            {
+              "id_full_en": "as quick as thought",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh như chớp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the thought of",
+              "list_im": [
+                {
+                  "im_full_vn": "khi nghĩ đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have second thoughts about something",
+              "list_im": [
+                {
+                  "im_full_vn": "suy tính lại điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on second thoughts",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khi suy tính lại; suy đi tính lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "want of thought",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thiếu suy nghĩ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the colour is a thought dark",
+              "full_vn": "màu sẫm một tí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086590_5fa83b0bb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086590_ef3ff23d09_o.png",
+      "id_image": "thought_2733543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394077_2d08cfd3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394077_852a335fc7_o.png",
+      "id_image": "thought_4427500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394057_92d6923edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394057_b00dd7aa37_o.png",
+      "id_image": "thought_6000798"
+    }
+  ]
+}

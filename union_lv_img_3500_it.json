@@ -1,0 +1,96 @@
+{
+  "english": "union",
+  "phat_am": "['ju:niən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( union of A with B , union between A and B ) sự hợp nhất, sự kết hợp, sự liên kết; liên minh, liên hiệp",
+          "list_en_vn": [
+            {
+              "full_en": "the union of three towns into one",
+              "full_vn": "sự hợp nhất ba thành phố làm một"
+            },
+            {
+              "full_en": "a union by treaty",
+              "full_vn": "sự liên kết bằng hiệp ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhất trí, sự cộng đồng, sự đoàn kết, sự hoà hợp",
+          "list_en_vn": [
+            {
+              "full_en": "union is strength",
+              "full_vn": "đoàn kết là sức mạnh"
+            },
+            {
+              "full_en": "the union of the nation",
+              "full_vn": "sự đoàn kết của dân tộc"
+            },
+            {
+              "full_en": "to live together in perfect union",
+              "full_vn": "sống với nhau hoàn toàn hoà thuận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiệp hội, liên hiệp, hội; liên bang, liên minh",
+          "list_en_vn": [
+            {
+              "full_en": "members of the Students' Union",
+              "full_vn": "thành viên của Hội liên hiệp sinh viên"
+            },
+            {
+              "full_en": "The National Union of Working Men's Clubs",
+              "full_vn": "Hiệp hội toàn quốc các câu lạc bộ công nhân"
+            },
+            {
+              "full_en": "The Soviet Union ; The Union of Soviet Socialist Republics",
+              "full_vn": "Liên bang Xô-viết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như trade-union"
+        },
+        {
+          "m_full_vn": "sự kết hôn, hôn nhân",
+          "list_en_vn": [
+            {
+              "full_en": "a happy union",
+              "full_vn": "một cuộc hôn nhân hạnh phúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Union ) câu lạc bộ và hội tranh luận (ở một vài trường đại học); trụ sở của hội tranh luận"
+        },
+        {
+          "m_full_vn": "thùng (để) lắng bia"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) rắc-co (chỗ nối ở cần câu hoặc tẩu thuốc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467733_e793048934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467733_793072efcd_o.png",
+      "id_image": "union_1070250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467708_95e66626d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467708_5ccdc698a1_o.png",
+      "id_image": "union_2694549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707624_905b310085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707624_a2d8e16339_o.png",
+      "id_image": "union_4960752"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "english": "stone",
+  "phat_am": "[stoun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá; loại đá",
+          "list_en_vn": [
+            {
+              "full_en": "as hard as a stone",
+              "full_vn": "rắn như đá"
+            },
+            {
+              "full_en": "built of stone",
+              "full_vn": "xây bằng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cục đá có bất kỳ hình dáng nào (cỡ nhỏ, bị vỡ ra, cắt ra)",
+          "list_en_vn": [
+            {
+              "full_en": "a pile of stones",
+              "full_vn": "một đống đá"
+            },
+            {
+              "full_en": "a road covered with stones",
+              "full_vn": "con đường rải đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) trong từ ghép) hòn đá được đập, đẽo để dùng vào một mục đích riêng",
+          "list_en_vn": [
+            {
+              "full_en": "a gravestone",
+              "full_vn": "bia mộ"
+            },
+            {
+              "full_en": "stepping-stones",
+              "full_vn": "các tảng đá kê bước chân"
+            },
+            {
+              "full_en": "paving stones",
+              "full_vn": "đá lát đường"
+            },
+            {
+              "full_en": "millstones",
+              "full_vn": "đá cối xay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đá (mưa đá)"
+        },
+        {
+          "m_full_vn": "đá quý, ngọc (như) precious stone"
+        },
+        {
+          "m_full_vn": "(đôi khi trong từ ghép) hột (của quả mơ, quả lựu..) (như) pit",
+          "list_en_vn": [
+            {
+              "full_en": "a damson stone",
+              "full_vn": "hạt mận tía"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sỏi (thận, bóng đái... gây ra đau đớn) (nhất là trong từ ghép)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (viết tắt) st ) xtôn; 14 pao (đơn vị đo trọng lượng, khoảng 6, 4 kg)"
+        },
+        {
+          "m_full_vn": "(thực vật học) hạch (quả cây)"
+        },
+        {
+          "m_full_vn": "(giải phẫu) hòn dái"
+        },
+        {
+          "m_full_vn": "( số nhiều không đổi) Xtôn (đơn vị trọng lượng khoảng 6, 400 kg)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give a stone for bread",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ giả vờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark with a white stone",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi là một ngày vui"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stocks and stones",
+              "list_im": [
+                {
+                  "im_full_vn": "vật vô tri vô giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stones will cry out",
+              "list_im": [
+                {
+                  "im_full_vn": "vật vô tri vô giác cũng phải mủi lòng phẫn uất (tộc ác tày trời)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "those who live in glass houses should not throw stones",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) mình nói xấu người ta, người ta sẽ nói xấu mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw stones at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nói xấu ai, vu cáo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a stone's throw",
+              "list_im": [
+                {
+                  "im_full_vn": "một khoảng rất ngắn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ném đá vào (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to be stoned to death",
+              "full_vn": "bị xử ném đá đến chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trích hạt, lấy hạt ra (ở quả)"
+        },
+        {
+          "m_full_vn": "rải đá, lát đá",
+          "list_one_mean": [
+            {
+              "id_full_en": "stone the crows",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng (như) một lời cảm thán thể hiện ngạc nhiên, bàng hoàng, ghê tởm..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "well , stone the crows , he's done it again !",
+                      "full_vn": "thật quá quắt, anh ta lại làm cái trò đó nữa!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng đá",
+          "list_en_vn": [
+            {
+              "full_en": "stone building",
+              "full_vn": "nhà bằng đá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460258_bf8a72ba7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460258_55c55f95af_o.png",
+      "id_image": "stone_5833180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460328_1faffd5e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460328_8656c335a4_o.png",
+      "id_image": "stone_721107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460288_13b159fb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460288_725b10a6e4_o.png",
+      "id_image": "stone_826917"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "staple",
+  "phat_am": "['steipl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghim dập (kẹp giấy); đinh kẹp, ghim dập (hình chữ U); dây thép rập sách"
+        },
+        {
+          "m_full_vn": "ống bọc lưỡi gà (ở kèn ôboa...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đóng bằng đinh kẹp; đóng (sách) bằng dây thép rập; gắn, kẹp (sách..) bằng ghim dập"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sản phẩm chủ yếu, mặt hàng chủ lực"
+        },
+        {
+          "m_full_vn": "nguyên vật liệu, vật liệu chưa chế biến, vật liệu chính"
+        },
+        {
+          "m_full_vn": "yếu tố chính",
+          "list_en_vn": [
+            {
+              "full_en": "the staple of conversation",
+              "full_vn": "chủ đề câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sợi (tính đến phẩm chất hoặc độ dài)",
+          "list_en_vn": [
+            {
+              "full_en": "cotton of short staple",
+              "full_vn": "bông sợi ngắn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lựa theo sợi, phân loại theo sợi (bông, len, gai...)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chính, chủ yếu; cơ bản; chuẩn mực (sản phẩm)",
+          "list_en_vn": [
+            {
+              "full_en": "staple commodities",
+              "full_vn": "hàng hoá chủ yếu"
+            },
+            {
+              "full_en": "staple food",
+              "full_vn": "lương thực chủ yếu"
+            },
+            {
+              "full_en": "staple industries",
+              "full_vn": "những ngành công nghiệp chủ yếu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704159_26cfc91d89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704159_bab76cf9e1_o.png",
+      "id_image": "staple_2244331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394272_81f44c500f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394272_3751f82d9f_o.png",
+      "id_image": "staple_548261"
+    }
+  ]
+}

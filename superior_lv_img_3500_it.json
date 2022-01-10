@@ -1,0 +1,108 @@
+{
+  "english": "superior",
+  "phat_am": "[su:'piəriə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( superior to somebody ) cao hơn về cấp bậc hoặc địa vị",
+          "list_en_vn": [
+            {
+              "full_en": "a sublieutenant must obey his superior officers",
+              "full_vn": "một thiếu úy phải phục tùng các sĩ quan cấp trên"
+            },
+            {
+              "full_en": "she works very well with those superior to her",
+              "full_vn": "cô ta làm việc rất ăn ý với những người cấp trên cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( superior to somebody / something ) mạnh hơn; giỏi hơn; tốt hơn",
+          "list_en_vn": [
+            {
+              "full_en": "which of the two plans is superior ?",
+              "full_vn": "trong hai kế hoạch này, cái nào tốt hơn?"
+            },
+            {
+              "full_en": "this machine is superior to that",
+              "full_vn": "máy này tốt hơn máy kia"
+            },
+            {
+              "full_en": "the enemy forces were superior in numbers",
+              "full_vn": "lực lượng địch đông hơn"
+            },
+            {
+              "full_en": "a superior cloth , team , standard",
+              "full_vn": "bộ quần áo tốt hơn, đội giỏi hơn, tiêu chuẩn cao hơn"
+            },
+            {
+              "full_en": "a student of superior intelligence",
+              "full_vn": "một sinh viên rất thông minh"
+            },
+            {
+              "full_en": "this candidate is clearly superior",
+              "full_vn": "thí sinh này rõ ràng khó hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợm hĩnh; trịch thượng; làm cao",
+          "list_en_vn": [
+            {
+              "full_en": "a superior air /smile /look",
+              "full_vn": "vẻ/nụ cười/cái nhìn hợm hĩnh"
+            },
+            {
+              "full_en": "don't be so superior !",
+              "full_vn": "đừng hợm hĩnh như vậy!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) thượng, trên",
+          "list_en_vn": [
+            {
+              "full_en": "superior ovary",
+              "full_vn": "bầu thượng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cấp trên; thượng cấp"
+        },
+        {
+          "m_full_vn": "người giỏi hơn; vật tốt hơn",
+          "list_en_vn": [
+            {
+              "full_en": "she's my superior in knowledge",
+              "full_vn": "cô ta hơn tôi về kiến thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trưởng tu viện; bề trên",
+          "list_en_vn": [
+            {
+              "full_en": "the Father Superior",
+              "full_vn": "Cha trưởng tu viện; Đức cha bề trên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382302_8049df3393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382302_e666cecdce_o.png",
+      "id_image": "superior_994651"
+    }
+  ]
+}

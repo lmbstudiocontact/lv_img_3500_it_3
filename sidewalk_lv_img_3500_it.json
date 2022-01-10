@@ -1,0 +1,27 @@
+{
+  "english": "sidewalk",
+  "phat_am": "['saidwɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đường có bề mặt cứng để cho người bộ hành đi ở bên lề đường; vỉa hè",
+          "list_en_vn": [
+            {
+              "full_en": "Don't ride your bicycle on the pavement",
+              "full_vn": "Đừng đi xe đạp trên vỉa hè"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077590_8a8f42f2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077590_896beb4a35_o.png",
+      "id_image": "sidewalk_1563556"
+    }
+  ]
+}

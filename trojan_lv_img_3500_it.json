@@ -1,0 +1,57 @@
+{
+  "english": "trojan",
+  "phat_am": "['troudʒən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thành Troa",
+          "list_en_vn": [
+            {
+              "full_en": "the trojan war",
+              "full_vn": "cuộc chiến tranh thành Troa (giữa những người Hy lạp và người thành Troa (như) Homere đã mô tả)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Trojan ) thành Troa (một thành phố cổ vùng Tiểu A)"
+        },
+        {
+          "m_full_vn": "( Trojan ) người thành Troa"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người làm việc tích cực; người chiến đấu dũng cảm",
+          "list_en_vn": [
+            {
+              "full_en": "to work like a trojan",
+              "full_vn": "làm việc tích cực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377712_e373deb867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377712_a94a19bc7e_o.png",
+      "id_image": "trojan_1590010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069655_8099268bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069655_af17d76ba9_o.png",
+      "id_image": "trojan_1793031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377607_5048ec45ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377607_f2d65a0f3f_o.png",
+      "id_image": "trojan_4542058"
+    }
+  ]
+}

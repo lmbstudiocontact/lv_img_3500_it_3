@@ -1,0 +1,85 @@
+{
+  "english": "slim",
+  "phat_am": "[slim]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mảnh khảnh, mảnh dẻ, thon, không béo, không to dày",
+          "list_en_vn": [
+            {
+              "full_en": "slim fingers",
+              "full_vn": "ngón tay thon búp măng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ít ỏi, sơ sài, nghèo nàn, mỏng manh, không như người ta muốn, không như người ta mong đợi",
+          "list_en_vn": [
+            {
+              "full_en": "slim possibility",
+              "full_vn": "khả năng có thể được rất mỏng manh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "láu, khôn lỏi, xảo quyệt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho người thon nhỏ (bằng cách ăn kiêng và tập thể dục)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở thành thon nhỏ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bùn, bùn loãng"
+        },
+        {
+          "m_full_vn": "nhớt cá"
+        },
+        {
+          "m_full_vn": "chất nhớ bẩn"
+        },
+        {
+          "m_full_vn": "Bitum lỏng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ đầy bùn; phủ đầy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377952_f3bfa39452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377952_621da4c1c7_o.png",
+      "id_image": "slim_412588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069880_a8db629296_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069880_87f679eb0d_o.png",
+      "id_image": "slim_6381877"
+    }
+  ]
+}

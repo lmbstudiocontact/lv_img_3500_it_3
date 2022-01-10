@@ -1,0 +1,27 @@
+{
+  "english": "sulphite",
+  "phat_am": "['sʌlfait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) xun-phít; muối của a-xít xun-phuya-rơ",
+          "list_en_vn": [
+            {
+              "full_en": "sodium sulphite",
+              "full_vn": "Na-tri xun-phít"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383217_26d88bd23d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383217_7523a8c5de_o.png",
+      "id_image": "sulphite_2396845"
+    }
+  ]
+}

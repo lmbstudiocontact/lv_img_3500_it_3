@@ -1,0 +1,52 @@
+{
+  "english": "visible",
+  "phat_am": "['vizəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hữu hình, thấy được, có thể nhìn thấy, có thể thấy; trong tầm mắt",
+          "list_en_vn": [
+            {
+              "full_en": "visible to naked eye",
+              "full_vn": "thấy được bằng mắt trần (không cần kính hiển vi...)"
+            },
+            {
+              "full_en": "to become visible",
+              "full_vn": "xuất hiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) có thể nhận thấy được, có thể xác định được, hiển nhiên, rõ ràng, rõ rệt",
+          "list_en_vn": [
+            {
+              "full_en": "without visible cause",
+              "full_vn": "không có nguyên nhân rõ ràng"
+            },
+            {
+              "full_en": "visible improvements",
+              "full_vn": "những sự cải thiện rõ rệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn sàng tiếp khách"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342476_78075bc1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342476_c9c5a42a47_o.png",
+      "id_image": "visible_169124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387512_345b9c1baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387512_b9f415a28e_o.png",
+      "id_image": "visible_5875369"
+    }
+  ]
+}

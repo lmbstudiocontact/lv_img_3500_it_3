@@ -1,0 +1,205 @@
+{
+  "english": "treat",
+  "phat_am": "[tri:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thết đãi; tiệc, buổi chiêu đãi",
+          "list_en_vn": [
+            {
+              "full_en": "this is my treat",
+              "full_vn": "để tôi thết, để tôi trả tiền (khi ăn...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều vui sướng, điều vui thích, điều thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "it's a treat to hear her play the piano",
+              "full_vn": "thật là một điều vui thích được nghe cô ta chơi pianô"
+            },
+            {
+              "full_en": "her son's visits are a great treat for her",
+              "full_vn": "những lần con trai đến thăm là niềm vui sướng lớn lao của bà ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc vui ngoài trời (cho thiếu nhi ở trường học)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a Dutch treat",
+              "list_im": [
+                {
+                  "im_full_vn": "xem Dutch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "trick or treat",
+              "list_im": [
+                {
+                  "im_full_vn": "xem trick"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đối xử, đối đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to treat someone well",
+              "full_vn": "đối xử tốt với ai"
+            },
+            {
+              "full_en": "they treat their children very badly",
+              "full_vn": "họ cư xử với con cái rất tồi tệ"
+            },
+            {
+              "full_en": "don't treat me as (if I were ) an idiot",
+              "full_vn": "đừng đối xử với tôi như (thể tôi là) một thằng ngốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem, xem xét, coi như",
+          "list_en_vn": [
+            {
+              "full_en": "he treated these words as a joke",
+              "full_vn": "anh ta coi những lời nói đó như trò đùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xét, xử lý, đề cập, nghiên cứu, giải quyết, bàn cãi (một vấn đề..)",
+          "list_en_vn": [
+            {
+              "full_en": "the documentary treated the question in some detail",
+              "full_vn": "bộ phim tài liệu giải quyết vấn đề khá tỉ mỉ"
+            },
+            {
+              "full_en": "to treat a subject thoroughly",
+              "full_vn": "xét kỹ lưỡng một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to treat somebody / oneself to something ) thết, đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to treat someone to a good dinner",
+              "full_vn": "thết ai một bữa cơm ngon"
+            },
+            {
+              "full_en": "she treated each of the children to an ice-cream",
+              "full_vn": "cô ta đãi mỗi đứa bé một que kem"
+            },
+            {
+              "full_en": "I decided to treat myself to a taxi",
+              "full_vn": "tôi quyết định tự đãi mình một chuyến tắc xi"
+            },
+            {
+              "full_en": "we were treated to the unusual sight of the Prime Minister singing on TV",
+              "full_vn": "chúng tôi được chiêu đãi một cuộc ra mắt đặc biệt của ông Thủ tướng hát trên truyền hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) điều trị, chữa",
+          "list_en_vn": [
+            {
+              "full_en": "a new drug to treat rheumatism",
+              "full_vn": "một loại thuốc mới chữa thấp khớp"
+            },
+            {
+              "full_en": "last year the hospital treated over forty cases of malaria",
+              "full_vn": "năm ngoái, bệnh viện đã điều trị hơn 40 ca sốt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) xử lý",
+          "list_en_vn": [
+            {
+              "full_en": "to treat crops with insecticide",
+              "full_vn": "bảo vệ cây trồng bằng thuốc trừ sâu"
+            },
+            {
+              "full_en": "wood treated with creosote",
+              "full_vn": "gỗ được xử lý bằng crêôzôt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + of ) bàn về, luận giải, nghiên cứu (một cuốn sách..)",
+          "list_en_vn": [
+            {
+              "full_en": "the book treats of modern science",
+              "full_vn": "cuốn sách bàn về nền khoa học hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with somebody ) điều đình, thương lượng, dàn xếp với ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "treat somebody like dirt /a dog",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) coi ai chẳng ra gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to treat with the adversary for peace",
+              "full_vn": "thương lượng với đối phương để lập lại hoà bình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335466_cf147c6dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335466_2ba986cd94_o.png",
+      "id_image": "treat_185452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690564_e0781e438d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690564_e9f537b746_o.png",
+      "id_image": "treat_2467235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380427_262bfc165b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380427_064d620fb1_o.png",
+      "id_image": "treat_3436491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690609_31f6c9b676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690609_891fafb1e7_o.png",
+      "id_image": "treat_373006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380392_3e8db9bf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380392_d701fca3a7_o.png",
+      "id_image": "treat_6401254"
+    }
+  ]
+}

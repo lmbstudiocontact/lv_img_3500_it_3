@@ -1,0 +1,62 @@
+{
+  "english": "unhappy",
+  "phat_am": "[ʌn'hæpi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "buồn rầu, khổ sở, khốn khổ, không vui",
+          "list_en_vn": [
+            {
+              "full_en": "an unhappy face",
+              "full_vn": "một bộ mặt không vui"
+            },
+            {
+              "full_en": "to look /sound unhappy",
+              "full_vn": "trông/nghe có vẻ không vui"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất hạnh hoặc không may; đáng tiếc",
+          "list_en_vn": [
+            {
+              "full_en": "an unhappy event",
+              "full_vn": "một việc không hay"
+            },
+            {
+              "full_en": "an unhappy coincidence /chance",
+              "full_vn": "một sự trùng hợp/tình cờ bất hạnh"
+            },
+            {
+              "full_en": "what has led to this unhappy state of affairs ?",
+              "full_vn": "điều gì đã dẫn đến tình trạng đáng tiếc này?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thích hợp, không thích đáng, không đúng lúc",
+          "list_en_vn": [
+            {
+              "full_en": "unhappy choice /decision",
+              "full_vn": "sự chọn lựa/quyết định không thích hợp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353176_66a6f47b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353176_40e564d52f_o.png",
+      "id_image": "unhappy_5132862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090535_f55e2f23dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090535_5fcc396221_o.png",
+      "id_image": "unhappy_6306506"
+    }
+  ]
+}

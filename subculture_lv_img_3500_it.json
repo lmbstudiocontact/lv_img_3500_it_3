@@ -1,0 +1,37 @@
+{
+  "english": "subculture",
+  "phat_am": "['sʌbkʌlt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "văn hoá nhóm; tiểu văn hoá (nền văn hoá nằm trong một nền văn hoá khác)",
+          "list_en_vn": [
+            {
+              "full_en": "the teenage subculture",
+              "full_vn": "văn hoá của nhóm tuổi thiếu niên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385547_1310604e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385547_ab6d7a8406_o.png",
+      "id_image": "subculture_5779373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340561_d93d627c2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340561_f898fb4e5c_o.png",
+      "id_image": "subculture_5999494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340496_8ff9fa3f9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340496_0a161d5994_o.png",
+      "id_image": "subculture_6193967"
+    }
+  ]
+}

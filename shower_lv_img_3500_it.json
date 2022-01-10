@@ -1,0 +1,118 @@
+{
+  "english": "shower",
+  "phat_am": "['∫auə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chỉ, người cho xem, người dẫn; người trưng bày"
+        },
+        {
+          "m_full_vn": "trận mưa rào; trận mưa đá, trận mưa tuyết; nước rải rác rơi đột ngột",
+          "list_en_vn": [
+            {
+              "full_en": "a shower of spray",
+              "full_vn": "mưa bụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng các vật rơi, số lượng các vật đến cùng nhau"
+        },
+        {
+          "m_full_vn": "trận mưa (đạn, đá...)",
+          "list_en_vn": [
+            {
+              "full_en": "a shower of bullets",
+              "full_vn": "trận mưa đạn, đạn bắn như mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vòi hoa sen; buồng tắm vòi hoa sen"
+        },
+        {
+          "m_full_vn": "sự tắm rửa ở trong buồng tắm vòi hoa sen, sự tắm dưới vòi hoa sen"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) bữa tiệc có nhiều tặng phẩm cho ai (nhất là người đàn bà chuẩn bị cưới hoặc sinh con)"
+        },
+        {
+          "m_full_vn": "sự dồn dập, sự tới tấp",
+          "list_en_vn": [
+            {
+              "full_en": "a shower of gifts",
+              "full_vn": "đồ biếu tới tấp"
+            },
+            {
+              "full_en": "letters come in showers",
+              "full_vn": "thư từ gửi đến tới tấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) mưa",
+          "list_en_vn": [
+            {
+              "full_en": "meson shower",
+              "full_vn": "mưa mezon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ, trút; bắn xuống như mưa; rơi xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to shower blows on someone",
+              "full_vn": "đánh ai túi bụi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi, trao (quà biếu...) tới tấp (đến cho ai); đến dồn dập"
+        },
+        {
+          "m_full_vn": "làm cho (một số lượng lớn các vật) rơi lên ai",
+          "list_en_vn": [
+            {
+              "full_en": "to shower the newly-weds with confetti",
+              "full_vn": "tung hoa giấy như mưa vào những đôi vợ chồng mới cưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơi như một trận mưa",
+          "list_en_vn": [
+            {
+              "full_en": "small stones showered (down ) on us from above",
+              "full_vn": "những viên đá nhỏ ở trên cao rơi như mưa xuống chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697294_0574fa4918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697294_b99c19ee12_o.png",
+      "id_image": "shower_167937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456898_65b93afa73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456898_170e70f38f_o.png",
+      "id_image": "shower_817753"
+    }
+  ]
+}

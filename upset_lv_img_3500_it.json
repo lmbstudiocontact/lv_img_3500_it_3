@@ -1,0 +1,115 @@
+{
+  "english": "upset",
+  "phat_am": "[ʌp'set]",
+  "list_type": [
+    {
+      "type": "ngoại động từ upset",
+      "list_m": [
+        {
+          "m_full_vn": "làm đổ, đánh đổ, lật đổ; đánh ngã",
+          "list_en_vn": [
+            {
+              "full_en": "to upset a bottle",
+              "full_vn": "đánh đổ cái chai"
+            },
+            {
+              "full_en": "to upset a car",
+              "full_vn": "đánh đổ xe"
+            },
+            {
+              "full_en": "to upset someone",
+              "full_vn": "đánh ngã ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) làm lật úp (thuyền...)"
+        },
+        {
+          "m_full_vn": "làm rối tung, làm đảo lộn; phá vỡ (kế hoạch..)",
+          "list_en_vn": [
+            {
+              "full_en": "to upset a room",
+              "full_vn": "làm lộn bậy cả căn phòng"
+            },
+            {
+              "full_en": "to upset a plan",
+              "full_vn": "làm đảo lộn kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm khó chịu, cảm thấy khó chịu; làm rối loạn (bộ máy tiêu hoá...)"
+        },
+        {
+          "m_full_vn": "làm bối rối, làm lo lắng, làm đau khổ (về tâm trí, tình cảm)",
+          "list_en_vn": [
+            {
+              "full_en": "the least thing upsets him",
+              "full_vn": "một tí cái gì cũng làm cho anh ấy lo ngại bối rối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chồn",
+          "list_one_mean": [
+            {
+              "id_full_en": "upset the somebody's applecart",
+              "list_im": [
+                {
+                  "im_full_vn": "đảo lộn"
+                },
+                {
+                  "im_full_vn": "bác bỏ một lý thuyết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đổ, sự lật đổ; sự bị lật đổ; sự xáo trộn, sự bị xáo trộn"
+        },
+        {
+          "m_full_vn": "tình trạng lộn xộn, tình trạng rối loạn"
+        },
+        {
+          "m_full_vn": "sự bối rối, sự lúng túng"
+        },
+        {
+          "m_full_vn": "sự cãi lộn, sự bất hoà"
+        },
+        {
+          "m_full_vn": "sự rối loạn tiêu hoá"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) kết quả bất ngờ"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự chồn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396407_53a112bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396407_5d841bbd50_o.png",
+      "id_image": "upset_1972750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706119_9190955904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706119_a60a3513e4_o.png",
+      "id_image": "upset_3508646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396332_dcf03a058f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396332_87a6ec59e9_o.png",
+      "id_image": "upset_4138862"
+    }
+  ]
+}

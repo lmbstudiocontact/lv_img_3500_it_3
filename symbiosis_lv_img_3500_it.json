@@ -1,0 +1,32 @@
+{
+  "english": "symbiosis",
+  "phat_am": "[,simbi'ousis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều symbioses",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) sự cộng sinh (giữa hai loài, hai cơ thể.. cùng có lợi)",
+          "list_en_vn": [
+            {
+              "full_en": "the symbiosis between a plant and the insect that fertilizes it",
+              "full_vn": "sự cộng sinh giữa cây và côn trùng làm cho cây thụ phấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446243_43dc61d67d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446243_c0d3b6203e_o.png",
+      "id_image": "symbiosis_2050271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375892_e40679f93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375892_778a5b35f0_o.png",
+      "id_image": "symbiosis_4178872"
+    }
+  ]
+}

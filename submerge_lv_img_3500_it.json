@@ -1,0 +1,68 @@
+{
+  "english": "submerge",
+  "phat_am": "[səb'mə:dʒ]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dìm; nhận chìm",
+          "list_en_vn": [
+            {
+              "full_en": "a wall submerged by flood water",
+              "full_vn": "một bức tường bị nước lũ nhận chìm"
+            },
+            {
+              "full_en": "she submerged all her wedding presents in the fish pond",
+              "full_vn": "cô ta dìm hết quà cưới xuống ao cá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "áp đảo; tràn ngập; hoàn toàn phủ kín",
+          "list_en_vn": [
+            {
+              "full_en": "the main argument was submerged in a mass of tedious detail",
+              "full_vn": "lý lẽ chính chìm ngập trong một mớ chi tiết chán ngắt"
+            },
+            {
+              "full_en": "to be submerged by housework",
+              "full_vn": "quá bận bịu việc nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lặn",
+          "list_one_mean": [
+            {
+              "id_full_en": "the submerged tenth",
+              "list_im": [
+                {
+                  "im_full_vn": "tầng lớp cùng khổ trong xã hội"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the submarine submerged to avoid the enemy patrol-boat",
+              "full_vn": "chiếc tàu ngầm lặn xuống để tránh tàu tuần của địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077650_cfecb440e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077650_63e8a99e23_o.png",
+      "id_image": "submerge_2364523"
+    }
+  ]
+}

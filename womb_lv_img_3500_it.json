@@ -1,0 +1,51 @@
+{
+  "english": "womb",
+  "phat_am": "[wu:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) dạ con, tử cung (trong cơ thể nữ giới và các loài có vú khác)"
+        },
+        {
+          "m_full_vn": "nơi thứ gì được sản sinh ra, được sản xuất ra"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ruột, trung tâm, lòng",
+          "list_one_mean": [
+            {
+              "id_full_en": "from the womb to the tomb",
+              "list_im": [
+                {
+                  "im_full_vn": "từ khi lọt lòng đến lúc chết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the earth's womb",
+              "full_vn": "trong lòng quả đất"
+            },
+            {
+              "full_en": "in the womb of times",
+              "full_vn": "trong tương lai"
+            },
+            {
+              "full_en": "in the womb of night",
+              "full_vn": "trong đêm tối dày đặc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335126_6c05c3f852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335126_dbfaf2813d_o.png",
+      "id_image": "womb_1662956"
+    }
+  ]
+}

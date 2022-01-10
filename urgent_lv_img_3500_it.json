@@ -1,0 +1,44 @@
+{
+  "english": "urgent",
+  "phat_am": "['ə:dʒənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đòi hỏi sự chú ý, hành động hoặc quyết định ngay tức khắc; gấp; khẩn cấp",
+          "list_en_vn": [
+            {
+              "full_en": "urgent message /case /cry for help",
+              "full_vn": "một bức thư/trường hợp/tiếng kêu cứu khẩn cấp"
+            },
+            {
+              "full_en": "it's most urgent that we operate",
+              "full_vn": "chúng ta phải hành động hết sức khẩn cấp"
+            },
+            {
+              "full_en": "my car is in urgent need of repair",
+              "full_vn": "xe ô tô của tôi cần được sửa chữa gấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỏ ra rằng cái gì là cấp bách; kiên trì trong sự đòi hỏi; khẩn nài; năn nỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in an urgent whisper",
+              "full_vn": "nói thì thầm với giọng khẩn nài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351281_b083e799d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351281_942d77b5f9_o.png",
+      "id_image": "urgent_5705239"
+    }
+  ]
+}

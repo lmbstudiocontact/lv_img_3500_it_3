@@ -1,0 +1,124 @@
+{
+  "english": "veil",
+  "phat_am": "[veil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạng che mặt; khăn trùm",
+          "list_en_vn": [
+            {
+              "full_en": "to raise the veil",
+              "full_vn": "nâng mạng che mặt lên"
+            },
+            {
+              "full_en": "to drop the veil",
+              "full_vn": "bỏ mạng che mặt xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trướng, màn",
+          "list_en_vn": [
+            {
+              "full_en": "the veil of the temple",
+              "full_vn": "bức trướng của ngôi đền"
+            },
+            {
+              "full_en": "a veil of clound",
+              "full_vn": "màn mây"
+            },
+            {
+              "full_en": "a veil of mist",
+              "full_vn": "màn sương"
+            },
+            {
+              "full_en": "the veil of night",
+              "full_vn": "màn đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bê ngoài giả dối, lốt",
+          "list_en_vn": [
+            {
+              "full_en": "under the veil of religion",
+              "full_vn": "đột lốt tôn giáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) màn, vật che giấu, vật ngụy trang"
+        },
+        {
+          "m_full_vn": "tiếng khàn, tiếng khản (do bị cảm lạnh...)"
+        },
+        {
+          "m_full_vn": "(như) velum",
+          "list_one_mean": [
+            {
+              "id_full_en": "beyond the veil",
+              "list_im": [
+                {
+                  "im_full_vn": "ở thế giới bên kia, ở âm phủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the veil",
+              "list_im": [
+                {
+                  "im_full_vn": "đi tu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che mạng",
+          "list_en_vn": [
+            {
+              "full_en": "to veil one's face",
+              "full_vn": "che mặt bằng mạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che, ám, phủ",
+          "list_en_vn": [
+            {
+              "full_en": "a cloud veiled the sun",
+              "full_vn": "một đám mây che mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che đậy, che giấu, giấu kín",
+          "list_en_vn": [
+            {
+              "full_en": "to veil one's purpose",
+              "full_vn": "chay đậy mục dích của mình"
+            },
+            {
+              "full_en": "to be veiled in mystery",
+              "full_vn": "bị giấu kín trong màn bí mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084390_d2c99ef7b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084390_9300d61a21_o.png",
+      "id_image": "veil_5262991"
+    }
+  ]
+}

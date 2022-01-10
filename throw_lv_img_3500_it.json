@@ -1,0 +1,395 @@
+{
+  "english": "throw",
+  "phat_am": "[θrou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ném, sự vứt, sự quăng, sự liệng"
+        },
+        {
+          "m_full_vn": "khoảng ném xa"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự vật ngã, sự quăng xuống đất"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) xê dịch của phay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ threw , thrown",
+      "list_m": [
+        {
+          "m_full_vn": "ném, vứt, quăng, quẳng, tung, liệng, lao",
+          "list_en_vn": [
+            {
+              "full_en": "to throw oneself forwards",
+              "full_vn": "lao tới, xông tới trước"
+            },
+            {
+              "full_en": "she threw me an angry look",
+              "full_vn": "cô ta ném cho tôi một cái nhìn giận dữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) vật ngã",
+          "list_en_vn": [
+            {
+              "full_en": "to throw an opponent",
+              "full_vn": "vật ngã một địch thủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ném vào, mang vào, đưa vào",
+          "list_en_vn": [
+            {
+              "full_en": "to throw someone into an prison",
+              "full_vn": "bỏ ai vào tù"
+            },
+            {
+              "full_en": "to throw all one's energies into an undertaking",
+              "full_vn": "đem hết sức mình vào một việc gì"
+            },
+            {
+              "full_en": "to throw a look at",
+              "full_vn": "đưa mắt nhìn, lườm"
+            },
+            {
+              "full_en": "to throw light on a matter",
+              "full_vn": "soi sáng (nêu rõ) một vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho rơi vào, bỗng đẩy vào (một tình trạng)",
+          "list_en_vn": [
+            {
+              "full_en": "to throw the crowd into disorder",
+              "full_vn": "làm cho đám đông rối loạn"
+            },
+            {
+              "full_en": "to be thrown upon",
+              "full_vn": "thuộc về, rôi vào đầu (ai) trách nhiệm, công việc)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc, cởi (quần áo..) nhanh, cẩu thả",
+          "list_en_vn": [
+            {
+              "full_en": "to threw on his uniform",
+              "full_vn": "khoác vội bộ đồng phục"
+            },
+            {
+              "full_en": "to threw off her coat",
+              "full_vn": "cởi vội chiếc áo khoác của cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lột (da); thay (lông)",
+          "list_en_vn": [
+            {
+              "full_en": "the snake throws its skin",
+              "full_vn": "rắn lột da"
+            },
+            {
+              "full_en": "the bird throws its feather",
+              "full_vn": "chim thay lông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ (thỏ, chim bồ câu...)"
+        },
+        {
+          "m_full_vn": "xe (tơ)"
+        },
+        {
+          "m_full_vn": "nắn hình, trau (đồ gốm trên bàn quay)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ném, quăng"
+        },
+        {
+          "m_full_vn": "chơi súc sắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to throw about",
+              "list_im": [
+                {
+                  "im_full_vn": "quẳng chỗ này chỗ nọ, vứt bừa bãi, vung phí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw one's money about",
+                      "full_vn": "xài phí tiền bạc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw aside",
+              "list_im": [
+                {
+                  "im_full_vn": "quẳng ra một bên, ném ra một bên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw away",
+              "list_im": [
+                {
+                  "im_full_vn": "ném đi, vứt đi, liệng đi, bỏ rơi vãi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw away a card",
+                      "full_vn": "vứt con bài xấu"
+                    },
+                    {
+                      "full_en": "to throw away a chance",
+                      "full_vn": "bỏ qua một cơ hội"
+                    },
+                    {
+                      "full_en": "to throw away one's life",
+                      "full_vn": "bỏ phí cuộc đời, hy sinh cuộc đời một cách vô ích"
+                    },
+                    {
+                      "full_en": "it was throwing words away",
+                      "full_vn": "chỉ uổng lời"
+                    },
+                    {
+                      "full_en": "advice is thrown away on him",
+                      "full_vn": "khuyên hắn chỉ phí lời"
+                    },
+                    {
+                      "full_en": "she threw herself away on a scoundrel",
+                      "full_vn": "cô ta lấy một tên vô lại thật là phí cả cuộc đời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw back",
+              "list_im": [
+                {
+                  "im_full_vn": "ném lại, quăng trở lại; đẩy lùi; phản chiếu, phản xạ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw back a part of light",
+                      "full_vn": "phản chiếu lại một phần ánh sáng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(sinh vật học) lại giống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw by",
+              "list_im": [
+                {
+                  "im_full_vn": "để lại, bỏ lại, gạt ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw in",
+              "list_im": [
+                {
+                  "im_full_vn": "ném vào, vứt vào; xen vào; thêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw oneself in",
+                      "full_vn": "bắt tay vào, lao mình vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw off",
+              "list_im": [
+                {
+                  "im_full_vn": "ném đi, quăng đi; phun ra; bỏ, bỏ đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw off one's pursuers",
+                      "full_vn": "bỏ (thoát khỏi) những kẻ đuổi theo"
+                    },
+                    {
+                      "full_en": "to throw off an epigram",
+                      "full_vn": "đưa ra một bài thơ trào phúng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thả (chó săn)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) bắt đầu, khởi sự"
+                },
+                {
+                  "im_full_vn": "làm cho trật bánh (xe lửa)"
+                },
+                {
+                  "im_full_vn": "cởi (quần áo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw out",
+              "list_im": [
+                {
+                  "im_full_vn": "ném ra, quăng ra; đuổi ra, đẩy ra; phóng ra, phát ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw out one's chest",
+                      "full_vn": "ưỡn ngực ra"
+                    },
+                    {
+                      "full_en": "to throw out a challenge",
+                      "full_vn": "thách đấu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đem toàn sức, bắt tay ào"
+                },
+                {
+                  "im_full_vn": "vượt, át; phá ngang"
+                },
+                {
+                  "im_full_vn": "văng (lời thoá mạ)"
+                },
+                {
+                  "im_full_vn": "phủ nhận, bác (một đạo luật)"
+                },
+                {
+                  "im_full_vn": "đâm (rễ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw over",
+              "list_im": [
+                {
+                  "im_full_vn": "rời bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw together",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp lại, tập trung lại, tụ họp lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw up",
+              "list_im": [
+                {
+                  "im_full_vn": "(y học) thổ ra, nôn ra"
+                },
+                {
+                  "im_full_vn": "kéo lên (mành mành...)"
+                },
+                {
+                  "im_full_vn": "bỏ, thôi (việc)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw up one's eyes",
+                      "full_vn": "trợn mắt lên (sợ hãi)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw in one's lot with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng chia sẻ số phận với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw oneself down",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm vật xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw oneself on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "phó mặc cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw oneself on the mercy of the court",
+                      "full_vn": "phó mặc cho toà xét xử"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw open",
+              "list_im": [
+                {
+                  "im_full_vn": "mở to, mở tung, mở mạnh; (nghĩa bóng) mở cửa, để mặc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to throw open the door to abuses",
+                      "full_vn": "mặc cho tha hồ nhung lạm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw up the sponge",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu thua (đánh quyền Anh...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393577_dbca405dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393577_72c2850869_o.png",
+      "id_image": "throw_1128888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348756_f21660b147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348756_974b977eee_o.png",
+      "id_image": "throw_5612843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463583_762ea9fb3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463583_9a1d688688_o.png",
+      "id_image": "throw_843900"
+    }
+  ]
+}

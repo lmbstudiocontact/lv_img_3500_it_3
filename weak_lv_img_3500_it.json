@@ -1,0 +1,164 @@
+{
+  "english": "weak",
+  "phat_am": "[wi:k]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu, yếu ớt, thiếu sức khoẻ, thiếu sức mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to grow weak",
+              "full_vn": "yếu đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu, dễ gãy, dễ cong"
+        },
+        {
+          "m_full_vn": "thiếu nghị lực, yếu đuối, mềm yếu, nhu nhược, dễ bị đánh bại",
+          "list_en_vn": [
+            {
+              "full_en": "a weak moment",
+              "full_vn": "một phút yếu đuối"
+            },
+            {
+              "full_en": "weak character",
+              "full_vn": "tính tình nhu nhược mềm yếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu kém, không chắc chắn, không thành công (về mặt (tài chính))",
+          "list_en_vn": [
+            {
+              "full_en": "a weak market",
+              "full_vn": "một thị trường yếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không hoạt động tốt, kém cỏi",
+          "list_en_vn": [
+            {
+              "full_en": "weak in algebra",
+              "full_vn": "kém về đại số"
+            },
+            {
+              "full_en": "weak memory",
+              "full_vn": "trí nhớ kém"
+            },
+            {
+              "full_en": "weak sight and hearing",
+              "full_vn": "mắt kém tai nghễnh ngãng"
+            },
+            {
+              "full_en": "a weak team of volleyball players",
+              "full_vn": "một đội bóng chuyền kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu ớt, không thuyết phục, không mạnh mẽ (lý lẽ..)",
+          "list_en_vn": [
+            {
+              "full_en": "weak arguments",
+              "full_vn": "những lý lẽ không có sức thuyết phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loãng, nhạt, chứa đựng một tỷ lệ nước cao (chất lỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "weak tea",
+              "full_vn": "trà loãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không dễ nhận thấy, yếu ớt, mờ nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "a weak smile",
+              "full_vn": "một nụ cười yếu ớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kém cỏi, kém về, không đạt một tiêu chuẩn cao",
+          "list_en_vn": [
+            {
+              "full_en": "the book is weak on the medieval period",
+              "full_vn": "cuốn sách yếu khi nói về thời trung cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) theo quy tắc ( động từ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "weak at the knees",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bủn rủn tay chân (vì xúc động, sợ hãi..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the weaker sex",
+              "list_im": [
+                {
+                  "im_full_vn": "phái yếu, phụ nữ nói chung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "weak in the head",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngu đần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a weak moment",
+              "list_im": [
+                {
+                  "im_full_vn": "phút yếu đuối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the weak ) những người nghèo, ốm đau và bất lực, nên dễ bị bóc lột, tiêm nhiễm...",
+          "list_en_vn": [
+            {
+              "full_en": "he argued that it was the role of governments to protect the weak",
+              "full_vn": "ông ta lập luận rằng vai trò của chính phủ là bảo vệ người nghèo khổ, ốm yếu"
+            },
+            {
+              "full_en": "the struggle of the weak against their oppressors",
+              "full_vn": "cuộc đấu tranh của người bị bóc lột chống lại kẻ áp bức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449823_13f9c3cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449823_6420ff34d3_o.png",
+      "id_image": "weak_1616468"
+    }
+  ]
+}

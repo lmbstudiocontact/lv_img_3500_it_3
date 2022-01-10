@@ -1,0 +1,70 @@
+{
+  "english": "slave",
+  "phat_am": "[sleiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nô lệ (đen & bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to treat somebody like a slave",
+              "full_vn": "đối xử với ai như nô lệ"
+            },
+            {
+              "full_en": "a slave owner",
+              "full_vn": "chủ của nô lệ; chủ nô"
+            },
+            {
+              "full_en": "a slave to drink /convention",
+              "full_vn": "(nghĩa bóng) kẻ nô lệ vào rượu/tục lệ"
+            },
+            {
+              "full_en": "a slave to fashion",
+              "full_vn": "kẻ lúc nào cũng đua đòi theo thời trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người làm việc đầu tắt mặt tối; thân trâu ngựa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to slave away at something ) làm việc đầu tắt mặt tối; làm việc như nô lệ; làm quần quật",
+          "list_en_vn": [
+            {
+              "full_en": "to slave from dawn until midnight",
+              "full_vn": "làm việc đầu tắt mặt tối từ sáng sớm đến khuya"
+            },
+            {
+              "full_en": "I've been slaving at the housework all day",
+              "full_vn": "suốt ngày tôi quần quật làm việc nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689619_ed169e66aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689619_f78fd7baef_o.png",
+      "id_image": "slave_5773048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689574_248c171dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689574_8a5ae9b923_o.png",
+      "id_image": "slave_5906183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379397_46685ef08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379397_a59ea76cdb_o.png",
+      "id_image": "slave_6146655"
+    }
+  ]
+}

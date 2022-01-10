@@ -1,0 +1,64 @@
+{
+  "english": "stout",
+  "phat_am": "[staut]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc, khoẻ, bền",
+          "list_en_vn": [
+            {
+              "full_en": "stout boots for climbing",
+              "full_vn": "những đôi giày chắc, khoẻ để leo núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả quyết, dũng cảm, can đảm; kiên cường, cứng cáp",
+          "list_en_vn": [
+            {
+              "full_en": "a stout fellow",
+              "full_vn": "(từ cổ, nghĩa cổ) anh chàng dũng cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mập mạp; to khoẻ; hơi béo (người)",
+          "list_en_vn": [
+            {
+              "full_en": "she's growing rather stout",
+              "full_vn": "bà ta có phần ngày càng đẫy ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chắc mập, người mập mạp"
+        },
+        {
+          "m_full_vn": "quần áo cho người chắc mập, quần áo cho người mập mạp"
+        },
+        {
+          "m_full_vn": "loại bia đen, nặng; cốc bia đen, nặng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344436_4f1205863c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344436_81069a2837_o.png",
+      "id_image": "stout_2534084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081830_7010f28288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081830_19701abdaa_o.png",
+      "id_image": "stout_2534088"
+    }
+  ]
+}

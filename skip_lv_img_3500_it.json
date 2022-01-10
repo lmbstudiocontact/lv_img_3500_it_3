@@ -1,0 +1,143 @@
+{
+  "english": "skip",
+  "phat_am": "[skip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thùng đựng (bằng kim loại để chở gạch vụn.. nhất là từ một địa điểm đang xây nhà)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đội trưởng, thủ quân"
+        },
+        {
+          "m_full_vn": "ông bầu"
+        },
+        {
+          "m_full_vn": "thùng lồng (để chuyển người, vật liệu lên xuống hầm mỏ)"
+        },
+        {
+          "m_full_vn": "(như) skep"
+        },
+        {
+          "m_full_vn": "sự nhảy dây"
+        },
+        {
+          "m_full_vn": "sự nhảy cách quãng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy, bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to skip a passage",
+              "full_vn": "nhảy một đoạn"
+            },
+            {
+              "full_en": "to skip a form",
+              "full_vn": "nhảy một lớp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ qua, không làm tròn, chểnh mảng (nhiệm vụ..)",
+          "list_en_vn": [
+            {
+              "full_en": "skip the first chapter and start on page 25",
+              "full_vn": "bỏ qua chương đầu và bắt đầu từ trang 25"
+            },
+            {
+              "full_en": "to skip the descriptions",
+              "full_vn": "bỏ không đọc những đoạn miêu tả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ, không dự (cuộc họp..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "skip it !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cho qua đi; đừng nói gì thêm về điều đó nữa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy cách quãng, nhảy chân sáo",
+          "list_en_vn": [
+            {
+              "full_en": "a child skipping into the house",
+              "full_vn": "môt đứa bé nhảy chân sáo vào nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy dây"
+        },
+        {
+          "m_full_vn": "(thông tục) nhảy (đi từ chỗ này sang chỗ khác một cách nhanh nhẹn hay thất (thường)); bỏ quãng",
+          "list_en_vn": [
+            {
+              "full_en": "to skip over to Paris for the weekend",
+              "full_vn": "nhảy sang Paris nghỉ cuối tuần"
+            },
+            {
+              "full_en": "to skip from one subject to another",
+              "full_vn": "đang chuyện nọ nhảy sang chuyện kia"
+            },
+            {
+              "full_en": "he skips as he reads",
+              "full_vn": "khi đọc, anh ấy bỏ quãng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy lớp"
+        },
+        {
+          "m_full_vn": "( + off ) chuồn, lủi, đi mất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335311_fac11040df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335311_f71764d3f0_o.png",
+      "id_image": "skip_1236502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450278_e35c1a50d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450278_d3dc2daaf3_o.png",
+      "id_image": "skip_2368554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690409_c780de9dcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690409_f71afdeeda_o.png",
+      "id_image": "skip_2372117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072145_76c73272bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072145_401951b8d1_o.png",
+      "id_image": "skip_4483469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072120_e686bcfca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072120_d472a504fd_o.png",
+      "id_image": "skip_4631777"
+    }
+  ]
+}

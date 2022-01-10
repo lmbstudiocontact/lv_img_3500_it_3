@@ -1,0 +1,101 @@
+{
+  "english": "treasure",
+  "phat_am": "['treʒə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều treasures",
+      "list_m": [
+        {
+          "m_full_vn": "châu báu (vàng, bạc, đá quý..); kho báu",
+          "list_en_vn": [
+            {
+              "full_en": "to amass a treasure",
+              "full_vn": "tích luỹ của cải"
+            },
+            {
+              "full_en": "to bury a treasure",
+              "full_vn": "chôn của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) của quý, vật quý (vật có giá trị cao)",
+          "list_en_vn": [
+            {
+              "full_en": "art treasures",
+              "full_vn": "các đồ nghệ thuật quý"
+            },
+            {
+              "full_en": "his library contains treasures",
+              "full_vn": "tủ sách của anh ấy có nhiều sách quý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài sản tích lũy được"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) của quý; người yêu quý, người đáng giá, người có giá trị cao",
+          "list_en_vn": [
+            {
+              "full_en": "my dearest treasure !",
+              "full_vn": "của quý của anh!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quý trọng, quý như vàng, đánh giá cao",
+          "list_en_vn": [
+            {
+              "full_en": "he treasures your letters",
+              "full_vn": "anh ấy quý những bức thư của chị như vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tích luỹ, để dành, trữ (của cải, châu báu...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trân trọng, giữ gìn, coi như của quý, rất yêu thương",
+          "list_en_vn": [
+            {
+              "full_en": "I treasure your friendship",
+              "full_vn": "tôi rất quý trọng tình bạn của anh"
+            },
+            {
+              "full_en": "he treasures up memories of his childhood",
+              "full_vn": "anh ấy trân trọng những ký ức thời thơ ấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072445_f7df7c0559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072445_8d1cc49ea9_o.png",
+      "id_image": "treasure_1862659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335536_a85756ed01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335536_7c2a254487_o.png",
+      "id_image": "treasure_2642175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690714_ef13b6209d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690714_c5f2bdbc01_o.png",
+      "id_image": "treasure_2653402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380562_cf8d0f4beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380562_77f8ec08ac_o.png",
+      "id_image": "treasure_6263986"
+    }
+  ]
+}

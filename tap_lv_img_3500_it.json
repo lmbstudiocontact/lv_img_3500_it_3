@@ -1,0 +1,204 @@
+{
+  "english": "tap",
+  "phat_am": "[tæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vòi, khoá (nước) (như) faucet",
+          "list_en_vn": [
+            {
+              "full_en": "to turn the tap on",
+              "full_vn": "mở vòi"
+            },
+            {
+              "full_en": "to turn the tap off",
+              "full_vn": "đóng vòi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mắc rẽ vào điện thoại để nghe trộm"
+        },
+        {
+          "m_full_vn": "nút thùng rượu"
+        },
+        {
+          "m_full_vn": "loại, hạng (rượu)",
+          "list_en_vn": [
+            {
+              "full_en": "wine of an excellent tap",
+              "full_vn": "rượu vang thượng hạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quán rượu, tiệm rượu"
+        },
+        {
+          "m_full_vn": "mẻ thép (chảy ra lò)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bàn ren, ta-rô",
+          "list_one_mean": [
+            {
+              "id_full_en": "on tap",
+              "list_im": [
+                {
+                  "im_full_vn": "trong thùng có vòi; trong thùng (về bia..)"
+                },
+                {
+                  "im_full_vn": "có thể có ngay khi cần đến"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ráp vòi (vào thùng); mở vòi, đóng vòi"
+        },
+        {
+          "m_full_vn": "rút chất lỏng ra từ (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to tap a cask of cider",
+              "full_vn": "rút rượu táo trong thùng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạo mủ (chích, cắt vỏ cây để lấy nhựa); gom (nhựa cây) bằng cách cạo mủ",
+          "list_en_vn": [
+            {
+              "full_en": "to tap rubber-trees",
+              "full_vn": "rạch cây cao su lấy mủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoan, tiện ren"
+        },
+        {
+          "m_full_vn": "cho (thép) chảy ra (khỏi lò)"
+        },
+        {
+          "m_full_vn": "rút ra, bòn rút; vòi, bắt đưa, bắt nộp",
+          "list_en_vn": [
+            {
+              "full_en": "to tap someone for money",
+              "full_vn": "vòi tiền ai; bòn rút tiền ai"
+            },
+            {
+              "full_en": "to tap someone for information",
+              "full_vn": "bắt ai cung cấp tin tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mắc rẽ vào điện thoại (để nghe trộm)"
+        },
+        {
+          "m_full_vn": "đề cập đến, bàn đến (một vấn đề)"
+        },
+        {
+          "m_full_vn": "đặt quan hệ với, đặt quan hệ buôn bán với (một nước)"
+        },
+        {
+          "m_full_vn": "cầu xin (ai)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ren"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rút (chất lỏng) qua vòi của thùng",
+          "list_en_vn": [
+            {
+              "full_en": "to tap off some cider",
+              "full_vn": "mở vòi rút rượu táo ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều taps",
+      "list_m": [
+        {
+          "m_full_vn": "cái gõ nhẹ, cái vỗ nhẹ, cái đập nhẹ, cái tát khẽ"
+        },
+        {
+          "m_full_vn": "tiếng gõ nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to hear a tap at the window",
+              "full_vn": "nghe có tiếng gõ nhẹ ở cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ,nghĩa Mỹ) (quân sự) tiếng kèn hiệu cuối cùng trong ngày, báo hiệu tắt hết các đèn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gõ nhẹ, vỗ nhẹ, đập nhẹ, khẽ đập, tát nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to tap someone on the shoulder",
+              "full_vn": "vỗ nhẹ vào vai ai"
+            },
+            {
+              "full_en": "to tap at the door",
+              "full_vn": "gõ nhẹ vào cửa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at/on something ) gõ",
+          "list_en_vn": [
+            {
+              "full_en": "who's that tapping at the window ?",
+              "full_vn": "ai gõ cửa sổ thế?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063680_9b311955ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063680_40a1e2a460_o.png",
+      "id_image": "tap_169798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371477_eeda535cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371477_bbc3a67fa8_o.png",
+      "id_image": "tap_219664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441788_1e1f1e690e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441788_49eb360d6d_o.png",
+      "id_image": "tap_246537"
+    }
+  ]
+}

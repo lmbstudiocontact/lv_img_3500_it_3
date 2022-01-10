@@ -1,0 +1,37 @@
+{
+  "english": "whirligig",
+  "phat_am": "['wə:ligig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con cù, con quay"
+        },
+        {
+          "m_full_vn": "vòng ngựa gỗ (ở các công viên cho trẻ con chơi)"
+        },
+        {
+          "m_full_vn": "sự quay cuồng, sự xoay vần",
+          "list_en_vn": [
+            {
+              "full_en": "the whirligig of time",
+              "full_vn": "sự xoay vần của thế sự"
+            },
+            {
+              "full_en": "the whirligig of life",
+              "full_vn": "sự thăng trầm của cuộc đời; sự lên voi xuống chó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330921_8323fd6d33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330921_4fc47f957c_o.png",
+      "id_image": "whirligig_191504"
+    }
+  ]
+}

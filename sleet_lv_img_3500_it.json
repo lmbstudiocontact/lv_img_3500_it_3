@@ -1,0 +1,45 @@
+{
+  "english": "sleet",
+  "phat_am": "[sli:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa tuyết, mưa đá"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng với it , thời trong thời tiến hành)",
+          "list_en_vn": [
+            {
+              "full_en": "it's sleeting",
+              "full_vn": "trời đang mưa tuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378697_d1064872d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378697_75efcd77bb_o.png",
+      "id_image": "sleet_2581087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333746_57522077e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333746_ba3989f61e_o.png",
+      "id_image": "sleet_3750467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688809_88023d6fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688809_5e7211eb34_o.png",
+      "id_image": "sleet_3755313"
+    }
+  ]
+}

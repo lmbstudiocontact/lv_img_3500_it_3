@@ -1,0 +1,76 @@
+{
+  "english": "tunnel",
+  "phat_am": "['tʌnl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường hầm (nhân tạo)"
+        },
+        {
+          "m_full_vn": "hang (chuột...)"
+        },
+        {
+          "m_full_vn": "ống (lò sưởi)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) đường hầm nằm ngang"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo (một con đường xuyên qua cái gì) bằng cách đào một đường hầm",
+          "list_en_vn": [
+            {
+              "full_en": "to tunnel a hill",
+              "full_vn": "đào đường hầm xuyên qua một quả đồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào đường hầm (theo một hướng xác định)",
+          "list_en_vn": [
+            {
+              "full_en": "the prisoners had escaped by tunnelling",
+              "full_vn": "tù nhân đã đào đường hầm trốn thoát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua bằng đường hầm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684234_7c252ff509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684234_7b30bba14a_o.png",
+      "id_image": "tunnel_1185510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329241_dbaea4e7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329241_b0fe402c4f_o.png",
+      "id_image": "tunnel_1996240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329171_876200d13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329171_c1cf542f59_o.png",
+      "id_image": "tunnel_4300135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065945_99fd6f6732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065945_5f4d2421ea_o.png",
+      "id_image": "tunnel_5331778"
+    }
+  ]
+}

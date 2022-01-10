@@ -1,0 +1,136 @@
+{
+  "english": "security",
+  "phat_am": "[si'kjuərəti]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều securities",
+      "list_m": [
+        {
+          "m_full_vn": "sự an toàn (khỏi bị nguy hiểm, khỏi vướng lo âu)",
+          "list_en_vn": [
+            {
+              "full_en": "children who lack the security of a good home",
+              "full_vn": "những đứa trẻ thiếu sự yên ổn của một mái nhà ấm cúng"
+            },
+            {
+              "full_en": "to have the security of a guaranteed pension",
+              "full_vn": "yên tâm vì có tiền hưu bảo đảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự an ninh",
+          "list_en_vn": [
+            {
+              "full_en": "there was tight security for the Pope's visit",
+              "full_vn": "đã có biện pháp an ninh chặt chẽ cho chuyến viếng thăm của Đức giáo hoàng"
+            },
+            {
+              "full_en": "we need greater security",
+              "full_vn": "chúng tôi cần được an ninh hơn nữa"
+            },
+            {
+              "full_en": "national security",
+              "full_vn": "an ninh quốc gia"
+            },
+            {
+              "full_en": "security forces",
+              "full_vn": "lực lượng an ninh"
+            },
+            {
+              "full_en": "a security van",
+              "full_vn": "xe vận tải an toàn"
+            },
+            {
+              "full_en": "a high security prison",
+              "full_vn": "một nhà tù hết sức cẩn mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo đảm; vật bảo đảm; vật thế chấp",
+          "list_en_vn": [
+            {
+              "full_en": "security for a debt",
+              "full_vn": "sự bảo đảm một món nợ"
+            },
+            {
+              "full_en": "to give something as (a ) security",
+              "full_vn": "đưa cái gì ra bảo đảm"
+            },
+            {
+              "full_en": "to lend money on security",
+              "full_vn": "cho vay tiền có bảo đảm"
+            },
+            {
+              "full_en": "to lend money without security",
+              "full_vn": "cho vay không có vật bảo đảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tài liệu hoặc giấy chứng nhận cho biết ai là sở hữu chủ của cổ phiếu, cổ phần, trái khoán; chứng khoán",
+          "list_one_mean": [
+            {
+              "id_full_en": "security check",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thẩm tra lý lịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a security risk",
+              "list_im": [
+                {
+                  "im_full_vn": "người mà quan điểm chính trị, thói quen cá nhân... có thể gây nguy hiểm cho an ninh quốc gia; người không bảo đảm về mặt bảo vệ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's a poor /good security",
+                      "full_vn": "cô ta là người ít/rất đảm bảo về mặt bảo vệ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand security for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng bảo đảm cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the security market",
+              "full_vn": "thị trường chứng khoán"
+            },
+            {
+              "full_en": "government securities",
+              "full_vn": "công trái nhà nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368212_9a470c151a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368212_1479218e5a_o.png",
+      "id_image": "security_1567975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060065_0f2b249d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060065_125c990c11_o.png",
+      "id_image": "security_171675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368222_9b38bb114a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368222_b2ba28d9ac_o.png",
+      "id_image": "security_748900"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "sideboard",
+  "phat_am": "['saidbɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn thường có ngăn kéo và ô để đồ sứ; tủ bát đĩa; tủ ly; búp-phê"
+        },
+        {
+          "m_full_vn": "ván cạnh, ván bên",
+          "list_en_vn": [
+            {
+              "full_en": "the sideboards of a waggon",
+              "full_vn": "những tấm ván bên của toa xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) mảng tóc mọc bên cạnh mặt người, phía trước tai; tóc mai (cũng) sideburns"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455263_a844ccc226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455263_fac0d0dc7b_o.png",
+      "id_image": "sideboard_1691582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340381_d08692e5db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340381_dd1fa9e3e4_o.png",
+      "id_image": "sideboard_417432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385352_cd1a549909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385352_ac3f0ed77b_o.png",
+      "id_image": "sideboard_673302"
+    }
+  ]
+}

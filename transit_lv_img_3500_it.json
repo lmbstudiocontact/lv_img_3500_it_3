@@ -1,0 +1,86 @@
+{
+  "english": "transit",
+  "phat_am": "[trænsit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đi qua, sự vượt qua"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự quá cảnh",
+          "list_en_vn": [
+            {
+              "full_en": "goods in transit",
+              "full_vn": "hàng hoá quá cảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lối đi, con đường",
+          "list_en_vn": [
+            {
+              "full_en": "the overland transit",
+              "full_vn": "đường bộ"
+            },
+            {
+              "full_en": "in transit",
+              "full_vn": "dọc đường"
+            },
+            {
+              "full_en": "lost in transit",
+              "full_vn": "thất lạc dọc đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thiên văn học) sự vận động của một vật thể trong vũ trụ; sự đi qua",
+          "list_en_vn": [
+            {
+              "full_en": "the transit of Venus",
+              "full_vn": "sao Kim đi ngang qua mặt trời"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thiên văn học) đi qua; qua kinh tuyến",
+          "list_en_vn": [
+            {
+              "full_en": "Venus transits the sun's disc",
+              "full_vn": "sao Kim đi qua mặt trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi qua"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá cảnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693079_4f4962d22d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693079_5d9601b46c_o.png",
+      "id_image": "transit_3456126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337746_ae6055b76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337746_b050d3cc70_o.png",
+      "id_image": "transit_4283286"
+    }
+  ]
+}

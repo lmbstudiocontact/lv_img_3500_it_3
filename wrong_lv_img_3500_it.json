@@ -1,0 +1,344 @@
+{
+  "english": "wrong",
+  "phat_am": "[rɔη]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( wrong to do something ) không đúng đắn về đạo lý; sai; bậy bạ",
+          "list_en_vn": [
+            {
+              "full_en": "it is wrong to steal",
+              "full_vn": "ăn cắp là bậy"
+            },
+            {
+              "full_en": "it is wrong to speak ill of one's companion",
+              "full_vn": "nói xấu bạn là không tốt"
+            },
+            {
+              "full_en": "you were wrong to take the car without permission",
+              "full_vn": "anh lấy xe mà không được phép là bậy"
+            },
+            {
+              "full_en": "he told me he had done nothing wrong",
+              "full_vn": "hắn nói với tôi rằng hắn chẳng làm điều gì bậy bạ cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai, không đúng, không xác thực",
+          "list_en_vn": [
+            {
+              "full_en": "my watch is wrong",
+              "full_vn": "đồng hồ tôi không đúng"
+            },
+            {
+              "full_en": "he did the sum but got the wrong answer /got the answer wrong",
+              "full_vn": "hắn làm bài tính cộng, nhưng đáp số không đúng/trả lời sai"
+            },
+            {
+              "full_en": "her estimate of the cost was completely wrong",
+              "full_vn": "cô ấy lượng giá sai hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sai; nhầm",
+          "list_en_vn": [
+            {
+              "full_en": "can you prove that I am wrong ?",
+              "full_vn": "anh có thể chứng minh là tôi sai không?"
+            },
+            {
+              "full_en": "that's where you're wrong",
+              "full_vn": "đó là chỗ mà anh nhầm"
+            },
+            {
+              "full_en": "you're doing it the wrong way",
+              "full_vn": "anh đang làm việc đó một cách sai lầm"
+            },
+            {
+              "full_en": "the police arrested the wrong man",
+              "full_vn": "cảnh sát bắt nhầm người"
+            },
+            {
+              "full_en": "am I wrong in thinking that it's getting cold ?",
+              "full_vn": "liệu tôi có nhầm khi nghĩ là trời đang lạnh dần?"
+            },
+            {
+              "full_en": "we came the wrong way /took a wrong turning",
+              "full_vn": "chúng tôi đi lạc đường/rẽ nhầm chỗ"
+            },
+            {
+              "full_en": "to take the wrong street",
+              "full_vn": "đi nhầm đường"
+            },
+            {
+              "full_en": "to take the wrong train ; to be on the wrong train",
+              "full_vn": "đi nhầm tàu; ngồi nhầm tàu"
+            },
+            {
+              "full_en": "to buy the wrong book",
+              "full_vn": "mua nhầm sách (không đúng sách cần mua)"
+            },
+            {
+              "full_en": "I'm afraid you got the wrong number",
+              "full_vn": "tôi e rằng anh đã quay nhầm số"
+            },
+            {
+              "full_en": "you are wearing your jumper the wrong way round",
+              "full_vn": "chị mặc áo len nhầm đằng trước ra đằng sau rồi"
+            },
+            {
+              "full_en": "he's the wrong man for the job",
+              "full_vn": "anh ta là người không thích hợp với công việc"
+            },
+            {
+              "full_en": "they live on the wrong side of town",
+              "full_vn": "họ sống ở một nơi không phù hợp trong thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( wrong with somebody / something ) không chạy, hỏng, không hoạt động tốt; không ổn, không được như phải có",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have (get ) hold of the wrong end of the stick",
+              "list_im": [
+                {
+                  "im_full_vn": "có ý nghĩ hoàn toàn lầm; có cảm tưởng hoàn toàn lầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the wrong foot",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) trái chân, tréo giò"
+                }
+              ]
+            },
+            {
+              "id_full_en": "get (hold on ) the wrong end of the stick",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hiểu lầm hoàn toàn điều người khác nói"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "What 's wrong with the engine ? It's making an awful noise",
+              "full_vn": "Máy có gì trục trặc thế? Nó đang kêu lọc cọc"
+            },
+            {
+              "full_en": "there is something wrong with his eyes",
+              "full_vn": "mắt anh ta có gì không ổn rồi"
+            },
+            {
+              "full_en": "what's wrong with you ?",
+              "full_vn": "có điều gì không ổn cho anh vậy?"
+            },
+            {
+              "full_en": "what's wrong with telling the truth ?",
+              "full_vn": "nói sự thật thì có gì đáng ngại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "một cách sai trái, chệch hướng, lầm lẫn, với kết quả không đúng",
+          "list_en_vn": [
+            {
+              "full_en": "you guessed wrong",
+              "full_vn": "anh đoán sai rồi"
+            },
+            {
+              "full_en": "he played the tune all wrong",
+              "full_vn": "hắn chơi điệu hết cả"
+            },
+            {
+              "full_en": "to do a sum wrong",
+              "full_vn": "làm sai một bài tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get in wrong with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bị ai ghét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get someone in wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai mất tín nhiệm; làm cho ai bị ghét bỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc lỗi, sai lầm"
+                },
+                {
+                  "im_full_vn": "hỏng, không chạy, không làm việc chính xác (máy móc)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the television has gone wrong again",
+                      "full_vn": "cái ti vi lại bị hỏng rồi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gặp rắc rối",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "their marriage started to go wrong when he got a job abroad",
+                      "full_vn": "cuộc hôn nhân của họ bắt đầu xấu đi khi anh ta có việc làm ở nước ngoài"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "get somebody wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không hiểu ai; hiểu lầm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lead someone wrong",
+              "full_vn": "dẫn ai lạc đường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái xấu, điều xấu, điều không tốt, mặt xấu",
+          "list_en_vn": [
+            {
+              "full_en": "to make wrong right",
+              "full_vn": "làm cho cái xấu thành tốt"
+            },
+            {
+              "full_en": "to know right from wrong",
+              "full_vn": "biết phân biệt phải trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều sai, điều quấy (về mặt đạo đức); hành động sai, hành động quấy",
+          "list_en_vn": [
+            {
+              "full_en": "to put someone in the wrong",
+              "full_vn": "đổ cái sai cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động bất công, sự bất công; điều bất công",
+          "list_en_vn": [
+            {
+              "full_en": "they have done us a great wrong",
+              "full_vn": "họ đã đối xử với chúng tôi rất bất công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) điều thiệt hại, điều tổn hại",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "có lỗi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "two wrongs don't make a right",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đừng viện cớ bào chữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to do somebody wrong",
+              "full_vn": "làm hại ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm điều gì xấu đối với ai; cư xử xấu, đối xử bất công với ai",
+          "list_en_vn": [
+            {
+              "full_en": "a wronged wife",
+              "full_vn": "một người vợ xấu xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chụp mũ, đổ tiếng xấu (cho ai)",
+          "list_en_vn": [
+            {
+              "full_en": "you wrong me if you think I only did it for selfish reasons",
+              "full_vn": "anh đổ tiếng xấu cho tôi nếu anh nghĩ rằng tôi làm điều đó chỉ vì những lý do ích kỷ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686774_1ca233e9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686774_a3b46b5e27_o.png",
+      "id_image": "wrong_1540647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446788_a546d625fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446788_4fc95373c7_o.png",
+      "id_image": "wrong_488697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376487_e73fa849be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376487_4d1c40992e_o.png",
+      "id_image": "wrong_5672746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331706_75e79f04f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331706_de1f1bf662_o.png",
+      "id_image": "wrong_5705495"
+    }
+  ]
+}

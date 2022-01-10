@@ -1,0 +1,217 @@
+{
+  "english": "spot",
+  "phat_am": "[spɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu, đốm, vết",
+          "list_en_vn": [
+            {
+              "full_en": "a brown tie with red spots",
+              "full_vn": "cái ca vát nâu có đốm đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết nhơ, vết đen",
+          "list_en_vn": [
+            {
+              "full_en": "without a spot on one's reputation",
+              "full_vn": "danh tiếng không bị vết nhơ nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm đen ở đầu bàn bi-a"
+        },
+        {
+          "m_full_vn": "(động vật học) cá đù chấm"
+        },
+        {
+          "m_full_vn": "bồ câu đốm"
+        },
+        {
+          "m_full_vn": "nơi, chốn",
+          "list_en_vn": [
+            {
+              "full_en": "a retired spot",
+              "full_vn": "một nơi hẻo lánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) sự chấm trước (ngựa đua được cuộc); con ngựa được chấm (về nhất)"
+        },
+        {
+          "m_full_vn": "(thông tục) một chút, một ít (rượu, nước)"
+        },
+        {
+          "m_full_vn": "(từ lóng) đèn sân khấu (như) spotlight"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) địa vị, chỗ làm ăn, chức vụ; vị trí trong danh sách",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hit the hight spot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) chỉ bàn đến những vấn đề chính (trong một cuộc thảo luận ngắn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the spot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thoả mãn điều thèm muốn, thoả mãn cái đang cần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a spot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) trong hoàn cảnh xấu, trong hoàn cảnh khó khăn lúng túng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the spot",
+              "list_im": [
+                {
+                  "im_full_vn": "lập tức; không di chuyển khỏi chỗ đó; tại chỗ và lúc đó; ngay; tại chỗ"
+                },
+                {
+                  "im_full_vn": "tại nơi xảy ra một sự kiện nào đó; tại hiện trường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The police were on the spot within a few minutes of our phone call",
+                      "full_vn": "Cảnh sát có mặt tại hiện trường vài phút sau khi chúng tôi điện thoại đến"
+                    },
+                    {
+                      "full_en": "He was hit by a falling tree and killed on the spot",
+                      "full_vn": "Anh ấy bị cây đổ xuống đập vào và chết ngay tại chỗ"
+                    },
+                    {
+                      "full_en": "Luckily , there was a doctor on the spot",
+                      "full_vn": "May là lúc đó có một bác sĩ ngay tại đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put someone on the spot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) quyết định khử ai, thịt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a tender spot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tender"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he has got a good spot with that firm",
+              "full_vn": "hắn vớ được chỗ bở ở hãng đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đốm, làm lốm đốm"
+        },
+        {
+          "m_full_vn": "làm bẩn, làm nhơ, làm ô (danh)"
+        },
+        {
+          "m_full_vn": "(thông tục) chấm trước (ngựa được cuộc); nhận ra, phát hiện ra",
+          "list_en_vn": [
+            {
+              "full_en": "to spot somebody in the crowd",
+              "full_vn": "nhận ra ai trong đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự), (hàng không) phát hiện (vị trí, mục tiêu...)"
+        },
+        {
+          "m_full_vn": "đặt vào chỗ, đặt vào vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "the officer spotted his men at strategic points",
+              "full_vn": "viên sĩ quan bố trí quân của mình vào những điểm chiến lược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chấp",
+          "list_en_vn": [
+            {
+              "full_en": "I spotted him two points",
+              "full_vn": "tôi chấp hẳn hai điểm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ bị ố, dễ bị đốm (vải)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt (tiền); trả tiền ngay; trao ngay khi bán",
+          "list_en_vn": [
+            {
+              "full_en": "spot cash",
+              "full_vn": "tiền mặt"
+            },
+            {
+              "full_en": "spot wheat",
+              "full_vn": "lúa mì bán trả tiền ngay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phát đi từ một đài phát thanh địa phương (bản tin...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) xen vào giữa chương trình phát thanh chính (quảng cáo...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467353_d1f7390aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467353_4d75f6b410_o.png",
+      "id_image": "spot_316540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352646_8fab5ed541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352646_3640dee0f1_o.png",
+      "id_image": "spot_518982"
+    }
+  ]
+}

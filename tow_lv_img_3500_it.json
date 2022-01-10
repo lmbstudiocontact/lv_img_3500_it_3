@@ -1,0 +1,90 @@
+{
+  "english": "tow",
+  "phat_am": "[tou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sợi lanh, sợi gai thô (dùng để làm dây thừng..)"
+        },
+        {
+          "m_full_vn": "sự dắt, sự lai, sự kéo (tàu thuyền, đoàn toa móc)"
+        },
+        {
+          "m_full_vn": "dây, dây thừng dùng để kéo (tàu, thuyền...) (như) tow-rope",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have someone in tow",
+              "list_im": [
+                {
+                  "im_full_vn": "dìu dắt trông nom ai; kiểm soát ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in tow",
+              "list_im": [
+                {
+                  "im_full_vn": "đi cùng, đi theo sau"
+                },
+                {
+                  "im_full_vn": "được kéo (như) on tow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on tow",
+              "list_im": [
+                {
+                  "im_full_vn": "được kéo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the lorry was on tow",
+                      "full_vn": "chiếc xe tải đang được kéo đi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dắt, lai, kéo theo (tàu, thuyền) bằng dây thừng, xích..",
+          "list_en_vn": [
+            {
+              "full_en": "to tow a small boat astern",
+              "full_vn": "dắt một chiếc tàu nhỏ ở phía sau"
+            },
+            {
+              "full_en": "to tow a vessel into the harbour",
+              "full_vn": "lai một chiếc tàu vào cảng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697154_27171067df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697154_20a409328c_o.png",
+      "id_image": "tow_1367212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341931_d9014f5362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341931_3816a3c041_o.png",
+      "id_image": "tow_1850838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387007_6aa0deb2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387007_f8c71143b1_o.png",
+      "id_image": "tow_648716"
+    }
+  ]
+}

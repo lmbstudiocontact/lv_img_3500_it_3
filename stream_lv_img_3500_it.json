@@ -1,0 +1,147 @@
+{
+  "english": "stream",
+  "phat_am": "[stri:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dòng suối",
+          "list_en_vn": [
+            {
+              "full_en": "a small stream running through the woods",
+              "full_vn": "một dòng suối nhỏ chảy qua rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng, luồng (chất lỏng, người, vật..)",
+          "list_en_vn": [
+            {
+              "full_en": "stream of people",
+              "full_vn": "dòng người"
+            },
+            {
+              "full_en": "the stream of time",
+              "full_vn": "dòng thời gian"
+            },
+            {
+              "full_en": "a stream of cold air",
+              "full_vn": "luồng không khí lạnh"
+            },
+            {
+              "full_en": "a stream of light",
+              "full_vn": "luồng ánh sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiều nước chảy, hướng chuyển động",
+          "list_en_vn": [
+            {
+              "full_en": "against the stream",
+              "full_vn": "ngược dòng"
+            },
+            {
+              "full_en": "to go with the stream",
+              "full_vn": "theo dòng; (bóng) làm theo những người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp, phân lớp (cho trẻ em cùng lứa tuổi và trình độ năng lực)",
+          "list_one_mean": [
+            {
+              "id_full_en": "go up /down stream",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngược/xuôi dòng sông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on stream",
+              "list_im": [
+                {
+                  "im_full_vn": "đi vào hoạt động tích cực hoặc sản xuất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the A ,B ,C ...stream",
+              "full_vn": "lớp A, B, C.."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy, chuyển động như một dòng nước; chảy ra, trào ra, tuôn ra",
+          "list_en_vn": [
+            {
+              "full_en": "eyes streaming with tears",
+              "full_vn": "mắt trào lệ"
+            },
+            {
+              "full_en": "light streamed through the window",
+              "full_vn": "ánh sáng ùa vào qua cửa sổ"
+            },
+            {
+              "full_en": "sweat streamed down his face",
+              "full_vn": "mồ hôi chảy ròng ròng trên mặt nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phấp phới, phất phơ (cờ, tóc)",
+          "list_en_vn": [
+            {
+              "full_en": "her hair streamed (out ) in the wind",
+              "full_vn": "tóc cô ta bay phấp phới trong gió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chảy ra như suối, làm chảy ròng ròng; làm chảy ra, làm trào ra, làm tuôn ra",
+          "list_en_vn": [
+            {
+              "full_en": "wounds streaming blood",
+              "full_vn": "vết thương trào máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa (học sinh) vào lớp cùng trình độ",
+          "list_en_vn": [
+            {
+              "full_en": "children are streamed according to ability",
+              "full_vn": "trẻ em được đưa vào các lớp theo năng lực của chúng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698484_a49951be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698484_7f3c5050fd_o.png",
+      "id_image": "stream_2368356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080715_0e2e949c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080715_23af018a44_o.png",
+      "id_image": "stream_390116"
+    }
+  ]
+}

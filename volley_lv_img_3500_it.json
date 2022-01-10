@@ -1,0 +1,68 @@
+{
+  "english": "volley",
+  "phat_am": "['vɔli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loạt (đạn, đá... bắn ra, ném ra); tràng, chuỗi (cười, vỗ tay)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tràng, chuỗi (nhiều câu hỏi, lời sỉ nhục.. cùng hướng tới người nào và nối tiếp rất nhanh)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quả vô-lê (quả sút hoặc cú đánh trong đó quả bóng được đá, đánh trước khi nó chạm đất)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ném ra hàng loạt, tung ra hàng loạt, bắn ra hàng loạt (đạn, đá..); tuôn ra hàng tràng (cười..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tuôn ra hàng tràng, hàng chuỗi (những lời sỉ nhục..)",
+          "list_en_vn": [
+            {
+              "full_en": "to volley forth abuses",
+              "full_vn": "tuôn ra hàng tràng những lời chửi rủa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh vô-lê, đá vô-lê"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắn một loạt (súng)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh vô-lê, đá vô-lê"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455858_5d968058ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455858_09604c0774_o.png",
+      "id_image": "volley_4696264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696274_17a3f2ee9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696274_6db08d63a6_o.png",
+      "id_image": "volley_4792260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455883_0480fe8f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455883_70ff464b88_o.png",
+      "id_image": "volley_907382"
+    }
+  ]
+}

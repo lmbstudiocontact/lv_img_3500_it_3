@@ -1,0 +1,189 @@
+{
+  "english": "swim",
+  "phat_am": "[swim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bơi lội; thời gian bơi"
+        },
+        {
+          "m_full_vn": "vực sâu nhiều cá (ở sông)"
+        },
+        {
+          "m_full_vn": "tình hình chung, chiều hướng chung",
+          "list_en_vn": [
+            {
+              "full_en": "to be in the swim",
+              "full_vn": "biết được tình hình chung"
+            },
+            {
+              "full_en": "to be out of the swim",
+              "full_vn": "không nắm được tình hình chung"
+            },
+            {
+              "full_en": "to put somebody in the swim",
+              "full_vn": "cho ai biết tình hình chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) (như) swimming-bladder",
+          "list_one_mean": [
+            {
+              "id_full_en": "in /out of the swim",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) biết/không biết cái gì đang xảy ra; có/không dính líu đến cái gì đang xảy ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ swam ; swum",
+      "list_m": [
+        {
+          "m_full_vn": "bơi",
+          "list_en_vn": [
+            {
+              "full_en": "I can swim",
+              "full_vn": "tôi bơi được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nổi",
+          "list_en_vn": [
+            {
+              "full_en": "vegetables swimming in the broth",
+              "full_vn": "rau nổi trên mặt nước xuýt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "she swam into the room",
+              "full_vn": "cô ta đi lướt nhanh vào trong phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trông như đang quay tít, có vẻ quay tít, trông như đang rập rình",
+          "list_en_vn": [
+            {
+              "full_en": "everything swam before his eyes",
+              "full_vn": "mọi vật như đang quay tít trước mắt nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "choáng váng",
+          "list_en_vn": [
+            {
+              "full_en": "my head swims",
+              "full_vn": "đầu tôi choáng váng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) tràn ngập, tràn đầy (nước, chất lỏng..)",
+          "list_en_vn": [
+            {
+              "full_en": "meat swimming in a gravy",
+              "full_vn": "thịt lềnh bềnh trong nước xốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bơi (ếch, bướm..); bơi vượt qua (sông..)",
+          "list_en_vn": [
+            {
+              "full_en": "to swim breast-stroke",
+              "full_vn": "bơi ếch"
+            },
+            {
+              "full_en": "to swim back-stroke",
+              "full_vn": "bơi ngửa"
+            },
+            {
+              "full_en": "to swim a river",
+              "full_vn": "bơi qua con sông"
+            },
+            {
+              "full_en": "to swim a race",
+              "full_vn": "bơi thi"
+            },
+            {
+              "full_en": "to swim a mile",
+              "full_vn": "bơi một dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bơi thi với (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to swim someone a hundred metres",
+              "full_vn": "bơi thi với ai một trăm mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt bơi; cho bơi (chó, ngựa...)",
+          "list_en_vn": [
+            {
+              "full_en": "to swim a horse across a stream",
+              "full_vn": "cho ngựa bơi qua suối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) tràn ngập, tràn đầy; đẫm; ướt đẫm (nước mắt..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to swim to the bottom like a stone (like tailor's goose )",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) không biết bơi; chìm nghỉm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "her eyes were swimming (with tears )",
+              "full_vn": "mắt cô ta đẫm lệ"
+            },
+            {
+              "full_en": "the bathroom floor was swimming with water",
+              "full_vn": "sàn buồng tắm ngập nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687514_90f6eace99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687514_eb6b090a5f_o.png",
+      "id_image": "swim_1426372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377337_fbb62e63c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377337_fb339a206d_o.png",
+      "id_image": "swim_495721"
+    }
+  ]
+}

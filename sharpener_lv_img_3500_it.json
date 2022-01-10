@@ -1,0 +1,49 @@
+{
+  "english": "sharpener",
+  "phat_am": "['∫ɑ:pnə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thợ mài dao kéo"
+        },
+        {
+          "m_full_vn": "(trong từ ghép) dụng cụ mài, gọt, làm cho sắc, nhọn",
+          "list_en_vn": [
+            {
+              "full_en": "a pencil-sharpener",
+              "full_vn": "cái gọt bút chì, đồ chuốt viết chì"
+            },
+            {
+              "full_en": "a knife-sharpener",
+              "full_vn": "cái mài dao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701394_1ac184e42e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701394_cd3a02668f_o.png",
+      "id_image": "sharpener_1428730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461253_b47ef6ac18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461253_74c7bd85bd_o.png",
+      "id_image": "sharpener_1442795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391492_c68f4c1a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391492_6b31f33d5c_o.png",
+      "id_image": "sharpener_420277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461338_18eae7d5fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461338_55850662d9_o.png",
+      "id_image": "sharpener_546661"
+    }
+  ]
+}

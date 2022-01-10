@@ -1,0 +1,32 @@
+{
+  "english": "semester",
+  "phat_am": "[si'mestə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "học kỳ, lục cá nguyệt (đặc biệt trong các trường đại học và trung học Mỹ)",
+          "list_en_vn": [
+            {
+              "full_en": "the summer semester",
+              "full_vn": "học kỳ mùa hè"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350601_40c4dfb988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350601_d806dee001_o.png",
+      "id_image": "semester_4776087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705144_c7c67f3170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705144_ef2f3bd322_o.png",
+      "id_image": "semester_5330238"
+    }
+  ]
+}

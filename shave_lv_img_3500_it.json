@@ -1,0 +1,102 @@
+{
+  "english": "shave",
+  "phat_am": "[∫eiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cạo (râu, mặt, đầu)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a shave",
+              "full_vn": "cạo râu, cạo mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái bào (gỗ...)"
+        },
+        {
+          "m_full_vn": "sự đi sát gần; sự suýt bị (tai nạn)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a close shave of it",
+              "full_vn": "suýt nữa thì nguy, tí nữa thì chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh lừa, sự lừa bịp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ shaved (hoặc) shaved , shaven",
+      "list_m": [
+        {
+          "m_full_vn": "cạo (râu, mặt, đầu)"
+        },
+        {
+          "m_full_vn": "bào, đẽo (gỗ); cắt sát (cỏ)"
+        },
+        {
+          "m_full_vn": "lướt, xượt, phớt qua, chạm, đi sát gần",
+          "list_en_vn": [
+            {
+              "full_en": "to shave another car",
+              "full_vn": "lướt sát qua một chiếc xe khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hụt, suýt",
+          "list_en_vn": [
+            {
+              "full_en": "to shave death",
+              "full_vn": "súyt chết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cạo râu, cạo mặt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) khó mặc cả, khó chơi (trong chuyện làm ăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shave something off (something )",
+              "list_im": [
+                {
+                  "im_full_vn": "bào, cạo, lạng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346446_a1ac40361f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346446_4afca6e07d_o.png",
+      "id_image": "shave_1686014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346391_33f9128c49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346391_88488f7c95_o.png",
+      "id_image": "shave_3959124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461228_f07a24fb21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461228_450dc2703e_o.png",
+      "id_image": "shave_538016"
+    }
+  ]
+}

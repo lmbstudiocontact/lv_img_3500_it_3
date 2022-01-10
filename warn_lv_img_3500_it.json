@@ -1,0 +1,87 @@
+{
+  "english": "warn",
+  "phat_am": "[wɔ:n]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to warn somebody of something ) báo trước; cảnh báo",
+          "list_en_vn": [
+            {
+              "full_en": "To warn somebody of a danger",
+              "full_vn": "Báo cho người nào biết trước một sự nguy hiểm"
+            },
+            {
+              "full_en": "'Beware of the dog' , she warned",
+              "full_vn": "'Coi chừng chó dữ', bà ta báo trước"
+            },
+            {
+              "full_en": "I tried to warn him , but he wouldn't listen",
+              "full_vn": "Tôi cố báo trước cho nó, mà nó chẳng thèm nghe"
+            },
+            {
+              "full_en": "She has been warned of the danger of driving in weather like this",
+              "full_vn": "Người ta đã báo trước cho bà ấy là lái xe trong thời tiết thế này nguy hiểm đến mức nào"
+            },
+            {
+              "full_en": "The police are warning (teamsters ) of possible traffic jams",
+              "full_vn": "Cảnh sát báo cho (giới tài xế xe tải) biết là có thể sẽ có những chỗ nghẽn đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to warn somebody about / against somebody / something ) ( to warn somebody against doing something ) dặn ai đề phòng ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "He warned us against pilferers",
+              "full_vn": "Ông ấy dặn chúng tôi đề phòng bọn trộm vặt"
+            },
+            {
+              "full_en": "The police have warned shopkeepers about shoplifters",
+              "full_vn": "Cảnh sát đã dặn các chủ tiệm đề phòng bọn trộm giả làm khách hàng"
+            },
+            {
+              "full_en": "The doctor warned us against waking her too soon",
+              "full_vn": "Bác sĩ dặn chúng tôi đừng gọi bà ấy dậy sớm quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khuyên; căn dặn",
+          "list_en_vn": [
+            {
+              "full_en": "They were warned not to eat too much fat",
+              "full_vn": "Người ta đã khuyên họ đừng ăn mỡ nhiều quá"
+            },
+            {
+              "full_en": "She warned me to drive carefully",
+              "full_vn": "Bà ấy căn dặn tôi lái xe cẩn thận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to warn somebody off something / doing something ) cảnh cáo",
+          "list_en_vn": [
+            {
+              "full_en": "I had been warned off visiting him while he was still unwell",
+              "full_vn": "Người ta đã cảnh cáo tôi là không được thăm ông ấy khi ông ấy còn yếu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074320_d309e2e7a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074320_81bb5a8195_o.png",
+      "id_image": "warn_1641855"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692554_d2be67cfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692554_0085feb7f3_o.png",
+      "id_image": "warn_2598222"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "yeah",
+  "phat_am": "[jeə]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(cách phát âm không trịnh trọng của Yes ) vâng; được; ừ; có",
+          "list_one_mean": [
+            {
+              "id_full_en": "oh yeah",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để tỏ ra mình không tin điều nghe nói) thế à",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm going to meet the Prime Minister - Oh yeah ? Very likely !",
+                      "full_vn": "Tôi sẽ đi gặp Thủ tướng - Thế à? Rất có thể!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331131_74085f3f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331131_7c7387594f_o.png",
+      "id_image": "yeah_5928299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331106_1bcbb2e715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331106_82c6301799_o.png",
+      "id_image": "yeah_6322154"
+    }
+  ]
+}

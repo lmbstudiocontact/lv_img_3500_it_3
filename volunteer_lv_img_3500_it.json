@@ -1,0 +1,114 @@
+{
+  "english": "volunteer",
+  "phat_am": "[,vɔlən'tiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( volunteer for something / to do something ) người tình nguyện, người xung phong, người sẵn sàng làm việc gì (không cần ép buộc, không cần trả công)",
+          "list_en_vn": [
+            {
+              "full_en": "volunteers for the post of treasurer",
+              "full_vn": "những người tình nguyện giữ chức thủ quỹ"
+            },
+            {
+              "full_en": "volunteers to finance a charity campaign",
+              "full_vn": "những người tự nguyện tài trợ cho một chiến dịch từ thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) quân tình nguyện; lính tình nguyện"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình nguyện; tự nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "volunteer corps",
+              "full_vn": "đạo quân tình nguyện"
+            },
+            {
+              "full_en": "volunteer social workers",
+              "full_vn": "những người tự nguyện làm công tác xã hội"
+            },
+            {
+              "full_en": "volunteer forces",
+              "full_vn": "lực lượng tình nguyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) mọc tự nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "volunteer plants",
+              "full_vn": "cây mọc tự nhiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to volunteer something for something ) tình nguyện; xung phong làm",
+          "list_en_vn": [
+            {
+              "full_en": "to volunteer an explanation",
+              "full_vn": "tự động đưa ra cách giải thích"
+            },
+            {
+              "full_en": "she volunteered her services for relief work",
+              "full_vn": "cô ta tự nguyện phục vụ công tác cứu trợ"
+            },
+            {
+              "full_en": "to volunteer information , financial support",
+              "full_vn": "tự nguyện cung cấp thông tin, hỗ trợ tài chính"
+            },
+            {
+              "full_en": "he volunteered to act as guide",
+              "full_vn": "anh ấy tự nguyện làm người dẫn đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to volunteer for something ) xung phong tòng quân; tình nguyện tòng quân",
+          "list_en_vn": [
+            {
+              "full_en": "to volunteer for military service",
+              "full_vn": "tình nguyện đi nghĩa vụ quân sự"
+            },
+            {
+              "full_en": "his daughter volunteered to join the army",
+              "full_vn": "con gái ông ta tình nguyện gia nhập quân đội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695889_ecd1f38cb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695889_2b7fb5e4c8_o.png",
+      "id_image": "volunteer_1312494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077890_fe21900a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077890_b04b75d229_o.png",
+      "id_image": "volunteer_4706857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340486_5420287679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340486_1db44f8955_o.png",
+      "id_image": "volunteer_6183121"
+    }
+  ]
+}

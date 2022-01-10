@@ -1,0 +1,85 @@
+{
+  "english": "wound",
+  "phat_am": "[wu:nd]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của wind"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vết thương, thương tích",
+          "list_en_vn": [
+            {
+              "full_en": "the wound was healing slowly",
+              "full_vn": "vết thương đang từ từ lên da non"
+            },
+            {
+              "full_en": "the wounds of war",
+              "full_vn": "những vết thương chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vết chém, vết xước, vết cắt (ở ngoài vỏ một cái cây)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự tổn thương; điều làm tổn thương, điều xúc phạm; nỗi đau thương",
+          "list_en_vn": [
+            {
+              "full_en": "a wound to one's pride",
+              "full_vn": "điều xúc phạm lòng tự hào"
+            },
+            {
+              "full_en": "to revive someone's wound",
+              "full_vn": "gợi lại nỗi đau thương của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) mối hận tình"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bị thương, gây ra một vết thương cho (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "wounded in the arm",
+              "full_vn": "bị thương ở cánh tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm tổn thương, chạm đến, xúc phạm (lòng tự ái, danh dự..)",
+          "list_en_vn": [
+            {
+              "full_en": "to wound someone in his honour",
+              "full_vn": "làm tổn thương đến danh dự của ai"
+            },
+            {
+              "full_en": "wounded in one's affections",
+              "full_vn": "bị tổn thương về tình cảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070105_2a5c86caf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070105_b54bc34779_o.png",
+      "id_image": "wound_1068397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378097_935ab13f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378097_ef723fa52b_o.png",
+      "id_image": "wound_4236974"
+    }
+  ]
+}

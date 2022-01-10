@@ -1,0 +1,53 @@
+{
+  "english": "triangular",
+  "phat_am": "[trai'æηgjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hình giống hình tam giác, có dạng hình tam giác"
+        },
+        {
+          "m_full_vn": "ba phe, ba bên, tay ba; bao gồm ba người, giữa ba người (cuộc thi, hiệp ước..)",
+          "list_en_vn": [
+            {
+              "full_en": "triangular fight",
+              "full_vn": "cuộc đấu tranh giữa ba phe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ba mặt (kim tự tháp)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689164_e72013851c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689164_dc2c930181_o.png",
+      "id_image": "triangular_280067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689129_98d097a8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689129_22e5d058e8_o.png",
+      "id_image": "triangular_344030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071045_687df5e956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071045_241d0e291d_o.png",
+      "id_image": "triangular_6181216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071000_96b58d2b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071000_9b9f25af14_o.png",
+      "id_image": "triangular_6181306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070965_040a282370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070965_981d659722_o.png",
+      "id_image": "triangular_6181728"
+    }
+  ]
+}

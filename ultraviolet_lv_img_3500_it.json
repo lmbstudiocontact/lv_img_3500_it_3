@@ -1,0 +1,46 @@
+{
+  "english": "ultraviolet",
+  "phat_am": "[,ʌltrə'vaiələt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) cực tím, tử ngoại (về bức xạ)",
+          "list_en_vn": [
+            {
+              "full_en": "ultraviolet rays",
+              "full_vn": "những tia tử ngoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) sự phát quang; sử dụng sự phát quang (của tia cực tím)",
+          "list_en_vn": [
+            {
+              "full_en": "an ultraviolet lamp",
+              "full_vn": "đèn tử ngoại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354311_b3a9cab3dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354311_8b77e13dca_o.png",
+      "id_image": "ultraviolet_3511976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091610_0097f6fde3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091610_e63271139f_o.png",
+      "id_image": "ultraviolet_4310474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399127_a046c6ae41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399127_e414b89b5c_o.png",
+      "id_image": "ultraviolet_4675604"
+    }
+  ]
+}

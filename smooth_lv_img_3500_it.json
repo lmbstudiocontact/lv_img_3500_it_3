@@ -1,0 +1,221 @@
+{
+  "english": "smooth",
+  "phat_am": "[smu:ð]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhẵn, trơn, mượt; bằng phẳng, lặng",
+          "list_en_vn": [
+            {
+              "full_en": "sea as smooth as a mill-pond",
+              "full_vn": "biển lặng"
+            },
+            {
+              "full_en": "smooth hair",
+              "full_vn": "tóc mượt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trôi chảy, êm thấm, suôn sẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a smooth crossing",
+              "full_vn": "một cuộc đi biển yên sóng lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "êm ả, nhẹ nhàng, nhịp nhàng uyển chuyển; yên lành"
+        },
+        {
+          "m_full_vn": "mịn, mượt, nhuyễn (về hỗn hợp chất lỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "smooth custard",
+              "full_vn": "món kem sữa nhuyễn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "êm dịu, ngọt ngào, có vị dễ chịu, không cay đắng",
+          "list_en_vn": [
+            {
+              "full_en": "smooth spirit",
+              "full_vn": "rượu (uống) êm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịu dàng, uyển chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "smooth voice",
+              "full_vn": "tiếng dịu dàng"
+            },
+            {
+              "full_en": "smooth verse",
+              "full_vn": "thơ nhịp nhàng uyển chuyển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoà nhã, lễ độ",
+          "list_en_vn": [
+            {
+              "full_en": "smooth temper",
+              "full_vn": "thái độ hoà nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngọt xớt, dẻo mồm ( (thường) nói về đàn ông)",
+          "list_en_vn": [
+            {
+              "full_en": "smooth words",
+              "full_vn": "lời nói ngọt xớt"
+            },
+            {
+              "full_en": "smooth manners",
+              "full_vn": "thái độ ngọt xớt"
+            },
+            {
+              "full_en": "smooth things",
+              "full_vn": "những lời khen ngọt để lấy lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) hết sức thú vị, khoái, rất dễ chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "smooth face",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt làm ra vẻ thân thiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in smooth water (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "thuận buồm xuôi gió; trôi chảy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a smooth time",
+              "full_vn": "thời gian hết sức thú vị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vuốt cho mượt",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's hair a smooth",
+              "full_vn": "vuốt tóc cho mượt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần nhẵn (của cái gì)"
+        },
+        {
+          "m_full_vn": "(hàng hải) lúc biển yên sóng lặng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho nhẵn, làm phẳng; san bằng"
+        },
+        {
+          "m_full_vn": "giải quyết; dàn xếp, làm ổn thoả",
+          "list_en_vn": [
+            {
+              "full_en": "to smooth away differences",
+              "full_vn": "giải quyết những sự bất đồng"
+            },
+            {
+              "full_en": "to smooth the way with the authorities",
+              "full_vn": "dàn xếp (làm đủ thủ tục) với các nhà chức trách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che giấu, làm liếm (khuyết điểm)"
+        },
+        {
+          "m_full_vn": "gọt giũa (văn)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lặng, yên lặng (biển); dịu đi (cơn giận)",
+          "list_one_mean": [
+            {
+              "id_full_en": "smooth somebody's path",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai tiến bộ dễ dàng hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smooth somebody's ruffled feathers",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nguôi, xoa dịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smooth something away",
+              "list_im": [
+                {
+                  "im_full_vn": "dàn xếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "smooth something over",
+              "list_im": [
+                {
+                  "im_full_vn": "che giấu, lấp liếm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067465_a2e5b9b2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067465_c5d03fafc4_o.png",
+      "id_image": "smooth_1151200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685689_8c9b34aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685689_2ab61a3bb2_o.png",
+      "id_image": "smooth_2844499"
+    }
+  ]
+}

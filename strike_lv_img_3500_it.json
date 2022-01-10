@@ -1,0 +1,495 @@
+{
+  "english": "strike",
+  "phat_am": "[straik]",
+  "list_type": [
+    {
+      "type": "ngoại động từ struck ; struck , stricken",
+      "list_m": [
+        {
+          "m_full_vn": "đánh, đập",
+          "list_en_vn": [
+            {
+              "full_en": "to strike one's hand on the table",
+              "full_vn": "đập tay xuống bàn"
+            },
+            {
+              "full_en": "to strike a blow",
+              "full_vn": "đánh một cú"
+            },
+            {
+              "full_en": "to strike hands",
+              "full_vn": "(từ cổ,nghĩa cổ) bắt tay"
+            },
+            {
+              "full_en": "ship strikes rock",
+              "full_vn": "tàu va phải đá"
+            },
+            {
+              "full_en": "tree struck by lightning",
+              "full_vn": "cây bị sét đánh"
+            },
+            {
+              "full_en": "to be stricken with paralysis",
+              "full_vn": "bị tê liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh, điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to strike sparks (fire , light ) out of flint",
+              "full_vn": "đánh đá lửa"
+            },
+            {
+              "full_en": "to strike a match",
+              "full_vn": "đánh diêm"
+            },
+            {
+              "full_en": "clock strikes five",
+              "full_vn": "đồng hồ điểm năm giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúc",
+          "list_en_vn": [
+            {
+              "full_en": "to strike coin",
+              "full_vn": "đúc tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giật (cá, khi câu)"
+        },
+        {
+          "m_full_vn": "dò đúng, đào đúng (mạch dầu, mạch mỏ...)"
+        },
+        {
+          "m_full_vn": "đánh, tấn công"
+        },
+        {
+          "m_full_vn": "đập vào",
+          "list_en_vn": [
+            {
+              "full_en": "to strike the ears",
+              "full_vn": "đập vào tai (âm thanh...)"
+            },
+            {
+              "full_en": "a beautiful sight struck my eyes",
+              "full_vn": "một cảnh tượng đẹp đập vào mắt tôi"
+            },
+            {
+              "full_en": "the light struck the window",
+              "full_vn": "ánh sáng rọi vào cửa sổ"
+            },
+            {
+              "full_en": "the idea suddenly struck me",
+              "full_vn": "tôi chợt nảy ra ý nghĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho phải chú ý, gây ấn tượng",
+          "list_en_vn": [
+            {
+              "full_en": "what strikes me is his generosity",
+              "full_vn": "điều làm tôi chú ý là tính hào phóng của anh ta"
+            },
+            {
+              "full_en": "how does it strike you ?",
+              "full_vn": "anh thấy vấn đề ấy thế nào?"
+            },
+            {
+              "full_en": "it strikes me as absolutely perfect",
+              "full_vn": "tôi cho rằng điều đó tuyệt đối đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thình lình làm cho; gây (sợ hãi, kinh ngạc...) thình lình",
+          "list_en_vn": [
+            {
+              "full_en": "to be struck with amazement",
+              "full_vn": "hết sức kinh ngạc"
+            },
+            {
+              "full_en": "to strike terror in someone's heart",
+              "full_vn": "làm cho ai sợi chết khiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đâm vào, đưa vào; đi vào, tới, đến",
+          "list_en_vn": [
+            {
+              "full_en": "plant strikes its roots into the soil",
+              "full_vn": "cây đâm rễ xuống đất"
+            },
+            {
+              "full_en": "to strike a track",
+              "full_vn": "đi vào con đường mòn"
+            },
+            {
+              "full_en": "to strike the main road",
+              "full_vn": "tới con đường chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gạt (thùng khi đong thóc...)"
+        },
+        {
+          "m_full_vn": "xoá, bỏ, gạch đi",
+          "list_en_vn": [
+            {
+              "full_en": "to strike a name out",
+              "full_vn": "xoá một tên đi"
+            },
+            {
+              "full_en": "to strike a word through",
+              "full_vn": "gạch một từ đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạ (cờ, buồm)"
+        },
+        {
+          "m_full_vn": "bãi, đình (công)",
+          "list_en_vn": [
+            {
+              "full_en": "to strike work",
+              "full_vn": "bãi công, đình công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính lấy (số trung bình)"
+        },
+        {
+          "m_full_vn": "làm thăng bằng (cái cân)"
+        },
+        {
+          "m_full_vn": "lấy (điệu bộ...)"
+        },
+        {
+          "m_full_vn": "(sân khấu) dỡ và thu dọn (phông); tắt (đèn)"
+        },
+        {
+          "m_full_vn": "dỡ (lều)",
+          "list_en_vn": [
+            {
+              "full_en": "to strike tents",
+              "full_vn": "dỡ lều, nhổ trại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh, nhằm đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to strike at the ball",
+              "full_vn": "nhắm đánh quả bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gõ, đánh, điểm",
+          "list_en_vn": [
+            {
+              "full_en": "the hour has struck",
+              "full_vn": "giờ đã điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bật cháy, chiếu sáng",
+          "list_en_vn": [
+            {
+              "full_en": "light strikes upon something",
+              "full_vn": "ánh sáng rọi vào một vật gì"
+            },
+            {
+              "full_en": "match will not strike",
+              "full_vn": "diêm không cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đớp mồi, cắn câu (cá)"
+        },
+        {
+          "m_full_vn": "đâm rễ (cây)"
+        },
+        {
+          "m_full_vn": "tấn công"
+        },
+        {
+          "m_full_vn": "thấm qua",
+          "list_en_vn": [
+            {
+              "full_en": "cold strikes into marrow",
+              "full_vn": "rét thấm vào tận xương tuỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi về phía, hướng về",
+          "list_en_vn": [
+            {
+              "full_en": "to strike across a field",
+              "full_vn": "vượt qua một cánh đồng"
+            },
+            {
+              "full_en": "to strike to the right",
+              "full_vn": "rẽ về tay phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạ cờ; hạ cờ đầu hàng, đầu hàng",
+          "list_en_vn": [
+            {
+              "full_en": "ship strikes",
+              "full_vn": "tàu hạ cờ đầu hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi công, đình công",
+          "list_one_mean": [
+            {
+              "id_full_en": "to strike at",
+              "list_im": [
+                {
+                  "im_full_vn": "nhằm vào, đánh vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to strike at the root of something",
+                      "full_vn": "doạ triệt cái gì đến tận gốc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike back",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh trả lại"
+                },
+                {
+                  "im_full_vn": "đi trở lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike down",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ngã (đen & bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike off",
+              "list_im": [
+                {
+                  "im_full_vn": "chặt đứt, xoá bỏ; bớt đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike out",
+              "list_im": [
+                {
+                  "im_full_vn": "xoá bỏ, gạch bỏ"
+                },
+                {
+                  "im_full_vn": "( + at ) đấm (ai); vung (tay chân khi bơi)"
+                },
+                {
+                  "im_full_vn": "lao vụt đi (người bơi...)"
+                },
+                {
+                  "im_full_vn": "nghĩ ra, đề ra (kế hoạch...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to strike out a line for oneself",
+                      "full_vn": "nghĩ ra được một đường lối độc đáo; to ra có óc sáng tạo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike through",
+              "list_im": [
+                {
+                  "im_full_vn": "xuyên qua, thấm qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike someone dumb",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dumb"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike home",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) home"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike oil",
+              "list_im": [
+                {
+                  "im_full_vn": "đào đúng mạch dầu"
+                },
+                {
+                  "im_full_vn": "làm ăn phát đạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike up an acquaintance",
+              "list_im": [
+                {
+                  "im_full_vn": "làm quen (với ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike up a tune",
+              "list_im": [
+                {
+                  "im_full_vn": "cất tiếng hát, bắt đầu cử một bản nhạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike upon an idea",
+              "list_im": [
+                {
+                  "im_full_vn": "nảy ra một ý kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike it rich",
+              "list_im": [
+                {
+                  "im_full_vn": "dò đúng mạch mỏ... có trữ lượng cao"
+                },
+                {
+                  "im_full_vn": "phất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike in a talk with a suggestion",
+              "list_im": [
+                {
+                  "im_full_vn": "xen vào câu chuyện bằng một lời gợi ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike while the iron is hot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) iron"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike something up",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về một băng nhạc...) bắt đầu chơi (một bản nhạc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike up something (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu (tình bạn, sự quen biết, cuộc đàm luận...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to strike up conversations with foreigners",
+                      "full_vn": "bắt chuyện với những người nước ngoài"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc đình công, cuộc bãi công",
+          "list_en_vn": [
+            {
+              "full_en": "to go on strike",
+              "full_vn": "bãi công"
+            },
+            {
+              "full_en": "general strike",
+              "full_vn": "cuộc tổng bãi công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẻ đúc"
+        },
+        {
+          "m_full_vn": "sự đột nhiên dò đúng (mạch mỏ)"
+        },
+        {
+          "m_full_vn": "sự phất"
+        },
+        {
+          "m_full_vn": "sự xuất kích"
+        },
+        {
+          "m_full_vn": "que gạt (dấu, thùng đong thóc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387392_c4d3086a73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387392_66af4db739_o.png",
+      "id_image": "strike_2529786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079785_a1f9359b9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079785_1963a61e9c_o.png",
+      "id_image": "strike_3476427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079735_525ae688cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079735_4504a6024b_o.png",
+      "id_image": "strike_4144478"
+    }
+  ]
+}

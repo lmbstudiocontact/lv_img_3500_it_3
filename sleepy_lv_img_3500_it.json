@@ -1,0 +1,43 @@
+{
+  "english": "sleepy",
+  "phat_am": "['sli:pi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "buồn ngủ, ngái ngủ; cần ngủ, sẵn sàng ngủ"
+        },
+        {
+          "m_full_vn": "im lìm; không có nhiều hoạt động lắm, không nhộn nhịp lắm",
+          "list_en_vn": [
+            {
+              "full_en": "sleepy little town",
+              "full_vn": "thành phố nhỏ không nhộn nhịp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "héo nẫu (quả, nhất là quả lê)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448908_849a0d1501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448908_4d9e181529_o.png",
+      "id_image": "sleepy_1553281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378737_8870f80322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378737_487aacdd93_o.png",
+      "id_image": "sleepy_1747710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333816_3f68f25cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333816_2bf8c12b66_o.png",
+      "id_image": "sleepy_4860802"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "silent",
+  "phat_am": "['sailənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "im lặng, không nói, làm thinh",
+          "list_en_vn": [
+            {
+              "full_en": "the report is silent on that point",
+              "full_vn": "bản báo cáo không nói gì về điểm đó"
+            },
+            {
+              "full_en": "a silent man",
+              "full_vn": "người ít nói"
+            },
+            {
+              "full_en": "to keep silent",
+              "full_vn": "cứ làm thinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thầm, không nói to",
+          "list_en_vn": [
+            {
+              "full_en": "a silent prayer",
+              "full_vn": "một lời cầu nguyện thầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nín lặng, không nói, không bình luận",
+          "list_en_vn": [
+            {
+              "full_en": "he was silent for a moment , then began his answer",
+              "full_vn": "nó nín lặng một lát rồi mới trả lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ít nói"
+        },
+        {
+          "m_full_vn": "yên lặng, yên tĩnh, tĩnh mịch, thanh vắng",
+          "list_en_vn": [
+            {
+              "full_en": "silent night",
+              "full_vn": "đêm thanh vắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câm (chữ viết ra (như) ng không phát âm)",
+          "list_en_vn": [
+            {
+              "full_en": "the 'b' in 'doubt' is silent",
+              "full_vn": "chữ 'b' trong chữ 'doubt' là câm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câm, không nói",
+          "list_one_mean": [
+            {
+              "id_full_en": "the silent majority",
+              "list_im": [
+                {
+                  "im_full_vn": "đa số thầm lặng (những người có quan điểm ôn hoà hoặc không có khả năng bày tỏ, không muốn bày tỏ công khai quan điểm đó)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "silent film",
+              "full_vn": "phim câm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453803_b043d96eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453803_f39eeb7b35_o.png",
+      "id_image": "silent_2222912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383682_ccb5b53bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383682_3c970a5bda_o.png",
+      "id_image": "silent_3115605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383637_dfa3097a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383637_253d2bc484_o.png",
+      "id_image": "silent_3508242"
+    }
+  ]
+}

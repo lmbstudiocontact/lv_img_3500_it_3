@@ -1,0 +1,218 @@
+{
+  "english": "share",
+  "phat_am": "[∫eə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như ploughshare"
+        },
+        {
+          "m_full_vn": "( share in / of something ) một phần của một số lượng lớn chia cho nhiều người (hoặc do nhiều người đóng góp lại); phần; phần đóng góp",
+          "list_en_vn": [
+            {
+              "full_en": "a fair share of food",
+              "full_vn": "phần thức ăn vừa phải"
+            },
+            {
+              "full_en": "the robber's share of the stolen money",
+              "full_vn": "phần mà tên cướp được chia trong số tiền cướp được"
+            },
+            {
+              "full_en": "your share of the cost is 100 dollars",
+              "full_vn": "phần đóng góp của anh vào chi phí là 100 đô la"
+            },
+            {
+              "full_en": "everyone who helped gets a share in the profits",
+              "full_vn": "mỗi người giúp vào đều được chia lãi"
+            },
+            {
+              "full_en": "what share did he have in their success ?",
+              "full_vn": "anh ấy có đóng góp gì trong thành công của họ?"
+            },
+            {
+              "full_en": "she must take her share of the blame",
+              "full_vn": "cô ta phải chịu một phầntrong lời khiển trách đó"
+            },
+            {
+              "full_en": "you're not taking much share in the conversation",
+              "full_vn": "anh không đóng góp nhiều trong cuộc nói chuyện này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cổ phiếu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go shares (with somebody ) (in something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) phần chia (lợi nhuận, chi phí...) bằng nhau với người khác; chia đều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let me go shares with you in the taxi fare",
+                      "full_vn": "cho phép tôi chia đều với anh tiền tắc xi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the lion's share",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lion"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a / one's fair share of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiều hơn số lượng dự kiến về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a slice /share of the cake",
+              "list_im": [
+                {
+                  "im_full_vn": "được hưởng lợi lộc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "stocks and shares",
+              "full_vn": "cổ phần và cổ phiếu"
+            },
+            {
+              "full_en": "to buy /hold 500 shares in a shipping company",
+              "full_vn": "mua/nắm 500 cổ phiếu trong một công ty hàng hải"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to share something out among / between somebody ) chia một phần đều nhau của cái gì cho những người khác",
+          "list_en_vn": [
+            {
+              "full_en": "to share a sum of money equally between five people",
+              "full_vn": "chia đều một số tiền cho năm người"
+            },
+            {
+              "full_en": "to share the sweets among the children",
+              "full_vn": "chia (đều) kẹo cho bọn trẻ con"
+            },
+            {
+              "full_en": "the profits are shared (out ) equally among the partners",
+              "full_vn": "lợi nhuận được chia đều cho các bên tham gia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to share something with somebody ) có một phần của cái gì cùng với một hoặc nhiều người khác; dự phần; tham gia",
+          "list_en_vn": [
+            {
+              "full_en": "Let's share (the last cake ); you'll have half and I'll have half",
+              "full_vn": "Chúng ta hãy chia nhau (cái bánh cuối cùng); anh một nửa và tôi một nửa"
+            },
+            {
+              "full_en": "He would share his last pound with me",
+              "full_vn": "anh ấy muốn chia sẻ với tôi đồng pao cuối cùng của anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to share something with somebody ) có hoặc dùng cái gì cùng với những người khác; có chung cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "There's only one bedroom , so we'll have to share",
+              "full_vn": "Chỉ còn một phòng ngủ, nên chúng ta sẽ phải ở chung với nhau"
+            },
+            {
+              "full_en": "to share a bed , room , house",
+              "full_vn": "dùng chung một giừơng, ở chung một phòng, ở chung một nhà"
+            },
+            {
+              "full_en": "to share somebody's belief , faith , optimism",
+              "full_vn": "chia sẻ lòng tin, niềm tin, niềm lạc quan của ai"
+            },
+            {
+              "full_en": "he shares my fears about a possible war",
+              "full_vn": "anh ấy chia sẻ với tôi nỗi lo sợ về một cuộc chiến tranh có thể xảy ra"
+            },
+            {
+              "full_en": "we both share the credit for this success",
+              "full_vn": "cả hai chúng tôi cùng chia sẻ công lao đối với sự thành công này"
+            },
+            {
+              "full_en": "will you share your pen with me ?",
+              "full_vn": "anh cho tôi dùng chung bút với anh nhé?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to share in something ) có phần trong cái gì; tham gia vào cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I will share (in ) the cost with you",
+              "full_vn": "Tôi sẽ chia sẻ phần chi phí với anh"
+            },
+            {
+              "full_en": "she shares (in ) my troubles as well as my joys",
+              "full_vn": "cô ấy chia sẻ cả những phiền muộn cũng như niềm vui với tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to share something with somebody ) nói với ai về cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "share and share alike",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chia các thứ một cách đồng đều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Don't be so selfish - it's share and share alike in this house",
+                      "full_vn": "Đừng ích kỷ như thế - trong nhà này mọi thứ chia đều"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she won't share her secret with us",
+              "full_vn": "cô ấy sẽ không nói cho chúng tôi biết bí mật của cô ấy"
+            },
+            {
+              "full_en": "I want to share my news with you",
+              "full_vn": "tôi muốn cho anh biết tin tức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392007_160b80653f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392007_035a399d4e_o.png",
+      "id_image": "share_1147109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701899_fc281d2dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701899_0d14b2747b_o.png",
+      "id_image": "share_1373155"
+    }
+  ]
+}

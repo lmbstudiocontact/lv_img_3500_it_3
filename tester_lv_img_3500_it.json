@@ -1,0 +1,35 @@
+{
+  "english": "tester",
+  "phat_am": "['testə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thử; máy thử"
+        },
+        {
+          "m_full_vn": "màn (treo trên giường, trên chỗ ngồi)",
+          "list_en_vn": [
+            {
+              "full_en": "tester bed",
+              "full_vn": "giường có màn treo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465988_f6724833ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465988_4e7ef6d8fe_o.png",
+      "id_image": "tester_3899193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705909_43c857f56d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705909_9b7e7b5993_o.png",
+      "id_image": "tester_4157277"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "veteran",
+  "phat_am": "['vetərən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người từng trải, người kỳ cựu (nhất là với tư cách một người lính)",
+          "list_en_vn": [
+            {
+              "full_en": "war veterans",
+              "full_vn": "các cựu chiến binh"
+            },
+            {
+              "full_en": "veterans of two World Wars",
+              "full_vn": "những cựu binh trong hai cuộc Thế chiến"
+            },
+            {
+              "full_en": "the veterans of the teaching profession",
+              "full_vn": "những người kỳ cựu trong nghề dạy học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ một cựu quân nhân nào; cựu chiến binh (cũng) vet",
+          "list_en_vn": [
+            {
+              "full_en": "Veterans Day",
+              "full_vn": "Ngày cựu chiến binh (ngày 11 / 11, để tưởng nhớ ngày đình chiến ( 1918) trong Đệ nhất thế chiến)"
+            },
+            {
+              "full_en": "Vietnam veterans",
+              "full_vn": "những quân nhân Mỹ từng tham gia chiến tranh Việt Nam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "kỳ cựu",
+          "list_en_vn": [
+            {
+              "full_en": "a veteran statesman",
+              "full_vn": "một chính khách kỳ cựu"
+            },
+            {
+              "full_en": "a veteran soldier",
+              "full_vn": "lính kỳ cựu"
+            },
+            {
+              "full_en": "a veteran golfer",
+              "full_vn": "một tay chơi gôn kỳ cựu"
+            },
+            {
+              "full_en": "veteran troops",
+              "full_vn": "quân đội thiện chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (thuộc) cựu chiến binh",
+          "list_en_vn": [
+            {
+              "full_en": "veteran service",
+              "full_vn": "sở cựu chiến binh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460238_6da0657f95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460238_9937ffa1f4_o.png",
+      "id_image": "veteran_2142618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700564_3133cd1038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700564_462e28504b_o.png",
+      "id_image": "veteran_4850575"
+    }
+  ]
+}

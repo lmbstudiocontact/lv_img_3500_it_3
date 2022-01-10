@@ -1,0 +1,35 @@
+{
+  "english": "substitution",
+  "phat_am": "[,sʌbsti'tju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thay thế; sự được thay thế"
+        },
+        {
+          "m_full_vn": "hành động thay thế",
+          "list_en_vn": [
+            {
+              "full_en": "two substitutions were made during the match",
+              "full_vn": "trong trận đấu đã thay thế hai cầu thủ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077000_16a1de8a00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077000_2b64eee740_o.png",
+      "id_image": "substitution_2396278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339726_b0097967cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339726_88aecae3e6_o.png",
+      "id_image": "substitution_3564481"
+    }
+  ]
+}

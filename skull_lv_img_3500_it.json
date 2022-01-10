@@ -1,0 +1,45 @@
+{
+  "english": "skull",
+  "phat_am": "[skʌl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sọ, đầu lâu",
+          "list_en_vn": [
+            {
+              "full_en": "skull and crossbones",
+              "full_vn": "đầu lâu và hai xương chéo (tượng trưng cho sự chết)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu óc, bộ óc",
+          "list_en_vn": [
+            {
+              "full_en": "thick skull",
+              "full_vn": "óc ngu si, óc đần độn"
+            },
+            {
+              "full_en": "empty skull",
+              "full_vn": "đầu óc rỗng tuếch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380152_b2bb2a639a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380152_c6641d5988_o.png",
+      "id_image": "skull_1123926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380132_1a0093ec13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380132_cacf4ce8fb_o.png",
+      "id_image": "skull_1171183"
+    }
+  ]
+}

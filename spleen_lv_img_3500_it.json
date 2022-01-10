@@ -1,0 +1,35 @@
+{
+  "english": "spleen",
+  "phat_am": "[spli:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) lá lách, tì"
+        },
+        {
+          "m_full_vn": "tâm trạng u uất; tính dễ cáu, tính hay gắt gỏng; sự u uất, sự hằn học",
+          "list_en_vn": [
+            {
+              "full_en": "to vent one's spleen upon someone",
+              "full_vn": "trút hết sự hằn học vào ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468193_1d885b7739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468193_b87ea6dcc6_o.png",
+      "id_image": "spleen_2864334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468178_386f85fc20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468178_224e0bee0f_o.png",
+      "id_image": "spleen_6147908"
+    }
+  ]
+}

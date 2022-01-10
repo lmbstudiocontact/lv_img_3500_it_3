@@ -1,0 +1,223 @@
+{
+  "english": "trial",
+  "phat_am": "['traiəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thử thách; sự thử nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to give job applicants a trial",
+              "full_vn": "thử thách những người xin việc"
+            },
+            {
+              "full_en": "to put the car through safety trials",
+              "full_vn": "đưa xe hơi đi trắc nghiệm an toàn"
+            },
+            {
+              "full_en": "to proceed by trial and error",
+              "full_vn": "tiến hành bằng cách mò mẫm"
+            },
+            {
+              "full_en": "trial of strength",
+              "full_vn": "một cuộc thử sức (để biết ai khoẻ hơn ai)"
+            },
+            {
+              "full_en": "to employ somebody for a trial period",
+              "full_vn": "thuê ai làm việc thử trong một thời gian"
+            },
+            {
+              "full_en": "for trial purposes",
+              "full_vn": "nhằm mục đích thử nghiệm"
+            },
+            {
+              "full_en": "trial flight",
+              "full_vn": "cuộc bay thử"
+            },
+            {
+              "full_en": "a trial separation",
+              "full_vn": "một cuộc ly thân thử (đối với một cặp vợ chồng gặp khó khăn trong cuộc sống chung)"
+            },
+            {
+              "full_en": "trial trip",
+              "full_vn": "cuộc chạy thử (của chiếc tàu mới)"
+            },
+            {
+              "full_en": "the new drug has undergone extensive medical trials",
+              "full_vn": "dược phẩm mới đã trải qua những cuộc thể nghiệm y học rộng rãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) việc xét xử, sự xử án; phiên toà xử",
+          "list_en_vn": [
+            {
+              "full_en": "the trial lasted a week",
+              "full_vn": "phiên toà kéo dài một tuần lễ"
+            },
+            {
+              "full_en": "to commit somebody for trial",
+              "full_vn": "tạm giam ai"
+            },
+            {
+              "full_en": "to bring to trial",
+              "full_vn": "đưa ra toà, đưa ra xử"
+            },
+            {
+              "full_en": "the defendant claimed that he had not had a fair trial",
+              "full_vn": "bị cáo khiếu nại rằng ông ta đã không được xét xử công minh"
+            },
+            {
+              "full_en": "the case comes to trial /comes up for trial next month",
+              "full_vn": "vụ án sẽ được đưa ra xử vào tháng sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thử thách; điều thử thách; nỗi gian nan",
+          "list_en_vn": [
+            {
+              "full_en": "a life full of trials",
+              "full_vn": "một cuộc đời lắm nỗi gian nan"
+            },
+            {
+              "full_en": "the radio next door is a real trial",
+              "full_vn": "cái đài bên cạnh thật là một tai hoạ"
+            },
+            {
+              "full_en": "trials of love",
+              "full_vn": "những thử thách của tình yêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( trial to somebody ) của nợ; chuyện nặng nợ (người, vật hay quấy rầy, gây bực tức..)",
+          "list_en_vn": [
+            {
+              "full_en": "her child is a trial to his teachers",
+              "full_vn": "đứa con của bà ta là một của nợ đối với các thầy cô giáo của nó"
+            },
+            {
+              "full_en": "life's trials",
+              "full_vn": "những nợ đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tài chính) sự kiểm tra",
+          "list_en_vn": [
+            {
+              "full_en": "trial balance",
+              "full_vn": "kết toán kiểm tra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) sự thăm dò",
+          "list_en_vn": [
+            {
+              "full_en": "trial balloon",
+              "full_vn": "bóng thăm dò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trận đấu thể thao để trắc nghiệm khả năng những đấu thủ có thể được tuyển vào một đội quan trọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go /be on trial (for something ); to stand trial (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "bị xử trong một phiên toà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she went on /stood trial for murder",
+                      "full_vn": "cô ta bị đem ra toà xử về tội sát nhân"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody on trial (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "tố cáo ai và đưa ra xét xử",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was put on trial for fraud",
+                      "full_vn": "cô ta phải ra hầu toà về tội lừa đảo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on trial",
+              "list_im": [
+                {
+                  "im_full_vn": "được xem xét và trắc nghiệm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to take the machine on trial for a week",
+                      "full_vn": "đem máy đi thử nghiệm một tuần"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "trial and error",
+              "list_im": [
+                {
+                  "im_full_vn": "phương pháp thử và sai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to learn by trial and error",
+                      "full_vn": "tự mò mẫm học tập"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "trials and tribulation",
+              "list_im": [
+                {
+                  "im_full_vn": "những nỗi khổ cực và phiền phức"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) số ba (bên cạnh số đơn và số đôi; số nhiều)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071390_97e42c184b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071390_f7cd1a0b96_o.png",
+      "id_image": "trial_2720697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071435_ccd20591d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071435_f46024d8e6_o.png",
+      "id_image": "trial_354504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449428_dfbb3451a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449428_10d0948aa7_o.png",
+      "id_image": "trial_5110820"
+    }
+  ]
+}

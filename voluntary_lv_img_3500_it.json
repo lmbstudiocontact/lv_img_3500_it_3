@@ -1,0 +1,99 @@
+{
+  "english": "voluntary",
+  "phat_am": "['vɔləntri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự ý; tự nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "a voluntary contribution",
+              "full_vn": "sự đóng góp tự nguyện"
+            },
+            {
+              "full_en": "voluntary action",
+              "full_vn": "một hành động tự nguyện"
+            },
+            {
+              "full_en": "the prisoner made a voluntary statement",
+              "full_vn": "người tù đã tự nguyện làm bản cung khai"
+            },
+            {
+              "full_en": "attendance at the next tea-party is purely voluntary",
+              "full_vn": "việc tham dự bữa tiệc trà sắp tới là hoàn toàn tự nguyện"
+            },
+            {
+              "full_en": "to go into voluntary liquidation",
+              "full_vn": "(nói về doanh nghiệp) tự ý giải thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự ý làm dù không được trả công; tình nguyện",
+          "list_en_vn": [
+            {
+              "full_en": "voluntary helpers",
+              "full_vn": "những người tình nguyện giúp việc"
+            },
+            {
+              "full_en": "she does voluntary social work",
+              "full_vn": "cô ta tình nguyện làm công tác xã hội"
+            },
+            {
+              "full_en": "cooperation is promoted on a voluntary basis",
+              "full_vn": "công cuộc hợp tác được xúc tiến trên cơ sở tự nguyện"
+            },
+            {
+              "full_en": "a voluntary organization",
+              "full_vn": "một tổ chức thiện nguyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) do sự điều khiển của ý chí;, chủ động",
+          "list_en_vn": [
+            {
+              "full_en": "voluntary contraction of a muscle",
+              "full_vn": "sự co cơ chủ động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) tự nguyện; cố ý",
+          "list_en_vn": [
+            {
+              "full_en": "voluntary conveyance",
+              "full_vn": "sự nhượng không"
+            },
+            {
+              "full_en": "voluntary manslaughter",
+              "full_vn": "tội cố ý giết người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản nhạc dạo (bản độc tấu chơi bằng nhạc cụ trước hoặc trong khi hay sau một buổi lễ ở nhà thờ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340651_015c22eb66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340651_df60999d83_o.png",
+      "id_image": "voluntary_1590696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385582_0a7ffa051a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385582_eeb7c13d4d_o.png",
+      "id_image": "voluntary_1974645"
+    }
+  ]
+}

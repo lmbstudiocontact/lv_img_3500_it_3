@@ -1,0 +1,108 @@
+{
+  "english": "story",
+  "phat_am": "['stɔ:ri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyện, câu chuyện; sự tường thuật (những sự kiện, việc.. đã qua)",
+          "list_en_vn": [
+            {
+              "full_en": "they all tell the same story",
+              "full_vn": "họ đều kể một câu chuyện như nhau"
+            },
+            {
+              "full_en": "as the story goes",
+              "full_vn": "người ta nói chuyện rằng"
+            },
+            {
+              "full_en": "but that is another story",
+              "full_vn": "nhưng đó lại là chuyện khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyện",
+          "list_en_vn": [
+            {
+              "full_en": "a short story",
+              "full_vn": "truyện ngắn"
+            },
+            {
+              "full_en": "a fairy story",
+              "full_vn": "một truyện thần tiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cốt truyện, tình tiết (của một truyện, một vở kịch...) (như) story-line",
+          "list_en_vn": [
+            {
+              "full_en": "he reads only for the story",
+              "full_vn": "anh ta đọc để hiểu cốt truyện thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tường thuật về một mục tin trên báo; bài báo",
+          "list_en_vn": [
+            {
+              "full_en": "a front-page story",
+              "full_vn": "bài trang một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiểu sử, quá khứ (của một người)"
+        },
+        {
+          "m_full_vn": "(thông tục) lời nói dối; lời nói (sự mô tả..) không thật",
+          "list_en_vn": [
+            {
+              "full_en": "oh you story !",
+              "full_vn": "nói dối!, điêu!"
+            },
+            {
+              "full_en": "don't tell stories , Tom",
+              "full_vn": "Tom, đừng có bịa chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) lịch sử, sử học"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) tầng, tầng gác, tầng nhà (như) storey",
+          "list_one_mean": [
+            {
+              "id_full_en": "that's the story of my life",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cái số tôi nó thế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459288_4485129be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459288_a1d0f8bd7e_o.png",
+      "id_image": "story_1547253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081930_1c20179bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081930_47eca1b835_o.png",
+      "id_image": "story_2433350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389457_24a2d6c155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389457_7495226272_o.png",
+      "id_image": "story_306127"
+    }
+  ]
+}

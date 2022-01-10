@@ -1,0 +1,42 @@
+{
+  "english": "springtime",
+  "phat_am": "['spriηtaim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời kỳ mùa xuân (như) springtide",
+          "list_en_vn": [
+            {
+              "full_en": "the blossom on the trees looks lovely in (the ) springtime",
+              "full_vn": "hoa trên cây cối trông thật là đáng yêu về mùa xuân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466913_c742dc88ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466913_fe323c3152_o.png",
+      "id_image": "springtime_4198972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466998_36b3c84473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466998_48167417ae_o.png",
+      "id_image": "spring_4359910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089600_65f6dc988a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089600_8dc0cb755e_o.png",
+      "id_image": "spring_4433174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466963_fc51580e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466963_81c89469b9_o.png",
+      "id_image": "spring_4433190"
+    }
+  ]
+}

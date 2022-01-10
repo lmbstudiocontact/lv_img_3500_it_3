@@ -1,0 +1,326 @@
+{
+  "english": "sink",
+  "phat_am": "[siηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bồn rửa bát, chậu rửa bát"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) chậu rửa ( lavabô)"
+        },
+        {
+          "m_full_vn": "bể phốt"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vũng nước bẩn, vũng lầy; ổ",
+          "list_en_vn": [
+            {
+              "full_en": "a sink of vices",
+              "full_vn": "một ổ truỵ lạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầm lầy"
+        },
+        {
+          "m_full_vn": "khe kéo phông (trên (sân khấu))"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ sank ; sunk",
+      "list_m": [
+        {
+          "m_full_vn": "chìm, thụt, lún",
+          "list_en_vn": [
+            {
+              "full_en": "ship sinks",
+              "full_vn": "tàu chìm"
+            },
+            {
+              "full_en": "cart sinks into mud",
+              "full_vn": "xe bò lún xuống bùn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lún xuống, trở nên thấp hơn, hạ thấp dần dần",
+          "list_en_vn": [
+            {
+              "full_en": "the soldier sank to the ground badly wounded",
+              "full_vn": "người lính bị thương nặng, ngã gục xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lặn xuống dưới chân trời (mặt trời)",
+          "list_en_vn": [
+            {
+              "full_en": "the sun is sinking",
+              "full_vn": "mặt trời đang lặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xuống thấp, lắng xuống",
+          "list_en_vn": [
+            {
+              "full_en": "voice sinks",
+              "full_vn": "giọng hạ thấp"
+            },
+            {
+              "full_en": "river sinks",
+              "full_vn": "nước sông xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất dần giá trị (sức mạnh..); suy giảm",
+          "list_en_vn": [
+            {
+              "full_en": "prices sink",
+              "full_vn": "giá sụt xuống"
+            },
+            {
+              "full_en": "to sink in someone's estimation",
+              "full_vn": "mất uy tín đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hõm vào, hoắm vào (má...)",
+          "list_en_vn": [
+            {
+              "full_en": "his eyes have sunk in",
+              "full_vn": "mắt anh ta hõm vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xuyên vào, ăn sâu vào, ngập sâu vào; thấm vào",
+          "list_en_vn": [
+            {
+              "full_en": "bayonet sinks in to the hilt",
+              "full_vn": "lưỡi lê ngập sâu vào đến tận cán"
+            },
+            {
+              "full_en": "impression sinks into mind",
+              "full_vn": "ấn tượng thấm sâu vào óc"
+            },
+            {
+              "full_en": "dye sinks in",
+              "full_vn": "thuốc nhuộm ăn vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chìm, chìm đắm",
+          "list_en_vn": [
+            {
+              "full_en": "to sink into degradation",
+              "full_vn": "chìm sâu vào sự đê hèn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chìm, đánh đắm",
+          "list_en_vn": [
+            {
+              "full_en": "to sink a ship",
+              "full_vn": "đánh chìm tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm phá sản, phá hoại, không để cho thành công, ngăn trở",
+          "list_en_vn": [
+            {
+              "full_en": "the press want to sink his bid for the Presidency",
+              "full_vn": "báo chí muốn làm thất bại cố gắng của ông ta giành chức Tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạ xuống, làm cho thấp xuống, di chuyển xuống",
+          "list_en_vn": [
+            {
+              "full_en": "drought sinks stream",
+              "full_vn": "hạn hán làm mực nước suối thấp xuống"
+            },
+            {
+              "full_en": "to sink one's voice to a swhiper",
+              "full_vn": "hạ thấp giọng xuống thành một tiếng thì thầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chôn",
+          "list_en_vn": [
+            {
+              "full_en": "to sink two posts (into the ground ) here",
+              "full_vn": "chôn hai cái cột ở đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để ngả xuống, để rủ xuống"
+        },
+        {
+          "m_full_vn": "đào, khoan, khắc",
+          "list_en_vn": [
+            {
+              "full_en": "to sink a well",
+              "full_vn": "đào giếng"
+            },
+            {
+              "full_en": "to sink a die",
+              "full_vn": "khắc con súc sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấu",
+          "list_en_vn": [
+            {
+              "full_en": "to sink one's name",
+              "full_vn": "giấu tên tuổi"
+            },
+            {
+              "full_en": "to sink a fact",
+              "full_vn": "giấu một sự việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (một quả bóng) vào hố, lỗ (trong bi da, golf..)"
+        },
+        {
+          "m_full_vn": "(thông tục) uống (nhất là uống nhiều rượu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sink one's own interests",
+              "list_im": [
+                {
+                  "im_full_vn": "quên mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "quên mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink one's knees",
+              "list_im": [
+                {
+                  "im_full_vn": "quỳ sụp xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink money",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu tư vốn vào một việc kinh doanh mà khó rút ra; mất vốn bị mắc kẹt trong một việc kinh doanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sink or swim",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) (dùng cho một tình huống mà ta sẽ thất bại hoàn toàn hoặc là sẽ sống sót bằng nỗ lực của bản thân) một mất một còn; nhất sống nhì chết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The refugees had lost their homes and their possessions , and it was now (a case of ) sink or swim",
+                      "full_vn": "Những người tị nạn đã mất hết nhà cửa và tài sản, và bây giờ là trường hợp nhất sống nhị chết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "his heart sank at the sad news",
+              "list_im": [
+                {
+                  "im_full_vn": "được tin buồn lòng anh ta se lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink one's differences",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý quên đi những sự bất đồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a /that sinking feeling",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cảm thấy có cái gì xấu xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink like a stone",
+              "list_im": [
+                {
+                  "im_full_vn": "chìm nghỉm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sink in /sink into something",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn vào, thấm vào một chất khác; bị hút vào (về chất lỏng)"
+                },
+                {
+                  "im_full_vn": "thấm nhuần, thấm thía, được hiểu hoàn toàn (về lời lẽ..)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "they sank a bottle of gin between them",
+              "full_vn": "họ uống với nhau hết cả một chai rượu gin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452268_83d03e83c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452268_e99bf750c9_o.png",
+      "id_image": "sink_194427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692714_798df41e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692714_49d004b591_o.png",
+      "id_image": "sink_231929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382382_5e68981f35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382382_99e4fc9e7c_o.png",
+      "id_image": "sink_780818"
+    }
+  ]
+}

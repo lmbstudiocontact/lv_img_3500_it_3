@@ -1,0 +1,322 @@
+{
+  "english": "shoot",
+  "phat_am": "[∫u:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cành non; chồi cây; cái măng"
+        },
+        {
+          "m_full_vn": "thác nước"
+        },
+        {
+          "m_full_vn": "cầu nghiêng, mặt nghiêng (để tháo nước, để đẩy đất...)"
+        },
+        {
+          "m_full_vn": "cuộc tập bắn"
+        },
+        {
+          "m_full_vn": "cuộc săn bắn; khu vực để săn bắn"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đá, cú sút (bóng)"
+        },
+        {
+          "m_full_vn": "cơ đau nhói",
+          "list_one_mean": [
+            {
+              "id_full_en": "the whole (bang ) shoot",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mọi thứ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ shot",
+      "list_m": [
+        {
+          "m_full_vn": "vụt qua, vọt tới, chạy qua",
+          "list_en_vn": [
+            {
+              "full_en": "flash shoots across sky",
+              "full_vn": "ánh chớp loé ngang bầu trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đâm ra, trồi ra",
+          "list_en_vn": [
+            {
+              "full_en": "buds are shooting",
+              "full_vn": "chồi đang đâm ra"
+            },
+            {
+              "full_en": "tree shoots",
+              "full_vn": "cây đâm chồi"
+            },
+            {
+              "full_en": "cape shoots out",
+              "full_vn": "mũi đất đâm ra ngoài biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ném, phóng, quăng, liệng, đổ",
+          "list_en_vn": [
+            {
+              "full_en": "bow shoots arrow",
+              "full_vn": "cung phóng tên đi"
+            },
+            {
+              "full_en": "sun shoots its rays",
+              "full_vn": "mặt trời toả tia sáng"
+            },
+            {
+              "full_en": "to shoot fishing-net",
+              "full_vn": "quăng lưới"
+            },
+            {
+              "full_en": "to shoot rubbish",
+              "full_vn": "đổ rác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn",
+          "list_en_vn": [
+            {
+              "full_en": "to shoot well with a revolver",
+              "full_vn": "bắn súng lục giỏi"
+            },
+            {
+              "full_en": "to shoot straight",
+              "full_vn": "bắn trúng"
+            },
+            {
+              "full_en": "to be shot in the arm",
+              "full_vn": "bị trúng đạn vào tay"
+            },
+            {
+              "full_en": "to shoot a match",
+              "full_vn": "dự cuộc thi bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "săn bắn",
+          "list_en_vn": [
+            {
+              "full_en": "to be out shooting",
+              "full_vn": "đi săn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sút, đá (bóng)"
+        },
+        {
+          "m_full_vn": "đau nhói, đau nhức nhối",
+          "list_en_vn": [
+            {
+              "full_en": "tooth shoots",
+              "full_vn": "đau răng nhức nhối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) là là mặt đất ( (nghĩa bóng) crickê)"
+        },
+        {
+          "m_full_vn": "chụp ảnh, quay phim"
+        },
+        {
+          "m_full_vn": "bào",
+          "list_en_vn": [
+            {
+              "full_en": "shot edges",
+              "full_vn": "những cạnh đã được bào nhẵn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động tính từ quá khứ",
+      "list_m": [
+        {
+          "m_full_vn": "óng ánh",
+          "list_en_vn": [
+            {
+              "full_en": "shot silk",
+              "full_vn": "lụa óng ánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lời mệnh lệnh nói đi!",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shoot at",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cố gắng đạt được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot away",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn bay đi, bắn văng đi"
+                },
+                {
+                  "im_full_vn": "bắn hết (đạn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to shoot away all one's ammunition",
+                      "full_vn": "bắn hết đạn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot down",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn rơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot forth",
+              "list_im": [
+                {
+                  "im_full_vn": "thoáng qua như chớp, thoảng qua như gió"
+                },
+                {
+                  "im_full_vn": "đâm chồi (cây)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot up",
+              "list_im": [
+                {
+                  "im_full_vn": "lớn mau, lớn nhanh, lớn vọt"
+                },
+                {
+                  "im_full_vn": "bắn trúng nhiều phát"
+                },
+                {
+                  "im_full_vn": "(thông tục) khủng bố; triệt hạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nôn, mửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot a line",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nói khoác, nói bịa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot out one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "bĩu môi khinh bỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the moon x moon to shoot Niagara",
+              "list_im": [
+                {
+                  "im_full_vn": "liều, tính chuyện liều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot the sun",
+              "list_im": [
+                {
+                  "im_full_vn": "đo độ cao của mặt trời lúc buổi trưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll be shot if ...",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu... tôi chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll be shot if I know",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi không biết, tôi biết thì tôi chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot off one's (the ) mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nói ba hoa, nói không giữ mồm giữ miệng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be shot through with",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp nhiều (điều không ưng, nguy hiểm...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343426_13bb0a8c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343426_a31050fe83_o.png",
+      "id_image": "shoots_6041496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343621_8fc338a423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343621_558e6d48b1_o.png",
+      "id_image": "shoot_2121075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081045_192d28bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081045_5570225a6f_o.png",
+      "id_image": "shoot_305503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458303_72db8bc174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458303_496cd9443b_o.png",
+      "id_image": "shoot_4357009"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "english": "strip",
+  "phat_am": "[strip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cởi quần áo; hành động cởi quần áo (nhất là trong trình diễn múa thoát y)"
+        },
+        {
+          "m_full_vn": "mảnh (vải..), dải (đất..)",
+          "list_en_vn": [
+            {
+              "full_en": "a strip of cloth",
+              "full_vn": "một mảnh vải"
+            },
+            {
+              "full_en": "a strip of garden",
+              "full_vn": "một mảnh vườn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) quần áo có màu sắc riêng của các thành viên đội bóng đá",
+          "list_en_vn": [
+            {
+              "full_en": "England are playing in the blue and white strip",
+              "full_vn": "(đội) Anh chơi với quần áo màu xanh và trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột tranh vui (trong báo)"
+        },
+        {
+          "m_full_vn": "(hàng không) đường băng (như) air strip , landing strip"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + down , off ) cởi quần áo",
+          "list_en_vn": [
+            {
+              "full_en": "to strip to the skin",
+              "full_vn": "cởi trần truồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trờn răng (đinh vít, bu lông...)"
+        },
+        {
+          "m_full_vn": "phóng ra (đạn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cởi; lột (quần áo, cái che phủ, bộ phận..)",
+          "list_en_vn": [
+            {
+              "full_en": "to strip a machine",
+              "full_vn": "tháo dỡ một cái máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tước; lột; lấy đi (tài sản, huân chương, chức vụ..) của ai",
+          "list_en_vn": [
+            {
+              "full_en": "to strip house",
+              "full_vn": "tước đoạt hết đồ đạc trong nhà"
+            },
+            {
+              "full_en": "to strip someone of his power",
+              "full_vn": "tước quyền ai, cách chức ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm trờn răng (đinh vít, bu lông...)",
+          "list_en_vn": [
+            {
+              "full_en": "to strip screw",
+              "full_vn": "làm trờn răng một đinh vít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vắt cạn",
+          "list_en_vn": [
+            {
+              "full_en": "to strip a cow",
+              "full_vn": "vắt cạn sữa một con bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + down ) tháo rời (nhất là một cỗ máy)",
+          "list_one_mean": [
+            {
+              "id_full_en": "strip to the buff",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cởi hết quần áo; trần truồng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387157_bff7165a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387157_43a772686b_o.png",
+      "id_image": "strip_2748770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342221_2ce883c4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342221_3ab109705b_o.png",
+      "id_image": "strip_508742"
+    }
+  ]
+}

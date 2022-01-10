@@ -1,0 +1,133 @@
+{
+  "english": "toe",
+  "phat_am": "[tou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngón chân (người)",
+          "list_en_vn": [
+            {
+              "full_en": "big toe",
+              "full_vn": "ngón chân cái"
+            },
+            {
+              "full_en": "little toe",
+              "full_vn": "ngón chân út"
+            },
+            {
+              "full_en": "from top to toe",
+              "full_vn": "từ đầu đến chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngón chân (động vật)"
+        },
+        {
+          "m_full_vn": "mũi (giày, tất)"
+        },
+        {
+          "m_full_vn": "chân (tường)"
+        },
+        {
+          "m_full_vn": "phía trước móng sắt ngựa; ổ đứng, ổ chặn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to turn up one's toes",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, bỏ đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's toes",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng hành động; cảnh giác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ toed",
+      "list_m": [
+        {
+          "m_full_vn": "đặt ngón chân vào"
+        },
+        {
+          "m_full_vn": "đóng mũi (giày); vá (mạng) đầu mũi (bít tất)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sút (bóng)"
+        },
+        {
+          "m_full_vn": "(thông tục) đá đít",
+          "list_one_mean": [
+            {
+              "id_full_en": "to toe in",
+              "list_im": [
+                {
+                  "im_full_vn": "đi chân chữ bát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toe out",
+              "list_im": [
+                {
+                  "im_full_vn": "đi chân vòng kiềng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toe the line",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng vào vạch đợi lệnh xuất phát (chạy đua)"
+                },
+                {
+                  "im_full_vn": "tuân mệnh lệnh, phục tùng (đảng của mình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone toe the line",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai đứng vào vạch trước khi xuất phát (chạy đua)"
+                },
+                {
+                  "im_full_vn": "bắt ai phục tùng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to toe someone",
+              "full_vn": "đá đít ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345856_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345856_9e3e085d7d_o.png",
+      "id_image": "toe_2375360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083300_39fe5e5a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083300_7061b95178_o.png",
+      "id_image": "toe_2688365"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "twister",
+  "phat_am": "['twistə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người xe dây, người bện thừng; máy bện sợi, máy xe sợi"
+        },
+        {
+          "m_full_vn": "que (để) xe (sợi)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) quả bóng xoáy"
+        },
+        {
+          "m_full_vn": "vấn đề hắc búa, sự rối rắm, vấn đề khó khăn",
+          "list_en_vn": [
+            {
+              "full_en": "that's a twister for him",
+              "full_vn": "điều đó thật hắc búa đối với nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) kẻ lừa bịp, người gian trá, kẻ bất lương"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) bão táp, cơn gió xoáy"
+        },
+        {
+          "m_full_vn": "phía đùi kẹp vào mình ngựa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682694_5436525afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682694_7eb5fe35f2_o.png",
+      "id_image": "twister_3274121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064260_fa5e8c8686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064260_a46d85b500_o.png",
+      "id_image": "twister_6256389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354771_5823cd2b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354771_eb19655f76_o.png",
+      "id_image": "twister_645678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399577_09358ef1cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399577_618e0c567b_o.png",
+      "id_image": "twister_645708"
+    }
+  ]
+}

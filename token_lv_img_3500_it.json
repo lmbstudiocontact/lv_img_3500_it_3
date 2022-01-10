@@ -1,0 +1,91 @@
+{
+  "english": "token",
+  "phat_am": "['toukən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu hiệu, biểu hiện",
+          "list_en_vn": [
+            {
+              "full_en": "as a token of our gratitude",
+              "full_vn": "như là một biểu hiện của lòng biết ơn của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật kỷ niệm, vật lưu niệm",
+          "list_en_vn": [
+            {
+              "full_en": "I'll keep it as a token",
+              "full_vn": "tôi giữ cái đó như là một vật kỷ niệm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng chứng, chứng cớ"
+        },
+        {
+          "m_full_vn": "biên lai; phiếu; thẻ đổi hàng"
+        },
+        {
+          "m_full_vn": "vật dẹp tròn nhỏ giống như đồng xu (dùng để hoạt động một số máy nhất định hoặc làm hình thức thanh toán)",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the same token",
+              "list_im": [
+                {
+                  "im_full_vn": "vì lẽ ấy; vì vậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in token of something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bằng chứng của cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "milk tokens",
+              "full_vn": "những đồng xu dùng để mua sữa tại nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm dấu hiệu, làm tin của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a token payment",
+              "full_vn": "món tiền trả trước làm tin, món tiền đặt cọc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "qua loa; chiếu lệ (có hình thức mà thôi)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082560_fb3883e8e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082560_dba9051a6a_o.png",
+      "id_image": "token_5131787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459858_a737bc4df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459858_cd47e3859f_o.png",
+      "id_image": "token_6295383"
+    }
+  ]
+}

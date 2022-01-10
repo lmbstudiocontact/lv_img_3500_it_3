@@ -1,0 +1,104 @@
+{
+  "english": "steel",
+  "phat_am": "[sti:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thép",
+          "list_en_vn": [
+            {
+              "full_en": "forged steel",
+              "full_vn": "thép rèn"
+            },
+            {
+              "full_en": "muscles of steel",
+              "full_vn": "bắp thị rắn như thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngành thép; sự sản xuất thép"
+        },
+        {
+          "m_full_vn": "cái liếc dao; que thép (để mài dao)"
+        },
+        {
+          "m_full_vn": "cung kiếm",
+          "list_en_vn": [
+            {
+              "full_en": "a foe worthy of one's",
+              "full_vn": "một kẻ thù ngang sức, kẻ thù lợi hại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) giá cổ phần trong ngành thép",
+          "list_one_mean": [
+            {
+              "id_full_en": "cold steel",
+              "list_im": [
+                {
+                  "im_full_vn": "gươm kiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of steel",
+              "list_im": [
+                {
+                  "im_full_vn": "thép; sắt thép"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "steels fell during the week",
+              "full_vn": "giá cổ phần thép hạ trong tuần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "luyện thép vào (dao, cho thêm sắc), tháp thép vào (mũi nhọn, cho thêm cứng); bọc thép"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) luyện cho cứng như gang thép, tôi luyện, làm cho trở nên sắt đá",
+          "list_en_vn": [
+            {
+              "full_en": "to steel oneself",
+              "full_vn": "cứng rắn lại"
+            },
+            {
+              "full_en": "to steel one's heart",
+              "full_vn": "làm cho lòng mình trở nên sắt đá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347731_9d462ea3a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347731_85557df2a6_o.png",
+      "id_image": "steel_4647611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392607_663d09a2f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392607_be40214eb7_o.png",
+      "id_image": "steel_5672093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347666_8c5bcba153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347666_47c6fed81d_o.png",
+      "id_image": "steel_5672175"
+    }
+  ]
+}

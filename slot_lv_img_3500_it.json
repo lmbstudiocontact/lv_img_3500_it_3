@@ -1,0 +1,55 @@
+{
+  "english": "slot",
+  "phat_am": "[slɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rãnh, khía, khe hẹp (qua đó có thể nhét được cái gì)"
+        },
+        {
+          "m_full_vn": "khe, đường rãnh, đường xoi (để lắp cái gì trượt lên đó)",
+          "list_en_vn": [
+            {
+              "full_en": "a slot on a dashboard for a car radio",
+              "full_vn": "một cái khe trên bảng đồng hồ radio của ô tô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ, vị trí"
+        },
+        {
+          "m_full_vn": "đường đi của hươu nai, vết đi của hươu nai"
+        },
+        {
+          "m_full_vn": "khấc, khía; khe (ở ống tiền, ở ổ khoá); đường ren"
+        },
+        {
+          "m_full_vn": "cửa sàn (cửa ở sàn (sân khấu)); cửa mái (cưa ở mái nhà)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khía đường rãnh; đục khe, làm khe; đút vào khe"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069070_e1817ae0c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069070_9136264e17_o.png",
+      "id_image": "slot_1408445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069040_ed928bc7f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069040_9b86577598_o.png",
+      "id_image": "slot_5799924"
+    }
+  ]
+}

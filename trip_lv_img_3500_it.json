@@ -1,0 +1,158 @@
+{
+  "english": "trip",
+  "phat_am": "[trip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc dạo chơi, cuộc du ngoạn"
+        },
+        {
+          "m_full_vn": "sự nếm trải (nhất là do thuốc gợi ảo giác gây ra)",
+          "list_en_vn": [
+            {
+              "full_en": "an acid trip",
+              "full_vn": "một cuộc phiêu diêu do ngấm thuốc LSD"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) chuyến đi, cuộc hành trình, sự vượt biển",
+          "list_en_vn": [
+            {
+              "full_en": "maiden trip",
+              "full_vn": "chuyến đi đầu tiên (của một con tàu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sai lầm, sai sót, lỗi; sự nói lỡ lời"
+        },
+        {
+          "m_full_vn": "sự vấp, sự bị ngáng, sự ngã, sự sẩy chân"
+        },
+        {
+          "m_full_vn": "mẻ cá câu được"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự nhả; thiết bị nhả, ngắt (một cái máy)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vấp, vướng chân",
+          "list_en_vn": [
+            {
+              "full_en": "I tripped over , dropping the tray I was carrying",
+              "full_vn": "tôi hụt chân, đánh rơi cái mâm đang bê xuống đất"
+            },
+            {
+              "full_en": "to trip over a stone",
+              "full_vn": "vấp phải một hòn đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bước nhẹ, đi nhẹ bước, nhảy múa nhẹ nhàng",
+          "list_en_vn": [
+            {
+              "full_en": "to trip up the stairs",
+              "full_vn": "đi nhẹ bước lên cầu thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lầm, lầm lỗi; nói lỡ lời"
+        },
+        {
+          "m_full_vn": "đi dạo, làm một cuộc đi dạo"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngáng, ngoéo (chân), làm cho vấp ngã"
+        },
+        {
+          "m_full_vn": "(hàng hải) thả trượt (neo)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nhả (máy)"
+        },
+        {
+          "m_full_vn": "đóng; nhả (cái ngắt điện, cái hãm); phát động, báo động",
+          "list_en_vn": [
+            {
+              "full_en": "to trip the shutter",
+              "full_vn": "đóng cửa trập"
+            },
+            {
+              "full_en": "to trips the alarm",
+              "full_vn": "phát tín hiệu báo động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho ai vấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to trip (something ) up",
+              "list_im": [
+                {
+                  "im_full_vn": "ngáng, ngoéo chân, làm cho vấp ngã",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he tried to trip me up",
+                      "full_vn": "nó định ngáng tôi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tóm được (ai) làm sai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the lawyer tripped the witness up",
+                      "full_vn": "luật sư tóm được sai sót của nhân chứng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bẫy, khích"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he tried to trip me up",
+              "full_vn": "hắn định làm cho tôi vấp ngã"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688119_de4a3e3e2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688119_45c9161164_o.png",
+      "id_image": "trip_2073199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069925_7973132b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069925_71e90253f6_o.png",
+      "id_image": "trip_3899191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333146_0bd09d5b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333146_1f177aae35_o.png",
+      "id_image": "trip_980771"
+    }
+  ]
+}

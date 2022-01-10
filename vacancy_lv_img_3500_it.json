@@ -1,0 +1,69 @@
+{
+  "english": "vacancy",
+  "phat_am": "['veikənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng không, khoảng trống",
+          "list_en_vn": [
+            {
+              "full_en": "a vacancy on a page",
+              "full_vn": "một khoảng trống trên trang giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng bỏ không (trong nhà trọ)",
+          "list_en_vn": [
+            {
+              "full_en": "no vacancies",
+              "full_vn": "không còn chỗ trống, hết chỗ (ghi trên một tấm bảng chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một vị trí hay chức vụ còn bỏ trống; chỗ khuyết",
+          "list_en_vn": [
+            {
+              "full_en": "we have vacancies for typists /in the typing pool",
+              "full_vn": "chúng tôi còn khuyết chân đánh máy/nhóm người đánh máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng lơ đãng, đầu óc trống rỗng; sự thiếu suy nghĩ, sự thiếu thông minh",
+          "list_en_vn": [
+            {
+              "full_en": "the vacancy of his stare",
+              "full_vn": "sự lơ đãng trong cái nhìn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350261_32573bb702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350261_621db71cff_o.png",
+      "id_image": "vacancy_3645355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087480_9cc72da3b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087480_7ce11c9963_o.png",
+      "id_image": "vacancy_3645372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350211_b4ab54ce1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350211_63806df8a7_o.png",
+      "id_image": "vacancy_3645456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464793_75531388e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464793_52a5385dcd_o.png",
+      "id_image": "vacancy_5272947"
+    }
+  ]
+}

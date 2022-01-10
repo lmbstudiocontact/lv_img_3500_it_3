@@ -1,0 +1,109 @@
+{
+  "english": "stress",
+  "phat_am": "[stres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự căng thẳng; tâm trạng căng thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "the stresses and strains of morden life",
+              "full_vn": "những sự căng thẳng và khẩn trương của cuộc sống hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on ) sự nhấn mạnh; ý nghĩa đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "to lay stress on something",
+              "full_vn": "nhấn mạnh một điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) trọng âm; âm nhấn",
+          "list_en_vn": [
+            {
+              "full_en": "you must learn where to place the stresses",
+              "full_vn": "anh phải học cách đặt trọng âm vào đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhấn",
+          "list_en_vn": [
+            {
+              "full_en": "put a stress on the first note in each bar",
+              "full_vn": "hãy nhấn thêm vào nốt đầu của mỗi nhịp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cố gắng, sự đòi hỏi bỏ nhiều sức lực",
+          "list_en_vn": [
+            {
+              "full_en": "subjected to great stress",
+              "full_vn": "phải cố gắng nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "under stress of weather",
+              "full_vn": "vì thời tiết bắt buộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ứng suất (nhất là trong cơ học)",
+          "list_one_mean": [
+            {
+              "id_full_en": "times of slackness and times of stress",
+              "list_im": [
+                {
+                  "im_full_vn": "những lúc dềnh dang và những lúc khẩn trương"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, làm căng thẳng"
+        },
+        {
+          "m_full_vn": "nhấn mạnh (một âm, một điểm...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cho tác dụng ứng suất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342886_3f475680d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342886_874637acc2_o.png",
+      "id_image": "stress_1488190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457648_3a81651d4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457648_bb191b6950_o.png",
+      "id_image": "stress_2037388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080275_4b7dc38b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080275_4ddb7f766f_o.png",
+      "id_image": "stress_3590386"
+    }
+  ]
+}

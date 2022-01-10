@@ -1,0 +1,66 @@
+{
+  "english": "select",
+  "phat_am": "[si'lekt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tuyển, được lựa chọn"
+        },
+        {
+          "m_full_vn": "kén chọn; dành riêng, chỉ nhận một số người nào đó (về một hội, tổ chức...)",
+          "list_en_vn": [
+            {
+              "full_en": "a select group of top scientists",
+              "full_vn": "một nhóm chọn lọc những nhà khoa học hàng đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hay kén chọn, khó tính"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lựa chọn, chọn lọc, tuyển chọn (cái tốt nhất, cái phù hợp nhất)",
+          "list_en_vn": [
+            {
+              "full_en": "to select a gift",
+              "full_vn": "chọn một tặng phẩm"
+            },
+            {
+              "full_en": "to select a candidate",
+              "full_vn": "tuyển chọn một thí sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465708_aac7697e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465708_4307569b7a_o.png",
+      "id_image": "select_165034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465688_6a885379fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465688_3fdf630839_o.png",
+      "id_image": "select_2005220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395842_3fce4d4a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395842_c8d1e73e46_o.png",
+      "id_image": "select_2249856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465623_e4c7042322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465623_ef047a692f_o.png",
+      "id_image": "select_6064965"
+    }
+  ]
+}

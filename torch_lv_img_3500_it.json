@@ -1,0 +1,67 @@
+{
+  "english": "torch",
+  "phat_am": "['tɔ:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đuốc; ngọn đuốc"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ngọn đuốc, nguồn cảm hứng",
+          "list_en_vn": [
+            {
+              "full_en": "the torch of liberty",
+              "full_vn": "ngọn đuốc tự do"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đèn pin (như) flash-light"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) như blowlamp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to carry a (the ) torch for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (nghĩa bóng) mê (ai), yêu (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hand on the torch",
+              "list_im": [
+                {
+                  "im_full_vn": "truyền lại kiến thức"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốt; phóng hoả"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698469_c249b40382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698469_6fc4797b7f_o.png",
+      "id_image": "torch_5613782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388132_e6c0fc7735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388132_d30f18e010_o.png",
+      "id_image": "torch_6193968"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "tier",
+  "phat_am": "['tiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dãy, tầng, lớp (của một cấu trúc xếp chồng lên nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "to place in tiers one above another",
+              "full_vn": "xếp thành tầng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bậc (của một hội trường, một giảng đường)"
+        },
+        {
+          "m_full_vn": "bậc thang (trên một cao nguyên)"
+        },
+        {
+          "m_full_vn": "người buộc, người cột, người trói"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xếp thành bậc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392772_627a488e57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392772_2e1d89188e_o.png",
+      "id_image": "tier_5966028"
+    }
+  ]
+}

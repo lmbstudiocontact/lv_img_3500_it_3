@@ -1,0 +1,220 @@
+{
+  "english": "sweat",
+  "phat_am": "[swet]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mồ hôi",
+          "list_en_vn": [
+            {
+              "full_en": "a vest damp with sweat",
+              "full_vn": "áo ướt đẫm mồ hôi"
+            },
+            {
+              "full_en": "they built the pagoda with the sweat of their brow",
+              "full_vn": "họ đã đổ mồ hôi sôi nước mắt dựng nên ngôi chùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mồ hôi; hơi ẩm (do sự ngưng tụ trên kính, tường, nắp nồi..)"
+        },
+        {
+          "m_full_vn": "( a sweat ) sự ra mồ hôi; sự làm đổ mồ hôi; tình trạng đổ mồ hôi",
+          "list_en_vn": [
+            {
+              "full_en": "nightly sweats",
+              "full_vn": "sự ra mồ hôi trộm"
+            },
+            {
+              "full_en": "a sweat will do him good",
+              "full_vn": "cứ xông cho ra mồ hôi là anh ấy khỏi"
+            },
+            {
+              "full_en": "they say a good sweat will cure a cold",
+              "full_vn": "người ta cho rằng toát được mồ hôi ra là khỏi cảm lạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) công việc vất vả, công việc khó nhọc",
+          "list_en_vn": [
+            {
+              "full_en": "he cannot stand the sweat of it",
+              "full_vn": "anh ta không chịu được vất vả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( a sweat ) công việc (bài toán..) đòi hỏi nhiều cố gắng"
+        },
+        {
+          "m_full_vn": "sự tập luyện (cho ngựa trước cuộc thi...)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự lo ngại, sự lo lắng",
+          "list_one_mean": [
+            {
+              "id_full_en": "old sweat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) lính già"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all of a sweat",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ướt đẫm mồ hôi"
+                },
+                {
+                  "im_full_vn": "lo lắng, hoảng sợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no sweat",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không sao; không hề gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in a sweat",
+              "full_vn": "lo lắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ mồ hôi, toát mồ hôi, vã mồ hôi (do làm việc vất vả..)"
+        },
+        {
+          "m_full_vn": "úa ra, rỉ ra (như) mồ hôi"
+        },
+        {
+          "m_full_vn": "( + over ) làm việc vất vả, làm việc mệt nhọc"
+        },
+        {
+          "m_full_vn": "bán sức lao động (lấy đồng lương rẻ mạt)"
+        },
+        {
+          "m_full_vn": "sợ hãi, hối hận",
+          "list_en_vn": [
+            {
+              "full_en": "he will sweat for it",
+              "full_vn": "anh ta sẽ hối hận về việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ở trong tình trạng rất lo lắng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy (mồ hôi...), toát (mồ hôi...)"
+        },
+        {
+          "m_full_vn": "làm (ai) đổ mồ hôi; làm (áo...) ướt đẫm mồ hôi"
+        },
+        {
+          "m_full_vn": "lau mồ hôi (cho ngựa)"
+        },
+        {
+          "m_full_vn": "ốp (công nhân) làm đổ mồ hôi sôi nước mắt; bóc lột"
+        },
+        {
+          "m_full_vn": "ủ (thuốc lá)"
+        },
+        {
+          "m_full_vn": "hàn (kim loại)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tra tấn (ai) để bắt khai"
+        },
+        {
+          "m_full_vn": "đun nóng (thịt, rau..); xào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sweat out",
+              "list_im": [
+                {
+                  "im_full_vn": "xông cho ra mồ hôi để khỏi (cảm...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lo lắng đợi chờ (cái gì); sốt ruột đợi chờ (cái gì...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đứng chờ cho hết (một hàng dài...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweat blood",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm đổ mồ hôi sôi nước mắt"
+                },
+                {
+                  "im_full_vn": "sốt ruột, bồn chồn e sợ; lo/sợ toát mồ hôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweat something out",
+              "list_im": [
+                {
+                  "im_full_vn": "xông (chữa cảm lạnh, sốt..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweat it out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bồn chồn/lo lắng/sốt ruột chờ đợi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070620_59e8bab8f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070620_8a561477c8_o.png",
+      "id_image": "sweat_1466560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688734_2a247183f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688734_7f72fe3c6a_o.png",
+      "id_image": "sweat_1933297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070535_29bcc3e31b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070535_ce4818d4dd_o.png",
+      "id_image": "sweat_2688373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070495_bdc1d1f7e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070495_980ca5f564_o.png",
+      "id_image": "sweat_5571657"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "spy",
+  "phat_am": "[spai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gián điệp; điệp viên, người do thám, người trinh sát; người theo dõi (như) spier",
+          "list_en_vn": [
+            {
+              "full_en": "to be a spy on somebody's conduct",
+              "full_vn": "theo dõi hành động của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xem xét kỹ lưỡng, kiểm soát kỹ lưỡng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on , into ) do thám, dò xét, bí mật theo dõi; làm gián điệp, thu nhập thông tin bí mật",
+          "list_en_vn": [
+            {
+              "full_en": "to spy on the enemy's movement",
+              "full_vn": "bí mật theo dõi hoạt động của quân địch"
+            },
+            {
+              "full_en": "to spy into a secret",
+              "full_vn": "dò la tìm hiểu một điều bí mật"
+            },
+            {
+              "full_en": "she was accused of spying for the enemy",
+              "full_vn": "cô ấy đã bị kết tội làm gián điệp cho địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) quan sát, chú ý đến, nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "we spied three figures in the distance",
+              "full_vn": "chúng tôi nhận được ba bức tranh từ xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận ra, nhận thấy, phát hiện",
+          "list_en_vn": [
+            {
+              "full_en": "to spy someone's faults",
+              "full_vn": "phát hiện ra những sai lầm của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem xét kỹ lưỡng, kiểm soát kỹ lưỡng"
+        },
+        {
+          "m_full_vn": "( (thường) + out ) khám phá ra do xem xét kỹ lưỡng, phát hiện ra do kiểm soát kỹ lưỡng",
+          "list_one_mean": [
+            {
+              "id_full_en": "spy out the land",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá tình hình bằng cách điều tra kín đáo.."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352036_74e415e600_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352036_1547530a12_o.png",
+      "id_image": "spy_194344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706484_a35bc8a843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706484_fbb2228f28_o.png",
+      "id_image": "spy_343171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466493_acc9c93170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466493_bb14eceb18_o.png",
+      "id_image": "spy_617033"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "english": "sweep",
+  "phat_am": "[swi:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự quét",
+          "list_en_vn": [
+            {
+              "full_en": "to give a thorough sweep",
+              "full_vn": "làm tổng vệ sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "động tác cuốn, lướt, khoát, vung",
+          "list_en_vn": [
+            {
+              "full_en": "the sweep of a pendulum",
+              "full_vn": "chuyển động lắc qua lắc lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đảo (mắt), sự khoát (tay), sự lướt",
+          "list_en_vn": [
+            {
+              "full_en": "a sweep of the eye",
+              "full_vn": "sự đảo mắt nhìn"
+            },
+            {
+              "full_en": "a sweep of the arm",
+              "full_vn": "cái khoát tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn cong, đường cong",
+          "list_en_vn": [
+            {
+              "full_en": "the river makes a sweep to the left",
+              "full_vn": "sông lượn về phía tay trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rà soát"
+        },
+        {
+          "m_full_vn": "tầm, khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "the sweep of a gun",
+              "full_vn": "tầm súng đại bác"
+            },
+            {
+              "full_en": "within the sweep of the eye",
+              "full_vn": "trong tầm mắt"
+            },
+            {
+              "full_en": "within the sweep of human intelligence",
+              "full_vn": "trong khả năng hiểu biết của con người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xuất kích (máy bay)"
+        },
+        {
+          "m_full_vn": "mái chèo dài"
+        },
+        {
+          "m_full_vn": "cần múc nước (giếng)"
+        },
+        {
+          "m_full_vn": "dải",
+          "list_en_vn": [
+            {
+              "full_en": "a long sweep of meadow",
+              "full_vn": "một dải đồng cỏ dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người cạo ống khói"
+        },
+        {
+          "m_full_vn": "(như) sweepstake"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) rác rưởi quét đi"
+        },
+        {
+          "m_full_vn": "(vật lý) sự quét"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ swept",
+      "list_m": [
+        {
+          "m_full_vn": "quét qua; lan ra; di chuyển nhanh trên một vùng",
+          "list_en_vn": [
+            {
+              "full_en": "a huge wave swept over the deck",
+              "full_vn": "một con sóng lớn quét qua sàn tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "di chuyển một cách nhẹ nhàng, di chuyển một cách đường bệ (theo hướng được nói rõ)",
+          "list_en_vn": [
+            {
+              "full_en": "she swept out of the room",
+              "full_vn": "bà ta đường bệ đi ra khỏi phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt nhanh, vút nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "eagle sweeps past",
+              "full_vn": "chim đại bàng vút qua"
+            },
+            {
+              "full_en": "his glance swept from right to left",
+              "full_vn": "anh ta đảo mắt lướt nhanh từ bên phải sang bên trái"
+            },
+            {
+              "full_en": "to sweep down on the enemy",
+              "full_vn": "lao nhanh vào quân địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải ra, chạy, kéo dài (thành một đường thẳng, đường cong..)",
+          "list_en_vn": [
+            {
+              "full_en": "plain sweeps away to the sea",
+              "full_vn": "cánh đồng trải ra đến bờ biển"
+            },
+            {
+              "full_en": "the road sweeps round the lake",
+              "full_vn": "con đường chạy quanh hồ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại bỏ; quét; chải; phủi (bụi, rác..)",
+          "list_en_vn": [
+            {
+              "full_en": "to sweep the dust from the carpets",
+              "full_vn": "chải bụi ở các thảm"
+            },
+            {
+              "full_en": "to sweep away bits of paper",
+              "full_vn": "quét sạch các mẩu giấy"
+            },
+            {
+              "full_en": "to sweep the floor",
+              "full_vn": "quét sàn nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quét sạch cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to sweep the carpet",
+              "full_vn": "quét sạch thảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chuyển động; loại bỏ; cuốn đi cuốn theo",
+          "list_en_vn": [
+            {
+              "full_en": "the current swept the logs down the river",
+              "full_vn": "nước cuốn các khúc gỗ trôi xuôi dòng sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lướt; vuốt; quét",
+          "list_en_vn": [
+            {
+              "full_en": "to sweep the strings",
+              "full_vn": "lướt ngón tay trên dây đàn"
+            },
+            {
+              "full_en": "to sweep one's hand over one's hair",
+              "full_vn": "vuốt tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quét; lướt qua (cái gì để (xem) xét, tìm kiếm, nghiên cứu)",
+          "list_en_vn": [
+            {
+              "full_en": "the searchlights swept the sky",
+              "full_vn": "đèn pha quét bầu trời"
+            },
+            {
+              "full_en": "battery sweeps the approaches",
+              "full_vn": "khẩu đội pháo quét tất cả những con đường đi đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chèo (phà, thuyền) bằng chèo dài"
+        },
+        {
+          "m_full_vn": "(vật lý) quét",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sweep away",
+              "list_im": [
+                {
+                  "im_full_vn": "quét sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to sweep away feudalism",
+                      "full_vn": "quét sạch chế độ phong kiến"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep along",
+              "list_im": [
+                {
+                  "im_full_vn": "cuốn đi, cuốn theo; lôi cuốn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he swept his audience along with him",
+                      "full_vn": "anh ta lôi cuốn người nghe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep off",
+              "list_im": [
+                {
+                  "im_full_vn": "cướp đi, lấy đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep round",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) quay ngoắt trở lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep up",
+              "list_im": [
+                {
+                  "im_full_vn": "quét lại thành đống"
+                },
+                {
+                  "im_full_vn": "bay cất cánh (máy bay, chim)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep a constituency",
+              "list_im": [
+                {
+                  "im_full_vn": "được phần lớn số phiếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sweep everything into one's net",
+              "list_im": [
+                {
+                  "im_full_vn": "vớ tất, lấy hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweep something under the carpet",
+              "list_im": [
+                {
+                  "im_full_vn": "giấu cái gì có thể gây ra rắc rối, bê bối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweep the board",
+              "list_im": [
+                {
+                  "im_full_vn": "vơ hết giải/tiền; thắng suốt sổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sweep somebody off his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai hết sức xúc động (nhất là về tình yêu)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070170_19725b3485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070170_8775551a8c_o.png",
+      "id_image": "sweep_1286156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070145_a98e3b5011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070145_24ba59a3ab_o.png",
+      "id_image": "sweep_4371640"
+    }
+  ]
+}

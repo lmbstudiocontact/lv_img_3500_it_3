@@ -1,0 +1,105 @@
+{
+  "english": "squat",
+  "phat_am": "[skwɔt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngồi xổm, ngồi chồm hỗm"
+        },
+        {
+          "m_full_vn": "lùn mập, lùn bè bè, béo lùn (người, vật)",
+          "list_en_vn": [
+            {
+              "full_en": "a squat man",
+              "full_vn": "một người đàn ông béo lùn"
+            },
+            {
+              "full_en": "a squat teapot",
+              "full_vn": "một ấm trà thấp bè bè"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngồi xổm, sự ngồi chồm hỗm; tư thế ngồi xổm, tư thế ngồi chồm hỗm"
+        },
+        {
+          "m_full_vn": "người béo lùn"
+        },
+        {
+          "m_full_vn": "ngôi nhà bị chiếm dụng bất hợp pháp",
+          "list_one_mean": [
+            {
+              "id_full_en": "hot squat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ghế điện"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngồi xổm, ngồi chồm hỗm; (thông tục) ngồi (người)",
+          "list_en_vn": [
+            {
+              "full_en": "the old man squatted (down ) by the fire",
+              "full_vn": "ông già ngồi xổm xuống bên lò sưởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nằm bẹp xuống, nằm sát xuống đất (súc vật)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), ( Uc) ở vào khu đất công (cốt để về sau sẽ được chính phủ chính thức cho hưởng quyền sở hữu)"
+        },
+        {
+          "m_full_vn": "'nhảy dù', chiếm dụng nhà (đất đai) bất hợp pháp",
+          "list_en_vn": [
+            {
+              "full_en": "homeless people squatting in a derelict house",
+              "full_vn": "những người không có nhà chiếm dụng một ngôi nhà vô chủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt (ai) ngồi xổm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396272_651d43d53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396272_5a77c03cd9_o.png",
+      "id_image": "squat_2307865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088700_54d8c30dd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088700_dd3ebdf4d4_o.png",
+      "id_image": "squat_3043290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705974_7531fb29af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705974_efb5d6bdd4_o.png",
+      "id_image": "squat_3476385"
+    }
+  ]
+}

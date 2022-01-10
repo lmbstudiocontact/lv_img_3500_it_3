@@ -1,0 +1,263 @@
+{
+  "english": "serve",
+  "phat_am": "[sə:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) cú giao bóng; lượt giao bóng (quần vợt...)",
+          "list_en_vn": [
+            {
+              "full_en": "whose serve is it ?",
+              "full_vn": "đến lượt ai giao bóng?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phục vụ, phụng sự",
+          "list_en_vn": [
+            {
+              "full_en": "to serve one's country",
+              "full_vn": "phục vụ tổ quốc"
+            },
+            {
+              "full_en": "to serve in the army",
+              "full_vn": "phục vụ trong quân đội"
+            },
+            {
+              "full_en": "to serve at table",
+              "full_vn": "đứng hầu bàn ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp ứng, có lợi cho, thoả mãn, hợp với",
+          "list_en_vn": [
+            {
+              "full_en": "to serve a purpose",
+              "full_vn": "đáp ứng một mục đích"
+            },
+            {
+              "full_en": "to serve some private ends",
+              "full_vn": "có lợi cho những mục đích riêng"
+            },
+            {
+              "full_en": "1 kg serves him for a week",
+              "full_vn": "một kilôgam có thể đủ cho anh ta trong một tuần"
+            },
+            {
+              "full_en": "nothing would serve him",
+              "full_vn": "chẳng có gì hợp với anh ta cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dọn ăn, dọn bàn",
+          "list_en_vn": [
+            {
+              "full_en": "to serve up dinner",
+              "full_vn": "dọn cơm ăn"
+            },
+            {
+              "full_en": "to serve somebody with soup",
+              "full_vn": "dọn cháo cho ai ăn"
+            },
+            {
+              "full_en": "to serve chicken three days running",
+              "full_vn": "cho ăn thịt gà ba ngày liền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp, tiếp tế; phân phát",
+          "list_en_vn": [
+            {
+              "full_en": "to serve ammunition",
+              "full_vn": "tiếp đạn; phân phát đạn"
+            },
+            {
+              "full_en": "to serve ration",
+              "full_vn": "phân chia khẩu phần"
+            },
+            {
+              "full_en": "to serve the town with water",
+              "full_vn": "cung cấp nước cho thành phố"
+            },
+            {
+              "full_en": "to serve a battery",
+              "full_vn": "tiếp đạn cho một khẩu đội"
+            },
+            {
+              "full_en": "to serve a customer with something",
+              "full_vn": "bán cái gì cho một khách hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) giao bóng; giao (bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "to serve the ball",
+              "full_vn": "giao bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối xử, đối đãi",
+          "list_en_vn": [
+            {
+              "full_en": "you may serve me as you will",
+              "full_vn": "anh muốn đối với tôi thế nào cũng được"
+            },
+            {
+              "full_en": "to serve somebody a trick",
+              "full_vn": "chơi xỏ ai một vố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) tống đạt, gửi",
+          "list_en_vn": [
+            {
+              "full_en": "to serve a writ on someone ; to serve someone with a writ",
+              "full_vn": "tống đạt trát đòi người nào ra toà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng (về việc gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a sofa serving as a bed",
+              "full_vn": "một ghế xôfa dùng làm giường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy (cái) (ngựa giống)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as occasion serves",
+              "list_im": [
+                {
+                  "im_full_vn": "khi có điều kiện thuận lợi, lúc thuận lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if memory serves",
+              "list_im": [
+                {
+                  "im_full_vn": "xem memory"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve the devil",
+              "list_im": [
+                {
+                  "im_full_vn": "độc ác, nham hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve God (the Lord )",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoan đạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if my memory serves me right",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu tôi không nhầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it serves him right !",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) right"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve an office",
+              "list_im": [
+                {
+                  "im_full_vn": "làm hết một nhiệm kỳ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve one's apprenticeship",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) apprenticeship"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve one's sentence",
+              "list_im": [
+                {
+                  "im_full_vn": "ngồi tù; thụ án"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve one's time",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ chức vụ hết nhiệm kỳ"
+                },
+                {
+                  "im_full_vn": "(như) to serve one's sentence"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "trả thù ai, ăn miếng trả miếng ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086560_e1a78cb3d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086560_f055fb6319_o.png",
+      "id_image": "serve_1147916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394042_62ccc58a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394042_a062849f07_o.png",
+      "id_image": "serve_1711995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394022_bae5fa6016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394022_76b3ba2f23_o.png",
+      "id_image": "serve_3827646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394072_21e1b54806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394072_e99b99db1a_o.png",
+      "id_image": "serve_649236"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "strategic",
+  "phat_am": "[strə'ti:dʒik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) chiến lược; là bộ phận của một kế hoạch hoặc một mưu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "strategic decisions",
+              "full_vn": "những quyết định chiến lược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đem lại lợi thế cho một mục đích nào đó; chiến lược",
+          "list_en_vn": [
+            {
+              "full_en": "strategic position",
+              "full_vn": "vị trí chiến lược"
+            },
+            {
+              "full_en": "strategic weapon",
+              "full_vn": "vũ khí chiến lược"
+            },
+            {
+              "full_en": "strategic bombing",
+              "full_vn": "những cuộc ném bom chiến lược (nhằm vào các khu (công nghiệp) và đầu mối (giao thông) liên lạc)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699044_ce019b15c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699044_6ba324f094_o.png",
+      "id_image": "strategic_1900288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698989_83d3504896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698989_85e75de52a_o.png",
+      "id_image": "strategic_2503780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343786_e516fb5af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343786_6d2645bf80_o.png",
+      "id_image": "strategic_5807499"
+    }
+  ]
+}

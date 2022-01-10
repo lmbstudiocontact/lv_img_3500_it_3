@@ -1,0 +1,157 @@
+{
+  "english": "squeeze",
+  "phat_am": "[skwi:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ép, sự vắt, sự bóp, sự nén, sự nặn (trái cây..)",
+          "list_en_vn": [
+            {
+              "full_en": "the tube of toothpaste a squeeze",
+              "full_vn": "bóp vào ống kem đánh răng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ôm chặt, sự siết chặt tay thân mến",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a squeeze",
+              "full_vn": "ôm chặt ai vào lòng"
+            },
+            {
+              "full_en": "to give somebody a squeeze of the hand",
+              "full_vn": "siết chặt tay người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chút gì do ép, vắt ra",
+          "list_en_vn": [
+            {
+              "full_en": "a squeeze of lemon in your drink",
+              "full_vn": "một chút chanh vắt trong thức uống của bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám đông; sự chen chúc, trạng thái bị dồn nén (do quá đông người, súc vật)",
+          "list_en_vn": [
+            {
+              "full_en": "it was a tight squeeze",
+              "full_vn": "đông quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh túng quẫn"
+        },
+        {
+          "m_full_vn": "(thông tục) sự hạn chế cho vay tiền.. trong khủng hoảng tài chính"
+        },
+        {
+          "m_full_vn": "sự hạn chế, sự bắt buộc"
+        },
+        {
+          "m_full_vn": "sự in dấu tiền đồng (lên giấy, lên sáp)"
+        },
+        {
+          "m_full_vn": "sự ăn bớt, sự ăn chặn, sự ăn hoa hồng lậu"
+        },
+        {
+          "m_full_vn": "(đánh bài) sự ép đối phương bỏ những quân bài quan trọng (như) squeeze play",
+          "list_one_mean": [
+            {
+              "id_full_en": "put the squeeze on somebody (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dùng sức ép đối với ai để hành động theo một cách cụ thể nào đó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, vắt, nén, siết chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to squeeze a lemon",
+              "full_vn": "vắt chanh"
+            },
+            {
+              "full_en": "to squeeze somebody's hand",
+              "full_vn": "siết chặt tay ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chen, ẩn, nhét",
+          "list_en_vn": [
+            {
+              "full_en": "to squeeze oneself into a carriage",
+              "full_vn": "chen vào một toa xe"
+            },
+            {
+              "full_en": "to squeeze a shirt into a suitcase",
+              "full_vn": "ấn chiếc sơ mi vào cái va li"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tống tiền, bòn mót (tiền của), bóp nặn"
+        },
+        {
+          "m_full_vn": "thúc ép, gây áp lực"
+        },
+        {
+          "m_full_vn": "nặn ra, ép ra, cố rặn ra",
+          "list_en_vn": [
+            {
+              "full_en": "to squeeze a tear",
+              "full_vn": "rặn khóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "in dấu (tiền đồng) (lên giấy hay sáp)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, vắt, nén"
+        },
+        {
+          "m_full_vn": "( (thường) + in , out , through... ) chen lấn",
+          "list_en_vn": [
+            {
+              "full_en": "to squeeze through the crowd",
+              "full_vn": "chen qua đám đông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088525_a19ec6e6cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088525_e0955beed0_o.png",
+      "id_image": "squeeze_4636812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351491_7c9017943e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351491_d5286d0c70_o.png",
+      "id_image": "squeeze_525798"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "turk",
+  "phat_am": "[tə:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( Turk ) người Thổ nhĩ kỳ"
+        },
+        {
+          "m_full_vn": "người hung ác, người độc ác",
+          "list_en_vn": [
+            {
+              "full_en": "young turk",
+              "full_vn": "một gã hung hăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thằng ranh con, thằng quỷ con"
+        },
+        {
+          "m_full_vn": "ngựa Thổ nhĩ kỳ"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người theo đạo Hồi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373417_946204f5f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373417_749be5722d_o.png",
+      "id_image": "turk_827359"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "shellfish",
+  "phat_am": "['∫elfi∫]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều shellfish",
+      "list_m": [
+        {
+          "m_full_vn": "loại động vật có vỏ (nhất là những động vật ăn được, (như) trai sò, vẹm, cua và tôm)"
+        },
+        {
+          "m_full_vn": "tôm (cua..) được chế biến thành thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "I eat lots of shellfish",
+              "full_vn": "tôi ăn nhiều tôm cua sò hến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390397_d7024ff2cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390397_2300c936dc_o.png",
+      "id_image": "shellfish_1674570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345361_8785c26eae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345361_cf400876ab_o.png",
+      "id_image": "shellfish_1900782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082880_072399524e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082880_f10ea3748e_o.png",
+      "id_image": "shellfish_883526"
+    }
+  ]
+}

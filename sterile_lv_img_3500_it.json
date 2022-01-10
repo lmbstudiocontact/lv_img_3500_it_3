@@ -1,0 +1,51 @@
+{
+  "english": "sterile",
+  "phat_am": "['sterail]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cằn cỗi, khô cằn; không thể sản xuất mùa màng (đất)",
+          "list_en_vn": [
+            {
+              "full_en": "sterile land",
+              "full_vn": "đất cằn cỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô sinh, mất khả năng sinh đẻ (người, cây cối, súc vật)"
+        },
+        {
+          "m_full_vn": "vô ích, không kết quả (cuộc tranh luận, sự giao thiệp..)",
+          "list_en_vn": [
+            {
+              "full_en": "sterile effort",
+              "full_vn": "sự cố gắng vô ích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô trùng",
+          "list_en_vn": [
+            {
+              "full_en": "an operating theatre should be completely sterile",
+              "full_vn": "một phòng mổ phải hoàn toàn vô trùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghèo nàn, khô khan (văn học)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084585_14db9f04bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084585_2974268150_o.png",
+      "id_image": "sterile_5903994"
+    }
+  ]
+}

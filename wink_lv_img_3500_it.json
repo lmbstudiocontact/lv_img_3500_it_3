@@ -1,0 +1,139 @@
+{
+  "english": "wink",
+  "phat_am": "[wiηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cử chỉ nháy mắt đặc biệt để ra hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have /take forty winks",
+              "list_im": [
+                {
+                  "im_full_vn": "chợp mắt một tí (nhất là vào ban ngày)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to get /have a wink of sleep ; not to sleep a wink",
+              "list_im": [
+                {
+                  "im_full_vn": "không chợp mắt được, không ngủ được tí nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the neighbours were having a party and we didn't get a wink of sleep all night",
+                      "full_vn": "bên hàng xóm có tiệc tùng và thế là suốt đêm qua chúng tôi không chợp mắt được tí nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tip somebody the wink",
+              "list_im": [
+                {
+                  "im_full_vn": "bí mật báo tin cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a meaningful wink",
+              "full_vn": "nháy mắt đầy ngụ ý với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to wink at somebody ) nháy mắt (nhất là để làm dấu hiệu riêng với ai)",
+          "list_en_vn": [
+            {
+              "full_en": "he winked at me to show that he was playing a joke on the others",
+              "full_vn": "nó nháy mắt ra hiệu cho tôi là nó đang bông đùa người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy lánh, nhấp nháy (ngọn đèn, sao..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wink at something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bộ như không để ý đến (tư cách xấu..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his wife has winked at his infidelity for years",
+                      "full_vn": "vợ nó đã nhắm mắt làm ngơ trước sự không chung thủy của nó nhiều năm qua"
+                    },
+                    {
+                      "full_en": "to wink at someone's error",
+                      "full_vn": "nhắm mắt làm ngơ trước sai lầm của ai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we could see the lighthouse winking in the distance",
+              "full_vn": "chúng tôi có thể thấy ánh hải đăng nhấp nháy ở xa xa"
+            },
+            {
+              "full_en": "the car in front is winking - it's going to turn right",
+              "full_vn": "chiếc xe phía trước đang nháy đèn - nó sắp rẽ sang phải"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nháy, chớp, nhấp nháy",
+          "list_en_vn": [
+            {
+              "full_en": "to wink one's eyes",
+              "full_vn": "nháy mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu lộ bằng cái nháy mắt",
+          "list_en_vn": [
+            {
+              "full_en": "to wink assent",
+              "full_vn": "nháy mắt đồng ý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683894_189900388b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683894_e2dc15019f_o.png",
+      "id_image": "wink_1128926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683869_a8609c9ff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683869_9092be4094_o.png",
+      "id_image": "wink_1815157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065565_837d73fc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065565_7982219eef_o.png",
+      "id_image": "wink_2366546"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "tangle",
+  "phat_am": "['tæηgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) tảo bẹ"
+        },
+        {
+          "m_full_vn": "mớ rối, mớ lộn xộn (dây, tóc..)",
+          "list_en_vn": [
+            {
+              "full_en": "to make a tangle of the ball of wool",
+              "full_vn": "làm rối cuộn len"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng lộn xộn, tình trạng rối rắm, trạng thái rối ren, trạng thái phức tạp",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a tangle",
+              "full_vn": "bị lạc đường lối; rối rắm, quẫn"
+            },
+            {
+              "full_en": "to get in a tangle",
+              "full_vn": "rối trí, lúng túng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm rối tung, làm lộn xộn",
+          "list_en_vn": [
+            {
+              "full_en": "to tangle one's hair",
+              "full_vn": "làm rối tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm rối tung, làm phức tạp",
+          "list_en_vn": [
+            {
+              "full_en": "like a tangled skein",
+              "full_vn": "rối tung, rối như tơ vò"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rối, quấn vào nhau, vướng vào nhau"
+        },
+        {
+          "m_full_vn": "trở nên rối rắm, trở nên phức tạp; rối trí, bối rối"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326951_471fe2f774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326951_70329d0bb3_o.png",
+      "id_image": "tangle_5376775"
+    }
+  ]
+}

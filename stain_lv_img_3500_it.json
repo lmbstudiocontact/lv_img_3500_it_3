@@ -1,0 +1,92 @@
+{
+  "english": "stain",
+  "phat_am": "[stein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự biến màu; vết bẩn, vết màu khó sạch"
+        },
+        {
+          "m_full_vn": "vết nhơ, vết đen, điều làm ô nhục (thanh danh..); sự nhơ nhuốc về đạo đức",
+          "list_en_vn": [
+            {
+              "full_en": "without a stain on his character",
+              "full_vn": "không một vết nhơ trong tê tuổi của anh ta"
+            },
+            {
+              "full_en": "to cast a stain on someone's honour",
+              "full_vn": "làm nhơ danh ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc màu, phẩm; chất nhuộm màu (để soi kính hiển vi...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gây vết; làm biến màu",
+          "list_en_vn": [
+            {
+              "full_en": "blood-stained hands",
+              "full_vn": "những bàn tay vấy máu"
+            },
+            {
+              "full_en": "the blackerry juice stained thier fingers (red )",
+              "full_vn": "nước quả mâm xôi làm bẩn (đỏ) những ngón tay họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhuộm; làm cho có màu (gỗ, vải..)",
+          "list_en_vn": [
+            {
+              "full_en": "he stained the wood dark brown",
+              "full_vn": "ông ta tẩm nhuộm gỗ thành màu gụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ô nhục, làm hại (thanh danh..) của ai; làm nhơ nhuốc",
+          "list_en_vn": [
+            {
+              "full_en": "the incident stained his career",
+              "full_vn": "vụ đó đã làm hoen ố sự nghiệp của anh ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên đổi màu, trở nên vấy bẩn",
+          "list_en_vn": [
+            {
+              "full_en": "our white carpet stains easily",
+              "full_vn": "tấm thảm trắng của chúng tôi dễ bị vấy bẩn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465033_a5fbec0d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465033_d3094679bf_o.png",
+      "id_image": "stain_2389425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395262_3b1ce30a2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395262_e93c6b5325_o.png",
+      "id_image": "stain_2534993"
+    }
+  ]
+}

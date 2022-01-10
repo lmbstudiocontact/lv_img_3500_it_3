@@ -1,0 +1,41 @@
+{
+  "english": "visual",
+  "phat_am": "['vi∫uəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thị giác, có liên quan đến thị giác; (thuộc) sự nhìn, dùng cho mắt nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "visual nerve",
+              "full_vn": "dây thần kinh thị giác"
+            },
+            {
+              "full_en": "a good visual memory",
+              "full_vn": "một trí nhớ tốt qua thị giác (tức là khả năng nhớ những gì mình thấy)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341991_ee821a3947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341991_dc4a2a3e7e_o.png",
+      "id_image": "visual_1296977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386977_946250b423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386977_0b20669bfb_o.png",
+      "id_image": "visual_1792028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079360_9173820193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079360_fa5a4491c6_o.png",
+      "id_image": "visual_6040780"
+    }
+  ]
+}

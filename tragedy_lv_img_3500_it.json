@@ -1,0 +1,54 @@
+{
+  "english": "tragedy",
+  "phat_am": "['trædʒədi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thảm kịch; bi kịch (sự kiện kinh khủng gây ra nỗi buồn to lớn); tấn thảm kịch",
+          "list_en_vn": [
+            {
+              "full_en": "investigators are searching the wreckage of the plane to try and find the cause of the tragedy",
+              "full_vn": "các điều traviên đang tìm kiếm các mảnh vụn của chiếc máy bay rơi để cố gắng tìm hiểu nguyên nhân của sự kiện bi thảm đó"
+            },
+            {
+              "full_en": "a life blighted by tragedy",
+              "full_vn": "cuộc đời bị tàn rụi vì bi kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bi kịch (vở kịch nghiêm túc có kết thúc buồn bã)",
+          "list_en_vn": [
+            {
+              "full_en": "Shakespeare's tragedies and comedies",
+              "full_vn": "Các vở bi kịch và hài kịch của Shakespeare"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một ngành của kịch gồm những bi kịch",
+          "list_en_vn": [
+            {
+              "full_en": "classical French tragedy",
+              "full_vn": "bi kịch cổ điển Pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340161_48e97c5c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340161_5b89e6208a_o.png",
+      "id_image": "tragedy_207050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340131_4b74ba4f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340131_df1bc5f5e0_o.png",
+      "id_image": "tragedy_4065453"
+    }
+  ]
+}

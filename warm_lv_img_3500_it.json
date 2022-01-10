@@ -1,0 +1,318 @@
+{
+  "english": "warm",
+  "phat_am": "[wɔ:m]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ấm, ấm áp",
+          "list_en_vn": [
+            {
+              "full_en": "warm water",
+              "full_vn": "nước ấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấm, giữ cho cơ thể khỏi lạnh (quần áo)",
+          "list_en_vn": [
+            {
+              "full_en": "warm clothes",
+              "full_vn": "quần áo ấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấm người (do luyện tập, nhiệt độ của không khí hoặc bị kích động)",
+          "list_en_vn": [
+            {
+              "full_en": "the patient must be kept warm",
+              "full_vn": "cần giữ ấm cho bệnh nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho nóng người, gây ra một cảm giác nhiệt độ (công việc, bài tập..)",
+          "list_en_vn": [
+            {
+              "full_en": "warm exercise",
+              "full_vn": "bài thể dục làm cho ấm người"
+            },
+            {
+              "full_en": "to have warm hands and feet",
+              "full_vn": "có chân tay ấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấm, gợi lên sự ấm áp một cách dễ chịu (màu sắc, âm thanh..)",
+          "list_en_vn": [
+            {
+              "full_en": "the room was furnished in warm reds and browns",
+              "full_vn": "căn phòng được trang bị đồ đạc màu đỏ và nâu ấm áp"
+            },
+            {
+              "full_en": "the orchestra had a distinctively warm and mellow sound",
+              "full_vn": "dàn nhạc chơi với một âm thanh rất ấm và êm dịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn rõ, còn mới, còn tươi (hơi con thú trong cuộc săn)"
+        },
+        {
+          "m_full_vn": "gần tới, gần đúng (trò chơi đố hay đi trốn đi tìm)",
+          "list_en_vn": [
+            {
+              "full_en": "you're getting warm",
+              "full_vn": "anh đang gần tới mục tiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) còn nồng, chưa bay hết; còn mới, còn rõ (hơi, dấu vết của những con thú)"
+        },
+        {
+          "m_full_vn": "sôi nổi, nhiệt liệt, nồng nhiệt, tỏ rõ nhiệt tình",
+          "list_en_vn": [
+            {
+              "full_en": "warm admirer",
+              "full_vn": "người hâm mộ nhiệt tình"
+            },
+            {
+              "full_en": "warm controversy",
+              "full_vn": "cuộc tranh cãi sôi nổi"
+            },
+            {
+              "full_en": "warm encouragement",
+              "full_vn": "sự động viên nhiệt tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âu yếm; niềm nở, nồng hậu",
+          "list_en_vn": [
+            {
+              "full_en": "a warm welcome",
+              "full_vn": "sự đón tiếp niềm nở"
+            },
+            {
+              "full_en": "warm temperament",
+              "full_vn": "tính đa tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguy hiểm; hiểm yếu (vị trí, địa điểm)",
+          "list_en_vn": [
+            {
+              "full_en": "a warm position",
+              "full_vn": "một vị trí nguy hiểm"
+            },
+            {
+              "full_en": "one of the warmest corners on the battlefield",
+              "full_vn": "một trong những khu vực ác liệt nhất trên chiến trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong lưu (sống)"
+        },
+        {
+          "m_full_vn": "quen việc, ấm chỗ (công chức)"
+        },
+        {
+          "m_full_vn": "(thông tục) sắp tìm thấy, gần đúng (trò chơi trẻ con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "keep somebody's seat ..warm (for him )",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ chỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it /things warm for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm cho sự việc trở nên khó chịu, gây rắc rối cho ai; trừng phạt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as warm as toast",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất ấm, ấm áp một cách dễ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "warm language",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) (như) warm words"
+                }
+              ]
+            },
+            {
+              "id_full_en": "warm words",
+              "list_im": [
+                {
+                  "im_full_vn": "lời nói nặng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "warm work",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc gay go nguy hiểm; cuộc xung đột gay go nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make it (things ) warm for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mếch lòng ai, làm ai tự ái"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you are getting warm",
+              "full_vn": "cậu sắp thấy rồi đấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật ấm, vật làm ấm (áo...)"
+        },
+        {
+          "m_full_vn": "sự sưởi ấm, sự làm cho nóng người",
+          "list_en_vn": [
+            {
+              "full_en": "to have a warm",
+              "full_vn": "sưởi cho ấm, làm gì cho ấm người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho nóng, hâm nóng, làm cho ấm",
+          "list_en_vn": [
+            {
+              "full_en": "to warm water",
+              "full_vn": "đun nước cho nóng"
+            },
+            {
+              "full_en": "to warm oneself",
+              "full_vn": "sưởi, phơi nắng cho ấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm tức giận, trêu tức",
+          "list_en_vn": [
+            {
+              "full_en": "to warm someone",
+              "full_vn": "trêu tức ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kích thích, làm sôi nổi, làm cho ấm (lòng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the sight of the children warms my heart",
+              "full_vn": "trông thấy những em nhỏ lòng tôi ấm lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh, quất, vụt",
+          "list_en_vn": [
+            {
+              "full_en": "to warm someone 's jacket",
+              "full_vn": "nện cho ai một trận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sưởi ấm"
+        },
+        {
+          "m_full_vn": "nổi nóng, phát cáu, phát tức"
+        },
+        {
+          "m_full_vn": "sổi nổi lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to warm to",
+              "list_im": [
+                {
+                  "im_full_vn": "có thiện cảm với, mến (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my heart warms to him",
+                      "full_vn": "tôi cảm thấy mến anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to warm up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho nóng, làm cho ấm; hâm"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) khởi động cho nóng người"
+                },
+                {
+                  "im_full_vn": "trở nên nồng nhiệt, trở nên sôi nổi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382532_9125f65efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382532_36b51b31b4_o.png",
+      "id_image": "warm_1327594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452468_97ebb09859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452468_68fa9212b8_o.png",
+      "id_image": "warm_645681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452408_5a3d349d12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452408_215699ba9d_o.png",
+      "id_image": "warm_817790"
+    }
+  ]
+}

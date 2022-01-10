@@ -1,0 +1,37 @@
+{
+  "english": "toothache",
+  "phat_am": "['tu:θeik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đau răng; bệnh đau răng",
+          "list_en_vn": [
+            {
+              "full_en": "I've got (a /the ) toothache",
+              "full_vn": "tôi bị đau răng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458598_712181ae91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458598_44e6abc7fd_o.png",
+      "id_image": "toothache_1386878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458558_67df45f7f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458558_40a3fdcc24_o.png",
+      "id_image": "toothache_1700156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699004_7391631c7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699004_d53afa7bfd_o.png",
+      "id_image": "toothache_2332845"
+    }
+  ]
+}

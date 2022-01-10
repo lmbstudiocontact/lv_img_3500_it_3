@@ -1,0 +1,37 @@
+{
+  "english": "taxation",
+  "phat_am": "[tæk'sei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hệ thống thuế; các thuế phải đóng",
+          "list_en_vn": [
+            {
+              "full_en": "direct /indirect taxation",
+              "full_vn": "hệ thống thuế trực thu/gián thu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708579_d796b2f3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708579_363fd53f1e_o.png",
+      "id_image": "taxation_3053801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091325_f45f319bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091325_2563de1f1f_o.png",
+      "id_image": "taxation_3883073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398792_ec721212ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398792_443323b785_o.png",
+      "id_image": "taxation_4496658"
+    }
+  ]
+}

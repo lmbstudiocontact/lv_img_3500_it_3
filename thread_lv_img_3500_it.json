@@ -1,0 +1,114 @@
+{
+  "english": "thread",
+  "phat_am": "[θred]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều threads",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ, sợi chỉ, sợi dây",
+          "list_en_vn": [
+            {
+              "full_en": "silk thread",
+              "full_vn": "chỉ tơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật rất mảnh giống như sợi chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "a thread of light emerged from the keyhole",
+              "full_vn": "một tia ánh sáng mảnh như sợi chỉ lọt qua lỗ khoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dòng, mạch (tuyến tư tưởng nối liền các phần của một câu chuyện..)",
+          "list_en_vn": [
+            {
+              "full_en": "the thread of life",
+              "full_vn": "dòng đời, đời người"
+            },
+            {
+              "full_en": "to lose the thread of one's argument",
+              "full_vn": "mất mạch lạc trong lập luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường ren xoáy trôn ốc của một đinh vít hoặc bu-lông"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ, nghĩa Mỹ) quần áo"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) mạch nhỏ (quặng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have not a dry thread on one",
+              "list_im": [
+                {
+                  "im_full_vn": "ướt sạch, ướt như chuột lột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "life hung by a thread",
+              "list_im": [
+                {
+                  "im_full_vn": "tính mệnh như treo đầu sợi tóc, tính mệnh như trứng treo đầu đẳng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xâu (kim...); xâu (hột ngọc...) thành chuỗi"
+        },
+        {
+          "m_full_vn": "lắp (phim, băng..)",
+          "list_en_vn": [
+            {
+              "full_en": "to thread film in (to a projector )",
+              "full_vn": "lắp phim vào máy chiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ren (đinh ốc)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lách qua, len lỏi qua",
+          "list_one_mean": [
+            {
+              "id_full_en": "to thread one's way through (something )",
+              "list_im": [
+                {
+                  "im_full_vn": "lách qua, len qua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086510_8acb3d7f0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086510_5cbc061cdf_o.png",
+      "id_image": "thread_4301333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703889_fcf89d2d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703889_6b5e7edd72_o.png",
+      "id_image": "thread_6306789"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "english": "spit",
+  "phat_am": "[spit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái xiên (nướng thịt trong lò quay)"
+        },
+        {
+          "m_full_vn": "mũi đất (nhô ra biển)"
+        },
+        {
+          "m_full_vn": "bờ ngầm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm xuyên (nhô ra biển)"
+        },
+        {
+          "m_full_vn": "xiên (thịt để nướng trong lò quay)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khạc, sự nhổ"
+        },
+        {
+          "m_full_vn": "nước bọt, nước dãi (người)"
+        },
+        {
+          "m_full_vn": "sự phun phì phì (mèo); dãi sâu bọ"
+        },
+        {
+          "m_full_vn": "cơn mưa lún phún, cơm mưa ngắn, trận mưa tuyết ngắn"
+        },
+        {
+          "m_full_vn": "trứng (sâu bọ)"
+        },
+        {
+          "m_full_vn": "(thông tục) vật giống như hệt, người giống như hệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "spit and polish",
+              "list_im": [
+                {
+                  "im_full_vn": "lau chùi sạch bóng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is the very spit of his father",
+              "full_vn": "anh ta giống bố như hệt"
+            },
+            {
+              "full_en": "the spit and image of somebody",
+              "full_vn": "(thông tục) người giống hệt ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ, thì quá khứ và động tính từ quá khứ là spat",
+      "list_m": [
+        {
+          "m_full_vn": "khạc, nhổ nước bọt",
+          "list_en_vn": [
+            {
+              "full_en": "to spit in someone's face",
+              "full_vn": "nhổ vào mặt ai, khinh bỉ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phun phì phì (mèo)"
+        },
+        {
+          "m_full_vn": "làu bàu"
+        },
+        {
+          "m_full_vn": "mưa lún phún"
+        },
+        {
+          "m_full_vn": "bắn, toé (lửa); toé mực (bút)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khạc, nhổ (nước bọt)"
+        },
+        {
+          "m_full_vn": "thốt ra, phun ra, nói to",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spit at",
+              "list_im": [
+                {
+                  "im_full_vn": "phỉ nhổ (ai); coi (ai) như rác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spit out",
+              "list_im": [
+                {
+                  "im_full_vn": "khạc ra"
+                },
+                {
+                  "im_full_vn": "phun ra, nói hở ra (điều bí mật)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "spit it out !",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn nói gì thì nói nhanh lên!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spit upon",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to spit at"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to spit an oath",
+              "full_vn": "thốt ra một lời nguyền rủa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiều sâu của đất bằng chiều dài của lưỡi một cái mai",
+          "list_en_vn": [
+            {
+              "full_en": "to gig it two spits deep",
+              "full_vn": "đào sâu hai mai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468268_413d49041b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468268_ef7d0dd8b2_o.png",
+      "id_image": "spit_5772889"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "valuation",
+  "phat_am": "[,vælju'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự định giá, sự đánh giá (nhất là về mặt chuyên môn, giá trị bằng tiền của cái gì); giá trị tiền tệ được đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "to make a valuation of the goods",
+              "full_vn": "định giá hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đánh giá (đánh giá công lao của ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to set a high valuation of someone's abilities",
+              "full_vn": "đánh giá cao khả năng của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá, giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "to dispose of something at a low valuation",
+              "full_vn": "bán tống cái gì đi với một giá thấp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086480_71e56d97e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086480_bb446bbdee_o.png",
+      "id_image": "valuation_1289173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086450_be446af915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086450_96b4726bc7_o.png",
+      "id_image": "valuation_4593081"
+    }
+  ]
+}

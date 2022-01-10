@@ -1,0 +1,30 @@
+{
+  "english": "venom",
+  "phat_am": "['venəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nọc độc (của rắn, bò cạp..)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cảm giác chua cay nặng nề, lời lẽ chua cay nặng nề; sự căm ghét, sự độc ác, sự nham hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "tongue full of venom",
+              "full_vn": "miệng lưỡi độc ác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391722_bc3f4c337b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391722_5bdaba079b_o.png",
+      "id_image": "venom_5671603"
+    }
+  ]
+}

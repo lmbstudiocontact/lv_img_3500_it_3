@@ -1,0 +1,74 @@
+{
+  "english": "swagger",
+  "phat_am": "['swægə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dáng điệu nghênh ngang; thái độ nghênh ngang; vẻ vênh váo"
+        },
+        {
+          "m_full_vn": "lời nói huênh hoanh khoác lác"
+        },
+        {
+          "m_full_vn": "vẻ đường hoàng tự tin; vẻ phóng khoáng"
+        },
+        {
+          "m_full_vn": "tính hợp thời trang; vẻ bảnh bao, vẻ lịch sự"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) bảnh bao",
+          "list_en_vn": [
+            {
+              "full_en": "swagger clothes",
+              "full_vn": "quần áo bảnh bao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi đứng nghênh ngang; vênh váo"
+        },
+        {
+          "m_full_vn": "nói khoác lác huênh hoang"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "doạ dẫm (ai); nạt nộ (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to swagger somebody into doing something",
+              "full_vn": "doạ dẫm ai bắt làm việc gì; nạt nộ ai bắt làm việc gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449468_af5a501580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449468_735c92b2da_o.png",
+      "id_image": "swagger_1343037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071395_014cf9e32e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071395_623ffac748_o.png",
+      "id_image": "swagger_1343057"
+    }
+  ]
+}

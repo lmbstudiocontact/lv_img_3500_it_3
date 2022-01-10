@@ -1,0 +1,31 @@
+{
+  "english": "statutory",
+  "phat_am": "['stæt∫utri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) luật; do luật pháp quy định, được ấn định theo luật, được làm theo luật, được yêu cầu theo luật",
+          "list_en_vn": [
+            {
+              "full_en": "statutory provisions",
+              "full_vn": "những điều khoản do luật pháp quy định"
+            },
+            {
+              "full_en": "one's statutory rights",
+              "full_vn": "những quyền của mình được luật pháp quy định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348261_d590b6ced4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348261_1ac197e848_o.png",
+      "id_image": "statutory_1622625"
+    }
+  ]
+}

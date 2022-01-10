@@ -1,0 +1,67 @@
+{
+  "english": "signature",
+  "phat_am": "['signət∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ ký",
+          "list_en_vn": [
+            {
+              "full_en": "to put one's signature to a letter",
+              "full_vn": "ký tên vào một bức thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ký, việc ký cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "a contract ready for signature",
+              "full_vn": "một hợp đồng đã sẵn sàng để ký"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tay sách (phần của một cuốn sách làm bằng một tờ giấy gập lại rồi xén)"
+        },
+        {
+          "m_full_vn": "chìa (khoá) (như) key signature"
+        },
+        {
+          "m_full_vn": "(âm nhạc) nhạc hiệu, nhạc dạo đầu (như) signature tune"
+        },
+        {
+          "m_full_vn": "(ngành in) ký hiệu trang (để đóng sách cho đúng số trang)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) vẻ, dấu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "the signature of intelligence",
+              "full_vn": "vẻ thông minh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339376_eb95d91ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339376_8abc97cd69_o.png",
+      "id_image": "signature_4391557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384267_efb9b6cd54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384267_e6b15e1cbd_o.png",
+      "id_image": "signature_4736027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076475_9b3e8c7739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076475_63e8ddf527_o.png",
+      "id_image": "signature_4827475"
+    }
+  ]
+}

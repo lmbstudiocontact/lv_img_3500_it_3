@@ -1,0 +1,154 @@
+{
+  "english": "style",
+  "phat_am": "[stail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cột đồng hồ mặt trời"
+        },
+        {
+          "m_full_vn": "(thực vật học) vòi nhuỵ"
+        },
+        {
+          "m_full_vn": "văn phong; phong cách nghệ thuật (của nhà văn..)"
+        },
+        {
+          "m_full_vn": "phong cách, tác phong, cách, lối",
+          "list_en_vn": [
+            {
+              "full_en": "style of playing the piano",
+              "full_vn": "cách đánh pianô"
+            },
+            {
+              "full_en": "style of work",
+              "full_vn": "tác phong làm việc"
+            },
+            {
+              "full_en": "style of living",
+              "full_vn": "cách ăn ở"
+            },
+            {
+              "full_en": "to live in great style",
+              "full_vn": "sống đế vượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại; mẫu, kiểu, dáng",
+          "list_en_vn": [
+            {
+              "full_en": "in all sizes and styles",
+              "full_vn": "đủ các cỡ và các kiểu"
+            },
+            {
+              "full_en": "Renaissance style",
+              "full_vn": "kiểu thời Phục hưng (đồ gỗ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời trang, mốt",
+          "list_en_vn": [
+            {
+              "full_en": "in the latest style",
+              "full_vn": "theo mốt mới nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh hiệu, tước hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "I did not recognize him under his new style",
+              "full_vn": "tôi không nhận ra anh ta dưới danh hiệu mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lịch",
+          "list_en_vn": [
+            {
+              "full_en": "new style",
+              "full_vn": "lịch mới ( (viết tắt) N. S.)"
+            },
+            {
+              "full_en": "old style",
+              "full_vn": "lịch cũ ( (viết tắt) O. S.)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm đặc sắc, nét đặc trưng",
+          "list_en_vn": [
+            {
+              "full_en": "there is no style about her",
+              "full_vn": "cô ta trông không có gì xuất sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bút trâm (để viết trên sáp, ở thời cổ)"
+        },
+        {
+          "m_full_vn": "(thơ ca) bút mực, bút chì"
+        },
+        {
+          "m_full_vn": "(y học) kim"
+        },
+        {
+          "m_full_vn": "(thực vật học) vòi nhụy",
+          "list_one_mean": [
+            {
+              "id_full_en": "somebody's style",
+              "list_im": [
+                {
+                  "im_full_vn": "sở thích"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi tên, gọi là",
+          "list_en_vn": [
+            {
+              "full_en": "he is styled orator",
+              "full_vn": "anh ta được gọi là nhà hùng biện"
+            },
+            {
+              "full_en": "to style oneself doctor",
+              "full_vn": "tự xưng là bác sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo mẫu, tạo dáng; thiết kế theo một phong cách nào đó"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385712_f351d54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385712_9db6d689b8_o.png",
+      "id_image": "style_2844521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078090_64efca9740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078090_050ba38a2c_o.png",
+      "id_image": "style_4515876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340741_d428b016b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340741_4bd4ab2224_o.png",
+      "id_image": "style_4515932"
+    }
+  ]
+}

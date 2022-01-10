@@ -1,0 +1,126 @@
+{
+  "english": "term",
+  "phat_am": "[tə:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to set a term to one's expenses",
+              "full_vn": "giới hạn việc tiêu pha của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời hạn, kỳ hạn; nhiệm kỳ",
+          "list_en_vn": [
+            {
+              "full_en": "a long term of imprisonment",
+              "full_vn": "một hạn tù dài"
+            },
+            {
+              "full_en": "term of office",
+              "full_vn": "nhiệm kỳ; thời gian tại chức"
+            },
+            {
+              "full_en": "during the President's first term of office",
+              "full_vn": "trong nhiệm kỳ thứ nhất của Tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết thúc hoặc hoàn thành một thời hạn",
+          "list_en_vn": [
+            {
+              "full_en": "a pregnancy approaching its term",
+              "full_vn": "tình trạng có mang sắp đến kỳ ở cữ"
+            },
+            {
+              "full_en": "his life had reached its natural term",
+              "full_vn": "cuộc sống của ông ta đã tới mãn kỳ tuổi thọ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học kỳ; khoá học",
+          "list_en_vn": [
+            {
+              "full_en": "the autumn /spring /summer term",
+              "full_vn": "học kỳ mùa thu/mùa xuân/mùa hè"
+            },
+            {
+              "full_en": "the beginning of term",
+              "full_vn": "bắt đầu kỳ học"
+            },
+            {
+              "full_en": "Michaelmas (Hilary , Easter , Trinity ) term",
+              "full_vn": "kỳ học mùa thu (mùa đông, mùa xuân, mùa hạ)"
+            },
+            {
+              "full_en": "end-of-term examinations",
+              "full_vn": "thi hết học kỳ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) thời gian toà án mở các cuộc xét xử; phiên (toà)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ, thuật ngữ",
+          "list_en_vn": [
+            {
+              "full_en": "technical, legal , scientific terms",
+              "full_vn": "các thuật ngữ kỹ thuật, pháp lý, khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) số hạng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the long term ; in the short term",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tương lai xa; trong tương lai gần"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi ai/cái gì bằng một từ nào đó; đặt tên là; cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to term an offer unacceptable",
+              "full_vn": "gọi một đề nghị là không thể chấp nhận được"
+            },
+            {
+              "full_en": "a type of music that is termed plainsong",
+              "full_vn": "một loại âm nhạc được gọi là đồng ca nhà thờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466573_c3f2b7e3d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466573_60124628cc_o.png",
+      "id_image": "term_1356598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089275_02b7f891a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089275_0962ee02fd_o.png",
+      "id_image": "term_2302723"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "thesis",
+  "phat_am": "['θi:sis]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều theses",
+      "list_m": [
+        {
+          "m_full_vn": "luận đề, luận điểm, luận cương"
+        },
+        {
+          "m_full_vn": "luận văn, luận án (của một thí sinh nhằm giành học vị đại học)",
+          "list_en_vn": [
+            {
+              "full_en": "to uphold a thesis",
+              "full_vn": "bảo vệ một luận án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính đề",
+          "list_en_vn": [
+            {
+              "full_en": "thesis and antithesis",
+              "full_vn": "chính đề và phản đề"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704489_f49e25f0ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704489_29044f8627_o.png",
+      "id_image": "thesis_2015709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464508_31ec1182dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464508_2d42ea8514_o.png",
+      "id_image": "thesis_4135828"
+    }
+  ]
+}

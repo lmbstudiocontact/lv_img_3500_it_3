@@ -1,0 +1,36 @@
+{
+  "english": "soya",
+  "phat_am": "['sɔiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) đỗ tương, đậu nành",
+          "list_en_vn": [
+            {
+              "full_en": "soya flour",
+              "full_vn": "bột đậu nành"
+            },
+            {
+              "full_en": "soya milk",
+              "full_vn": "sữa đậu nành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680379_ee2698ecbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680379_f9d00c4f7a_o.png",
+      "id_image": "soya_1473361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680364_36ce534d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680364_dbb2f2bc8d_o.png",
+      "id_image": "soya_1497134"
+    }
+  ]
+}

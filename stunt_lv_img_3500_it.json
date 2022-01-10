@@ -1,0 +1,80 @@
+{
+  "english": "stunt",
+  "phat_am": "[stʌnt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự làm cằn cỗi, sự làm còi cọc"
+        },
+        {
+          "m_full_vn": "người còi cọc, con vật còi cọc"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chậm sự phát triển, làm cằn cỗi, làm còi cọc",
+          "list_en_vn": [
+            {
+              "full_en": "stunted trees",
+              "full_vn": "những cây còi cọc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự cố gắng kỳ công, sự cố gắng tập trung"
+        },
+        {
+          "m_full_vn": "cuộc biểu diễn nguy hiểm; trò nguy hiểm (để giải trí)",
+          "list_en_vn": [
+            {
+              "full_en": "stunt flying",
+              "full_vn": "nhào lộn trên không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trò quảng cáo; cái làm để thu hút sự chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "stunt article",
+              "full_vn": "vật loè loẹt để quảng cáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) biểu diễn các trò nguy hiểm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "biểu diễn nhào lộn bằng (máy bay...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340831_698ba33fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340831_56e205c476_o.png",
+      "id_image": "stunt_6246642"
+    }
+  ]
+}

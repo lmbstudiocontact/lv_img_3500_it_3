@@ -1,0 +1,51 @@
+{
+  "english": "tonic",
+  "phat_am": "['tɔnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) thuốc bổ"
+        },
+        {
+          "m_full_vn": "bất cứ cái gì làm cho người ta khoẻ hơn hoặc hạnh phúc hơn",
+          "list_en_vn": [
+            {
+              "full_en": "praise can be a fine tonic",
+              "full_vn": "khen ngợi có thể là một liều thuốc bổ tốt"
+            },
+            {
+              "full_en": "the tonic effects of sea air",
+              "full_vn": "ảnh hưởng tốt lành của khí biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước khoáng có pha hương vị quinin (như) tonic water"
+        },
+        {
+          "m_full_vn": "(âm nhạc) âm chủ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) âm chủ"
+        },
+        {
+          "m_full_vn": "thuốc bổ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389222_bfc5c8df9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389222_c778021ca2_o.png",
+      "id_image": "tonic_2405489"
+    }
+  ]
+}

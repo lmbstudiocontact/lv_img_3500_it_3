@@ -1,0 +1,72 @@
+{
+  "english": "wholesale",
+  "phat_am": "['houlseil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) sự bán buôn, sự bán sỉ",
+          "list_en_vn": [
+            {
+              "full_en": "the wholesale trade",
+              "full_vn": "sự bán sỉ"
+            },
+            {
+              "full_en": "wholesale prices",
+              "full_vn": "giá bán buôn; giá bán sỉ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thương nghiệp) buôn, sỉ",
+          "list_en_vn": [
+            {
+              "full_en": "we buy our supplies wholesale",
+              "full_vn": "chúng tôi mua sỉ hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) quy mô lớn; hàng loạt, hàng đống",
+          "list_en_vn": [
+            {
+              "full_en": "wholesale slaughter of innocent people",
+              "full_vn": "sự tàn sát hàng loạt người vô tội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán buôn, bán sỉ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330021_eaa86e79ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330021_d2a531938a_o.png",
+      "id_image": "wholesale_2867956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684934_c66f7b85a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684934_c5a721c3ca_o.png",
+      "id_image": "wholesale_3737175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444968_1ba860f5b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444968_53a477ed7a_o.png",
+      "id_image": "wholesale_5235112"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "wildcat",
+  "phat_am": "['waildkæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mèo rừng; linh miêu"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "liều; liều lĩnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "wildcat strike",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc đình công bất ngờ và không chính thức của công nhân"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a wildcat scheme",
+              "full_vn": "một kết hoạch liều lĩnh; một mưu đồ liều lĩnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066220_72c3be0ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066220_7cdcbdcb27_o.png",
+      "id_image": "wildcat_2417601"
+    }
+  ]
+}

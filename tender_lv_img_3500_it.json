@@ -1,0 +1,165 @@
+{
+  "english": "tender",
+  "phat_am": "['tendə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mềm yếu; dễ gãy; dễ vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "tender blossoms , plants , shoots",
+              "full_vn": "những bông hoa, cây, chồi mỏng manh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đau đớn khi bị chạm vào; nhạy cảm; tế nhị",
+          "list_en_vn": [
+            {
+              "full_en": "my leg is still very tender where it was bruised",
+              "full_vn": "chân tôi vẫn còn đau khi chạm vào chỗ bị thâm tím"
+            },
+            {
+              "full_en": "a tender place (spot )",
+              "full_vn": "điểm dễ làm mếch lòng"
+            },
+            {
+              "full_en": "that's a rather tender subject",
+              "full_vn": "đây là vấn đề khá tế nhị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt bụng, nhân hậu",
+          "list_en_vn": [
+            {
+              "full_en": "a tender heart",
+              "full_vn": "một tấm lòng nhân hậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âu yếm; dịu dàng",
+          "list_en_vn": [
+            {
+              "full_en": "tender looks",
+              "full_vn": "những cái nhìn âu yếm"
+            },
+            {
+              "full_en": "tender loving care",
+              "full_vn": "sự chăm sóc âu yếm dịu dàng"
+            },
+            {
+              "full_en": "be a tender parent",
+              "full_vn": "hãy là một người bố/mẹ dịu dàng"
+            },
+            {
+              "full_en": "to bid somebody a tender farewell",
+              "full_vn": "âu yếm tạm biệt ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về thịt) không dai; mềm",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a tender age /of tender age",
+              "list_im": [
+                {
+                  "im_full_vn": "trẻ tuổi và chưa chín chắn; còn non trẻ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nhất là trong từ ghép) người trông nom, người chăm sóc, người giữ",
+          "list_en_vn": [
+            {
+              "full_en": "a bartender",
+              "full_vn": "người phục vụ ở quầy rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toa than, toa nước (của xe lửa)"
+        },
+        {
+          "m_full_vn": "(hàng hải) tàu liên lạc, tàu tiếp liệu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to tender something to somebody ) đưa hoặc đề nghị cái gì một cách trịnh trọng, chính thức; đệ trình",
+          "list_en_vn": [
+            {
+              "full_en": "to tender money in payment of a debt",
+              "full_vn": "đưa tiền để trả nợ"
+            },
+            {
+              "full_en": "to tender one's resignation",
+              "full_vn": "đưa đơn xin từ chức"
+            },
+            {
+              "full_en": "May I tender my services ?",
+              "full_vn": "Tôi có thể đề nghị xin được giúp đỡ (ông, bà) được không ạ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bỏ thầu",
+          "list_en_vn": [
+            {
+              "full_en": "to put work out to tender",
+              "full_vn": "đưa công trình ra đấu thầu"
+            },
+            {
+              "full_en": "to put in /make /submit a tender for something",
+              "full_vn": "bỏ thầu làm cái gì"
+            },
+            {
+              "full_en": "to accept the lowest tender",
+              "full_vn": "chấp nhận giá bỏ thầu thấp nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to tender for something ) đưa ra một đề nghị để thực hiện một công việc với giá được nói rõ; bỏ thầu",
+          "list_en_vn": [
+            {
+              "full_en": "firms were invited to tender for the construction of the new highway",
+              "full_vn": "các công ty được mời bỏ thầu để xây dựng xa lộ mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706964_694f65f10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706964_d014680332_o.png",
+      "id_image": "tender_2104152"
+    }
+  ]
+}

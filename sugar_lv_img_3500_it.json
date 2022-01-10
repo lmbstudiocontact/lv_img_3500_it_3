@@ -1,0 +1,68 @@
+{
+  "english": "sugar",
+  "phat_am": "['∫ugə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường (một loại gia vị); viên đường, thìa đường",
+          "list_en_vn": [
+            {
+              "full_en": "lump sugar",
+              "full_vn": "đường miếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) cục cưng; cưng; bé (dùng để gọi người mà mình yêu thích)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nịnh hót; lời đường mật, lời nịnh hót"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (từ lóng) tiền, xìn"
+        },
+        {
+          "m_full_vn": "(hoá học) hợp chất nhóm đường"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ đường, rắc đường; bọc đường, làm ngọt bằng đường"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho ngọt ngào, phết đường, bọc đường"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) làm việc chểnh mảng, không làm tròn bổn phận"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383812_485691aab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383812_6766b2d3f1_o.png",
+      "id_image": "sugar_1497133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383767_b67ab7e8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383767_7a4a50a893_o.png",
+      "id_image": "sugar_3778975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075875_f1e555212d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075875_e1e9a5ffdb_o.png",
+      "id_image": "sugar_5900648"
+    }
+  ]
+}

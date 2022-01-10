@@ -1,0 +1,53 @@
+{
+  "english": "turkey",
+  "phat_am": "['tə:ki]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều turkeys",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) gà tây (loài chim to nuôi để ăn thịt, đặc biệt là vào dịp lễ Giáng sinh); thịt gà tây"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) sự phá sản; sự thất bại"
+        },
+        {
+          "m_full_vn": "lời nói thẳng (khó nghe)",
+          "list_en_vn": [
+            {
+              "full_en": "to talk turkey",
+              "full_vn": "nói toạc móng heo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373377_cf4067c606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373377_d3cc7d06c1_o.png",
+      "id_image": "turkey_2403459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683654_e0be9f70b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683654_123df7fa93_o.png",
+      "id_image": "turkey_3467779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373297_5af148a68f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373297_269d55dfe7_o.png",
+      "id_image": "turkey_5294711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328501_81aa4684de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328501_f150277979_o.png",
+      "id_image": "turkey_6039410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443453_24134e1488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443453_50c7a24d26_o.png",
+      "id_image": "turkey_6118303"
+    }
+  ]
+}

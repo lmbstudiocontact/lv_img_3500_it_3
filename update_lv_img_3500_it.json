@@ -1,0 +1,60 @@
+{
+  "english": "update",
+  "phat_am": "['ʌpdeit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cập nhật, hiện đại hoá",
+          "list_en_vn": [
+            {
+              "full_en": "to update a dictionary",
+              "full_vn": "cập nhật một cuốn từ điển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho ai thông tin mới nhất (về cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "I updated the committee on our progress",
+              "full_vn": "tôi đã cung cấp cho ủy bam những tin mới nhất về tiến bộ của chúng ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cập nhật hoá (thông tin mới nhất)",
+          "list_en_vn": [
+            {
+              "full_en": "an update on the political situation",
+              "full_vn": "một tin tức mới nhất về tình hình chính trị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352111_7f67bc3b36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352111_b024ab694d_o.png",
+      "id_image": "update_228887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706559_4e748eb0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706559_899e155fab_o.png",
+      "id_image": "update_4370942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706534_82db5f8010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706534_ab39786666_o.png",
+      "id_image": "update_5746144"
+    }
+  ]
+}

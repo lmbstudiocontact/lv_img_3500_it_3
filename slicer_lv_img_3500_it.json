@@ -1,0 +1,37 @@
+{
+  "english": "slicer",
+  "phat_am": "['slɑisə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy thái (cắt) mỏng",
+          "list_en_vn": [
+            {
+              "full_en": "beet slicer",
+              "full_vn": "máy thái củ cải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448358_4c20f19528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448358_d15264b600_o.png",
+      "id_image": "slicer_3994976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688369_09c9422102_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688369_98b412c042_o.png",
+      "id_image": "slicer_447263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333276_60fd262876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333276_f46881f6a4_o.png",
+      "id_image": "slicer_883706"
+    }
+  ]
+}

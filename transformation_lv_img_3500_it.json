@@ -1,0 +1,40 @@
+{
+  "english": "transformation",
+  "phat_am": "[,trænsfə'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự biến đổi hoặc bị biến đổi",
+          "list_en_vn": [
+            {
+              "full_en": "his character seems to have undergone a complete transformation since his marriage",
+              "full_vn": "tính tình anh ta dường như biến đổi hẳn từ sau ngày lấy vợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phép biến đổi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453348_0468316cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453348_c06b3c9923_o.png",
+      "id_image": "transformation_2799892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338301_55d2e49004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338301_7fa7932933_o.png",
+      "id_image": "transformation_4072717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338266_9984886a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338266_2e253edf51_o.png",
+      "id_image": "transformation_5139931"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "shaver",
+  "phat_am": "['∫eivə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cạo, thợ cạo"
+        },
+        {
+          "m_full_vn": "dao cạo (điện, pin) (như) electric razor",
+          "list_en_vn": [
+            {
+              "full_en": "an electric shaver",
+              "full_vn": "dao cạo điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) người khó mặc cả, người khó chơi (trong chuyện làm ăn)"
+        },
+        {
+          "m_full_vn": "(thông tục) chàng trai; cậu bé",
+          "list_en_vn": [
+            {
+              "full_en": "you cheeky young shaver !",
+              "full_vn": "mày là thằng nhãi láo xược!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346366_540994d9dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346366_a2aba8ac59_o.png",
+      "id_image": "shaver_1267835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346311_b943295d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346311_f2b1622834_o.png",
+      "id_image": "shaver_3791209"
+    }
+  ]
+}

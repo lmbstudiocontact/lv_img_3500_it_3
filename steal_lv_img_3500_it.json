@@ -1,0 +1,124 @@
+{
+  "english": "steal",
+  "phat_am": "[sti:l]",
+  "list_type": [
+    {
+      "type": "ngoại động từ stole ; stolen",
+      "list_m": [
+        {
+          "m_full_vn": "( to steal something from somebody / something ) ăn cắp, lấy trộm",
+          "list_en_vn": [
+            {
+              "full_en": "he stole a bun from the shop",
+              "full_vn": "hắn ta đã lấy cắp cái bánh sữa ở cửa hàng"
+            },
+            {
+              "full_en": "he stole from the rich to give to the poor",
+              "full_vn": "anh ta lấy của người giàu đem cho người nghèo"
+            },
+            {
+              "full_en": "someone had stolen my watch",
+              "full_vn": "ai đó đã ăn cắp đồng hồ của tôi"
+            },
+            {
+              "full_en": "I've had my watch stolen",
+              "full_vn": "tôi bị mất cắp chiếc đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt được cái gì nhanh hoặc lén lút (bất ngờ hoặc dùng mưu mẹo); làm vụng trộm; khéo chiếm được (bằng thủ đoạn kín đáo...)",
+          "list_en_vn": [
+            {
+              "full_en": "to steal a kiss from somebody",
+              "full_vn": "hôn trộm ai"
+            },
+            {
+              "full_en": "to steal a few minutes' sleep",
+              "full_vn": "ngủ vụng vài phút"
+            },
+            {
+              "full_en": "to steal a glance at somebody in the mirror",
+              "full_vn": "liếc trộm ai trong gương"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + in , out , away ) lẻn, chuồn; đi lén",
+          "list_one_mean": [
+            {
+              "id_full_en": "to steal a march (on somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "giành được một ưu thế đối với ai bằng cách làm điều gì một cách bí mật hoặc có mánh lới, hay bằng cách hành động trước khi người đó ra tay; lén đến trước (ai); tranh thủ trước (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to steal the scene /show",
+              "list_im": [
+                {
+                  "im_full_vn": "được hoan nghênh nhiệt liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to steal somebody's thunder",
+              "list_im": [
+                {
+                  "im_full_vn": "tước đoạt sự cố gắng thành đạt của ai bằng cách làm trước anh ta, gièm pha những điều anh ta nói, làm...; phỗng tay trên ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to steal out of the room",
+              "full_vn": "lẻn ra khỏi phòng"
+            },
+            {
+              "full_en": "to steal into the house",
+              "full_vn": "lẻn vào trong nhà"
+            },
+            {
+              "full_en": "a tear stole down her cheek",
+              "full_vn": "một giọt nước mắt lặng lẽ lăn xuống má nàng"
+            },
+            {
+              "full_en": "the morning light was stealing through the shutters",
+              "full_vn": "ánh sáng ban mai lọt qua các khe cửa chớp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) sự ăn trộm; sự trộm cắp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) giá hời; món hời; công việc dễ dàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702659_d2feef36ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702659_5b386aee38_o.png",
+      "id_image": "steal_4201580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347941_253ed76ba2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347941_f8291f624a_o.png",
+      "id_image": "steal_4633945"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "statue",
+  "phat_am": "['stætju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tượng (người, vật... bằng gỗ, đá..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Statue of Liberty",
+              "list_im": [
+                {
+                  "im_full_vn": "tượng nữ thần tự do (ở Mỹ)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stand like a statue",
+              "full_vn": "đứng yên như tượng"
+            },
+            {
+              "full_en": "erect a statue of the king on a horse",
+              "full_vn": "dựng tượng nhà vua ngồi trên ngựa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085665_c8463b6ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085665_36e24b403a_o.png",
+      "id_image": "statue_1193517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703079_a87972ce68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703079_885f36d406_o.png",
+      "id_image": "statue_1354633"
+    }
+  ]
+}

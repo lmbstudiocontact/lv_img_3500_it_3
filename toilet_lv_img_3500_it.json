@@ -1,0 +1,50 @@
+{
+  "english": "toilet",
+  "phat_am": "['tɔilit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quá trình rửa ráy, ăn mặc, chải tóc..",
+          "list_en_vn": [
+            {
+              "full_en": "a toilet set",
+              "full_vn": "bộ đồ trang điểm"
+            },
+            {
+              "full_en": "toilet articles",
+              "full_vn": "các đồ trang điểm (lược, bàn chải tóc, gương tay...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng có bệ xí; nhà vệ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "Can you tell me where the toilets are ?",
+              "full_vn": "Anh vui lòng cho tôi biết nhà vệ sinh ở đâu?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390262_3966319b7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390262_b4fd210e26_o.png",
+      "id_image": "toilet_194432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345261_319fe636b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345261_0498e737cb_o.png",
+      "id_image": "toilet_456608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460073_56afccedbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460073_a7b8a8493b_o.png",
+      "id_image": "toilet_577986"
+    }
+  ]
+}

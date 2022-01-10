@@ -1,0 +1,168 @@
+{
+  "english": "stage",
+  "phat_am": "[steidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệ, dài"
+        },
+        {
+          "m_full_vn": "giàn (thợ xây tường...)",
+          "list_en_vn": [
+            {
+              "full_en": "hanging stage",
+              "full_vn": "giàn treo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bàn soi (kính hiển vi)"
+        },
+        {
+          "m_full_vn": "sân khấu"
+        },
+        {
+          "m_full_vn": "( the stage ) nghề sân khấu",
+          "list_en_vn": [
+            {
+              "full_en": "to go on the stage",
+              "full_vn": "trở thành diễn viên"
+            },
+            {
+              "full_en": "to quit the stage",
+              "full_vn": "rời bỏ nghề kịch, rời bỏ sân khấu; (bóng) chết"
+            },
+            {
+              "full_en": "to put a play on stage",
+              "full_vn": "đem trình diễn một vở kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vũ đài, phạm vi hoạt động, khung cảnh hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "to quit the stage of politics",
+              "full_vn": "rời khỏi vũ đài chính trị"
+            },
+            {
+              "full_en": "a larger stage opened to him",
+              "full_vn": "một phạm vi hoạt động lớn hơn đã mở ra cho anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giai đoạn",
+          "list_en_vn": [
+            {
+              "full_en": "a critical stage",
+              "full_vn": "giai đoạn nguy kịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận của tên lửa vũ trụ, có động cơ riêng (khi dùng hết nhiên liệu thì tách lìa ra)"
+        },
+        {
+          "m_full_vn": "(thông tục) xe ngựa tuyến (như) stage-coach ; ( Mỹ) xe búyt"
+        },
+        {
+          "m_full_vn": "chặng đường; đoạn đường, quãng đường, trạm",
+          "list_en_vn": [
+            {
+              "full_en": "to travel be easy stages",
+              "full_vn": "đi từng quãng ngắn một; đi một quãng lại nghỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) tầng, cấp",
+          "list_en_vn": [
+            {
+              "full_en": "amplifier stage",
+              "full_vn": "tầng khuếch đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) tầng",
+          "list_one_mean": [
+            {
+              "id_full_en": "be /go on the stage",
+              "list_im": [
+                {
+                  "im_full_vn": "làm/trở thành diễn viên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "set the stage for something",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị cho cái gì; làm cho cái gì thành hiện thực, làm chi cái gì dễ dàng thuận lợi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trình diễn; đưa (vở kịch..) lên sân khấu"
+        },
+        {
+          "m_full_vn": "dàn cảnh; sắp xếp, tổ chức; mở, tiến hành (cuộc tấn công)",
+          "list_en_vn": [
+            {
+              "full_en": "to stage a demonstration",
+              "full_vn": "tổ chức một cuộc biểu tình"
+            },
+            {
+              "full_en": "to stage an offensive",
+              "full_vn": "mở một cuộc tấn công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ đóng, dễ đưa lên sân khấu (kịch)",
+          "list_en_vn": [
+            {
+              "full_en": "this play does not stage well",
+              "full_vn": "vở này khó đóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi bằng xe ngựa chở khách"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350561_4ef78d1a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350561_1163b8b177_o.png",
+      "id_image": "stage_2548915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087740_0ac0e100de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087740_b7c396df88_o.png",
+      "id_image": "stage_2649810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087700_e05f92c3cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087700_97681ed83f_o.png",
+      "id_image": "stage_4472546"
+    }
+  ]
+}

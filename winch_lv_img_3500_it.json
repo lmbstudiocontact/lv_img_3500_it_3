@@ -1,0 +1,43 @@
+{
+  "english": "winch",
+  "phat_am": "[wint∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) tời (máy để nâng, kéo các vật nặng lên bằng dây chão hoặc xích cuộn quanh cái trống quấn dây)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ống cuộn dây câu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tời, kéo bằng tời, di chuyển bằng tời",
+          "list_en_vn": [
+            {
+              "full_en": "to winch a glider off the ground",
+              "full_vn": "dùng tời kéo chiếc tàu lượn rời khỏi mặt đất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684249_8561915f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684249_a7f1fd10df_o.png",
+      "id_image": "winch_2564143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444263_dec0106a1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444263_e741523197_o.png",
+      "id_image": "winch_422153"
+    }
+  ]
+}

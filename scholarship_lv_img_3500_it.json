@@ -1,0 +1,46 @@
+{
+  "english": "scholarship",
+  "phat_am": "['skɔlə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự học rộng, sự uyên thâm, sự uyên bác",
+          "list_en_vn": [
+            {
+              "full_en": "a teacher of great scholarship",
+              "full_vn": "một giáo viên rất uyên bác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "học bổng",
+          "list_en_vn": [
+            {
+              "full_en": "to win a scholarship",
+              "full_vn": "được cấp học bổng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375192_404117a1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375192_bf7d5ccd43_o.png",
+      "id_image": "scholarship_2161361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685529_3b51d8c3b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685529_7ffa8f2b59_o.png",
+      "id_image": "scholarship_3965812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330371_8dbd55358a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330371_ac63d56dcc_o.png",
+      "id_image": "scholarship_4590205"
+    }
+  ]
+}

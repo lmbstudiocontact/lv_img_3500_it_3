@@ -1,0 +1,70 @@
+{
+  "english": "temperature",
+  "phat_am": "['temprət∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) temp nhiệt độ (độ nóng, lạnh trong cơ thể, phòng, nước..)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the house at an even temperature",
+              "full_vn": "giữ ngôi nhà ở nhiệt độ đều đều"
+            },
+            {
+              "full_en": "a climate without extremes of temperature",
+              "full_vn": "một khí hậu không có những thái cực về nhiệt độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sốt (nhiệt độ cơ thể trên mức bình (thường))",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get /have /run a temperature",
+              "list_im": [
+                {
+                  "im_full_vn": "lên cơn sốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise the temperature",
+              "list_im": [
+                {
+                  "im_full_vn": "xem raise"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take somebody's temperature",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng nhiệt kế đo thân nhiệt của ai; lấy nhiệt độ cho ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467303_4cd0c3ca51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467303_301913bd95_o.png",
+      "id_image": "temperature_1035456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707289_4d32c400c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707289_2ea7ed7caa_o.png",
+      "id_image": "temperature_1035457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352641_af6298d966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352641_5849a75195_o.png",
+      "id_image": "temperature_721128"
+    }
+  ]
+}

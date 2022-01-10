@@ -1,0 +1,93 @@
+{
+  "english": "scheme",
+  "phat_am": "[ski:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sắp xếp theo hệ thống; sự phối hợp",
+          "list_en_vn": [
+            {
+              "full_en": "Colour scheme",
+              "full_vn": "Cách phối hợp màu sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( scheme for something ) ( scheme to do something ) kế hoạch",
+          "list_en_vn": [
+            {
+              "full_en": "A scheme for building kindergartens for rural areas",
+              "full_vn": "Một kế hoạch xây dựng nhà trẻ cho các vùng nông thôn"
+            },
+            {
+              "full_en": "That is a quite Utopian scheme",
+              "full_vn": "Đúng là một kế hoạch không tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "âm mưu; mưu đồ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the scheme of the things",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ cái kiểu này",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "In the scheme of things , it will be hard for university graduates to get jobs",
+                      "full_vn": "Cứ cái kiểu này thì người tốt nghiệp đại học khó mà kiếm được việc làm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "To lay a scheme",
+              "full_vn": "sắp đặt một âm mưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to scheme for something / against somebody ) âm mưu; mưu đồ",
+          "list_en_vn": [
+            {
+              "full_en": "His competitors are scheming his downfall",
+              "full_vn": "Các đối thủ của ông ấy đang âm mưu hạ ông ấy"
+            },
+            {
+              "full_en": "They schemed to incite suburbans to boycott our product",
+              "full_vn": "Họ âm mưu kích động dân ngoại thành tẩy chay sản phẩm của chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330691_d58b5bcc62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330691_6c3436e0e8_o.png",
+      "id_image": "scheme_1353770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375342_60ab5f558e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375342_8cffd63238_o.png",
+      "id_image": "scheme_5640136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067550_6b808968f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067550_2f1b7c24af_o.png",
+      "id_image": "scheme_603856"
+    }
+  ]
+}

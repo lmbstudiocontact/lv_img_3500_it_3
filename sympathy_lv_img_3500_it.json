@@ -1,0 +1,90 @@
+{
+  "english": "sympathy",
+  "phat_am": "['simpəθi]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sympathies",
+      "list_m": [
+        {
+          "m_full_vn": "( sympathy for / towards somebody ) sự thông cảm; sự đồng cảm; sự thương cảm",
+          "list_en_vn": [
+            {
+              "full_en": "to enjoy the sympathy of somebody",
+              "full_vn": "được sự thông cảm của ai"
+            },
+            {
+              "full_en": "to feel great sympathy for somebody",
+              "full_vn": "rất thông cảm với ai"
+            },
+            {
+              "full_en": "she never expressed any sympathy when I was injured",
+              "full_vn": "cô ta chẳng bao giờ biểu lộ sự thương cảm khi tôi bị thương"
+            },
+            {
+              "full_en": "out of sympathy for the homeless children , he gave them shelter for the night",
+              "full_vn": "vì thương cảm các trẻ em vô gia cư, ông ta đã cho chúng trú ngụ qua đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự đồng cảm; sự đồng tình",
+          "list_en_vn": [
+            {
+              "full_en": "you have my deepest sympathies on the death of your wife",
+              "full_vn": "xin ông nhận cho sự đồng cảm sâu sắc nhất của tôi (tôi thành thật chia buồn) về cái chết của vợ anh"
+            },
+            {
+              "full_en": "my sympathies are with the workers in this strike",
+              "full_vn": "tôi đồng tình với các công nhân trong cuộc đình công này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sympathy between somebody and somebody ) sự đồng cảm, sự quý mến nhau giữa những người có cùng ý kiến, sở thích",
+          "list_one_mean": [
+            {
+              "id_full_en": "in sympathy with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "bày tỏ sự ủng hộ, bày tỏ sự tán thành đối với một sự nghiệp..",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm sure she will be in sympathy with your proposal",
+                      "full_vn": "tôi tin chắc bà ta sẽ tán thành đề nghị của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have no /some sympathy with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không/có tán thành quan điểm của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a bond of sympathy developed between members of the group",
+              "full_vn": "một mối đồng cảm đã phát triển giữa các thành viên của nhóm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445693_c8f7023b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445693_c7a91aaffa_o.png",
+      "id_image": "sympathy_3220616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685829_0f37e97a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685829_6ba78e5620_o.png",
+      "id_image": "sympathy_708687"
+    }
+  ]
+}

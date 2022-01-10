@@ -1,0 +1,439 @@
+{
+  "english": "well",
+  "phat_am": "[wel]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up , out , forth ) phun ra, vọt ra, tuôn ra (nước, nước mắt, máu)",
+          "list_en_vn": [
+            {
+              "full_en": "tears welled from he eyes ; tears welled up in her eyes",
+              "full_vn": "nước mắt cô ta tuôn ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ better ; best",
+      "list_m": [
+        {
+          "m_full_vn": "tốt, giỏi, hay",
+          "list_en_vn": [
+            {
+              "full_en": "to work well",
+              "full_vn": "làm việc giỏi"
+            },
+            {
+              "full_en": "to sing well",
+              "full_vn": "hát hay"
+            },
+            {
+              "full_en": "to sleep well",
+              "full_vn": "ngủ tốt (ngon)"
+            },
+            {
+              "full_en": "very well",
+              "full_vn": "tốt lắm, hay lắm, giỏi lắm, được lắm"
+            },
+            {
+              "full_en": "to treat someone well",
+              "full_vn": "đối xử tốt với ai"
+            },
+            {
+              "full_en": "to think well of someone",
+              "full_vn": "nghĩ tốt về ai"
+            },
+            {
+              "full_en": "to speak well of someone",
+              "full_vn": "nói tốt về ai"
+            },
+            {
+              "full_en": "to stand well with someone",
+              "full_vn": "được ai quý mến"
+            },
+            {
+              "full_en": "well done !",
+              "full_vn": "hay lắm! hoan hô!"
+            },
+            {
+              "full_en": "well met !",
+              "full_vn": "ồ may quá, đang muốn gặp anh đấy!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong lưu, sung túc",
+          "list_en_vn": [
+            {
+              "full_en": "to live well in ...",
+              "full_vn": "sống sung túc (phong lưu) ở..."
+            },
+            {
+              "full_en": "to do well",
+              "full_vn": "làm ăn khấm khá phát đạt"
+            },
+            {
+              "full_en": "to be well off",
+              "full_vn": "phong lưu, sung túc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợp lý, chính đáng, phải, đúng",
+          "list_en_vn": [
+            {
+              "full_en": "you may well say so",
+              "full_vn": "anh có thể nói như thế được lắm"
+            },
+            {
+              "full_en": "he did well to return it",
+              "full_vn": "nó đem trả lại cái đó là phải lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "to stir well",
+              "full_vn": "xáo động nhiều"
+            },
+            {
+              "full_en": "to be well on in life",
+              "full_vn": "không còn trẻ nữa, đã luống tuổi rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ, rõ, sâu sắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "as well",
+              "list_im": [
+                {
+                  "im_full_vn": "cũng, cũng được, không hại gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you can take him as well",
+                      "full_vn": "anh có thể đưa nó đi với"
+                    },
+                    {
+                      "full_en": "you may as well begin at once",
+                      "full_vn": "anh có thể bắt đầu ngay cũng được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as well as",
+              "list_im": [
+                {
+                  "im_full_vn": "như, cũng như, chẳng khác gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "by day as well as by night",
+                      "full_vn": "ngày cũng như đêm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "và còn thêm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we gave him money as well as food",
+                      "full_vn": "chúng tôi cho nó tiền và còn thêm cái ăn nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "pretty well",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu như"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to know someone well",
+              "full_vn": "biết rõ ai"
+            },
+            {
+              "full_en": "rub it well",
+              "full_vn": "hãy cọ thật kỹ cái đó"
+            },
+            {
+              "full_en": "the aggressors ought to be well beaten before they give up their scheme",
+              "full_vn": "phải đánh cho bọn xâm lược một trận nên thân trước khi chúng từ bỏ âm mưu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ better ; best",
+      "list_m": [
+        {
+          "m_full_vn": "tốt; tốt lành",
+          "list_en_vn": [
+            {
+              "full_en": "things are well with you",
+              "full_vn": "anh được mọi sự tốt lành; mọi việc của anh đều ổn cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt, hay, đúng lúc, hợp thời, nên, cần",
+          "list_en_vn": [
+            {
+              "full_en": "it's well that you have come",
+              "full_vn": "anh đến thật là tốt"
+            },
+            {
+              "full_en": "it would be well to start early",
+              "full_vn": "có lẽ nên ra đi sớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoẻ, mạnh khoẻ, mạnh giỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to feel quite well",
+              "full_vn": "cảm thấy rất khoẻ"
+            },
+            {
+              "full_en": "to get well",
+              "full_vn": "đã khỏi (người ốm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "may, may mắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "it's (that's ) all very well but ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(mỉa mai) hay đấy, nhưng..."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it was well for him that nobody saw him",
+              "full_vn": "may mà không ai thấy nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "quái, lạ quá (dùng để diễn đạt sự ngạc nhiên)",
+          "list_en_vn": [
+            {
+              "full_en": "well , who would have thought it would happen ?",
+              "full_vn": "quái!, ai nào có tưởng là việc ấy có thể xảy ra được?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ôi, may quá (dùng để diễn đạt sự khây khoả)",
+          "list_en_vn": [
+            {
+              "full_en": "well , thank goodness that's ober !",
+              "full_vn": "ôi ơn chúa việc đó cũng đã qua!"
+            },
+            {
+              "full_en": "well , here we are last !",
+              "full_vn": "may quá cuối cùng chúng tôi cũng đã đến đây!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đấy, thế đấy",
+          "list_en_vn": [
+            {
+              "full_en": "well , here we are at last",
+              "full_vn": "đấy, cuối cùng chúng ta đã đến đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thế nào, sao",
+          "list_en_vn": [
+            {
+              "full_en": "well what about it ?",
+              "full_vn": "thế nào, về điểm ấy thì nghĩ sao?"
+            },
+            {
+              "full_en": "well then ?",
+              "full_vn": "rồi sao?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thôi, hết rồi (dùng để diễn đạt sự cam chịu) (như) oh well",
+          "list_en_vn": [
+            {
+              "full_en": "well , such is life !",
+              "full_vn": "thôi, đời là thế!"
+            },
+            {
+              "full_en": "oh well , there's nothing we can do about it",
+              "full_vn": "thôi, chúng ta chẳng thể làm gì được nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thôi được (dùng khi (như) ợng bộ một điểm trong tranh luận..)",
+          "list_en_vn": [
+            {
+              "full_en": "well , you may be right !",
+              "full_vn": "thôi được, có thể là anh đúng!"
+            },
+            {
+              "full_en": "well , well , don't cry !",
+              "full_vn": "thôi nào, thôi nào, đừng khóc nữa!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được rồi (dùng để diễn đạt sự đồng ý hoặc hiểu) (như) very well",
+          "list_en_vn": [
+            {
+              "full_en": "very well , then . I'll accept your offer",
+              "full_vn": "được rồi, tôi sẽ chấp thuận đề nghị của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nào (dùng khi muốn tiếp tục câu chuyện.. hoặc thay đổi đề tài sau khi tạm ngưng)",
+          "list_en_vn": [
+            {
+              "full_en": "well , as I was saying ...",
+              "full_vn": "nào, như tôi vừa mới nói..."
+            },
+            {
+              "full_en": "well , let's move on to the next item",
+              "full_vn": "nào, chúng ta hãy chuyển sang mục tiếp theo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ờ, vậy thì (dùng để diễn đạt sự ngần ngại, nghi ngờ..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "well I never (did )!",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thế cơ à! (dùng (như) một lời cảm thán diễn đạt sự ngạc nhiên thú vị hoặc phiền muộn)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "'do you want to come ? ' well - I'm not sure",
+              "full_vn": "anh có muốn đến không? ờ - tôi cũng chưa chắc nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều tốt, điều hay, điều lành, điều thiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to let well alone",
+              "list_im": [
+                {
+                  "im_full_vn": "đã tốt rồi không phải xen vào nữa; đừng có chữa lợn lành thành lợn què"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wish someone well",
+              "full_vn": "chúc ai gặp điều tốt lành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giếng (nước, dầu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to bore a well",
+              "full_vn": "khoan giếng"
+            },
+            {
+              "full_en": "to sink a well",
+              "full_vn": "đào giếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn (cảm hứng, hạnh phúc)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) lồng cầu thang"
+        },
+        {
+          "m_full_vn": "lọ (mực)"
+        },
+        {
+          "m_full_vn": "(hàng hải) khoang cá (trong thuyền đánh cá); buồng máy bơm (trên tàu)"
+        },
+        {
+          "m_full_vn": "chỗ ngồi của các luật sư (toà án)"
+        },
+        {
+          "m_full_vn": "(hàng không) chỗ phi công ngồi"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) nguồn nước, suối nước"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) hầm, lò"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687159_5faa45700d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687159_5970d70f1a_o.png",
+      "id_image": "well_3319298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068855_b0ac31e065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068855_7236ddfe07_o.png",
+      "id_image": "well_5773179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068725_fd0d7b8afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068725_c2e49caa55_o.png",
+      "id_image": "well_5795304"
+    }
+  ]
+}

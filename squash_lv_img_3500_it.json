@@ -1,0 +1,133 @@
+{
+  "english": "squash",
+  "phat_am": "[skwɔ∫]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều squash , squashes",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây bí; quả bí"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nén, sự ép"
+        },
+        {
+          "m_full_vn": "cái dễ nén, cái dễ ép; vật bị nén, vật bị ép; thức uống chế bằng nước quả ép",
+          "list_en_vn": [
+            {
+              "full_en": "orange squash",
+              "full_vn": "nước cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khối mềm nhão"
+        },
+        {
+          "m_full_vn": "đám đông chen nhau trong một khoảng hẹp",
+          "list_en_vn": [
+            {
+              "full_en": "what a squash !",
+              "full_vn": "thật là một sự chen chúc chật chội!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng bị ép vào nhau trong một khoảng hẹp",
+          "list_en_vn": [
+            {
+              "full_en": "violent squash at the gates",
+              "full_vn": "chen nhau dữ dội ở cổng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng rơi nhẹ"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) bóng quần (chơi với vợt và một quả bóng cao su nhỏ mềm rỗng, trong sân có tường bao và mái che) (như) squash rackets"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, nén, nén chặt; nghiền nát",
+          "list_en_vn": [
+            {
+              "full_en": "he sat on his hat and squashed it (flat )",
+              "full_vn": "anh ta ngồi lên chiếc mũ của mình và làm bẹp nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dồn (người, gia súc..)"
+        },
+        {
+          "m_full_vn": "(thông tục) làm mất mặt, bẻ lại làm (ai) phải cứng họng"
+        },
+        {
+          "m_full_vn": "bóp chết, đàn áp, đập tan (một phong trào, cuộc nổi dậy...)"
+        },
+        {
+          "m_full_vn": "bác bỏ, gạt bỏ (một ý tưởng, đề nghị..)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị ép, bị nén; vỡ, bẹp",
+          "list_en_vn": [
+            {
+              "full_en": "soft fruit squashes easily",
+              "full_vn": "trái cây mềm dễ bị bẹp nát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chen",
+          "list_en_vn": [
+            {
+              "full_en": "to squash into the car",
+              "full_vn": "chen vào trong xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tụ tập (đám đông người, gia súc)",
+          "list_en_vn": [
+            {
+              "full_en": "there were four of us squashed up against each other on the seat",
+              "full_vn": "có bốn người chúng tôi lèn chặt vào nhau trên chiếc ghế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706114_d0484aebeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706114_df239f7d87_o.png",
+      "id_image": "squash_2358695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706084_580283f48d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706084_b7f8bef098_o.png",
+      "id_image": "squash_2503876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466148_7c214298fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466148_36b1ba9048_o.png",
+      "id_image": "squash_2690179"
+    }
+  ]
+}

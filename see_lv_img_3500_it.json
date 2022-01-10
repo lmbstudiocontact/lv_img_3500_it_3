@@ -1,0 +1,347 @@
+{
+  "english": "see",
+  "phat_am": "[si:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ saw , seen",
+      "list_m": [
+        {
+          "m_full_vn": "thấy, trông thấy, nhìn thấy; xem, quan sát, xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "seeing is believing",
+              "full_vn": "trông thấy thì mới tin"
+            },
+            {
+              "full_en": "I saw him in the distance",
+              "full_vn": "tôi trông thấy nó từ xa"
+            },
+            {
+              "full_en": "things seen",
+              "full_vn": "những vật ta có thể nhìn thấy, những vật cụ thể, những vật có thật"
+            },
+            {
+              "full_en": "to see things",
+              "full_vn": "có ảo giác"
+            },
+            {
+              "full_en": "worth seeing",
+              "full_vn": "đáng chú ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem, đọc (trang báo chí)",
+          "list_en_vn": [
+            {
+              "full_en": "I see that another Soviet satellite was orbitted yesterday",
+              "full_vn": "tôi xem báo thấy nói một vệ tinh Liên-xô lại được phóng vào quỹ đạo hôm qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu rõ, nhận ra",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot see the point",
+              "full_vn": "tôi không thể hiểu được điểm đó"
+            },
+            {
+              "full_en": "I do not see the advantage of doing it",
+              "full_vn": "tôi không hiểu làm như vậy thì lợi thế nào"
+            },
+            {
+              "full_en": "you see",
+              "full_vn": "như anh chắc cũng hiểu rõ"
+            },
+            {
+              "full_en": "I see",
+              "full_vn": "tôi hiểu rồi"
+            },
+            {
+              "full_en": "as far I can see",
+              "full_vn": "như tôi cố gắng hết sức để hiểu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải qua, từng trải, đã qua",
+          "list_en_vn": [
+            {
+              "full_en": "he has seen two regimes",
+              "full_vn": "anh ấy đã sống qua hai chế độ"
+            },
+            {
+              "full_en": "he will never see 50 again",
+              "full_vn": "anh ta đã quá 50"
+            },
+            {
+              "full_en": "to see life",
+              "full_vn": "từng trải cuộc sống, lão đời"
+            },
+            {
+              "full_en": "to have seen service",
+              "full_vn": "có kinh nghiệm, từng trải (người); đã mòn, đã dùng nhiều (vật)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gặp, thăm; đến hỏi ý kiến (bác sĩ, luật sư...); tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "he refused to see me",
+              "full_vn": "anh ấy từ chối không tiếp tôi"
+            },
+            {
+              "full_en": "can I see you on business ?",
+              "full_vn": "tôi có thể gặp anh để bàn chuyện làm ăn không?"
+            },
+            {
+              "full_en": "you had better see a lawyer",
+              "full_vn": "anh nên đến gặp luật sư, anh nên đến hỏi ý kiến luật sư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tưởng tượng, mường tượng",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot see myself submitting such an injustice",
+              "full_vn": "tôi không thể tưởng tượng rằng mình lại chịu một sự bất công như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chịu, thừa nhận, bằng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "we do not see being made use of",
+              "full_vn": "chúng tôi không chịu để người ta lợi dụng chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiễn, đưa",
+          "list_en_vn": [
+            {
+              "full_en": "to see somebody home",
+              "full_vn": "đưa ai về nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giúp đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to see someone through difficulty",
+              "full_vn": "giúp ai vượt khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quan niệm, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "I see life differntly now",
+              "full_vn": "bây giờ tôi quan niệm cuộc đời là khác rồi"
+            },
+            {
+              "full_en": "to see good to do something",
+              "full_vn": "cho là cần (nên) làm một việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chăm lo, lo liệu, đảm đương, phụ trách, bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "to see to one's business",
+              "full_vn": "chăm lo đến công việc của mình"
+            },
+            {
+              "full_en": "to see to it that ...",
+              "full_vn": "lo liệu để cho..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều tra, nghiên cứu, xem xét, kỹ lưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "we must see into it",
+              "full_vn": "chúng ta phải đi sâu vào vấn đề ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suy nghĩ, xem lại",
+          "list_en_vn": [
+            {
+              "full_en": "let me see",
+              "full_vn": "để tôi suy nghĩ xem đã, để tôi xem đã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) đắt, cân"
+        },
+        {
+          "m_full_vn": "cứ đứng nhìn, trông thấy mà để mặc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to see about",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm kiếm, điều tra, xem lại"
+                },
+                {
+                  "im_full_vn": "chăm nom, săn sóc, lo liệu, đảm đương (việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see after",
+              "list_im": [
+                {
+                  "im_full_vn": "chăm nom, săn sóc, để ý tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see into",
+              "list_im": [
+                {
+                  "im_full_vn": "điều tra, nghiên cứu, xem xét kỹ lưỡng"
+                },
+                {
+                  "im_full_vn": "hiểu rõ được, thấy rõ được bản chất (của vấn đề gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see off",
+              "list_im": [
+                {
+                  "im_full_vn": "tiễn (ai...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to see somebody off at the station",
+                      "full_vn": "ra ga tiễn ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see out",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn thành, thực hiện đến cùng, làm đến cùng"
+                },
+                {
+                  "im_full_vn": "sự đến cùng, xem đến hết (một vở kịch...)"
+                },
+                {
+                  "im_full_vn": "tiễn (ai) ra tận cửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see through",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn thấy, thấy rõ bản chất (sự việc...)"
+                },
+                {
+                  "im_full_vn": "thực hiện đến cùng, làm đến cùng"
+                },
+                {
+                  "im_full_vn": "giúp ai vượt được (khó khăn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see the back of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "trông ai cút khỏi cho rảnh mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see through brick wall",
+              "list_im": [
+                {
+                  "im_full_vn": "sắc sảo, thông minh xuất chúng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see something done",
+              "list_im": [
+                {
+                  "im_full_vn": "giám sát sự thi hành cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'll see about",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sẽ phụ trách (bảo đảm) việc ấy"
+                },
+                {
+                  "im_full_vn": "tôi sẽ xem lại vấn đề ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "seeing that",
+              "list_im": [
+                {
+                  "im_full_vn": "xét thấy rằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "seeing that no other course is open to us ...",
+                      "full_vn": "xét thấy rằng không có con đường nào khác cho chúng ta..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to see somebody struggle with difficulties",
+              "full_vn": "thấy ai vật lộn với khó khăn mà cứ đứng nhìn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "toà giám mục",
+          "list_en_vn": [
+            {
+              "full_en": "the Holy See ; the See of Rome",
+              "full_vn": "Toà thánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chức giám mục; quyền giám mục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368182_673312ff6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368182_edab76979b_o.png",
+      "id_image": "see_3855262"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "english": "sport",
+  "phat_am": "[spɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thể thao (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "to play a lot of sport",
+              "full_vn": "chơi thể thao nhiều"
+            },
+            {
+              "full_en": "to be fond of sport",
+              "full_vn": "mê thể thao"
+            },
+            {
+              "full_en": "the world of sport",
+              "full_vn": "giới thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "môn thể thao",
+          "list_en_vn": [
+            {
+              "full_en": "team sports",
+              "full_vn": "những môn thể thao đồng đội"
+            },
+            {
+              "full_en": "athletic sports",
+              "full_vn": "các môn điền kinh"
+            },
+            {
+              "full_en": "country sports",
+              "full_vn": "các môn thể thao thôn dã"
+            },
+            {
+              "full_en": "sports coverage on TV",
+              "full_vn": "chương trình thể thao trên truyền hình"
+            },
+            {
+              "full_en": "sports programme",
+              "full_vn": "chương trình thể thao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cuộc gặp gỡ để thi đấu điền kinh",
+          "list_en_vn": [
+            {
+              "full_en": "inter-university sports",
+              "full_vn": "cuộc thi đấu điền kinh giữa các trường đại học"
+            },
+            {
+              "full_en": "a sports day",
+              "full_vn": "ngày thi đấu điền kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giải trí; trò vui",
+          "list_en_vn": [
+            {
+              "full_en": "to do something for sport",
+              "full_vn": "làm cái gì để giải trí"
+            },
+            {
+              "full_en": "to say something in sport",
+              "full_vn": "nói điều gì để pha trò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người dễ thương, người vui vẻ, người có tinh thần độ lượng"
+        },
+        {
+          "m_full_vn": "( Uc) (thông tục) ông bạn, anh bạn (để xưng hô)",
+          "list_en_vn": [
+            {
+              "full_en": "how are you doing , sport !",
+              "full_vn": "thế nào có khoẻ không, ông bạn!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) con bạc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) anh chàng ăn diện, công tử bột"
+        },
+        {
+          "m_full_vn": "(sinh vật học) cây biến dị, loài vật biến dị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make sport of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chế nhạo ai, đùa cợt ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giỡn, giải trí; vui đùa; trêu chòng",
+          "list_en_vn": [
+            {
+              "full_en": "seals sporting (about /around ) in the water",
+              "full_vn": "những con chó biển nô giỡn với nhau dưới nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) biến dị"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chưng diện (một cách hãnh diện)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sport away",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu phí (thời gian...) bằng nô đùa, chơi thể thao..."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sport a gold tie-clip",
+              "full_vn": "chưng cái kẹp ca vát bằng vàng"
+            },
+            {
+              "full_en": "to sport a moustache",
+              "full_vn": "hãnh diện để bộ ria mép"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352771_7ee72b8469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352771_21a15bf244_o.png",
+      "id_image": "sport_4669567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397642_a2bb90dd3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397642_6755a5c008_o.png",
+      "id_image": "sport_5558314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397617_026f8758b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397617_b0f7bb725c_o.png",
+      "id_image": "sport_6183790"
+    }
+  ]
+}

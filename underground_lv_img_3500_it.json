@@ -1,0 +1,94 @@
+{
+  "english": "underground",
+  "phat_am": "['ʌndəgraund]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới mặt đất; ngầm",
+          "list_en_vn": [
+            {
+              "full_en": "the terrorists lived underground for years",
+              "full_vn": "những kẻ khủng bố đã sống nhiều năm dưới mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trong bóng tối; bí mật",
+          "list_en_vn": [
+            {
+              "full_en": "he went underground to avoid the police",
+              "full_vn": "nó lặn (lẩn, rút vào bí mật) để tránh cảnh sát"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở dưới mặt đất; ngầm",
+          "list_en_vn": [
+            {
+              "full_en": "underground passages /caves",
+              "full_vn": "những lối đi/hầm ngầm"
+            },
+            {
+              "full_en": "underground car-park",
+              "full_vn": "bãi đỗ xe ô tô ngầm dưới mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kín, bí mật",
+          "list_en_vn": [
+            {
+              "full_en": "the underground resistance movement",
+              "full_vn": "phong trào kháng chiến bí mật"
+            },
+            {
+              "full_en": "the underground press",
+              "full_vn": "báo chí bí mật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the underground ) mê-trô, xe điện ngầm (như) tube , subway"
+        },
+        {
+          "m_full_vn": "( the underground ) tổ chức bí mật, hoạt động bí mật (nhất là (chính trị))",
+          "list_en_vn": [
+            {
+              "full_en": "to work for /join /contact the underground",
+              "full_vn": "hoạt động cho/tham gia/tiếp xúc với phong trào bí mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353976_1ccdd706de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353976_4656c65f8a_o.png",
+      "id_image": "underground_1138100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353946_9e9d25e06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353946_79162ccb9b_o.png",
+      "id_image": "underground_2278424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353916_1d66c39ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353916_5bc5de0198_o.png",
+      "id_image": "underground_6092365"
+    }
+  ]
+}

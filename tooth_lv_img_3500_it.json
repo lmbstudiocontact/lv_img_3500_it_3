@@ -1,0 +1,146 @@
+{
+  "english": "tooth",
+  "phat_am": "[tu:θ]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều teeth",
+      "list_m": [
+        {
+          "m_full_vn": "răng",
+          "list_en_vn": [
+            {
+              "full_en": "first tooth",
+              "full_vn": "răng sữa"
+            },
+            {
+              "full_en": "artificial tooth ; false tooth",
+              "full_vn": "răng giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "răng (lược, bánh xe, cưa..)",
+          "list_en_vn": [
+            {
+              "full_en": "the teeth of a saw",
+              "full_vn": "răng cưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) sức mạnh có hiệu quả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to escape by (with ) the skin of one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "may mà thoát, suýt nữa thì nguy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight tooth and nail",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến đấu ác liệt, đánh nhau ác liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "nhe răng; tỏ vẻ hăm doạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut a tooth",
+              "list_im": [
+                {
+                  "im_full_vn": "mọc răng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's teeth into something",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết cái gì, tập trung vào cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the teeth of something",
+              "list_im": [
+                {
+                  "im_full_vn": "bất chấp cái gì; đối lập với cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in the tooth of orders",
+                      "full_vn": "bất chấp các lệnh đã ban ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trực tiếp ngược với (gió..)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in the tooth of the wind",
+                      "full_vn": "ngược gió"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get somebody's teeth on edge",
+              "list_im": [
+                {
+                  "im_full_vn": "phiền nhiễu, không làm hài lòng ai (nhất là về âm thanh chói tai hoặc vị gắt)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the law must be given more teeth if crime is to be properly controlled",
+              "full_vn": "nếu muốn khống chế thực sự tội ác, luật pháp phải được tăng cường hiệu lực"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp răng vào"
+        },
+        {
+          "m_full_vn": "giũa cho có răng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn khớp nhau (bánh xe có răng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081290_35da31f56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081290_38784fa970_o.png",
+      "id_image": "tooth_203140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081275_088e7ce3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081275_1e2f35e47f_o.png",
+      "id_image": "tooth_286559"
+    }
+  ]
+}

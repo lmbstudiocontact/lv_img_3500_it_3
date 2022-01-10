@@ -1,0 +1,73 @@
+{
+  "english": "suicide",
+  "phat_am": "['su:isaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tự tử; sự tự vẫn (chủ tâm tự giết mình)",
+          "list_en_vn": [
+            {
+              "full_en": "to commit suicide",
+              "full_vn": "tự tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động tự sát",
+          "list_en_vn": [
+            {
+              "full_en": "to commit political suicide",
+              "full_vn": "phạm một sai lầm có tính chất tự sát về chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người tự tử"
+        },
+        {
+          "m_full_vn": "sự tự sát (hành động có thể đưa đến những hậu quả nghiêm trọng cho mình)",
+          "list_en_vn": [
+            {
+              "full_en": "political suicide",
+              "full_vn": "sự tự sát về chính trị (tức là hành động của một nhà (chính trị) đưa đến sự tiêu tan sự nghiệp)"
+            },
+            {
+              "full_en": "economic suicide",
+              "full_vn": "sự tự sát về kinh tế (tự làm phá sản)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) tự tử, tự vẫn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự sát (về (kinh tế), (chính trị)..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383477_4a613d34b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383477_c376504ec7_o.png",
+      "id_image": "suicide_2117463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453523_d483e3cf10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453523_4f5e765d22_o.png",
+      "id_image": "suicide_4897489"
+    }
+  ]
+}

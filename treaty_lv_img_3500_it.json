@@ -1,0 +1,54 @@
+{
+  "english": "treaty",
+  "phat_am": "['tri:ti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiệp ước (sự thoả thuận chính thức giữa hai hay nhiều nước)",
+          "list_en_vn": [
+            {
+              "full_en": "a peace treaty",
+              "full_vn": "một hiệp ước hoà bình"
+            },
+            {
+              "full_en": "to enter into a treaty ; to make a treaty",
+              "full_vn": "ký hiệp ước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thoả thuận; sự điều đình, sự thương lượng (giữa những người dân với nhau; nhất là trong mua bán tài sản); hợp đồng",
+          "list_en_vn": [
+            {
+              "full_en": "to be in treaty with someone for",
+              "full_vn": "đang điều đình với ai để"
+            },
+            {
+              "full_en": "by private treaty",
+              "full_vn": "do thoả thuận riêng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450168_b749ebc302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450168_df19198285_o.png",
+      "id_image": "treaty_4147821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072065_a35c551610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072065_fccece8665_o.png",
+      "id_image": "treaty_5437901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690254_5b5f000d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690254_9284a02867_o.png",
+      "id_image": "treaty_5442627"
+    }
+  ]
+}

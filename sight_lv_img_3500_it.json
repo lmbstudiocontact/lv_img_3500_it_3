@@ -1,0 +1,183 @@
+{
+  "english": "sight",
+  "phat_am": "[sait]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sights",
+      "list_m": [
+        {
+          "m_full_vn": "sức nhìn, thị lực; sự nhìn, khả năng nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "long sight",
+              "full_vn": "tật viễn thị"
+            },
+            {
+              "full_en": "near sight",
+              "full_vn": "tật cận thị"
+            },
+            {
+              "full_en": "loss of sight",
+              "full_vn": "sự mù, sự loà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhìn, sự trông; cách nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "to catch sight of somebody",
+              "full_vn": "nhìn thấy ai"
+            },
+            {
+              "full_en": "to translate at sight",
+              "full_vn": "nhìn và dịch ngay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "to put something out of sight",
+              "full_vn": "giấu cất vật gì; lờ cái gì đi"
+            },
+            {
+              "full_en": "out of my sight !",
+              "full_vn": "cút đi cho rãnh mắt!, cút đi cho khuất mắt!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh, cảnh tượng; cuộc biểu diễn; sự trưng bày",
+          "list_en_vn": [
+            {
+              "full_en": "roses are a sight to see",
+              "full_vn": "những bông hồng này trông thật đẹp mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cảnh đẹp; thắng cảnh"
+        },
+        {
+          "m_full_vn": "( a sight ) (thông tục) sự bừa bộn; người (vật) bừa bộn"
+        },
+        {
+          "m_full_vn": "(thông tục) số lượng nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "it will cost a sight of money",
+              "full_vn": "cái đó sẽ tốn khối tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự ngắm; máy ngắm, ống ngắm (ở súng...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make a sight of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn mặc lố lăng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of sight , out of mind",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) xa mặt cách lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "set one's sights on something",
+              "list_im": [
+                {
+                  "im_full_vn": "quyết tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sight of something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất nhiều cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "take a sight",
+              "list_im": [
+                {
+                  "im_full_vn": "ngắm hoặc quan sát bằng ống ngắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sight unseen",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cơ hội để xem xét, kiểm tra trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a sight at (of )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) vẫy mũi chế giễu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take a careful sight before firing",
+              "full_vn": "ngắm cẩn thận trước khi bắn"
+            },
+            {
+              "full_en": "line of sight",
+              "full_vn": "đường ngắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấy, trông thấy, nhìn thấy; nhận thấy"
+        },
+        {
+          "m_full_vn": "quan sát, chiêm nghiệm, trắc nghiệm (một ngôi sao..) bằng ống ngắm"
+        },
+        {
+          "m_full_vn": "ngắm (súng)"
+        },
+        {
+          "m_full_vn": "lắp máy ngắm (vào súng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077210_9fbbe3cd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077210_b0b3248284_o.png",
+      "id_image": "sight_4751525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339951_df8726f4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339951_83661a8a0b_o.png",
+      "id_image": "sight_4893340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077125_11b46557b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077125_9a30a3b141_o.png",
+      "id_image": "sight_5940029"
+    }
+  ]
+}

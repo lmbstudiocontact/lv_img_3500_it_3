@@ -1,0 +1,156 @@
+{
+  "english": "wise",
+  "phat_am": "[waiz]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khôn ngoan, sáng suốt, có sự suy xét đúng, cho thấy sự suy xét đúng",
+          "list_en_vn": [
+            {
+              "full_en": "a wise choice",
+              "full_vn": "sự lựa chọn sáng suốt"
+            },
+            {
+              "full_en": "a wise decision",
+              "full_vn": "sự quyết định sáng suốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uyên thâm, thông thái, hiểu biết nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "a wise man",
+              "full_vn": "một người uyên bác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có kinh nghiệm, từng trải, hiểu biết, lịch duyệt",
+          "list_en_vn": [
+            {
+              "full_en": "to grow wiser",
+              "full_vn": "có nhiều kinh nghiệm hơn"
+            },
+            {
+              "full_en": "with a wise wink of the eye",
+              "full_vn": "với cái nháy mắt hiểu biết"
+            },
+            {
+              "full_en": "to get wise to",
+              "full_vn": "hiểu, nhận thức được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông thạo",
+          "list_en_vn": [
+            {
+              "full_en": "to look wise",
+              "full_vn": "có vẻ thông thạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) láu, ma lanh, tài xoay",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be wise after the event",
+              "list_im": [
+                {
+                  "im_full_vn": "giải thích cái gì sau khi nó xảy ra rồi (chứ không dự đoán được); nói sau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /get wise to something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) biết tỏng, hiểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody wise (to something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) báo cho ai hay cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as wise as an owl",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn như ranh, tinh khôn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "wise guy",
+              "full_vn": "người có tài xoay sở"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + up ) (từ Mỹ, nghĩa Mỹ) (thông tục) mách bảo",
+          "list_en_vn": [
+            {
+              "full_en": "It's about time he wished up to the fact that people think his behaviour is ridiculous",
+              "full_vn": "đã đến lúc nó cần được mách bảo cho biết là mọi người đều cho rằng cách cư xử của nó là lố bịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tỉnh ngộ, biết lầm, khôn ra hơn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) mách bảo"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cách, lối, hành vi, mức độ",
+          "list_en_vn": [
+            {
+              "full_en": "in solemn wise",
+              "full_vn": "một cách long trọng"
+            },
+            {
+              "full_en": "in any wise",
+              "full_vn": "dù bằng cách nào"
+            },
+            {
+              "full_en": "in no wise",
+              "full_vn": "không có cách nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335866_e2fc65b364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335866_3588fbcc24_o.png",
+      "id_image": "wise_401559"
+    }
+  ]
+}

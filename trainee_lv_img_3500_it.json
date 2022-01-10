@@ -1,0 +1,30 @@
+{
+  "english": "trainee",
+  "phat_am": "[trei'ni:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "võ sĩ trẻ đang tập dượt để lên đài"
+        },
+        {
+          "m_full_vn": "người được huấn luyện, người được đào tạo (cho một công việc..); thực tập sinh",
+          "list_en_vn": [
+            {
+              "full_en": "a trainee salesman",
+              "full_vn": "người thực tập bán hàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454643_ee868f8087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454643_1c4dc4ea46_o.png",
+      "id_image": "trainee_4126690"
+    }
+  ]
+}

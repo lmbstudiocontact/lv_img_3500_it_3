@@ -1,0 +1,138 @@
+{
+  "english": "shy",
+  "phat_am": "[∫ai]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhút nhát, bẽn lẽn, e thẹn (về người)",
+          "list_en_vn": [
+            {
+              "full_en": "to be shy of doing something",
+              "full_vn": "dè dặt không muốn làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rụt rè, e lệ, bẽn lẽn (về cách cư xử..)",
+          "list_en_vn": [
+            {
+              "full_en": "shy look",
+              "full_vn": "dáng vẻ bẽn lẽn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhát, dễ hoảng sợ; không dễ nhìn thấy, không dễ gần người (chim, động vật..)"
+        },
+        {
+          "m_full_vn": "(từ lóng) thiếu; mất",
+          "list_en_vn": [
+            {
+              "full_en": "I'm shy 3ấ",
+              "full_vn": "tôi thiếu ba đồng; tôi mất ba đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong tính từ ghép) ngại (tránh hoặc không thích điều cụ thể nào đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "shy of somebody /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh giác, sợ (người hoặc hành động)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "shy (on /of something /somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) thiếu cái gì/ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "camera-shy",
+              "full_vn": "ngại chụp ảnh"
+            },
+            {
+              "full_en": "a publicity-shy politician",
+              "full_vn": "nhà chính trị ngại xuất hiện công khai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ shied",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) quay ngang, ngừng lại, khựng lại (do sợ hãi, hoảng hốt) (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy sang một bên, sự tránh, sự né"
+        },
+        {
+          "m_full_vn": "(thông tục) sự ném, sự liệng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a shy at",
+              "list_im": [
+                {
+                  "im_full_vn": "cố bắn trúng (mục tiêu); cố lấy cho được (cái gì)"
+                },
+                {
+                  "im_full_vn": "thử chế nhạo (ai)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ shied",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy sang một bên, né, tránh"
+        },
+        {
+          "m_full_vn": "(thông tục) ném, liệng",
+          "list_en_vn": [
+            {
+              "full_en": "to shy stone",
+              "full_vn": "ném đá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078050_0f833e210f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078050_0d33c64aa8_o.png",
+      "id_image": "shy_214255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385652_1a3c6c9930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385652_99d33ffc06_o.png",
+      "id_image": "shy_599568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695959_95ff121ff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695959_e91d26c621_o.png",
+      "id_image": "shy_6001194"
+    }
+  ]
+}

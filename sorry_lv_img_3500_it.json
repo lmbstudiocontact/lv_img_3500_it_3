@@ -1,0 +1,160 @@
+{
+  "english": "sorry",
+  "phat_am": "['sɔri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( sorry to do something / that ...) cảm thấy buồn và hối tiếc; lấy làm buồn",
+          "list_en_vn": [
+            {
+              "full_en": "we're sorry to hear of your father's death",
+              "full_vn": "chúng tôi rất lấy làm buồn khi được tin bố anh mất"
+            },
+            {
+              "full_en": "I'm sorry to say that I won't be able to accept the job",
+              "full_vn": "tôi lấy làm tiếc phải nói rằng tôi không thể nhận việc được"
+            },
+            {
+              "full_en": "I'd be sorry if you were to think that I disliked you",
+              "full_vn": "tôi sẽ lấy làm buồn nếu anh cứ cho là tôi đã ghét anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( sorry for / about something ) rất hổ thẹn và hối hận (nhất là về việc đã qua); xin lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "aren't you sorry for /about what you've done ?",
+              "full_vn": "anh có ân hận về việc anh đã làm hay không?"
+            },
+            {
+              "full_en": "if you say you're sorry , we'll forget the incident",
+              "full_vn": "nếu anh nói anh có lỗi (nếu anh xin lỗi), chúng tôi sẽ bỏ qua sự việc đã xảy ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu thị sự hối tiếc, bất đồng hoặc từ chối nhẹ nhàng và để xin lỗi và xin tha thứ",
+          "list_en_vn": [
+            {
+              "full_en": "Can you lend me a pound ? - I'm sorry , I can't",
+              "full_vn": "Anh cho tôi mượn 1 pao được không? - Thật đáng tiếc, tôi không thể cho mượn được"
+            },
+            {
+              "full_en": "I'm sorry , but I don't share your opinion",
+              "full_vn": "Rất tiếc là tôi không đồng ý với anh"
+            },
+            {
+              "full_en": "I'm sorry I'm late",
+              "full_vn": "tôi xin lỗi đã đến muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dạng so sánh hơn là sorrier và dạng cực cấp là sorriest ) nghèo nàn và tiều tụy; đáng thương hại; thiểu não",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /feel sorry for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thông cảm với ai; cảm thấy thương hại hoặc không tán thành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I feel sorry for anyone who has to drive in this sort of weather",
+                      "full_vn": "Tôi thông cảm với bất cứ ai phải lái xe trong kiểu thời tiết như thế này"
+                    },
+                    {
+                      "full_en": "If he doesn't realize the consequences of his actions , I'm sorry for him",
+                      "full_vn": "nếu nó không nhận thức hết hậu quả hành động của nó thì thật là đáng thương cho nó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "better safe than sorry",
+              "list_im": [
+                {
+                  "im_full_vn": "thà cẩn thận còn hơn là để xảy ra điều đáng tiếc; cẩn tắc vô ưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut a sorry figure",
+              "list_im": [
+                {
+                  "im_full_vn": "xem figure"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sorry sight",
+              "full_vn": "một cảnh tượng thiểu não"
+            },
+            {
+              "full_en": "the house was in a sorry state",
+              "full_vn": "ngôi nhà ở trong tình trạng tiều tụy"
+            },
+            {
+              "full_en": "a sorry excuse",
+              "full_vn": "lời xin lỗi đáng buồn (lời xin lỗi không có giá trị)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để xin lỗi, đưa ra lời bào chữa...)",
+          "list_en_vn": [
+            {
+              "full_en": "Sorry , did I knock your elbow ?",
+              "full_vn": "Xin lỗi, tôi đã chạm vào khuỷu tay bà phải không?"
+            },
+            {
+              "full_en": "Sorry , I don't know where she lives",
+              "full_vn": "Thật đáng tiếc, tôi không biết cô ta ở đâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng để yêu cầu ai nhắc lại cái gì mình đã không nghe chính xác); anh nói gì ạ; gì ạ",
+          "list_en_vn": [
+            {
+              "full_en": "I'm hungry - Sorry ? - I said I'm hungry",
+              "full_vn": "Tôi đói rồi - Gì ạ? - Tôi nói là tôi đói rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370572_2cd6034e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370572_aa6434cc21_o.png",
+      "id_image": "sorry_3159041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325761_bb636f9c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325761_05bf96d68d_o.png",
+      "id_image": "sorry_4743043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680829_3abb8bdaa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680829_5c55ddd74e_o.png",
+      "id_image": "sorry_5906109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325721_73709052c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325721_1971e8b3ec_o.png",
+      "id_image": "sorry_5906113"
+    }
+  ]
+}

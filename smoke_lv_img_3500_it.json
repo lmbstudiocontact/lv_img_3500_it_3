@@ -1,0 +1,183 @@
+{
+  "english": "smoke",
+  "phat_am": "[smouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khói",
+          "list_en_vn": [
+            {
+              "full_en": "a column of smoke",
+              "full_vn": "cột khói"
+            },
+            {
+              "full_en": "to end (go up ) in smoke",
+              "full_vn": "tan thành mây khói (kế hoạch)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự hút thuốc lá; thời gian hút thuốc lá"
+        },
+        {
+          "m_full_vn": "hơi thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "I must have a smoke",
+              "full_vn": "tôi phải rít một hơi thuốc mới được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái để hút (nhất là điếu thuốc lá, điếu xì gà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the big smoke",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) Luân-đôn; thành phố công nghiệp lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from smoke into smother",
+              "list_im": [
+                {
+                  "im_full_vn": "từ lỗi này sang tội nọ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like smoke",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nhanh chóng, dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go up in smoke",
+              "list_im": [
+                {
+                  "im_full_vn": "biến thành tro bụi"
+                },
+                {
+                  "im_full_vn": "tan thành mây khói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is no smoke without fire",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) không có lửa sao có khói"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bốc khói, lên khói, toả khói; bốc hơi",
+          "list_en_vn": [
+            {
+              "full_en": "lamp is smoking",
+              "full_vn": "đèn bốc khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hút thuốc; hun khói",
+          "list_en_vn": [
+            {
+              "full_en": "to smoke like a chimney",
+              "full_vn": "hút như hun khói cả ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ám khói; làm đen; làm có mùi khói",
+          "list_en_vn": [
+            {
+              "full_en": "lamp smokes ceiling",
+              "full_vn": "đèn làm đen trần nhà"
+            },
+            {
+              "full_en": "the porridge is smoked",
+              "full_vn": "cháo có mùi khói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hun khói (thịt..)",
+          "list_en_vn": [
+            {
+              "full_en": "to smoke insects",
+              "full_vn": "hun sâu bọ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hút thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "to smoke oneself ill (sick )",
+              "full_vn": "hút thuốc đến ốm người"
+            },
+            {
+              "full_en": "to smoke oneself into calmness",
+              "full_vn": "hút thuốc để trấn tĩnh tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận thấy, cảm thấy; ngờ ngợ (cái gì)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) khám phá, phát hiện"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) chế giễu",
+          "list_one_mean": [
+            {
+              "id_full_en": "smoke something out",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ngập khói; phun đầy khói vào cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445973_c40a5df446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445973_3f71118f5e_o.png",
+      "id_image": "smoke_1679102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375652_b73d94659f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375652_4be5b615dd_o.png",
+      "id_image": "smoke_2451374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445898_83fb03647e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445898_3d7f70d1b6_o.png",
+      "id_image": "smoke_2544490"
+    }
+  ]
+}

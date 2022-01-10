@@ -1,0 +1,75 @@
+{
+  "english": "vacation",
+  "phat_am": "[və'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một trong những khoảng ngưng nghỉ giữa các học kỳ ở các trường đại học và các phiên toà; kỳ nghỉ lễ (ở trường học); kỳ hưu thẩm (của toà án) (cũng) vac , recess",
+          "list_en_vn": [
+            {
+              "full_en": "The Christmas , Easter vacation",
+              "full_vn": "kỳ nghỉ lễ Nô-en, lễ phục sinh"
+            },
+            {
+              "full_en": "the long vacation",
+              "full_vn": "kỳ nghỉ hè"
+            },
+            {
+              "full_en": "vacation work",
+              "full_vn": "công việc trong kỳ nghỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) ngày nghỉ, ngày lễ (như) holiday"
+        },
+        {
+          "m_full_vn": "hành động bỏ trốn, rời bỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "on vacation",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) nghỉ việc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "immediate vacation of the house is essential",
+              "full_vn": "điều cần thiết là phải lập tức rời khỏi ngôi nhà này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + in , at ) (từ Mỹ,nghĩa Mỹ) có một kỳ nghỉ ở/tại (một nơi nào đó); đi nghỉ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394922_65aaff1908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394922_79dedecb8c_o.png",
+      "id_image": "vacation_5020622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394892_97085c289e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394892_b3a8a2c5b9_o.png",
+      "id_image": "vacation_5776439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350071_6048d94167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350071_d9a80a44f3_o.png",
+      "id_image": "vacation_5965707"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "english": "woman",
+  "phat_am": "['wumən]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều women",
+      "list_m": [
+        {
+          "m_full_vn": "đàn bà, phụ nữ, người phụ nữ đã trưởng thành",
+          "list_en_vn": [
+            {
+              "full_en": "a single woman",
+              "full_vn": "một người đàn bà không lấy chồng"
+            },
+            {
+              "full_en": "a woman of the world",
+              "full_vn": "người đàn bà lịch duyệt"
+            },
+            {
+              "full_en": "men , women and children",
+              "full_vn": "đàn ông, đàn bà và trẻ con"
+            },
+            {
+              "full_en": "it's more than a woman can tolerate",
+              "full_vn": "thật là quá sức chịu đựng của một người đàn bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mụ (một kiểu nói xúc phạm)",
+          "list_en_vn": [
+            {
+              "full_en": "shut up , woman !",
+              "full_vn": "câm miệng đi, mụ kia!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(không có a hoặc the ) nữ giới; phụ nữ (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "woman's rights",
+              "full_vn": "nữ quyền"
+            },
+            {
+              "full_en": "woman has been portrayed by artists in many ways",
+              "full_vn": "phụ nữ đã được các nghệ sĩ miêu tả bằng nhiều cách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the woman ) nữ tính; tính cách người phụ nữ",
+          "list_en_vn": [
+            {
+              "full_en": "something of the woman in his character",
+              "full_vn": "một cái gì có tính chất đàn bà trong tính tình của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bà hầu cận (của vua, của một nhà quý tộc)"
+        },
+        {
+          "m_full_vn": "(tạo thành danh từ ghép)",
+          "list_one_mean": [
+            {
+              "id_full_en": "tied to woman's apron-strings",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đàn bà xỏ mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a woman with a past",
+              "list_im": [
+                {
+                  "im_full_vn": "người đàn bà đã từng trốn chúa lộn chồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a woman of easy virtue",
+              "list_im": [
+                {
+                  "im_full_vn": "gái điếm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "chairwoman",
+              "full_vn": "nữ chủ tịch"
+            },
+            {
+              "full_en": "horsewoman",
+              "full_vn": "nữ kỵ sĩ"
+            },
+            {
+              "full_en": "sportswoman",
+              "full_vn": "nữ vận động viên"
+            },
+            {
+              "full_en": "a woman artist , woman doctor",
+              "full_vn": "nữ nghệ sĩ, nữ bác sĩ"
+            },
+            {
+              "full_en": "a woman driver , women drivers",
+              "full_vn": "một phụ nữ lái xe, các phụ nữ lái xe"
+            },
+            {
+              "full_en": "a woman friend",
+              "full_vn": "một người bạn gái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450198_d8ab38381d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450198_01c05e9c9c_o.png",
+      "id_image": "woman_409231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335161_93f7c56980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335161_4e7a288f4c_o.png",
+      "id_image": "woman_417745"
+    }
+  ]
+}

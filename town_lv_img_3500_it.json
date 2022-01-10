@@ -1,0 +1,88 @@
+{
+  "english": "town",
+  "phat_am": "[taun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thị trấn, thị xã, thành phố (nhỏ)",
+          "list_en_vn": [
+            {
+              "full_en": "manufacturing town",
+              "full_vn": "thành phố công nghiệp"
+            },
+            {
+              "full_en": "out of town",
+              "full_vn": "ở nông thôn"
+            },
+            {
+              "full_en": "My Tho is a town",
+              "full_vn": "Mỹ Tho là một thành phố nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dân cư của thị trấn, dân cư của thị xã, dân cư của thành phố nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "the whole town knows of it",
+              "full_vn": "cả thành phố ai người ta cũng biết chuyện đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành thị, đô thị"
+        },
+        {
+          "m_full_vn": "khu buôn bán chính, khu thương mại chính (của một vùng)"
+        },
+        {
+          "m_full_vn": "thị xã chính, thành phố chính (của một khu vực); London (ở Anh)"
+        },
+        {
+          "m_full_vn": "phố (nơi có phố xá đông đúc của thành phố, trái với ngoại ô)",
+          "list_one_mean": [
+            {
+              "id_full_en": "go to town (on something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm cái gì rất hăng hái, làm cái gì rất nhiệt tình (nhất là bằng cách chi tiền)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to paint the town red",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) làm om sòm, gây náo loạn, quấy phá (ở đường phố, tiệm rượu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "woman of the town",
+              "list_im": [
+                {
+                  "im_full_vn": "gái điếm, gái làng chơi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to go to town to do some shopping",
+              "full_vn": "ra phố mua hàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341681_b9ed8c02e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341681_e4378c8e19_o.png",
+      "id_image": "town_804558"
+    }
+  ]
+}

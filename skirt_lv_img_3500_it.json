@@ -1,0 +1,78 @@
+{
+  "english": "skirt",
+  "phat_am": "[skə:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "váy phụ nữ; phần váy của áo đầm"
+        },
+        {
+          "m_full_vn": "vạt áo (phần của áo dài hay đồ mặc khác; áo đuôi tôm..)"
+        },
+        {
+          "m_full_vn": "đàn bà, con gái (con gái hay đàn bà nói chung; được coi (như) những đối tượng tình dục)"
+        },
+        {
+          "m_full_vn": "cô gái, người đàn bà bị nhìn như những đối tượng tình dục"
+        },
+        {
+          "m_full_vn": "tấm chắn"
+        },
+        {
+          "m_full_vn": "( số nhiều) như outskirts",
+          "list_en_vn": [
+            {
+              "full_en": "on the skirts of the wood",
+              "full_vn": "ở rìa rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần treo dưới đáy của tàu đệm không khí"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi men bờ, đi dọc theo mép, đi quanh; ở dọc theo mép",
+          "list_one_mean": [
+            {
+              "id_full_en": "skirt round something",
+              "list_im": [
+                {
+                  "im_full_vn": "nói vòng vo; nói quanh co"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to skirt the coast",
+              "full_vn": "đi dọc theo bờ biển"
+            },
+            {
+              "full_en": "road skirts (round ) wood",
+              "full_vn": "con đường đi vòng mép rừng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072085_7a51326436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072085_a546f89238_o.png",
+      "id_image": "skirt_215242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690269_35ceeafa10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690269_7e2f933235_o.png",
+      "id_image": "skirt_407323"
+    }
+  ]
+}

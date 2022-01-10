@@ -1,0 +1,249 @@
+{
+  "english": "side",
+  "phat_am": "[said]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt, mặt phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "a cube has six sides",
+              "full_vn": "hình khối có sáu mặt"
+            },
+            {
+              "full_en": "two sides of house",
+              "full_vn": "hai bên cạnh nhà"
+            },
+            {
+              "full_en": "two sides of a sheet of paper",
+              "full_vn": "hai mặt của tờ giấy"
+            },
+            {
+              "full_en": "the right side of cloth",
+              "full_vn": "mặt phải của vải"
+            },
+            {
+              "full_en": "the seamy side of life",
+              "full_vn": "mặt trái của cuộc đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) cạnh",
+          "list_en_vn": [
+            {
+              "full_en": "opposite sides of a parallelogram",
+              "full_vn": "hai cạnh đối nhau của một hình bình hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạnh, bên cạnh"
+        },
+        {
+          "m_full_vn": "mép, lề, bờ, ranh giới; bìa rừng",
+          "list_en_vn": [
+            {
+              "full_en": "a table by the side of one's bed",
+              "full_vn": "một cái bàn bên cạnh giừơng ngủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt (tờ giấy, vải..)"
+        },
+        {
+          "m_full_vn": "sườn, lườn, triền, vách",
+          "list_en_vn": [
+            {
+              "full_en": "side of mutton",
+              "full_vn": "sườn cừu"
+            },
+            {
+              "full_en": "to fight side by side",
+              "full_vn": "sát cánh chiến đấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phía, bên",
+          "list_en_vn": [
+            {
+              "full_en": "the right side",
+              "full_vn": "phía bên phải"
+            },
+            {
+              "full_en": "the debit side",
+              "full_vn": "bên nợ"
+            },
+            {
+              "full_en": "the credit side",
+              "full_vn": "bên có"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần bên cạnh, phần phụ",
+          "list_en_vn": [
+            {
+              "full_en": "side of road",
+              "full_vn": "bên cạnh đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khía cạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to study all sides of the question",
+              "full_vn": "nghiên cứu mọi khía cạnh của vấn đề"
+            },
+            {
+              "full_en": "the gentle side of her character",
+              "full_vn": "khía cạnh dịu dàng trong tính cách của cô ta"
+            },
+            {
+              "full_en": "to approach the problem from a different side",
+              "full_vn": "tiếp cận vấn đề từ một khía cạnh khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phe, phái, phía",
+          "list_en_vn": [
+            {
+              "full_en": "to take side with somebody",
+              "full_vn": "bày tỏ sự ủng hộ ai trong một cuộc tranh chấp; về phe với ai"
+            },
+            {
+              "full_en": "You musn't take sides in their argument",
+              "full_vn": "Anh không được đứng vào phe nào trong cuộc cãi nhau của họ"
+            },
+            {
+              "full_en": "She took sides with me against the teacher",
+              "full_vn": "cô ta đứng về phía chúng tôi chống lại thầy giáo"
+            },
+            {
+              "full_en": "justice is on our side",
+              "full_vn": "chúng ta có chính nghĩa"
+            },
+            {
+              "full_en": "there is much to be said on both sides",
+              "full_vn": "cả hai phe đều có nhiều vấn đề cần nói"
+            },
+            {
+              "full_en": "the winning side",
+              "full_vn": "phe thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên (nội, ngoại)",
+          "list_one_mean": [
+            {
+              "id_full_en": "born on the wrong side of the blanket",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) blanket"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the right side of forty",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới bốn mươi tuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the wrong side of forty",
+              "list_im": [
+                {
+                  "im_full_vn": "trên bốn mươi tuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on this side of grave",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy còn sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the wrong side of the door",
+              "list_im": [
+                {
+                  "im_full_vn": "bị nhốt ở ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look on the bright side of everything",
+              "list_im": [
+                {
+                  "im_full_vn": "lạc quan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on side",
+              "list_im": [
+                {
+                  "im_full_vn": "lên mặt, làm bộ làm tịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "prices are on the high side",
+              "list_im": [
+                {
+                  "im_full_vn": "giá vẫn cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake one's side",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vỡ bụng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "on the maternal side",
+              "full_vn": "bên ngoại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to side with somebody against somebody ) đứng về phe, đứng về phía; ủng hộ",
+          "list_en_vn": [
+            {
+              "full_en": "She sided with her brother against the others in the class",
+              "full_vn": "Cô ta đứng về phía em trai mình chống lại các học sinh khác trong lớp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455263_a844ccc226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455263_fac0d0dc7b_o.png",
+      "id_image": "sideboard_1691582"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "slash",
+  "phat_am": "['slæ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chém, sự rạch, sự cắt; vết chém, vết rạch, vết cắt"
+        },
+        {
+          "m_full_vn": "đường xẻ ở quần áo"
+        },
+        {
+          "m_full_vn": "đống cành lá cắt (khi đốn cây)"
+        },
+        {
+          "m_full_vn": "nét vạch chéo trong chữ viết hoặc in (trong 27 / 05 / 1975); vạch xiên"
+        },
+        {
+          "m_full_vn": "sự đi tiểu, sự đi tè"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chém, rạch, cắt, khía"
+        },
+        {
+          "m_full_vn": "hạ, giảm bớt (giá), cắt bớt",
+          "list_en_vn": [
+            {
+              "full_en": "to slash a speech",
+              "full_vn": "cắt bớt nhiều đoạn trong một bài diễn văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quất, quật, đánh (bằng roi)"
+        },
+        {
+          "m_full_vn": "(thông tục) đả kích, đập tơi bời, chỉ trích gay gắt (một cuốn tiểu thuyết...)"
+        },
+        {
+          "m_full_vn": "(quân sự) chặt (cây) để làm đống cây cản",
+          "list_one_mean": [
+            {
+              "id_full_en": "slash at something (with something )",
+              "list_im": [
+                {
+                  "im_full_vn": "phạt, chém, quật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "slash one's way through /past something",
+              "list_im": [
+                {
+                  "im_full_vn": "khai quang"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689749_af700b7dec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689749_84341d3074_o.png",
+      "id_image": "slash_3602460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334621_7f32cfb21f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334621_8a4306b5fe_o.png",
+      "id_image": "slash_4334081"
+    }
+  ]
+}

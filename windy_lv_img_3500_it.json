@@ -1,0 +1,64 @@
+{
+  "english": "windy",
+  "phat_am": "['windi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lộng gió, có nhiều gió",
+          "list_en_vn": [
+            {
+              "full_en": "a windy day",
+              "full_vn": "một ngày lộng gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gió lộng, phơi ra trước gió (nhất là gió mạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "a windy hillside",
+              "full_vn": "một sườn đồi gió lộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có gió, lắm gió, lộng gió; gây ra bởi gió"
+        },
+        {
+          "m_full_vn": "(y học) đầy hơi"
+        },
+        {
+          "m_full_vn": "(thông tục) dài dòng, trống rỗng, huênh hoang; ba hoa",
+          "list_en_vn": [
+            {
+              "full_en": "windy talk",
+              "full_vn": "chuyện dài dòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sợ hãi, lo lắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373777_bafb60a5ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373777_ae6dc03b20_o.png",
+      "id_image": "windy_2358464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373752_f5b69a8214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373752_44bee2cfbf_o.png",
+      "id_image": "windy_3104631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329001_61d590442b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329001_13aabff509_o.png",
+      "id_image": "windy_4861661"
+    }
+  ]
+}

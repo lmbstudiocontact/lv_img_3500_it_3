@@ -1,0 +1,88 @@
+{
+  "english": "tube",
+  "phat_am": "[tju:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống (tự nhiên hoặc nhân tạo)",
+          "list_en_vn": [
+            {
+              "full_en": "steel tube",
+              "full_vn": "ống thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "săm, ruột (xe ô tô...) (như) inner tube"
+        },
+        {
+          "m_full_vn": "ống tuýp (dùng để đựng các thứ bột nhão.. sẵn sàng để dùng)",
+          "list_en_vn": [
+            {
+              "full_en": "tubes of glue",
+              "full_vn": "tuýp đựng hồ dán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the tube ) (thông tục) mê-trô, xe điện ngầm (như) underground , subway"
+        },
+        {
+          "m_full_vn": "(như) cathoderay tube"
+        },
+        {
+          "m_full_vn": "ống phóng điện tử (đèn hình..)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đèn điện tử"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) ống, vòi (cơ quan có hình ống rỗng trong cơ thể)"
+        },
+        {
+          "m_full_vn": "(thực vật học) ống tràng (của hoa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ráp ống, đặt ống, gắn ống (vào nồi hơi..)"
+        },
+        {
+          "m_full_vn": "làm cho thành hình ống, gò thành hình ống"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685294_0bf9c4e01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685294_d1ffbcf1db_o.png",
+      "id_image": "tube_1373939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374892_ee3b5512bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374892_a221ef5a7c_o.png",
+      "id_image": "tube_2421628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685224_3b773a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685224_a0851b9d68_o.png",
+      "id_image": "tube_2491467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067165_5ef25da3f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067165_4b5e9119fb_o.png",
+      "id_image": "tube_752547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330261_9405ee3b93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330261_37831348b0_o.png",
+      "id_image": "tube_772952"
+    }
+  ]
+}

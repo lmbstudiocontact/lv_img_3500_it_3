@@ -1,0 +1,129 @@
+{
+  "english": "staff",
+  "phat_am": "[stɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều staves , staffs",
+      "list_m": [
+        {
+          "m_full_vn": "gậy quyền; quyền trượng (gậy biểu thị chức vị quyền lực)"
+        },
+        {
+          "m_full_vn": "nhóm các người giúp việc cùng làm việc trong một doanh nghiệp..., chịu trách nhiệm trước giám đốc hoặc người đương quyền; nhân viên",
+          "list_en_vn": [
+            {
+              "full_en": "the hotel staff",
+              "full_vn": "nhân viên khách sạn"
+            },
+            {
+              "full_en": "we need more staff for this job",
+              "full_vn": "chúng tôi cần thêm nhân viên cho công việc này"
+            },
+            {
+              "full_en": "I've a staff of ten",
+              "full_vn": "tôi có cả thảy mười nhân viên"
+            },
+            {
+              "full_en": "the staff in this shop are very helpful",
+              "full_vn": "nhân viên trong cửa hiệu này rất đắc lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "những người có quyền lực trong một tổ chức (trái với sinh viên..), những người làm việc hành chánh (khác biệt với việc thủ công); cán bộ",
+          "list_en_vn": [
+            {
+              "full_en": "a head teacher and her staff",
+              "full_vn": "bà hiệu trưởng và toàn thể giáo viên"
+            },
+            {
+              "full_en": "a new member of (the ) staff",
+              "full_vn": "một cán bộ mới"
+            },
+            {
+              "full_en": "the school staff are expected to supervise school meals",
+              "full_vn": "người ta mong ban lãnh đạo nhà trường giám sát các bữa ăn của trường"
+            },
+            {
+              "full_en": "teaching staff",
+              "full_vn": "ban giảng huấn; hội đồng giáo viên"
+            },
+            {
+              "full_en": "editorial staff of a newspaper",
+              "full_vn": "ban biên tập một tờ báo"
+            },
+            {
+              "full_en": "a staff party , room , meeting",
+              "full_vn": "ban, phòng làm việc, cuộc họp cán bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm sĩ quan cao cấp giúp việc cho sĩ quan chỉ huy; ban tham mưu",
+          "list_en_vn": [
+            {
+              "full_en": "the lieutenant-general's staff",
+              "full_vn": "ban tham mưu của trung tướng"
+            },
+            {
+              "full_en": "staff officer",
+              "full_vn": "sĩ quan tham mưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cọc tiêu"
+        },
+        {
+          "m_full_vn": "(y học) dụng cụ mổ bóng đái"
+        },
+        {
+          "m_full_vn": "hiệu lệnh đường thông (cho người lái xe lửa)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) khuông nhạc (cũng) stave",
+          "list_one_mean": [
+            {
+              "id_full_en": "the staff of life",
+              "list_im": [
+                {
+                  "im_full_vn": "bánh mì (coi (như) thức ăn cơ bản nuôi sống con người)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bố trí cán bộ nhân viên cho (một cơ quan); cung cấp cán bộ nhân viên cho (một cơ quan)",
+          "list_en_vn": [
+            {
+              "full_en": "to staff an office with capable cadres",
+              "full_vn": "bố trí cán bộ có khả năng cho một cơ quan"
+            },
+            {
+              "full_en": "the school is staffed entirely by graduates",
+              "full_vn": "nhân viên của trường toàn là người đã tốt nghiệp đại học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395502_9d1574a101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395502_3f0f8814b2_o.png",
+      "id_image": "staff_3043379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087875_e7a3494a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087875_ee4a5e8703_o.png",
+      "id_image": "staff_3461579"
+    }
+  ]
+}

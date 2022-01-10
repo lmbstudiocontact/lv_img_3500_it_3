@@ -1,0 +1,467 @@
+{
+  "english": "square",
+  "phat_am": "[skweə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vuông",
+          "list_en_vn": [
+            {
+              "full_en": "a square table",
+              "full_vn": "bàn vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có một góc vuông, tạo thành một gốc vuông (chính xác hoặc gần đúng)",
+          "list_en_vn": [
+            {
+              "full_en": "square corners",
+              "full_vn": "những gốc vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hình thù tương đối rộng và chắc",
+          "list_en_vn": [
+            {
+              "full_en": "a woman of square frame /build",
+              "full_vn": "một phụ nữ có thân hình đẫy đà, chắc nịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "to ngang",
+          "list_en_vn": [
+            {
+              "full_en": "a man of square frame",
+              "full_vn": "người to ngang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thứ tự, ngăn nắp, gọn gàng, tinh tươm, xếp đặt đúng đắn",
+          "list_en_vn": [
+            {
+              "full_en": "we should get everything square before we leave",
+              "full_vn": "chúng ta phải xếp đặt mọi thứ ngăn nắp trước khi đi"
+            },
+            {
+              "full_en": "to get things square",
+              "full_vn": "xếp đồ đạc cho ngăn nắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng thừng, không nhượng bộ; cương quyết, dứt khoát, không úp mở",
+          "list_en_vn": [
+            {
+              "full_en": "a square refusal",
+              "full_vn": "sự từ chối dứt khoát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được giải quyết trả tiền, được quyết toán; sòng phẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to get square with creditor",
+              "full_vn": "sòng phẳng với chủ nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như cách tính diện tích; đo một số lượng trên bốn cạnh",
+          "list_en_vn": [
+            {
+              "full_en": "one square metre",
+              "full_vn": "một mét vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công bằng, thật thà, thẳng thắn",
+          "list_en_vn": [
+            {
+              "full_en": "to play a square game",
+              "full_vn": "chơi thật thà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) không tiếp xúc với những ý tưởng mới (kiểu dáng mới..) lôi thôi; ước lệ"
+        },
+        {
+          "m_full_vn": "ở vị trí gần vuông góc với người đập bóng (trong môn cricket)"
+        },
+        {
+          "m_full_vn": "( + with ) ngang hàng; ngang bằng, song song với",
+          "list_en_vn": [
+            {
+              "full_en": "I am now square with all the world",
+              "full_vn": "bây giờ tôi đã bằng thiên hạ rồi"
+            },
+            {
+              "full_en": "tables arranged square with the wall",
+              "full_vn": "cái bàn này được xếp song song với tường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) vuông, bình phương"
+        },
+        {
+          "m_full_vn": "(từ lóng) cổ lỗ sĩ, lỗi thời",
+          "list_one_mean": [
+            {
+              "id_full_en": "be (all ) square (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "có số bàn thắng bằng nhau (trong thể thao)"
+                },
+                {
+                  "im_full_vn": "không ai nợ nần ai cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a square meal",
+              "list_im": [
+                {
+                  "im_full_vn": "bữa ăn cỗ lớn và thoả thích"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vuông vắn",
+          "list_en_vn": [
+            {
+              "full_en": "to sit square on one's seat",
+              "full_vn": "ngồi vuông vắt trên ghế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng góc với; trúng",
+          "list_en_vn": [
+            {
+              "full_en": "to hit somebody square on the jaw",
+              "full_vn": "đấm trúng thẳng vào hàm ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng thắn; trực tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "to play square",
+              "full_vn": "chơi thật thà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình vuông"
+        },
+        {
+          "m_full_vn": "(viết tắt) Sq quảng trường (trong địa chỉ)",
+          "list_en_vn": [
+            {
+              "full_en": "Badinh Square /Sq",
+              "full_vn": "quảng trường Ba đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi, quảng trường (trong tên phố)",
+          "list_en_vn": [
+            {
+              "full_en": "a market square",
+              "full_vn": "bãi chợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu nhà khối giáp bốn phố"
+        },
+        {
+          "m_full_vn": "thước vuông góc, cái ê-ke (như) T-square"
+        },
+        {
+          "m_full_vn": "ô chữ vuông"
+        },
+        {
+          "m_full_vn": "(toán học) bình phương",
+          "list_en_vn": [
+            {
+              "full_en": "the square of three is nine",
+              "full_vn": "ba bình phương là chín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) người nệ cổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the square",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "magic square",
+              "list_im": [
+                {
+                  "im_full_vn": "hình ma phương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the square",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thẳng thắn, thật thà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of square (with something )",
+              "list_im": [
+                {
+                  "im_full_vn": "không vuông góc với cái gì"
+                },
+                {
+                  "im_full_vn": "(thông tục) không hoà hợp, lủng củng"
+                },
+                {
+                  "im_full_vn": "(thông tục) sai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "back to square one",
+              "list_im": [
+                {
+                  "im_full_vn": "không lại hoàn không"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho vuông, đẽo cho vuông; tạo hình dáng vuông",
+          "list_en_vn": [
+            {
+              "full_en": "to square timber",
+              "full_vn": "đẽo gỗ"
+            },
+            {
+              "full_en": "to squared corners",
+              "full_vn": "những góc được làm vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thành phẳng, làm ngang bằng",
+          "list_en_vn": [
+            {
+              "full_en": "to square one's shoulders",
+              "full_vn": "làm cho vai ngang; kênh ngang vai lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh dấu (cái gì) bằng hình vuông; xếp thành hình vuông",
+          "list_en_vn": [
+            {
+              "full_en": "squared paper",
+              "full_vn": "giấy kẻ ô vuông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều chỉnh, làm cho hợp",
+          "list_en_vn": [
+            {
+              "full_en": "to square one's practice with one's principles",
+              "full_vn": "làm cho việc làm của mình hợp với những nguyên tắc mình đề ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh toán, trả (nợ)",
+          "list_en_vn": [
+            {
+              "full_en": "to square accounts with somebody",
+              "full_vn": "thanh toán với ai, trả nợ cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đút lót, hối lộ (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "he has been squared to keep silent",
+              "full_vn": "người ta đã hối lộ nó để nó im mồm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (cái gì) phù hợp với cái gì; làm cho (cái gì) thích hợp với cái gì"
+        },
+        {
+          "m_full_vn": "(toán học) lấy bình phương của (một số); nhân một số với chính số đó",
+          "list_en_vn": [
+            {
+              "full_en": "three squared is nine",
+              "full_vn": "ba bình phương là chín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) san bằng tỷ số"
+        },
+        {
+          "m_full_vn": "(hàng hải) đặt (trụ gỗ) thẳng góc với vỏ tàu",
+          "list_one_mean": [
+            {
+              "id_full_en": "square the circle",
+              "list_im": [
+                {
+                  "im_full_vn": "(thử) làm cái gì không thể làm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "square one's account /square accounts with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "trả tiền cho ai; được ai trả tiền"
+                },
+                {
+                  "im_full_vn": "trả thù, rửa hận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp, phù hợp",
+          "list_en_vn": [
+            {
+              "full_en": "his deeds do not square with his words",
+              "full_vn": "việc làm của anh ta không thích hợp với lời nói"
+            },
+            {
+              "full_en": "theory must square with practice",
+              "full_vn": "lý luận phải đi đôi với thực hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thủ thế (quyền Anh); ( + up to ) xông tới (ai) trong thế thủ"
+        },
+        {
+          "m_full_vn": "cương quyết đương đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to square up to difficulties",
+              "full_vn": "cương quyết đương đầu với khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh toán nợ nần",
+          "list_one_mean": [
+            {
+              "id_full_en": "to square away",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) xoay tàu thuyền đi đi xuôi gió"
+                },
+                {
+                  "im_full_vn": "(như) to square off"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to square off",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển sang thế tấn công; chuyển về giữ thế thủ (quyền Anh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to square oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đền bù, bồi thường (những cái mình làm thiệt hại cho người khác)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to square the circle",
+              "list_im": [
+                {
+                  "im_full_vn": "(toán học) cầu phương hình tròn"
+                },
+                {
+                  "im_full_vn": "làm một việc không thể làm được"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to square up someone",
+              "full_vn": "thanh toán nợ nần với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706304_7d4f731875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706304_f804fb6d95_o.png",
+      "id_image": "square_217237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466298_e123393694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466298_3b0fa799b5_o.png",
+      "id_image": "square_2845069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466288_ee7a27f86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466288_a8431c073b_o.png",
+      "id_image": "square_6006398"
+    }
+  ]
+}

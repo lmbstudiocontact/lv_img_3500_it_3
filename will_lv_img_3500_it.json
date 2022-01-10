@@ -1,0 +1,218 @@
+{
+  "english": "will",
+  "phat_am": "[wil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ý chí, chí, ý định, lòng",
+          "list_en_vn": [
+            {
+              "full_en": "will can conquer habit",
+              "full_vn": "ý chí có thể chế ngự thói quen"
+            },
+            {
+              "full_en": "strong will",
+              "full_vn": "ý chí mạnh mẽ"
+            },
+            {
+              "full_en": "lack of will",
+              "full_vn": "sự thiếu ý chí"
+            },
+            {
+              "full_en": "free will",
+              "full_vn": "tự do ý chí"
+            },
+            {
+              "full_en": "it is my will that ...",
+              "full_vn": "ý tôi muốn rằng..."
+            },
+            {
+              "full_en": "where there's a will there's a way",
+              "full_vn": "(tục ngữ) có chí thì nên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hăng say; sự quyết chí, sự quyết tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to work with a will",
+              "full_vn": "làm việc hăng say"
+            },
+            {
+              "full_en": "a will that overcomes all difficulties",
+              "full_vn": "quyết tâm khắc phục mọi khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyện vọng, ý muốn; ý thích",
+          "list_en_vn": [
+            {
+              "full_en": "against one's will",
+              "full_vn": "trái ý mình"
+            },
+            {
+              "full_en": "at one's will and pleasure",
+              "full_vn": "tuỳ ý mình"
+            },
+            {
+              "full_en": "of one's free will",
+              "full_vn": "hoàn toàn do ý muốn của mình"
+            },
+            {
+              "full_en": "at will",
+              "full_vn": "theo ý muốn, tuỳ ý"
+            },
+            {
+              "full_en": "to have one's will",
+              "full_vn": "đạt ý muốn, toại nguyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) di chúc, chúc thư (như) testament",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's will",
+              "full_vn": "làm chúc thư"
+            },
+            {
+              "full_en": "last will and testament",
+              "full_vn": "di mệnh, di chúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ willed",
+      "list_m": [
+        {
+          "m_full_vn": "tỏ ý chí; có quyết chí"
+        },
+        {
+          "m_full_vn": "định",
+          "list_en_vn": [
+            {
+              "full_en": "Heaven willed it",
+              "full_vn": "trời đã định như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buộc, bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to will oneself",
+              "full_vn": "tự buộc phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) để lại bằng chức thư"
+        }
+      ]
+    },
+    {
+      "type": "động từ would",
+      "list_m": [
+        {
+          "m_full_vn": "muốn",
+          "list_en_vn": [
+            {
+              "full_en": "do as you will",
+              "full_vn": "anh cứ làm theo như ý anh muốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuận, bằng lòng",
+          "list_en_vn": [
+            {
+              "full_en": "I hope you will sing",
+              "full_vn": "tôi hy vọng rằng anh sẽ bằng lòng hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thường vẫn",
+          "list_en_vn": [
+            {
+              "full_en": "he would go for a walk every morning",
+              "full_vn": "nó thường vẫn dạo chơi mỗi sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nếu, giá mà, ước rằng",
+          "list_en_vn": [
+            {
+              "full_en": "would I were in good health",
+              "full_vn": "giá mà tôi khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phải, tất nhiên; ắt là, hẳn là, chắc là",
+          "list_en_vn": [
+            {
+              "full_en": "boys will be boys",
+              "full_vn": "con trai thì tất nhiên vẫn là con trai"
+            },
+            {
+              "full_en": "and that will be his son with him",
+              "full_vn": "hẳn là con ông ta đang đi với ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhất định sẽ",
+          "list_en_vn": [
+            {
+              "full_en": "accident will happen",
+              "full_vn": "tai nạn nhất định sẽ xảy ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẽ (tương lai)",
+          "list_en_vn": [
+            {
+              "full_en": "I know he will change his mind",
+              "full_vn": "tôi biết rằng nó sẽ thay đổi ý kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể",
+          "list_en_vn": [
+            {
+              "full_en": "the next stop will be Haiduong, I suppose",
+              "full_vn": "tôi cho rằng ga sắp đến có thể là Hải dương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374047_3de77e7f2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374047_5cacb2a04f_o.png",
+      "id_image": "will_2855599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329386_8f232b8b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329386_456663b525_o.png",
+      "id_image": "will_298702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066150_9fff97c79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066150_ff4ce7ffb4_o.png",
+      "id_image": "will_6001205"
+    }
+  ]
+}

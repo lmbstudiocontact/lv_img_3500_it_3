@@ -1,0 +1,109 @@
+{
+  "english": "social",
+  "phat_am": "['sou∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tính chất xã hội, có tính chất thành viên của một tập thể, sống thành xã hội",
+          "list_en_vn": [
+            {
+              "full_en": "man is a social animal",
+              "full_vn": "người là một động vật xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc quan hệ giữa người và người; thuộc xã hội",
+          "list_en_vn": [
+            {
+              "full_en": "social problems",
+              "full_vn": "những vấn đề xã hội"
+            },
+            {
+              "full_en": "the social contract",
+              "full_vn": "quy ước xã hội"
+            },
+            {
+              "full_en": "social services",
+              "full_vn": "những ngành công tác xã hội (giáo dục, y tế, cung cấp nhà cửa, bảo hiểm, hưu bổng)"
+            },
+            {
+              "full_en": "social evil",
+              "full_vn": "tệ nạn xã hội"
+            },
+            {
+              "full_en": "social duties",
+              "full_vn": "nhiệm vụ xã hội; nhiệm vụ phải giao thiệp; nhiệm vụ của bà chủ nhà (tiếp khách)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của các đồng minh, với các đồng minh",
+          "list_en_vn": [
+            {
+              "full_en": "the Social war",
+              "full_vn": "(sử học) cuộc chiến tranh giữa các đồng minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) sống thành đàn; không riêng lẻ; quần thể",
+          "list_en_vn": [
+            {
+              "full_en": "social brirds",
+              "full_vn": "chim sống thành bầy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) tình bạn bè và sự giải trí; tạo ra tình bạn bè và sự giải trí",
+          "list_en_vn": [
+            {
+              "full_en": "a social club",
+              "full_vn": "một câu lạc bộ thân hữu"
+            },
+            {
+              "full_en": "a busy social life",
+              "full_vn": "một cuộc sống giao du bận rộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ gần gũi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi họp mặt thân mật (liên hoan, giải trí); buổi tụ họp (như) sociable",
+          "list_one_mean": [
+            {
+              "id_full_en": "Social and Liberal Democrats",
+              "list_im": [
+                {
+                  "im_full_vn": "(viết tắt) SLD Đảng Dân chủ Xã hội Tự do"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442728_6ffcd458ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442728_f7c0c55242_o.png",
+      "id_image": "social_780563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327661_344d88ed45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327661_ae41058540_o.png",
+      "id_image": "social_992641"
+    }
+  ]
+}

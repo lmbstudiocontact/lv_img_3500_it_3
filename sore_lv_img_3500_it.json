@@ -1,0 +1,122 @@
+{
+  "english": "sore",
+  "phat_am": "[sɔ:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đau, nhức nhối (về một phần của cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a sore arm",
+              "full_vn": "đau tay"
+            },
+            {
+              "full_en": "clergyman's sore throat",
+              "full_vn": "bệnh đau họng (vì nói nhiều)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm thấy đau",
+          "list_en_vn": [
+            {
+              "full_en": "she's still a bit sore after the accident",
+              "full_vn": "cô ta vẫn còn hơi đau sau vụ tai nạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at ) (từ Mỹ, nghĩa Mỹ) (thông tục) tức giận, tức tối; buồn phiền",
+          "list_en_vn": [
+            {
+              "full_en": "to be very sore about one's defeat",
+              "full_vn": "rất buồn phiền về sự thất bại của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm đau đớn, làm buồn phiền (vấn đề)"
+        },
+        {
+          "m_full_vn": "nghiêm trọng; ác liệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "like a bear with a sore head",
+              "list_im": [
+                {
+                  "im_full_vn": "cau cau có có, gắt như mắn tôm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sight for sore eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh tượng vui, cảnh tượng dễ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a sore point (subject )",
+              "list_im": [
+                {
+                  "im_full_vn": "điểm dễ làm chạm lòng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a sore struggle",
+              "full_vn": "cuộc đấu tranh ác liệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đau, ác nghiệt, nghiêm trọng",
+          "list_en_vn": [
+            {
+              "full_en": "sore beated",
+              "full_vn": "bị thua đau"
+            },
+            {
+              "full_en": "sore oppressed",
+              "full_vn": "bị áp bức một cách ác nghiệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ đau; vết thương, chỗ lở loét"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nỗi thương tâm, nỗi đau lòng",
+          "list_en_vn": [
+            {
+              "full_en": "to reopen old sores",
+              "full_vn": "gợi là những nỗi đau lòng xưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325831_f11b0edec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325831_54c653ef93_o.png",
+      "id_image": "sore_5726797"
+    }
+  ]
+}

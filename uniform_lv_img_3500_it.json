@@ -1,0 +1,105 @@
+{
+  "english": "uniform",
+  "phat_am": "['ju:nifɔ:m]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không thay đổi về hình thức hoặc tính cách",
+          "list_en_vn": [
+            {
+              "full_en": "of uniform length /size /shape /colour",
+              "full_vn": "có chiều dài/kích thước/hình dáng/màu sắc như nhau"
+            },
+            {
+              "full_en": "the rows of houses were uniform in appearance",
+              "full_vn": "các dãy nhà có bề ngoài giống nhau"
+            },
+            {
+              "full_en": "kept at a uniform temperature",
+              "full_vn": "được giữ ở nhiệt độ không thay đổi"
+            },
+            {
+              "full_en": "uniform distribution of weight",
+              "full_vn": "sự phân bố đều trọng lượng"
+            },
+            {
+              "full_en": "uniform movement",
+              "full_vn": "chuyển động đều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng phục",
+          "list_en_vn": [
+            {
+              "full_en": "children wearing school uniform (s )",
+              "full_vn": "trẻ em mặc đồng phục của nhà trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) quân phục",
+          "list_one_mean": [
+            {
+              "id_full_en": "in uniform",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc đồng phục, mặc quân phục; (thuộc) lực lượng vũ trang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "officers in full dress uniform",
+              "list_im": [
+                {
+                  "im_full_vn": "các sĩ quan mặc quân phục ngày lễ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how long was he in uniform ?",
+                      "full_vn": "anh ta ở trong quân ngũ bao lâu?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho trở thành đồng dạng, làm cho trở thành đồng đều"
+        },
+        {
+          "m_full_vn": "mặc quân phục (cho ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397967_6a4249bd9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397967_d6a8733539_o.png",
+      "id_image": "uniform_1505372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397937_572b65e515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397937_6a916edb40_o.png",
+      "id_image": "uniform_1552316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467743_dc8b353798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467743_59b1b3a192_o.png",
+      "id_image": "uniform_2809752"
+    }
+  ]
+}

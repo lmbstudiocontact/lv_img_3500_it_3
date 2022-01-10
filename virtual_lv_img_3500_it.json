@@ -1,0 +1,40 @@
+{
+  "english": "virtual",
+  "phat_am": "['və:t∫uəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "là hoặc hành động đúng như cái đã mô tả nhưng không được chấp nhận về tên gọi hoặc một cách chính thức; thực sự",
+          "list_en_vn": [
+            {
+              "full_en": "our deputy manager is the virtual head of the business",
+              "full_vn": "ông phó giám đốc của chúng tôi mới thực sự là người đứng đầu doanh nghiệp"
+            },
+            {
+              "full_en": "a virtual state of war exists between the two countries",
+              "full_vn": "tình trạng chiến tranh thực sự vẫn tồn tại giữa hai nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) ảo",
+          "list_en_vn": [
+            {
+              "full_en": "virtual focus",
+              "full_vn": "tiêu điểm ảo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457593_1dea4f39aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457593_7c5c347f90_o.png",
+      "id_image": "virtual_2598494"
+    }
+  ]
+}

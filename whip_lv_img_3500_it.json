@@ -1,0 +1,174 @@
+{
+  "english": "whip",
+  "phat_am": "[wip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "roi, roi da"
+        },
+        {
+          "m_full_vn": "người đánh xe ngựa"
+        },
+        {
+          "m_full_vn": "người phụ trách chó (khi đi săn) ( (cũng) whipper-in )"
+        },
+        {
+          "m_full_vn": "nghị viên phụ trách tổ chức (của nhóm nghị sĩ của một đảng trong nghị viện Anh); giấy báo của nghị viên phụ trách tổ chức"
+        },
+        {
+          "m_full_vn": "cánh quạt máy xay gió"
+        },
+        {
+          "m_full_vn": "(hàng hải) cáp kéo"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xông, lao, chạy vụt",
+          "list_en_vn": [
+            {
+              "full_en": "to whip behind someone",
+              "full_vn": "chạy vụt tới sau một người"
+            },
+            {
+              "full_en": "to whip down the stairs",
+              "full_vn": "lao nhanh xuống cầu thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quất, đập mạnh vào",
+          "list_en_vn": [
+            {
+              "full_en": "the rain whipped against the panes",
+              "full_vn": "mưa đập mạnh vào cửa kính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bằng roi, quất",
+          "list_en_vn": [
+            {
+              "full_en": "to whip a horse",
+              "full_vn": "quất ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khâu vắt",
+          "list_en_vn": [
+            {
+              "full_en": "to whip a seam",
+              "full_vn": "khâu vắt một đường may"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút, giật, cởi phắt",
+          "list_en_vn": [
+            {
+              "full_en": "to whip a knife out of one's pocket",
+              "full_vn": "rút nhanh con dao nhíp trong túi ra"
+            },
+            {
+              "full_en": "to whip off one's coat",
+              "full_vn": "cởi phắt áo choàng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (kem, trứng)"
+        },
+        {
+          "m_full_vn": "(hàng hải) quấn chặt (đầu sợi dây)"
+        },
+        {
+          "m_full_vn": "(từ lóng) đánh bại, thắng (một địch thủ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to whip away",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh, quất, đuổi (người nào)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whip in",
+              "list_im": [
+                {
+                  "im_full_vn": "tập trung, lùa vào một nơi (bằng roi)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) triệu tập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whip on",
+              "list_im": [
+                {
+                  "im_full_vn": "quất ngựa chạy tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whip out",
+              "list_im": [
+                {
+                  "im_full_vn": "rút nhanh; tuốt (kiếm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whip up",
+              "list_im": [
+                {
+                  "im_full_vn": "giục (ngựa) chạy tới"
+                },
+                {
+                  "im_full_vn": "triệu tập gấp (hội viên, đảng viên)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to whip creation",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn tất cả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686044_c8f164c03b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686044_52d6b7a530_o.png",
+      "id_image": "whip_1809883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445933_85686648c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445933_563e77de0a_o.png",
+      "id_image": "whip_1917170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067825_5664d9b755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067825_d9f00baf9a_o.png",
+      "id_image": "whip_257512"
+    }
+  ]
+}

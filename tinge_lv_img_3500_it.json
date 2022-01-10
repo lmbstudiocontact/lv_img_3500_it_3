@@ -1,0 +1,62 @@
+{
+  "english": "tinge",
+  "phat_am": "[tindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "a tinge of blue",
+              "full_vn": "màu xanh nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ, dấu vết nhẹ, nét thoảng",
+          "list_en_vn": [
+            {
+              "full_en": "a tinge of affectation",
+              "full_vn": "vẻ hơi điệu bộ, vẻ hơi màu mè"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuốm màu, pha màu",
+          "list_en_vn": [
+            {
+              "full_en": "hair tinged with grey",
+              "full_vn": "mái tóc nhuốm hoa râm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có vẻ, đượm vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "his admiration was tinged with envy",
+              "full_vn": "sự khâm phục của nó đượm vẻ ghen tị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động nhẹ lên, ảnh hưởng nhẹ lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461848_31f2f12afb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461848_b4a1a69c32_o.png",
+      "id_image": "tinge_340012"
+    }
+  ]
+}

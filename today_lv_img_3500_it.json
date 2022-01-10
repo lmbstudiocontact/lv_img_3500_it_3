@@ -1,0 +1,52 @@
+{
+  "english": "today",
+  "phat_am": "[tə'dei]",
+  "list_type": [
+    {
+      "type": "danh từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hôm nay, ngày này, ngày hôm nay",
+          "list_en_vn": [
+            {
+              "full_en": "today is my birthday",
+              "full_vn": "hôm nay là sinh nhật của tôi"
+            },
+            {
+              "full_en": "what are we doing today ?",
+              "full_vn": "hôm nay chúng ta sẽ làm gì?"
+            },
+            {
+              "full_en": "have you seen today's paper ?",
+              "full_vn": "anh đọc báo hôm nay chưa?"
+            },
+            {
+              "full_en": "we're leaving today week /a week (from ) today",
+              "full_vn": "ngày này tuần sau, chúng ta sẽ ra đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngày nay, thời kỳ hiện nay, thời đại hiện nay",
+          "list_en_vn": [
+            {
+              "full_en": "the young people of today",
+              "full_vn": "thanh niên ngày nay"
+            },
+            {
+              "full_en": "women today no longer accept such treatment",
+              "full_vn": "phụ nữ thời nay không còn chấp nhận cách cư xử như vậy nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083400_1edb78372a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083400_7cc7a6b7a2_o.png",
+      "id_image": "today_5849533"
+    }
+  ]
+}

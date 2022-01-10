@@ -1,0 +1,53 @@
+{
+  "english": "tactic",
+  "phat_am": "['tæktik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách; chước; thủ đoạn; mưu kế; mẹo (phương tiện để thực hiện cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a brilliant tactic",
+              "full_vn": "một phương kế tài tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( tactics ) ( động từ theo sau ở số ít hoặc số nhiều) thuật bố trí hoặc di chuyển các lực lượng chiến đấu trong một trận đánh; chiến thuật"
+        },
+        {
+          "m_full_vn": "phương thức được thực hiện để áp dụng cái gì; sách lược",
+          "list_en_vn": [
+            {
+              "full_en": "to use surprise tactics",
+              "full_vn": "dùng sách lược bất ngờ"
+            },
+            {
+              "full_en": "these tactics are unlikely to help you",
+              "full_vn": "sách lược này khó có thể giúp ích cho anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065280_a91a2557a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065280_2baaf05ce8_o.png",
+      "id_image": "tactic_2721537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373147_94e1bc17ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373147_c2b0e453e4_o.png",
+      "id_image": "tactic_4443643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683464_524c2d02f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683464_52dbdb0d6d_o.png",
+      "id_image": "tactic_4695194"
+    }
+  ]
+}

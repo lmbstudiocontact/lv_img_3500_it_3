@@ -1,0 +1,75 @@
+{
+  "english": "straighten",
+  "phat_am": "['streitn]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to straighten out an iron bar",
+              "full_vn": "đập một thanh sắt cho thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp cho ngăn nắp",
+          "list_en_vn": [
+            {
+              "full_en": "to straighten up a room",
+              "full_vn": "xếp một căn phòng cho ngăn nắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + something out ) giải quyết cái gì; loại bỏ khó khăn khỏi cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "let's try to straighten out this confushion",
+              "full_vn": "chúng ta hãy cố gắng tháo gỡ rối ren này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + somebody out ) (thông tục) loại bỏ sự hoài nghi, loại bỏ sự dốt nát khỏi đầu óc ai"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "the rope straightens",
+              "full_vn": "dây thừng thẳng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + oneself ) up làm cho thân thể thẳng lên; ngồi (đứng) thẳng lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081555_d52f5a5bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081555_1870d573db_o.png",
+      "id_image": "straighten_1658252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389122_68a8f3f19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389122_b1c4d37ef0_o.png",
+      "id_image": "straighten_410430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389042_9c00271710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389042_274749ee5c_o.png",
+      "id_image": "straighten_4215440"
+    }
+  ]
+}

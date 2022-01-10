@@ -1,0 +1,44 @@
+{
+  "english": "summation",
+  "phat_am": "[sʌ'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) sự tổng; phép tổng",
+          "list_en_vn": [
+            {
+              "full_en": "do a rapid summation of the figures",
+              "full_vn": "làm một phép cộng nhanh các con số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần tóm tắt kết luận; bản tóm tắt; bản kết luận (của một lập luận)"
+        },
+        {
+          "m_full_vn": "sự tổng kết",
+          "list_en_vn": [
+            {
+              "full_en": "the exhibition was a summation of his life's work",
+              "full_vn": "cuộc triển lãm là một sự tổng kết cuộc đời sáng tác của ông ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383072_6fdce57607_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383072_85eff4527b_o.png",
+      "id_image": "summation_2106627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693314_df65aebd43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693314_8d6679de88_o.png",
+      "id_image": "summation_4598429"
+    }
+  ]
+}

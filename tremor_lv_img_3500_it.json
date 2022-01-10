@@ -1,0 +1,59 @@
+{
+  "english": "tremor",
+  "phat_am": "['tremə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự run; sự rùng mình, cơn rùng mình (vì sợ hãi..)",
+          "list_en_vn": [
+            {
+              "full_en": "tremors of fear",
+              "full_vn": "sự rùng mình vì sợ hãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rung rinh, sự rung động, sự chấn động; cơn động đất nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "the tremor of a leaf",
+              "full_vn": "sự rung rinh của cái lá"
+            },
+            {
+              "full_en": "earth tremor",
+              "full_vn": "động đất nhỏ"
+            },
+            {
+              "full_en": "intention tremor",
+              "full_vn": "sự rung động trong người khi sắp làm một việc gì"
+            },
+            {
+              "full_en": "metallic tremor",
+              "full_vn": "bệnh tê liệt và run của công nhân luyện kim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấn động, rung (máy)"
+        },
+        {
+          "m_full_vn": "rung (tiếng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334746_d58d4ca6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334746_ed6dc9bb58_o.png",
+      "id_image": "tremor_3997895"
+    }
+  ]
+}

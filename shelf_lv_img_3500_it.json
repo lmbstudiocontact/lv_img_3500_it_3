@@ -1,0 +1,61 @@
+{
+  "english": "shelf",
+  "phat_am": "[∫elf]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều shelves",
+      "list_m": [
+        {
+          "m_full_vn": "kệ, ngăn, giá (để đặt các thứ lên)"
+        },
+        {
+          "m_full_vn": "mặt, thềm; chỗ chìa ra trên vách đá",
+          "list_en_vn": [
+            {
+              "full_en": "the continental shelf",
+              "full_vn": "thềm lục địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải đá ngầm; bãi cạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the shelf",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) xếp xó; bỏ đi; không còn có ích nữa (đồ vật)"
+                },
+                {
+                  "im_full_vn": "ế chồng, quá thì, quá lứa (con gái)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460433_2940246551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460433_aafb35f877_o.png",
+      "id_image": "shelf_123359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460403_557de9fd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460403_edaa95474a_o.png",
+      "id_image": "shelf_1691574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083040_dd40e42fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083040_2c6759f549_o.png",
+      "id_image": "shelf_5684002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083005_57e388cd28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083005_24e9c8188c_o.png",
+      "id_image": "shelf_5684090"
+    }
+  ]
+}

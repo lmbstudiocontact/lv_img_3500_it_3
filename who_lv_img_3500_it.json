@@ -1,0 +1,152 @@
+{
+  "english": "who",
+  "phat_am": "[hu:]",
+  "list_type": [
+    {
+      "type": "đại từ nghi vấn",
+      "list_m": [
+        {
+          "m_full_vn": "ai; người nào; kẻ nào",
+          "list_en_vn": [
+            {
+              "full_en": "Who is speaking ?",
+              "full_vn": "Ai đang nói đó?"
+            },
+            {
+              "full_en": "Who is the woman in the black hat ?",
+              "full_vn": "Người đàn bà đội mũ đen là ai vậy?"
+            },
+            {
+              "full_en": "Who are the men in the white coats ?",
+              "full_vn": "Những người đàn ông mặc áo choàng trắng là ai vậy?"
+            },
+            {
+              "full_en": "I wonder who phoned this morning",
+              "full_vn": "Tôi chẳng biết ai đã gọi điện thoại sáng nay"
+            },
+            {
+              "full_en": "Do you know who broke the window ?",
+              "full_vn": "Anh biết ai làm vỡ cửa sổ hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) dùng làm bổ ngữ của một động từ hoặc giới từ",
+          "list_one_mean": [
+            {
+              "id_full_en": "Who am I , are you , is he /she ... to do something ?",
+              "list_im": [
+                {
+                  "im_full_vn": "Tôi... có quyền gì mà làm cái gì?",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Who are you to tell me I can't leave my bicycle here ? It's not your house",
+                      "full_vn": "Anh là ai mà bảo tôi không được để xe đạp ở đây? Đây đâu phải nhà của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "(to know , learn ...) who's who",
+              "list_im": [
+                {
+                  "im_full_vn": "(dược biết về) tên, công việc, địa vị... của nhiều người; ai là ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You'll soon find out who's who in this department",
+                      "full_vn": "Rồi chẳng bao lâu nữa anh sẽ biết ai là ai trong khoa này"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Who did you see at church ?",
+              "full_vn": "Anh gặp ai ở nhà thờ?"
+            },
+            {
+              "full_en": "Who are you phoning ?",
+              "full_vn": "Anh gọi điện thoại cho ai vậy?"
+            },
+            {
+              "full_en": "Who shall I give it to ?",
+              "full_vn": "Tôi sẽ đưa cái đó cho ai?"
+            },
+            {
+              "full_en": "Who is the money for ?",
+              "full_vn": "Tiền dành cho ai đây?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ quan hệ",
+      "list_m": [
+        {
+          "m_full_vn": "trong mệnh đề xác định danh từ đứng trước",
+          "list_en_vn": [
+            {
+              "full_en": "The man /men who wanted to meet you",
+              "full_vn": "Người/những người muốn gặp anh"
+            },
+            {
+              "full_en": "The people who called yesterday want to buy the house",
+              "full_vn": "Những người gọi điện hôm qua muốn mua ngôi nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong mệnh đề không xác định danh từ đứng trước",
+          "list_en_vn": [
+            {
+              "full_en": "My wife , who is out at the moment , will phone you when she gets back",
+              "full_vn": "Vợ tôi, lúc này không có nhà, sẽ gọi điện thoại cho anh khi cô ấy trở về"
+            },
+            {
+              "full_en": "Mr Smith, who has a lot of teaching experience , will join us in the spring",
+              "full_vn": "Ông Smith, người có rất nhiều kinh nghiệm giảng dạy, sẽ đến với chúng ta vào mùa xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng làm bổ ngữ cho một động từ hoặc giới từ",
+          "list_en_vn": [
+            {
+              "full_en": "The couple (who ) we met on holiday have sent us a card",
+              "full_vn": "Cặp vợ chồng (mà) chúng ta gặp hồi đi nghỉ đã gửi thiếp cho chúng ta"
+            },
+            {
+              "full_en": "The boy (who ) I spoke to a moment ago is the son of my employer",
+              "full_vn": "Cậu bé (mà) tôi nói chuyện ban nãy là con của ông chủ tôi"
+            },
+            {
+              "full_en": "Mary, who we were talking about earlier , has just walked in",
+              "full_vn": "Mary, người mà chúng tôi nhắc đến lúc nãy, vừa mới bước vào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445113_11fe900956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445113_c29393c7f9_o.png",
+      "id_image": "who_5359806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330116_ba95bfd8f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330116_8bf54698fe_o.png",
+      "id_image": "who_5625635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374747_dd19f78916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374747_3ab30973b8_o.png",
+      "id_image": "who_5632314"
+    }
+  ]
+}

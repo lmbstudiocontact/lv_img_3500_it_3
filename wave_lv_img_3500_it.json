@@ -1,0 +1,254 @@
+{
+  "english": "wave",
+  "phat_am": "[weiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gợn nước (nhất là trên mặt biển, giữa hai vệt lõm); sóng",
+          "list_en_vn": [
+            {
+              "full_en": "Wave motion",
+              "full_vn": "Chuyển động sóng"
+            },
+            {
+              "full_en": "The storm whipped up huge waves",
+              "full_vn": "Trận bão làm dâng lên những con sóng khổng lồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải sóng; lớp sóng; đợt sóng",
+          "list_en_vn": [
+            {
+              "full_en": "Waves crashing onto the beach",
+              "full_vn": "Những đợt sóng vỗ vào bờ biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the waves ) biển"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làn sóng; phong trào",
+          "list_en_vn": [
+            {
+              "full_en": "A crime wave",
+              "full_vn": "Một làn sóng tội phạm"
+            },
+            {
+              "full_en": "A wave of anger /hysteria",
+              "full_vn": "Một làn sóng giãn dữ/cuồng loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gia tăng đột ngột tạm thời; đợt",
+          "list_en_vn": [
+            {
+              "full_en": "A heatwave",
+              "full_vn": "Một đợt nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển động như làn sóng (của nhiệt, ánh sáng, âm thanh.. khi lan đi hoặc được chuyển tải); làn sóng",
+          "list_en_vn": [
+            {
+              "full_en": "Long waves",
+              "full_vn": "(rađiô) làn sóng dài"
+            },
+            {
+              "full_en": "Radio waves",
+              "full_vn": "Sóng rađiô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn sóng (đường cong đơn của sự chuyển động (như) làn sóng)"
+        },
+        {
+          "m_full_vn": "(vật lý) sóng điện từ"
+        },
+        {
+          "m_full_vn": "sóng, làn sóng (trong một vạch, tóc..)",
+          "list_en_vn": [
+            {
+              "full_en": "Permanent wave",
+              "full_vn": "Tóc làn sóng giữ lâu không mất quăn"
+            },
+            {
+              "full_en": "Her hair has a natural wave",
+              "full_vn": "Tóc nàng quăn tự nhiên"
+            },
+            {
+              "full_en": "The child's hair grew in pretty waves",
+              "full_vn": "Tóc đứa bé quăn đẹp lắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đợt (nhóm người tiến công đang tiến lên..)",
+          "list_en_vn": [
+            {
+              "full_en": "In waves",
+              "full_vn": "Từng đợt; lớp lớp"
+            },
+            {
+              "full_en": "To attack in waves",
+              "full_vn": "Tấn công nhiều đợt"
+            },
+            {
+              "full_en": "The next wave of assault troops",
+              "full_vn": "Đợt tiếp theo của quân xung phong"
+            },
+            {
+              "full_en": "It was not long before their peace was disturbed by the next wave of backpackers",
+              "full_vn": "Chẳng bao lâu đợt khách ba lô kế tiếp đã phá vỡ cảnh an bình của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái/cử chỉ vẫy tay",
+          "list_en_vn": [
+            {
+              "full_en": "He greeted them with a wave",
+              "full_vn": "Nó vẫy tay chào họ"
+            },
+            {
+              "full_en": "The magician made the bird disappear with a wave of his wand",
+              "full_vn": "Nhà ảo thuật vung gậy làm cho con chim bay mất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gợn sóng, uốn thành làn sóng, hình thành một loạt đường cong",
+          "list_en_vn": [
+            {
+              "full_en": "The field of corn is waving in the breeze",
+              "full_vn": "Cánh đồng lúa gợn sóng dưới làn gió nhẹ"
+            },
+            {
+              "full_en": "Her hair waves beautifully /naturally",
+              "full_vn": "Tóc nàng quăn đẹp/tự nhiên"
+            },
+            {
+              "full_en": "To have one's hair waved",
+              "full_vn": "Đi uốn tóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phấp phới, uốn lượn, đung đưa",
+          "list_en_vn": [
+            {
+              "full_en": "The red flag waved in the wind",
+              "full_vn": "Lá cờ đỏ phấp phới bay trước gió"
+            },
+            {
+              "full_en": "Branches waving in the wind",
+              "full_vn": "Những cành cây đung đưa trong gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to wave at / to somebody ) vẫy tay ra hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "He waved to us when he saw us",
+              "full_vn": "Nó vẫy tay (cho chúng tôi) khi thấy chúng tôi"
+            },
+            {
+              "full_en": "They waved at us from across the room",
+              "full_vn": "Từ bên kia căn phòng, họ vẫy chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẫy, phất, vung vẩy (để ra hiệu, để chào..)",
+          "list_en_vn": [
+            {
+              "full_en": "To wave a magic wand",
+              "full_vn": "Vẫy chiếc đũa thần"
+            },
+            {
+              "full_en": "To wave a hand , flag , an umbrella (at somebody )",
+              "full_vn": "Vẫy tay, phất cờ, vung cái ô (với ai)"
+            },
+            {
+              "full_en": "To wave one's arms (about ) (in the air )",
+              "full_vn": "Vẫy vẫy tay (lên trên không)"
+            },
+            {
+              "full_en": "They waved to us to stay where we were",
+              "full_vn": "Họ vẫy tay ra hiệu cho chúng tôi ngồi lại tại chỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to wave something to somebody ) vẫy tay chào ai",
+          "list_one_mean": [
+            {
+              "id_full_en": "To wave something aside",
+              "list_im": [
+                {
+                  "im_full_vn": "Bác bỏ; gạt phăng (một sự phản kháng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "To wave something /somebody down",
+              "list_im": [
+                {
+                  "im_full_vn": "Vẫy tay ra hiệu cho một chiếc xe (người lái xe) dừng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "To wave somebody /something along , away , on ...",
+              "list_im": [
+                {
+                  "im_full_vn": "Vẫy tay trỏ cho (người hoặc xe) đi theo một hướng nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "She waved them away impatiently",
+                      "full_vn": "Bà ấy nóng nảy xua tay đuổi họ đi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "They waved farewell to me",
+              "full_vn": "Họ vẫy tay từ biệt tôi"
+            },
+            {
+              "full_en": "To wave somebody goodbye ; to wave goodbye to somebody",
+              "full_vn": "Vẫy tay tạm biệt ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690414_c1d2ef44a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690414_7a60c0863e_o.png",
+      "id_image": "wave_433984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380292_3c9d40f424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380292_2cd8619479_o.png",
+      "id_image": "wave_468351"
+    }
+  ]
+}

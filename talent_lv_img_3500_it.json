@@ -1,0 +1,68 @@
+{
+  "english": "talent",
+  "phat_am": "['tælənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tài năng, năng lực; tài ba",
+          "list_en_vn": [
+            {
+              "full_en": "a man of great talent",
+              "full_vn": "một người rất có năng lực"
+            },
+            {
+              "full_en": "to wrap up one's talent in a napkin",
+              "full_vn": "đề tài mai một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có tài, nhân tài",
+          "list_en_vn": [
+            {
+              "full_en": "to call upon all the talents",
+              "full_vn": "kêu gọi tất cả nhân tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hấp dẫn về tình dục"
+        },
+        {
+          "m_full_vn": "khiếu, năng khiếu",
+          "list_en_vn": [
+            {
+              "full_en": "to have a talent for ...",
+              "full_vn": "có năng khiếu về..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the talent ) (thể dục,thể thao), (từ lóng) những người đánh cuộc (đánh cá) không chuyên (đối lại với chuyên nghiệp)"
+        },
+        {
+          "m_full_vn": "talăng (đơn vị tiền tệ hoặc đơn vị trọng lượng thời xưa ở một số nước)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682564_3497667e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682564_1586aeacb4_o.png",
+      "id_image": "talent_1900291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372082_50815854d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372082_d07dfe28e5_o.png",
+      "id_image": "talent_4752730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682579_163c223774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682579_cfdb672ed0_o.png",
+      "id_image": "talent_536874"
+    }
+  ]
+}

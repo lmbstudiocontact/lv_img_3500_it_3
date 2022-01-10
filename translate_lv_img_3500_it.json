@@ -1,0 +1,97 @@
+{
+  "english": "translate",
+  "phat_am": "[trænz'leit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dịch, phiên dịch, biên dịch",
+          "list_en_vn": [
+            {
+              "full_en": "to translate an English book into Vietnamese",
+              "full_vn": "dịch một quyển sách tiếng Anh sang tiếng Việt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể dịch sang thứ tiếng khác",
+          "list_en_vn": [
+            {
+              "full_en": "most poetry doesn't translate well",
+              "full_vn": "thơ phần lớn là không dịch hay được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "I translated her silence as assent",
+              "full_vn": "tôi hiểu sự im lặng của cô ta có nghĩa là đồng ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyển sang, biến thành; thể hiện ra",
+          "list_en_vn": [
+            {
+              "full_en": "to translate emotion into action",
+              "full_vn": "biến tình cảm thành hành động"
+            },
+            {
+              "full_en": "to translate dream into reality",
+              "full_vn": "biến ước mơ thành hiện thực"
+            },
+            {
+              "full_en": "to translate opetry into music",
+              "full_vn": "chuyển thơ thành nhạc, phổ nhạc thành thơ"
+            },
+            {
+              "full_en": "to translate Lenin's teachings into reality",
+              "full_vn": "thực hiện lời dạy của Lê-nin"
+            },
+            {
+              "full_en": "It's time to translate our ideas into action",
+              "full_vn": "đã đến lúc phải thể hiện tư tưởng của chúng ta thành hành động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giải thích, coi là",
+          "list_en_vn": [
+            {
+              "full_en": "kindly translate",
+              "full_vn": "xin ông vui lòng giải thích rõ cho ý ông muốn nói"
+            },
+            {
+              "full_en": "do not translate my hesitation as ill-will",
+              "full_vn": "xin anh đừng coi sự do dự của tôi là thiếu thiện chí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuyên chuyển (một vị giám mục) sang địa phận khác"
+        },
+        {
+          "m_full_vn": "truyền lại, truyền đạt lại (bức điện)"
+        },
+        {
+          "m_full_vn": "(toán học); (kỹ thuật) cho tịnh tiến"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692969_ff86b87f1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692969_86e276e085_o.png",
+      "id_image": "translate_4196433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452448_f4d43190cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452448_a38bf1c1e9_o.png",
+      "id_image": "translate_5146529"
+    }
+  ]
+}

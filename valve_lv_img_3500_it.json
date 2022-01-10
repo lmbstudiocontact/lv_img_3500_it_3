@@ -1,0 +1,55 @@
+{
+  "english": "valve",
+  "phat_am": "[vælv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) van (thiết bị (cơ khí) điều khiển dòng chảy của không khí, chất lỏng hoặc khí theo một chiều mà thôi)",
+          "list_en_vn": [
+            {
+              "full_en": "the valve of a bicycle tyre",
+              "full_vn": "van săm xe đạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) van tim (cấu trúc trong tim hoặc trong mạch máu cho phép máu chỉ chảy theo một chiều)",
+          "list_en_vn": [
+            {
+              "full_en": "the valves of the heart",
+              "full_vn": "các van tim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) van bấm (thiết bị trong một số kèn đồng để thay đổi độ cao của âm bằng cách thay đổi chiều dài của cột không khí)"
+        },
+        {
+          "m_full_vn": "(sinh vật học) mảnh vỏ (sò, trai...)"
+        },
+        {
+          "m_full_vn": "đèn chân không (dùng trong máy thu thanh, thu hình..) (như) vacuum-tube"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703629_a6e11abdc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703629_41440a8195_o.png",
+      "id_image": "valve_3829653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086185_eacef08fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086185_21cf9163ce_o.png",
+      "id_image": "valve_416235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348856_6e335f483b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348856_0fca071e85_o.png",
+      "id_image": "valve_4752231"
+    }
+  ]
+}

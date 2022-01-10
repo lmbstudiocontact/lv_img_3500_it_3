@@ -1,0 +1,92 @@
+{
+  "english": "survey",
+  "phat_am": "['sə:vei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhìn chung, sự nhìn tổng quát; cái nhìn tổng quát"
+        },
+        {
+          "m_full_vn": "sự nghiên cứu"
+        },
+        {
+          "m_full_vn": "sự đo đạc địa hình; cục đo đạc địa hình; bản đồ địa hình"
+        },
+        {
+          "m_full_vn": "sự khảo sát; sự điều tra",
+          "list_en_vn": [
+            {
+              "full_en": "a public opinion survey",
+              "full_vn": "một cuộc điều tra dư luận công chúng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan sát, nhìn chung; nhìn kỹ toàn bộ (nhất là từ xa)",
+          "list_en_vn": [
+            {
+              "full_en": "to survey the countryside from the top of a hill",
+              "full_vn": "nhìn bao quát vùng quê từ trên đỉnh đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiên cứu; xem xét (tình trạng chung của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a speech in which she surveyed the international situation",
+              "full_vn": "một bài diễn văn mà trong đó bà ta xem xét tổng quát tình hình quốc tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lập bản đồ, vẽ bản đồ (đất đai)"
+        },
+        {
+          "m_full_vn": "trắc đạc (bằng lượng giác học..)",
+          "list_en_vn": [
+            {
+              "full_en": "to survey a plot of land for building",
+              "full_vn": "trắc đạc một mảnh đất để xây dựng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xem xét; kiểm tra (một cấu trúc..)"
+        },
+        {
+          "m_full_vn": "khảo sát; điều tra (hành vi, ý kiến.. của một nhóm người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335231_53620467f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335231_bf624b21b9_o.png",
+      "id_image": "survey_2620224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072135_48eb25206b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072135_e570f3cc48_o.png",
+      "id_image": "survey_4634985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072100_08177d7f33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072100_d191b0e50b_o.png",
+      "id_image": "survey_6064895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335146_8931194255_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335146_7b75476d6d_o.png",
+      "id_image": "survey_6165180"
+    }
+  ]
+}

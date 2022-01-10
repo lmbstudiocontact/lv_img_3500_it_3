@@ -1,0 +1,42 @@
+{
+  "english": "terrain",
+  "phat_am": "['terein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(địa lý,địa chất) địa thế, địa hình, địa vật",
+          "list_en_vn": [
+            {
+              "full_en": "difficult terrain for cycling",
+              "full_vn": "một địa hình rất khó đi xe đạp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089005_2d64cc0eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089005_f785f2522a_o.png",
+      "id_image": "terrain_831739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706274_2db9a02beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706274_fbe6d88c9d_o.png",
+      "id_image": "terrain_831740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088915_d1f088dfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088915_16ee72f009_o.png",
+      "id_image": "terrain_831792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706214_d464195206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706214_c591425acb_o.png",
+      "id_image": "terrain_992287"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "wrench",
+  "phat_am": "[rent∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vặn mạnh, sự giật mạnh"
+        },
+        {
+          "m_full_vn": "sự trật, sự sái, sự tổn thương (chân, mắt cá..)",
+          "list_en_vn": [
+            {
+              "full_en": "he gave a wrench to his ankle",
+              "full_vn": "anh ta trật mắt cá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chia tay, sự phân ly đau đớn; nỗi đau chia ly"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chìa vặn đai ốc; cờ-lê (như) spanner"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vặn mạnh, giật mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "to wrench a door off its hinges",
+              "full_vn": "giật mạnh cánh cửa ra khỏi bản lề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) làm trật khớp, làm sái, làm tổn thương (mắt cá...)"
+        },
+        {
+          "m_full_vn": "làm trẹo đi, làm trệch đi, làm sai đi (nghĩ một từ); xuyên tạc, bóp méo (sự việc, sự thật...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
+      "id_image": "wrench_1768196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
+      "id_image": "wrench_2137963"
+    }
+  ]
+}

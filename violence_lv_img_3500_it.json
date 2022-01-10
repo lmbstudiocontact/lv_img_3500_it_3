@@ -1,0 +1,54 @@
+{
+  "english": "violence",
+  "phat_am": "['vaiələns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ác liệt, sự dữ dội, sự mãnh liệt; tính ác liệt, tính thô bạo",
+          "list_en_vn": [
+            {
+              "full_en": "the violence of the gale",
+              "full_vn": "sự ác liệt của cơn bão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chất quá khích"
+        },
+        {
+          "m_full_vn": "bạo lực, sự cưỡng bức, cách cư xử hung bạo (nhất là theo kiểu bất hợp pháp)",
+          "list_one_mean": [
+            {
+              "id_full_en": "do violence to something",
+              "list_im": [
+                {
+                  "im_full_vn": "trái ngược với cái gì; vi phạm cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "TV violence /violence on TV",
+              "full_vn": "cảnh bạo lực trên TV"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080690_eee7bca708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080690_c492f29cd8_o.png",
+      "id_image": "violence_5020360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080635_ab199447da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080635_e1c5130a2e_o.png",
+      "id_image": "violence_5020981"
+    }
+  ]
+}

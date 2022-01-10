@@ -1,0 +1,33 @@
+{
+  "english": "venue",
+  "phat_am": "['venju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) nơi xử án (quận, khu vực)",
+          "list_en_vn": [
+            {
+              "full_en": "to change the venue",
+              "full_vn": "giao vụ án cho toà án khác xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nơi gặp mặt (để thương thuyết)"
+        },
+        {
+          "m_full_vn": "(thông tục) nơi gặp gỡ (nhất là để thi hoặc đấu thể thao)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461218_ce8108e59b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461218_707f18aaba_o.png",
+      "id_image": "venue_2132657"
+    }
+  ]
+}

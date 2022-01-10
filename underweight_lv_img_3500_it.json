@@ -1,0 +1,31 @@
+{
+  "english": "underweight",
+  "phat_am": "[,ʌndə'weit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới trọng lượng thông thường; nhẹ cân, cân thiếu, hụt cân",
+          "list_en_vn": [
+            {
+              "full_en": "You're only slightly underweight for your height",
+              "full_vn": "Anh hơi nhẹ cân một tí so với chiều cao của anh"
+            },
+            {
+              "full_en": "The coal is six pounds underweight /underweight by six pounds",
+              "full_vn": "chỗ than này hụt sáu pao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468233_739e4a7099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468233_706102eaff_o.png",
+      "id_image": "underweight_5559962"
+    }
+  ]
+}

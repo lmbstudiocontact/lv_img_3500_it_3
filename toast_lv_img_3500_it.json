@@ -1,0 +1,122 @@
+{
+  "english": "toast",
+  "phat_am": "[toust]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh mì nướng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have somebody on toast",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hoàn toàn định đoạt số phận ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make some toast for breakfast",
+              "full_vn": "làm một ít bánh mì nướng cho bữa điểm tâm"
+            },
+            {
+              "full_en": "two slices of buttered toast",
+              "full_vn": "hai lát bánh mì nướng phết bơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nướng (bánh mì..)"
+        },
+        {
+          "m_full_vn": "sưởi ấm (chân tay...)",
+          "list_en_vn": [
+            {
+              "full_en": "to toast oneself / one's feet in front of the fire",
+              "full_vn": "hơ chân trước lò sưởi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động nâng cốc chúc mừng; cốc rượu chúc mừng",
+          "list_en_vn": [
+            {
+              "full_en": "to propose a loyal toast to the Queen",
+              "full_vn": "đề nghị nâng cốc vì lòng trung thành với nữ hoàng"
+            },
+            {
+              "full_en": "to drink a toast",
+              "full_vn": "uống cốc rượu chốc mừng"
+            },
+            {
+              "full_en": "to reply /respond to the toast",
+              "full_vn": "đáp lại ly rượu chúc mừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được nâng cốc chúc mừng, điều được nâng cốc chúc mừng",
+          "list_en_vn": [
+            {
+              "full_en": "to be the toast of the whole neighbourhood",
+              "full_vn": "được toàn thể bà con hàng xóm nâng cốc chúc mừng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâng cốc chúc mừng, uống mừng",
+          "list_en_vn": [
+            {
+              "full_en": "to toast the bride and groom",
+              "full_vn": "nâng cốc chúc mừng cô dâu và chú rể"
+            },
+            {
+              "full_en": "to toast the success of a new company",
+              "full_vn": "nâng cốc chúc mừng sự thành đạt của mộtcông ty mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701149_bf0928e9d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701149_ededafed24_o.png",
+      "id_image": "toast_129203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346146_3765006e30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346146_4ed2c7d710_o.png",
+      "id_image": "toast_1404941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391102_9eea98c250_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391102_e28f550bd5_o.png",
+      "id_image": "toast_1404960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460933_992612684e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460933_6aefeab289_o.png",
+      "id_image": "toast_816205"
+    }
+  ]
+}

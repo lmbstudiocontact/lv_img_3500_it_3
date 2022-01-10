@@ -1,0 +1,101 @@
+{
+  "english": "steep",
+  "phat_am": "[sti:p]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc, dốc đứng",
+          "list_en_vn": [
+            {
+              "full_en": "steep hill",
+              "full_vn": "đồi dốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) quá quắt, không biết đều; quá mức; quá cao; không hợp lý (về giá cả, yêu cầu)",
+          "list_en_vn": [
+            {
+              "full_en": "steep demand",
+              "full_vn": "sự đòi hỏi quá quắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh (tăng, giảm)"
+        },
+        {
+          "m_full_vn": "ngoa, phóng đại, không thể tin được",
+          "list_en_vn": [
+            {
+              "full_en": "steep story",
+              "full_vn": "câu chuyện không thể tin được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc, chỗ dốc, sườn dốc"
+        },
+        {
+          "m_full_vn": "sự ngâm (vào nước); chất lỏng để ngâm",
+          "list_en_vn": [
+            {
+              "full_en": "to put something in steep",
+              "full_vn": "ngâm vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước ngâm"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngâm vào nước",
+          "list_en_vn": [
+            {
+              "full_en": "to steep in",
+              "full_vn": "thấm, ngấm vào; mê mải, miệt mài"
+            },
+            {
+              "full_en": "steeped in slumber",
+              "full_vn": "ngủ mê mệt"
+            },
+            {
+              "full_en": "steeped in misery",
+              "full_vn": "nghèo rớt mồng tơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chìm ngập; đắm chìm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị ngâm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084970_807e7c5f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084970_1936b6ecaa_o.png",
+      "id_image": "steep_5265595"
+    }
+  ]
+}

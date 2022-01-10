@@ -1,0 +1,72 @@
+{
+  "english": "stare",
+  "phat_am": "[steə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhìn chòng chọc, sự nhìn chằm chằm"
+        },
+        {
+          "m_full_vn": "cái nhìn chòng chọc, cái nhìn chằm chằm"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn chòng chọc, nhìn chằm chằm",
+          "list_en_vn": [
+            {
+              "full_en": "to stare someone out of countenance",
+              "full_vn": "nhìn chòng chọc làm ai phải lúng túng"
+            },
+            {
+              "full_en": "to stare someone in the face",
+              "full_vn": "nhìn chằm chằm vào mặt ai"
+            },
+            {
+              "full_en": "to stare at somebody",
+              "full_vn": "nhìn ai chằm chằm"
+            },
+            {
+              "full_en": "to stare someone into silence",
+              "full_vn": "nhìn chằm chằm bắt ai phải im"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rõ ràng, rành rành, lồ lộ ra",
+          "list_en_vn": [
+            {
+              "full_en": "the facts stare us in the face",
+              "full_vn": "sự thật đã rành rành trước mắt chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dựng ngược, dựng đứng (tóc...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stare down",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn chằm chằm trả lại khiến cho (ai) phải cúi xuống không dám nhìn mình nữa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464003_91f3067181_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464003_7615a8d394_o.png",
+      "id_image": "stare_2166030"
+    }
+  ]
+}

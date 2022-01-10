@@ -1,0 +1,225 @@
+{
+  "english": "shoulder",
+  "phat_am": "['∫ouldə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều shoulders",
+      "list_m": [
+        {
+          "m_full_vn": "vai (một phần của cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "to look back over one's shoulder",
+              "full_vn": "quay lại nhìnqua vai"
+            },
+            {
+              "full_en": "to shrug one's shoulders",
+              "full_vn": "nhún vai"
+            },
+            {
+              "full_en": "this coat is too narrow across the shoulders",
+              "full_vn": "áo này vai quá hẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vai áo",
+          "list_en_vn": [
+            {
+              "full_en": "a jacket with padded shoulders",
+              "full_vn": "áo vét tông đệm vai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thịt vai (của động vật)",
+          "list_en_vn": [
+            {
+              "full_en": "some shoulder of lamb /beef",
+              "full_vn": "thịt vai cừu/bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) phần sau giữa hai vai",
+          "list_en_vn": [
+            {
+              "full_en": "a person with broad shoulders",
+              "full_vn": "người có vai rộng"
+            },
+            {
+              "full_en": "to give a child a ride on one's shoulders",
+              "full_vn": "kiệu đứa bé trên vai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người được coi là phải chịu trách nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to shift the blame onto somebody else's shoulders",
+              "full_vn": "đổ trách nhiệm lên vai người khác"
+            },
+            {
+              "full_en": "the burden of guilt has been lifted from my shoulders",
+              "full_vn": "gánh nặng tội lỗi đã được cất khỏi vai tôi"
+            },
+            {
+              "full_en": "the duty fell upon her shoulders",
+              "full_vn": "trách nhiệm trút lên vai cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tư thế bồng súng"
+        },
+        {
+          "m_full_vn": "bộ phận của một vật giống như vai con người về hình dáng, vị trí (trên chiếc chai, dụng cụ, núi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "shoulder to shoulder",
+              "list_im": [
+                {
+                  "im_full_vn": "vai kề vai"
+                },
+                {
+                  "im_full_vn": "làm việc, chiến đấu cùng nhau, kề vai sát cánh; đoàn kết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "soldiers standing shoulder to shoulder",
+                      "full_vn": "những người lính đứng vai kề vai"
+                    },
+                    {
+                      "full_en": "shoulder to shoulder with one's fellow-workers in the dispute",
+                      "full_vn": "kề vai sát cánh với đồng nghiệp trong cuộc tranh chấp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have broad shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ; có thể vác nặng; có thể gánh vác nhiều trách nhiệm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (set ) one's shoulder to the wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "gắng sức thực hiện nhiệm vụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tell straight from the shoulder",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thẳng, nói bốp chát, nói thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rub shoulders with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp xúc gần gũi với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /stand head and shoulders above somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "xem head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a chip on one's shoulder",
+              "list_im": [
+                {
+                  "im_full_vn": "xem chip"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a good head on one's shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "xem head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an old head on young shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "xem old"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) bồng súng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt (cái gì) lên vai mình",
+          "list_en_vn": [
+            {
+              "full_en": "to shoulder one's rucksack",
+              "full_vn": "khoác ba lô lên vai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vác lên vai; gánh (trách nhiệm..)"
+        },
+        {
+          "m_full_vn": "đẩy ( ai/cái gì) bằng vai mình",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shoulder one's way into the room /through the crowd",
+              "list_im": [
+                {
+                  "im_full_vn": "lách vào trong phòng/qua đám đông"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to shoulder somebody to one side",
+              "full_vn": "chèn vai ai sang một bên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697699_0b8a14a351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697699_7aeb9ac330_o.png",
+      "id_image": "shoulder_2417963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387447_80afdf73c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387447_0bb3099467_o.png",
+      "id_image": "shoulder_5726774"
+    }
+  ]
+}

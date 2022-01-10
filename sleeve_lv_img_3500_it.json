@@ -1,0 +1,63 @@
+{
+  "english": "sleeve",
+  "phat_am": "[sli:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tay áo; ống tay áo",
+          "list_en_vn": [
+            {
+              "full_en": "to put something up one's sleeve",
+              "full_vn": "bỏ vật gì trong tay áo"
+            },
+            {
+              "full_en": "to pluck someone's sleeve",
+              "full_vn": "níu tay áo ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ống ngoài, ống bọc ngoài, măng-sông"
+        },
+        {
+          "m_full_vn": "ống bọc ngoài (một thanh dây cáp..)"
+        },
+        {
+          "m_full_vn": "bao cứng đựng đĩa hát (như) jacket",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have plan up one's sleeve",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị sẵn một kế hoạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn (roll ) up one's sleeves",
+              "list_im": [
+                {
+                  "im_full_vn": "xắn tay áo (để đánh nhau, để làm việc...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070570_203bcd847d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070570_d73b80323d_o.png",
+      "id_image": "sleeve_2473063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448778_35db12dba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448778_a6e22d0e89_o.png",
+      "id_image": "sleeve_580550"
+    }
+  ]
+}

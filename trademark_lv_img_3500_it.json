@@ -1,0 +1,54 @@
+{
+  "english": "trademark",
+  "phat_am": "['treidmɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tên do một nhà sản xuất đặt cho một sản phẩm lưu hành rộng rãi để nhận biết một mặt hàng cụ thể; tên thương mại",
+          "list_en_vn": [
+            {
+              "full_en": "aspirin in various forms is sold under a wide range of tradenames",
+              "full_vn": "atpirin ở nhiều dạng khác nhau được bán dưới rất nhiều tên thương mại khác nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc điểm phân biệt",
+          "list_en_vn": [
+            {
+              "full_en": "a startling use of line and colour that is this artist's special trademark",
+              "full_vn": "cách dùng đường nét và màu sắc một cách kỳ lạ là đặc trưng riêng biệt của nghệ sĩ này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đăng ký tên thương mại (cho một sản phẩm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340681_c732abb127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340681_4dc937f9d6_o.png",
+      "id_image": "trademark_211431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340646_5077b68ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340646_12dc9043de_o.png",
+      "id_image": "trademark_2361762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077965_14d2736f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077965_664e56db96_o.png",
+      "id_image": "trademark_3529255"
+    }
+  ]
+}

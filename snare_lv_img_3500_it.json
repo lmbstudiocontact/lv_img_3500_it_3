@@ -1,0 +1,70 @@
+{
+  "english": "snare",
+  "phat_am": "[sneə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái bẫy, cái lưới (bẫy chim, thú rừng)",
+          "list_en_vn": [
+            {
+              "full_en": "to set a snare",
+              "full_vn": "gài bẫy, giăng lưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạm bẫy, mưu, mưu chước",
+          "list_en_vn": [
+            {
+              "full_en": "to be caught in a snare",
+              "full_vn": "bị mắc bẫy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều cám dỗ"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dây mặt trống (căng dưới mặt trống để tăng âm)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh bẫy, gài bẫy, đặt bẫy; bẫy (chim, thú rừng..)",
+          "list_en_vn": [
+            {
+              "full_en": "to snare a rabbit",
+              "full_vn": "đánh bẫy một con thỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giăng bẫy (người)",
+          "list_en_vn": [
+            {
+              "full_en": "to snare a rich husband",
+              "full_vn": "giăng bẫy một ông chồng giàu có"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329921_21b6628a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329921_87f29221ed_o.png",
+      "id_image": "snare_1403882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329896_aa5175e2cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329896_ec4686ba05_o.png",
+      "id_image": "snare_5439987"
+    }
+  ]
+}

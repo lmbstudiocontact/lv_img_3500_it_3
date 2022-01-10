@@ -1,0 +1,35 @@
+{
+  "english": "suitable",
+  "phat_am": "['su:təbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( suitable for / to something / somebody ) phù hợp; thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "a suitable room , book , proposal , date",
+              "full_vn": "một căn phòng, quyển sách, đề nghị, ngày thích hợp"
+            },
+            {
+              "full_en": "clothes suitable for cold weather",
+              "full_vn": "quần áo phù hợp với tiết trời lạnh"
+            },
+            {
+              "full_en": "would now be a suitable moment to show the slides ?",
+              "full_vn": "bây giờ đã là lúc thích hợp để cho xem phim đèn chiếu chưa?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453393_abdff1c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453393_268f4eddaa_o.png",
+      "id_image": "suitable_6281552"
+    }
+  ]
+}

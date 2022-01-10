@@ -1,0 +1,40 @@
+{
+  "english": "transistor",
+  "phat_am": "[træn'zistə, træn'sistə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) Trăng-xi-to, bóng bán dẫn (dụng cụ điện tử nhỏ, dùng trong máy thu thanh, thu hình.. để kiểm tra một tín hiệu điện khi nó đi qua một mạch)",
+          "list_en_vn": [
+            {
+              "full_en": "a transistor radio",
+              "full_vn": "máy thu bán dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy thu thanh bán dẫn, đài bán dẫn xách tay (như) transistor radio"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074915_091a5d1a28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074915_bbe55171bd_o.png",
+      "id_image": "transistor_1772561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074890_833e18276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074890_9a5ae91574_o.png",
+      "id_image": "transistor_2339022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337811_bac0f880b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337811_4eeaf7d195_o.png",
+      "id_image": "transistor_5147322"
+    }
+  ]
+}

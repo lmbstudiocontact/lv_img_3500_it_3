@@ -1,0 +1,279 @@
+{
+  "english": "thick",
+  "phat_am": "[θik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dày; đậm",
+          "list_en_vn": [
+            {
+              "full_en": "a thick layer of sand",
+              "full_vn": "lớp cát dày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "to, mập",
+          "list_en_vn": [
+            {
+              "full_en": "a thick pipe",
+              "full_vn": "cái ống to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc, sền sệt, không chảy dễ dàng",
+          "list_en_vn": [
+            {
+              "full_en": "thick soup",
+              "full_vn": "cháo đặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dày đặc, rậm, rậm rạp",
+          "list_en_vn": [
+            {
+              "full_en": "thick crowd",
+              "full_vn": "đám đông dày đặc, đám người đông nghẹt"
+            },
+            {
+              "full_en": "thick hair",
+              "full_vn": "tóc rậm"
+            },
+            {
+              "full_en": "thick forest",
+              "full_vn": "rừng rậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không quang đãng; dày đặc (về hơi nước, không khí)",
+          "list_en_vn": [
+            {
+              "full_en": "thick fog",
+              "full_vn": "sương mù dày đặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ngu, đần độn"
+        },
+        {
+          "m_full_vn": "lè nhè, khản, không rõ ràng; nặng, mạnh, rất dễ nhận ra (về giọng nói)",
+          "list_en_vn": [
+            {
+              "full_en": "a thick utterance",
+              "full_vn": "lời phát biểu không rõ"
+            },
+            {
+              "full_en": "voice thick with drink",
+              "full_vn": "giọng lè nhè vì say"
+            },
+            {
+              "full_en": "to speak with /in a thick brogue",
+              "full_vn": "nói với một giọng địa phương ( Ireland) nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thân mật, thân thiết; kết, gắn bó",
+          "list_en_vn": [
+            {
+              "full_en": "to be thick together",
+              "full_vn": "thân với nhau"
+            },
+            {
+              "full_en": "as thick as thieves",
+              "full_vn": "rất ăn ý với nhau, rất thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá nhiều, thái quá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give somebody /get a thick car",
+              "list_im": [
+                {
+                  "im_full_vn": "bạt tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a thick head",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngu ngốc, đần độn"
+                },
+                {
+                  "im_full_vn": "(thông tục) bị nhức đầu, bị khó chịu (do uống rượu say..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as thick as thieves",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) rất thân thiết (về hai hay nhiều người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as thick as two short planks",
+              "list_im": [
+                {
+                  "im_full_vn": "óc đất, rất ngu ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a thick skull",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tỏ ra không thông minh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(be ) thick with something /somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đầy; có nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "thick with dust",
+                      "full_vn": "đầy bụi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it's a bit thick",
+              "full_vn": "hơi nhiều, hơi quá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dày, dày đặc",
+          "list_en_vn": [
+            {
+              "full_en": "the snow was falling thick",
+              "full_vn": "tuyết rơi dày đặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó, cứng; mệt nhọc, khó khăn, nặng nề",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lay it on thick /with a trowel",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) phóng đại; thổi phồng, tán dương hết lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thick and fast",
+              "list_im": [
+                {
+                  "im_full_vn": "tới tấp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to breathe thick",
+              "full_vn": "thở khó khăn"
+            },
+            {
+              "full_en": "to speak thick",
+              "full_vn": "nói khó khăn, nói lắp bắp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ mập nhất, chỗ dày nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the thick of the leg",
+              "full_vn": "bắp chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính giữa, chỗ dày nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the thick of the forest",
+              "full_vn": "chính giữa rừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ tập trung nhất, chỗ hoạt động nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "through thick and thin",
+              "list_im": [
+                {
+                  "im_full_vn": "bất chấp mọi khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go through thick and thin for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "mạo hiểm vì người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the thick of something",
+              "list_im": [
+                {
+                  "im_full_vn": "ở chỗ nhộn nhịp nhất, ở chỗ đông đúc nhất của cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the thick of the fight",
+              "full_vn": "chỗ (lúc) ác liệt nhất của cuộc chiến đấu"
+            },
+            {
+              "full_en": "in the thick of it",
+              "full_vn": "chính đang lúc (đánh nhau...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464463_7743a8ce95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464463_d31bfd1a04_o.png",
+      "id_image": "thick_4637345"
+    }
+  ]
+}

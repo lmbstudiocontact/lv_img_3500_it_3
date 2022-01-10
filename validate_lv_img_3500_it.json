@@ -1,0 +1,41 @@
+{
+  "english": "validate",
+  "phat_am": "['vælideit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phê chuẩn, thông qua, làm cho có hiệu lực, xác nhận tính hợp lệ",
+          "list_en_vn": [
+            {
+              "full_en": "to validate a contract",
+              "full_vn": "làm cho một hợp đồng có hiệu lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công nhận có giá trị, làm cho lôgich, làm cho hợp lý, làm cho chính đáng",
+          "list_en_vn": [
+            {
+              "full_en": "to validate a thesis",
+              "full_vn": "công nhận giá trị của một luận án"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349461_416a9afb72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349461_efd22fc31d_o.png",
+      "id_image": "validate_3285718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464093_b8d764abb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464093_f80ee38ae4_o.png",
+      "id_image": "validate_4079495"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "english": "venture",
+  "phat_am": "['vent∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dự án hoặc công việc kinh doanh (nhất là về thương mại), nơi có nguy cơ thất bại; việc mạo hiểm, việc liều lĩnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "at a venture",
+              "list_im": [
+                {
+                  "im_full_vn": "ngẫu nhiên; tình cờ; liều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to embark on a risky , doubtful venture",
+              "full_vn": "bắt tay vào một công việc kinh doanh mạo hiểm, không chắc chắn"
+            },
+            {
+              "full_en": "venture capital",
+              "full_vn": "vốn đầu tư liều lĩnh"
+            },
+            {
+              "full_en": "the car-hire firm is their latest (joint ) business venture",
+              "full_vn": "công ty cho thuê xe hơi là liên doanh làm ăn liều lĩnh gần đây nhất của họ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liều; mạo hiểm; cả gan",
+          "list_en_vn": [
+            {
+              "full_en": "to venture into the water , over the wall",
+              "full_vn": "liều nhảy xuống nước, leo qua tường"
+            },
+            {
+              "full_en": "to venture too near the edge of a cliff",
+              "full_vn": "liều đến thật gần mép vách đá"
+            },
+            {
+              "full_en": "the mouse never ventured far from its hole",
+              "full_vn": "chuột chẳng bao giờ dám liều bò ra xa hang của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dám nói hoặc dám bày tỏ (ý kiến..); đánh bạo; mạo muội",
+          "list_en_vn": [
+            {
+              "full_en": "to venture an opinion /objection /explanation",
+              "full_vn": "đánh bạo đưa ra ý kiến/lời phản đối/lời giải thích"
+            },
+            {
+              "full_en": "May I venture to suggest a change ?",
+              "full_vn": "Tôi xin mạo muội nêu lên một đề nghị thay đổi"
+            },
+            {
+              "full_en": "I venture to enter his workroom",
+              "full_vn": "Tôi đánh bạo bước vào phòng làm việc của ông ta"
+            },
+            {
+              "full_en": "to venture a visit to the doctor /to visit the doctor",
+              "full_vn": "liều đi khám bác sĩ xem sao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to venture something on something ) liều thử vận may rủi",
+          "list_one_mean": [
+            {
+              "id_full_en": "nothing venture , nothing win",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) được ăn cả, ngã về không; không vào hang hùm sao bắt được hùm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to venture on /upon something",
+              "list_im": [
+                {
+                  "im_full_vn": "dám thử làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to venture on a trip up the Amazon",
+                      "full_vn": "mạo hiểm một chuyến ngược sông Amazon"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I ventured a small bet on the horse",
+              "full_vn": "Tôi đã liều đánh cuộc một ít tiền cho con ngựa đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083925_554704ebab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083925_25ec0064af_o.png",
+      "id_image": "venture_2329919"
+    }
+  ]
+}

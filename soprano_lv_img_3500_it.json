@@ -1,0 +1,44 @@
+{
+  "english": "soprano",
+  "phat_am": "[sə'prɑ:nou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều sopranos , soprani",
+      "list_m": [
+        {
+          "m_full_vn": "(âm nhạc) giọng nữ cao"
+        },
+        {
+          "m_full_vn": "người hát giọng nữ cao (như) sopranist"
+        },
+        {
+          "m_full_vn": "nhạc cho giọng nữ cao, bè xô-pra-nô"
+        },
+        {
+          "m_full_vn": "nhạc cụ có trong âm vực gần với âm vực của giọng nữ cao"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng giọng hát nữ cao",
+          "list_en_vn": [
+            {
+              "full_en": "she sings soprano",
+              "full_vn": "cô ấy hát giọng nữ cao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370697_b8a0a5678d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370697_7f4c1fdd65_o.png",
+      "id_image": "soprano_320488"
+    }
+  ]
+}

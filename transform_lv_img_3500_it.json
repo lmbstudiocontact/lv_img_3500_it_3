@@ -1,0 +1,54 @@
+{
+  "english": "transform",
+  "phat_am": "[træns'fɔ:m]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to transform somebody / something from something into something ) thay đổi hoàn toàn vẻ bề ngoài hoặc tính chất của ai/cái gì; biến đổi",
+          "list_en_vn": [
+            {
+              "full_en": "a fresh coat of paint can transform a room",
+              "full_vn": "một lớp vôi mới quét có thể làm thay đổi hẳn căn phòng"
+            },
+            {
+              "full_en": "she used to be terribly shy , but a year abroad has completely transformed her",
+              "full_vn": "cô ta vốn nhút nhát ghê lắm, nhưng một năm ở nước ngoài đã khiến cô ta thay đổi hẳn"
+            },
+            {
+              "full_en": "the process by which caterpillars are transformed into butterflies",
+              "full_vn": "quá trình sâu biến thành bướm"
+            },
+            {
+              "full_en": "a complete change of climate which transformed the area from a desert into a swamp",
+              "full_vn": "sự thay đổi toàn diện về khí hậu đã biến đổi vùng này từ sa mạc thành đầm lầy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453483_1c20058a62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453483_fdd40fc870_o.png",
+      "id_image": "transform_232965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693619_cc6f5ea66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693619_5fa2258199_o.png",
+      "id_image": "transform_2587057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075495_58a8c263b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075495_e29f4d5292_o.png",
+      "id_image": "transform_448110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383337_b882de8cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383337_be6e1bd216_o.png",
+      "id_image": "transform_5266069"
+    }
+  ]
+}

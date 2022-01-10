@@ -1,0 +1,42 @@
+{
+  "english": "tundra",
+  "phat_am": "['tʌndrə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(địa lý,địa chất) Tunđra, lãnh nguyên (những vùng Bắc cực trơ trụi bằng phẳng rộng lớn của châu Âu, A và Bắc Mỹ, nơi tầng đất cái đã bị đóng băng vĩnh cửu)",
+          "list_en_vn": [
+            {
+              "full_en": "tundra vegetation",
+              "full_vn": "thực vật vùng lãnh nguyên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444553_37083be707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444553_5ae43b73c0_o.png",
+      "id_image": "tundra_190903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374152_c5a03391eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374152_8aecf14ddf_o.png",
+      "id_image": "tundra_3038866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684519_c38e37454d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684519_7f6f44de0e_o.png",
+      "id_image": "tundra_307774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066240_c445d5a8fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066240_937247dc2a_o.png",
+      "id_image": "tundra_4215421"
+    }
+  ]
+}

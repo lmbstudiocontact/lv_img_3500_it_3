@@ -1,0 +1,53 @@
+{
+  "english": "trendy",
+  "phat_am": "['trendi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) hợp thời trang, rất mốt, chạy theo mốt",
+          "list_en_vn": [
+            {
+              "full_en": "trendy clothes",
+              "full_vn": "quần áo rất mốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thức thời",
+          "list_en_vn": [
+            {
+              "full_en": "trendy intellectuals",
+              "full_vn": "những trí thức theo thời (tức là những người không (xem) xét kỹ các quan niệm mới)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chạy theo mốt, người ăn diện đúng mốt (như) trendie"
+        },
+        {
+          "m_full_vn": "(thông tục) người rởm đời",
+          "list_en_vn": [
+            {
+              "full_en": "middle-agged trendies",
+              "full_vn": "những vị trung niên rởm đời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689579_3deb82789b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689579_bde7973acb_o.png",
+      "id_image": "trendy_167850"
+    }
+  ]
+}

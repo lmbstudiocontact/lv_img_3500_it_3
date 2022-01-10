@@ -1,0 +1,41 @@
+{
+  "english": "technology",
+  "phat_am": "[tek'nɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "môn nghiên cứu khoa học và sử dụng các kỹ thuật cơ khí và khoa học ứng dụng; kỹ thuật học; công nghệ học",
+          "list_en_vn": [
+            {
+              "full_en": "recent advances in medical technology",
+              "full_vn": "những tiến bộ gần đây trong kỹ thuật y học"
+            },
+            {
+              "full_en": "the technology of computers",
+              "full_vn": "công nghệ máy tính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467868_963b7b7430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467868_cce6cf25fc_o.png",
+      "id_image": "technology_1610456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467843_9d7f7c24fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467843_8fdac96da8_o.png",
+      "id_image": "technology_3382619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090540_897419d9fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090540_9575513dff_o.png",
+      "id_image": "technology_752613"
+    }
+  ]
+}

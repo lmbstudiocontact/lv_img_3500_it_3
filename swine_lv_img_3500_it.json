@@ -1,0 +1,34 @@
+{
+  "english": "swine",
+  "phat_am": "[swain]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều swine , swines",
+      "list_m": [
+        {
+          "m_full_vn": "con lợn, con heo"
+        },
+        {
+          "m_full_vn": "(thông tục) người (vật) đáng ghét, người (vật) ghê tởm",
+          "list_en_vn": [
+            {
+              "full_en": "those nails were real swines to get out",
+              "full_vn": "những cái đinh này thật là đáng ghét, khó nhổ quá!"
+            },
+            {
+              "full_en": "take your hands off me , you filthy swine !",
+              "full_vn": "bỏ tay ra, đồ con lợn bẩn thỉu!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332271_3ce0070915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332271_87539083fd_o.png",
+      "id_image": "swine_4310590"
+    }
+  ]
+}

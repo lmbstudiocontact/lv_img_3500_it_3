@@ -1,0 +1,176 @@
+{
+  "english": "wire",
+  "phat_am": "[waiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây (kim loại)",
+          "list_en_vn": [
+            {
+              "full_en": "silver wire",
+              "full_vn": "dây bạc"
+            },
+            {
+              "full_en": "iron wire",
+              "full_vn": "dây thép"
+            },
+            {
+              "full_en": "a coil of copper wire",
+              "full_vn": "một cuộn dây đồng"
+            },
+            {
+              "full_en": "barbed wire",
+              "full_vn": "dây thép gai"
+            },
+            {
+              "full_en": "fuse wire",
+              "full_vn": "dây chì/cầu chì"
+            },
+            {
+              "full_en": "telephone wires",
+              "full_vn": "dây điện thoại"
+            },
+            {
+              "full_en": "to pull the wires",
+              "full_vn": "giật dây (nghĩa bóng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khung, thanh chắn bằng dây kim loại"
+        },
+        {
+          "m_full_vn": "bức điện tín",
+          "list_one_mean": [
+            {
+              "id_full_en": "live wire",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) live"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's wires crossed",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu lầm về điều ai đã hoặc đang nói"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to send somebody a wire",
+              "full_vn": "gửi/đánh một bức điện cho ai"
+            },
+            {
+              "full_en": "let me know by wire",
+              "full_vn": "hãy đánh điện cho tôi biết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bọc bằng dây sắt"
+        },
+        {
+          "m_full_vn": "buộc bằng dây sắt"
+        },
+        {
+          "m_full_vn": "chăng lưới thép (cửa sổ)"
+        },
+        {
+          "m_full_vn": "xỏ vào dây thép"
+        },
+        {
+          "m_full_vn": "bẫy (thỏ, chim...) bằng dây thép"
+        },
+        {
+          "m_full_vn": "đánh điện"
+        },
+        {
+          "m_full_vn": "(điện học) mắc (dây) điện, bắt điện",
+          "list_en_vn": [
+            {
+              "full_en": "to wire a house for electricity",
+              "full_vn": "mắc điện cho một ngôi nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh điện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wire in",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) rán hết sức làm (một việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wire off",
+              "list_im": [
+                {
+                  "im_full_vn": "rào dây thép để tách ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wire into somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đấm ai một cú thật mạnh, dùng hết sức giáng cho ai một đòn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to wire to someone",
+              "full_vn": "đánh điện cho ai"
+            },
+            {
+              "full_en": "to wire for someone",
+              "full_vn": "đánh điện mời ai đến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381587_ce9ac45acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381587_99570b30e1_o.png",
+      "id_image": "wire_3380347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451463_0bf3f2314a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451463_0eedd14ded_o.png",
+      "id_image": "wire_3380565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073480_31fa379911_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073480_7ebf596bce_o.png",
+      "id_image": "wire_4697326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451398_095c132d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451398_1cfb069132_o.png",
+      "id_image": "wire_6343774"
+    }
+  ]
+}

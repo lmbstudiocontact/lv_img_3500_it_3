@@ -1,0 +1,99 @@
+{
+  "english": "special",
+  "phat_am": "['spe∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặc biệt, riêng biệt",
+          "list_en_vn": [
+            {
+              "full_en": "word used in a special sense",
+              "full_vn": "từ dùng theo nghĩa đặc biệt"
+            },
+            {
+              "full_en": "special price",
+              "full_vn": "giá đặc biệt"
+            },
+            {
+              "full_en": "to appoint special agents",
+              "full_vn": "cử đặc phái viên"
+            },
+            {
+              "full_en": "to receive special instructions",
+              "full_vn": "nhận những chỉ thị đặc biệt"
+            },
+            {
+              "full_en": "special edition",
+              "full_vn": "đợt phát hành đặc biệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "riêng, dành riêng",
+          "list_en_vn": [
+            {
+              "full_en": "a special occasion",
+              "full_vn": "một trường hợp đặc biệt"
+            },
+            {
+              "full_en": "a special train",
+              "full_vn": "một chuyến tàu dành riêng (cho hàng dễ bể..)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc biệt, cá biệt về số lượng (mức độ, phẩm chất..)",
+          "list_en_vn": [
+            {
+              "full_en": "take special care of it",
+              "full_vn": "hãy chăm sóc đặc biệt cái đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiện đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "an all night television special on the election",
+              "full_vn": "một buổi truyền hình đặc biệt suốt tối về cuộc bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh sát đặc biệt"
+        },
+        {
+          "m_full_vn": "chuyến xe lửa đặc biệt"
+        },
+        {
+          "m_full_vn": "cuộc thi đặc biệt"
+        },
+        {
+          "m_full_vn": "số báo phát hành đặc biệt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) giá đặc biệt (để quảng cáo, khuyến mãi..)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369502_68469fdfe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369502_b0710a46f7_o.png",
+      "id_image": "special_2302764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061525_7e7bfc013b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061525_e420bd5c01_o.png",
+      "id_image": "special_3125061"
+    }
+  ]
+}

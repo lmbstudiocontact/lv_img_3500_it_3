@@ -1,0 +1,101 @@
+{
+  "english": "senior",
+  "phat_am": "['si:niə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( senior to somebody ) nhiều tuổi hơn; cao hơn về cấp bậc hoặc chức quyền...; lâu năm hơn, thâm niên hơn",
+          "list_en_vn": [
+            {
+              "full_en": "he is ten years senior to me",
+              "full_vn": "anh ấy lớn hơn tôi mười tuổi"
+            },
+            {
+              "full_en": "the senior members of the family",
+              "full_vn": "những người lớn tuổi trong gia đình"
+            },
+            {
+              "full_en": "there are separate rooms for senior and junior officers",
+              "full_vn": "có phòng riêng biệt cho sĩ quan cấp cao và sĩ quan cấp thấp"
+            },
+            {
+              "full_en": "he's the senior partner in the firm",
+              "full_vn": "ông ấy là cổ đông nhiều vốn nhất trong công ty"
+            },
+            {
+              "full_en": "the senior clerk",
+              "full_vn": "người trưởng phòng"
+            },
+            {
+              "full_en": "she's senior to me , because she joined the firm before me",
+              "full_vn": "cô ấy thâm niên hơn tôi, vì cô ấy vào làm công ty trước tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) Sen (đặt ngay sau tên ai) bố; là bố của người có cùng tên",
+          "list_one_mean": [
+            {
+              "id_full_en": "senior high school",
+              "list_im": [
+                {
+                  "im_full_vn": "trường trung học dạy các lớp 10, 11 và 12"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "John Brown Senior",
+              "full_vn": "John Brown bố"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người lớn tuổi hơn",
+          "list_en_vn": [
+            {
+              "full_en": "he is my senior by two years /two years my senior",
+              "full_vn": "anh ấy hơn tôi hai tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thâm niên, người chức cao hơn"
+        },
+        {
+          "m_full_vn": "thành viên của một trường trung học phổ thông",
+          "list_en_vn": [
+            {
+              "full_en": "a football match between the juniors and the seniors",
+              "full_vn": "trận đấu bóng đá giữa đội trường trung học cơ sở và đội trường trung học phổ thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sinh viên năm cuối của trường trung học hoặc cao đẳng (trước khi tốt nghiệp)",
+          "list_en_vn": [
+            {
+              "full_en": "her senior year at college",
+              "full_vn": "năm cuối của cô ta ở trường cao đẳng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087390_42d9457899_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087390_c341767605_o.png",
+      "id_image": "senior_5256035"
+    }
+  ]
+}

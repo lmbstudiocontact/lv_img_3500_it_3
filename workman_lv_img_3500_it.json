@@ -1,0 +1,34 @@
+{
+  "english": "workman",
+  "phat_am": "['wə:kmən]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều workmen",
+      "list_m": [
+        {
+          "m_full_vn": "công nhân, người thợ (người đàn ông được thuê làm công việc chân tay hoặc (cơ khí))"
+        },
+        {
+          "m_full_vn": "người lao động (theo một cách được nói rõ)",
+          "list_en_vn": [
+            {
+              "full_en": "a good workman",
+              "full_vn": "một người lao động tốt"
+            },
+            {
+              "full_en": "a bad workman blames his tool",
+              "full_vn": "(tục ngữ) thợ tồi đổ tội cho dụng cụ (múa vụng chê đất lệch)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071050_b15313e913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071050_8c9a2a7379_o.png",
+      "id_image": "workman_2419713"
+    }
+  ]
+}

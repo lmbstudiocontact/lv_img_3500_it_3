@@ -1,0 +1,64 @@
+{
+  "english": "site",
+  "phat_am": "[sait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi, chỗ, vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "a good site for a picnic",
+              "full_vn": "một nơi đi chơi cắm trại tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ xây dựng, địa điểm",
+          "list_en_vn": [
+            {
+              "full_en": "construction site",
+              "full_vn": "công trường"
+            },
+            {
+              "full_en": "building site",
+              "full_vn": "đất để cất nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "định chỗ; xác định địa điểm; định vị, đặt, để",
+          "list_en_vn": [
+            {
+              "full_en": "well sited school",
+              "full_vn": "trường xây ở chỗ tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451598_f7c962e696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451598_72050bd3da_o.png",
+      "id_image": "site_1548764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073775_ec0a1842d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073775_79f097ca49_o.png",
+      "id_image": "site_821635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073735_95f2ce0be9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073735_1d25fa13c0_o.png",
+      "id_image": "site_821639"
+    }
+  ]
+}

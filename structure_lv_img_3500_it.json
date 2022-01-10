@@ -1,0 +1,55 @@
+{
+  "english": "structure",
+  "phat_am": "['strʌkt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết cấu, cấu trúc",
+          "list_en_vn": [
+            {
+              "full_en": "the structure of a poem",
+              "full_vn": "kết cấu một bài thơ"
+            },
+            {
+              "full_en": "a sentence of loose structure",
+              "full_vn": "một cấu trúc lỏng lẻo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công trình kiến trúc, công trình xây dựng",
+          "list_en_vn": [
+            {
+              "full_en": "a fine marble structure",
+              "full_vn": "một công trình kiến trúc bằng cẩm thạch tuyệt đẹp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341736_6ecc988cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341736_33362f3673_o.png",
+      "id_image": "structure_2180954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386777_20bb55b1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386777_d655132738_o.png",
+      "id_image": "structure_2547729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456543_2d6ec6574e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456543_e5b97eb28f_o.png",
+      "id_image": "structure_4156002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386822_30971e1bf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386822_b007455e39_o.png",
+      "id_image": "structure_536916"
+    }
+  ]
+}

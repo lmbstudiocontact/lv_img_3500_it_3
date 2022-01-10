@@ -1,0 +1,58 @@
+{
+  "english": "thorn",
+  "phat_am": "[θɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gai (trên cây)"
+        },
+        {
+          "m_full_vn": "bụi gai"
+        },
+        {
+          "m_full_vn": "( (thường) trong từ ghép) cây có gai, cây bụi có gai",
+          "list_en_vn": [
+            {
+              "full_en": "blackthorn",
+              "full_vn": "cây mận gai"
+            },
+            {
+              "full_en": "hawthorn",
+              "full_vn": "cây táo gai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự khó khăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on thorns",
+              "list_im": [
+                {
+                  "im_full_vn": "ngồi trên đống lửa, đi trên chông gai, lo lắng không yên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a thorn in one's side /flesh",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gai trước mắt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086615_78672d78df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086615_2eae987978_o.png",
+      "id_image": "thorn_3426190"
+    }
+  ]
+}

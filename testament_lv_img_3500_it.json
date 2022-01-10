@@ -1,0 +1,54 @@
+{
+  "english": "testament",
+  "phat_am": "['testəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "di chúc, chúc thư (như) will",
+          "list_en_vn": [
+            {
+              "full_en": "to make one'stestament",
+              "full_vn": "làm di chúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái đem lại chứng cứ rõ ràng về cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "the new model is a testament to the skill and dedication of the workforce",
+              "full_vn": "mô hình mới là một bằng chứng về tài năng và sự tận tụy của toàn thể công nhân nhà máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Testament ) kinh thánh",
+          "list_en_vn": [
+            {
+              "full_en": "the Old Testament",
+              "full_vn": "kinh Cựu ước"
+            },
+            {
+              "full_en": "the New Testament",
+              "full_vn": "kinh Tân ước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351616_30f71dd26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351616_d4d90832e2_o.png",
+      "id_image": "testament_1450753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396167_79f31a42d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396167_55f59d28ea_o.png",
+      "id_image": "testament_6000808"
+    }
+  ]
+}

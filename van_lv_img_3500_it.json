@@ -1,0 +1,92 @@
+{
+  "english": "van",
+  "phat_am": "[væn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the van ) (quân sự) tiền đội, quân tiên phong"
+        },
+        {
+          "m_full_vn": "những người đi tiên phong, những người lãnh đạo (một phong trào); địa vị hàng đầu",
+          "list_en_vn": [
+            {
+              "full_en": "men in the van of the movement",
+              "full_vn": "những người đi tiên phong trong phong trào"
+            },
+            {
+              "full_en": "in the van of nations fighting for independence",
+              "full_vn": "ở hàng đầu trong các nước đang đấu tranh giành độc lập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe tải (chuyên chở hành lý hoặc người)"
+        },
+        {
+          "m_full_vn": "như luggage van"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyên chở bằng xe tải"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) máy quạt thóc"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ); (thơ ca) cánh chim"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đãi (quặng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348826_3e32c616c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348826_accdb2ac05_o.png",
+      "id_image": "van_256746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393582_a7d85f360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393582_a04d89677c_o.png",
+      "id_image": "van_2819334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703489_a12b235c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703489_5e733872da_o.png",
+      "id_image": "van_2819338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086010_a801bf8294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086010_cc872aab7b_o.png",
+      "id_image": "van_6182883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463468_cc34a64651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463468_71d444932b_o.png",
+      "id_image": "van_6183850"
+    }
+  ]
+}

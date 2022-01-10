@@ -1,0 +1,57 @@
+{
+  "english": "suite",
+  "phat_am": "[swi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ đồ gỗ",
+          "list_en_vn": [
+            {
+              "full_en": "a dining-room suite",
+              "full_vn": "một bộ đồ gỗ trong phòng ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dãy phòng",
+          "list_en_vn": [
+            {
+              "full_en": "suite of rooms",
+              "full_vn": "dãy buồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) dãy buồng ở một tầng; căn hộ"
+        },
+        {
+          "m_full_vn": "bộ (một tập hợp đầy đủ các vật dụng dùng cùng với nhau)",
+          "list_en_vn": [
+            {
+              "full_en": "a suite of programs for a computer",
+              "full_vn": "một bộ chương trình cho máy tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn tuỳ tùng; đoàn hộ tống"
+        },
+        {
+          "m_full_vn": "(âm nhạc) tổ khúc (bản nhạc gồm ba phần hoặc nhiều hơn có liên quan với nhau)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) hệ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453258_3c91871b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453258_ef74677eaa_o.png",
+      "id_image": "suite_5779006"
+    }
+  ]
+}

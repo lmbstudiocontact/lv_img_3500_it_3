@@ -1,0 +1,308 @@
+{
+  "english": "stop",
+  "phat_am": "[stɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngừng lại, sự dừng, sự đỗ lại; tình trạng bị ngừng lại",
+          "list_en_vn": [
+            {
+              "full_en": "to put a stop to something",
+              "full_vn": "ngừng việc gì"
+            },
+            {
+              "full_en": "to come to a stop",
+              "full_vn": "dừng lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ở lại, sự lưu lại"
+        },
+        {
+          "m_full_vn": "ga, bến, chỗ đỗ (xe khách...)"
+        },
+        {
+          "m_full_vn": "dấu chấm câu (nhất là dấu chấm hết) (.)",
+          "list_en_vn": [
+            {
+              "full_en": "full stop",
+              "full_vn": "chấm hết"
+            },
+            {
+              "full_en": "everything comes to a full stop",
+              "full_vn": "mọi việc thế là hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) dãy ống trong đàn ống tạo ra những âm cùng một âm sắc; nút, cần bấm, phím điều khiển các ống đó"
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự ngừng để đổi giọng; sự bấm (kèn...); nắp hơi, cần bấm"
+        },
+        {
+          "m_full_vn": "thiết bị điều chỉnh độ mở cho ánh sáng lọt vào thấu kính (trong máy ảnh)"
+        },
+        {
+          "m_full_vn": "cái chặn (để điều chỉnh, làm cho ngừng hoạt động) (nhất là trong từ ghép)",
+          "list_en_vn": [
+            {
+              "full_en": "the door was held open by a doorstop",
+              "full_vn": "cánh cửa được giữ mở ngỏ bằng một cái chặn cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điệu nói",
+          "list_en_vn": [
+            {
+              "full_en": "to put on (pull out ) the pathetic stop",
+              "full_vn": "lấy điệu nói thông thiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) cái chắn sáng"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) âm tắc"
+        },
+        {
+          "m_full_vn": "(hàng hải) đoạn dây chão, đoạn dây thừng (để buộc)"
+        },
+        {
+          "m_full_vn": "(như) stop-order"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngừng, nghỉ, thôi",
+          "list_en_vn": [
+            {
+              "full_en": "to stop doing something",
+              "full_vn": "ngừng lại việc gì; thôi làm việc gì"
+            },
+            {
+              "full_en": "stop your complaints",
+              "full_vn": "thôi đừng phàn nàn nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chặn, ngăn chặn",
+          "list_en_vn": [
+            {
+              "full_en": "to stop ball",
+              "full_vn": "chặn bóng"
+            },
+            {
+              "full_en": "to stop blow",
+              "full_vn": "chặn một cú đánh"
+            },
+            {
+              "full_en": "stop thief !",
+              "full_vn": "bắt thằng ăn trộm!"
+            },
+            {
+              "full_en": "to stop progress",
+              "full_vn": "ngăn cản bước tiến"
+            },
+            {
+              "full_en": "thick walls stop sound",
+              "full_vn": "tường dày cản âm"
+            },
+            {
+              "full_en": "to stop somebody from doing something",
+              "full_vn": "ngăn cản không cho ai làm việc gì"
+            },
+            {
+              "full_en": "I shall stop that nonsense",
+              "full_vn": "tôi sẽ chặn ngay điều vô lý đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cắt, cúp, treo giò",
+          "list_en_vn": [
+            {
+              "full_en": "to stop water",
+              "full_vn": "cắt nước"
+            },
+            {
+              "full_en": "to stop wages",
+              "full_vn": "cúp lương"
+            },
+            {
+              "full_en": "to stop holidays",
+              "full_vn": "treo giò ngày nghỉ"
+            },
+            {
+              "full_en": "to stop payment",
+              "full_vn": "tuyên bố không trả được nợ; vỡ nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bịt lại, nút lại, hàn",
+          "list_en_vn": [
+            {
+              "full_en": "to stop a leak",
+              "full_vn": "bịt lỗ gò"
+            },
+            {
+              "full_en": "to stop one's ears",
+              "full_vn": "bịt lỗ tai; (bóng) không chịu nghe"
+            },
+            {
+              "full_en": "to stop a wound",
+              "full_vn": "làm cầm máu một vết thương"
+            },
+            {
+              "full_en": "to stop a tooth",
+              "full_vn": "hàn một cái răng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm câu"
+        },
+        {
+          "m_full_vn": "(âm nhạc) bấm (dây đàn)"
+        },
+        {
+          "m_full_vn": "(hàng hải) buộc (dây) cho chặt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngừng lại, đứng lại",
+          "list_en_vn": [
+            {
+              "full_en": "the train stops",
+              "full_vn": "xe lửa dừng lại"
+            },
+            {
+              "full_en": "he stopped in the middle of a sentence",
+              "full_vn": "nó ngừng lại ở giữa câu"
+            },
+            {
+              "full_en": "my watch has stopped",
+              "full_vn": "đồng hồ tôi đứng mất rồi, đồng hồ chết rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) lưu lại, ở lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stop down",
+              "list_im": [
+                {
+                  "im_full_vn": "(nhiếp ảnh) chắn bớt sáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop off",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) đỗ lại, nghỉ lại (trong cuộc đi)"
+                },
+                {
+                  "im_full_vn": "(kỹ thuật) đổ cát vào (phần khuôn không dùng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop out",
+              "list_im": [
+                {
+                  "im_full_vn": "(kỹ thuật) quét sơn bảo vệ chống axit"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop over",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) sự đỗ lại, sự ngừng lại (trong một cuộc đi) (như) stop off"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop blow with one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) đưa đầu ra đỡ đòn; bị đòn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop one",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bị ăn đạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop somebody's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "bóp cổ ai cho đến chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop somebody's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "đấm mõm ai (hối lộ cho đừng nói)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop the way",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn cản bước đi; ngăn cản sự tiến bộ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stop at home",
+              "full_vn": "ở nhà"
+            },
+            {
+              "full_en": "to stop in Namdinh with friends",
+              "full_vn": "lưu lại ở Nam định với các bạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345256_89cb93d300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345256_e238c32741_o.png",
+      "id_image": "stop_1178811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390202_015fef04d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390202_420c9e9043_o.png",
+      "id_image": "stop_2767760"
+    }
+  ]
+}

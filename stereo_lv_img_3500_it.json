@@ -1,0 +1,56 @@
+{
+  "english": "stereo",
+  "phat_am": "['steriou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều stereos",
+      "list_m": [
+        {
+          "m_full_vn": "âm thanh nổi; sự ghi âm nổi",
+          "list_en_vn": [
+            {
+              "full_en": "broadcast in stereo",
+              "full_vn": "sự phát thanh bằng âm thanh nổi"
+            },
+            {
+              "full_en": "a stereo record /system",
+              "full_vn": "dĩa hát/dàn máy âm thanh nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy xtê-rê-ô (máy thu phát, ( ra-đi-ô) âm thanh nổi)"
+        },
+        {
+          "m_full_vn": "(thông tục) bản in đúc"
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "có ba chiều; hình khối; lập thể; nổi",
+          "list_en_vn": [
+            {
+              "full_en": "stereoscope",
+              "full_vn": "kính nhìn nổi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347181_9ff99ed635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347181_1ce1640afb_o.png",
+      "id_image": "stereo_1281064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392167_6c4143d319_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392167_8e4e99028d_o.png",
+      "id_image": "stereo_529463"
+    }
+  ]
+}

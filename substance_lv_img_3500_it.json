@@ -1,0 +1,92 @@
+{
+  "english": "substance",
+  "phat_am": "['sʌbstəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại vật chất nào đó; chất",
+          "list_en_vn": [
+            {
+              "full_en": "poisonous substance",
+              "full_vn": "chất độc"
+            },
+            {
+              "full_en": "water and ice are the same substance in different forms",
+              "full_vn": "nước và băng cùng là một chất ở những dạng khác nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vấn đề có thật (chứ không phải nghe đồn hoặc tưởng tượng)",
+          "list_en_vn": [
+            {
+              "full_en": "they maintained that ghosts have no substance",
+              "full_vn": "họ xác nhận rằng ma không có thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự vững vàng; sự vững chắc",
+          "list_en_vn": [
+            {
+              "full_en": "I like a meal that has some substance to it",
+              "full_vn": "Tôi thích bữa ăn có chất (có thức ăn bổ béo)"
+            },
+            {
+              "full_en": "an argument of little substance",
+              "full_vn": "một lý lẽ có ít thực chất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực chất; cốt lõi; căn bản",
+          "list_en_vn": [
+            {
+              "full_en": "the substance of religion",
+              "full_vn": "thực chất của tôn giáo"
+            },
+            {
+              "full_en": "I agree with the substance of what you say /with what you say in substance , but differ on points of detail",
+              "full_vn": "Tôi đồng ý về căn bản với những điều anh nói, chứ về chi tiết thì không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của cải; tài sản",
+          "list_en_vn": [
+            {
+              "full_en": "a man /woman of substance",
+              "full_vn": "người có của"
+            },
+            {
+              "full_en": "to waste one's substance",
+              "full_vn": "phung phí tiền của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học) thực thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "to throw away the substance for the shadow",
+              "list_im": [
+                {
+                  "im_full_vn": "thả mồi bắt bóng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384717_2635f5d5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384717_9ab4109987_o.png",
+      "id_image": "substance_4172766"
+    }
+  ]
+}

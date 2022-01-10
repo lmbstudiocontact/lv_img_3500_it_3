@@ -1,0 +1,40 @@
+{
+  "english": "shaky",
+  "phat_am": "['∫eiki]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rung, run (do yếu, ốm đau..)",
+          "list_en_vn": [
+            {
+              "full_en": "shaky hand",
+              "full_vn": "tay run run"
+            },
+            {
+              "full_en": "a shaky voice",
+              "full_vn": "giọng nói run rẩy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không vững chãi, dễ lung lay, hay dao động",
+          "list_en_vn": [
+            {
+              "full_en": "shaky credit",
+              "full_vn": "uy tín lung lay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462238_bc9e811b40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462238_9655ff4293_o.png",
+      "id_image": "shaky_4126584"
+    }
+  ]
+}

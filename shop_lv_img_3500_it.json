@@ -1,0 +1,143 @@
+{
+  "english": "shop",
+  "phat_am": "[∫ɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cửa hàng, cửa hiệu (như) store"
+        },
+        {
+          "m_full_vn": "phân xưởng; nơi sản xuất các thứ, nơi sửa chữa các thứ (nhất là trong từ ghép) (như) workshop"
+        },
+        {
+          "m_full_vn": "(thông tục) cơ sở, trường sở nghề nghiệp, công việc làm ăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "all over the shop",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng lộn xộn; lung tung khắp mọi nơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have looked for it all over the shop",
+                      "full_vn": "tôi đã đi tìm cái đó khắp mọi nơi"
+                    },
+                    {
+                      "full_en": "my books are all over the shop",
+                      "full_vn": "sách của tôi lung tung cả lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mọi nơi, mọi chỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to the wrong shop",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏi nhầm chỗ; hỏi nhầm người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sink the shop",
+              "list_im": [
+                {
+                  "im_full_vn": "không bàn đến chuyện làm ăn; không bàn đến chuyện chuyên môn"
+                },
+                {
+                  "im_full_vn": "giấu nghề nghiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk shop",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chuyện làm ăn, nói chuyện công tác; nói chuyện chuyên môn, nói chuyện nghề nghiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "set up shop",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu công việc làm ăn, kinh doanh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to set up shop",
+              "full_vn": "bắt đầu công việc làm ăn, bắt đầu kinh doanh"
+            },
+            {
+              "full_en": "to shut up shop",
+              "full_vn": "thôi làm việc gì; (từ Mỹ,nghĩa Mỹ) đóng cửa hiệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi mua hàng, đi chợ (thường) go shopping"
+        },
+        {
+          "m_full_vn": "cung cấp tài liệu, tin tức về (ai) (nhất là cho cảnh sát)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đến (cửa hàng) để mua hàng",
+          "list_en_vn": [
+            {
+              "full_en": "shopping the stores looking for bargains",
+              "full_vn": "đi các cửa hàng để khảo giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bỏ tù, bắt giam",
+          "list_one_mean": [
+            {
+              "id_full_en": "shop around (for something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) xem xét kỹ lưỡng để tìm hàng hoá có chất lượng tốt nhất (hoặc dịch vụ tốt nhất..)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388332_2723ddd983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388332_cae57b45e3_o.png",
+      "id_image": "shop_290957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080790_655f2e7a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080790_be83f6b53d_o.png",
+      "id_image": "shop_298338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343276_17fba94c33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343276_acd76458fc_o.png",
+      "id_image": "shop_606817"
+    }
+  ]
+}

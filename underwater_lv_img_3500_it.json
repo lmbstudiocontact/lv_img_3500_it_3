@@ -1,0 +1,62 @@
+{
+  "english": "underwater",
+  "phat_am": "[,ʌndə'wɔ:tə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở dưới mặt nước, được dùng dưới mặt nước, được làm dưới mặt nước",
+          "list_en_vn": [
+            {
+              "full_en": "underwater cameras",
+              "full_vn": "máy quay phim dưới nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới mặt nước",
+          "list_en_vn": [
+            {
+              "full_en": "the duck disappeared underwater",
+              "full_vn": "con vịt biến mất dưới mặt nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước ngầm"
+        },
+        {
+          "m_full_vn": "chỗ sâu; nước dưới sâu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353536_fdc853e403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353536_ea5e5c44c2_o.png",
+      "id_image": "underwater_3204079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708219_ddd3cf2467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708219_9e195601fa_o.png",
+      "id_image": "underwater_3204148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353491_a3d1688a84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353491_63a2c8de56_o.png",
+      "id_image": "underwater_4127133"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "english": "termination",
+  "phat_am": "[,tə:mi'nei∫(ə)n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kết thúc, sự hoàn thành, sự chấm dứt; cách kết thúc; điểm kết thúc",
+          "list_en_vn": [
+            {
+              "full_en": "to put a termination to something",
+              "full_vn": "làm xong việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sẩy thai"
+        },
+        {
+          "m_full_vn": "giới hạn; phần kết thúc, phần kết luận"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) từ vĩ, âm tiết cuối, chữ tận cùng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466433_fdd15a6fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466433_84fd5f89b7_o.png",
+      "id_image": "termination_5267804"
+    }
+  ]
+}

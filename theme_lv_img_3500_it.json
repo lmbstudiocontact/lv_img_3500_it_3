@@ -1,0 +1,44 @@
+{
+  "english": "theme",
+  "phat_am": "[θi:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đề tài, chủ đề (của một câu chuyện, bài viết..)",
+          "list_en_vn": [
+            {
+              "full_en": "the theme of a speech",
+              "full_vn": "đề tài bài nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) chủ đề (của bài hát, bản nhạc)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đề tài luận văn, đề tài bài học (của sinh viên..)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) chủ tố"
+        },
+        {
+          "m_full_vn": "(âm nhạc) hát dạo đầu, nhạc hiệu (như) theme song"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350411_d57cb6b3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350411_63027a45b4_o.png",
+      "id_image": "theme_1199134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350381_095b0cdc37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350381_b3690fb728_o.png",
+      "id_image": "theme_2236194"
+    }
+  ]
+}

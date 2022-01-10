@@ -1,0 +1,97 @@
+{
+  "english": "suspicion",
+  "phat_am": "[sə'spi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghi ngờ; sự bị nghi ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "to regard somebody with suspicion",
+              "full_vn": "nhìn ai với vẻ nghi ngờ"
+            },
+            {
+              "full_en": "he was arrested on suspicion of having stolen the money",
+              "full_vn": "nó bị bắt vì bị nghi là đã ăn cắp tiền"
+            },
+            {
+              "full_en": "her behaviour aroused no suspicion",
+              "full_vn": "hành vi của bà ta không gây ra sự nghi ngờ nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( suspicion about somebody / something ; suspicion that ...) sự ngờ, sự ngờ vực",
+          "list_en_vn": [
+            {
+              "full_en": "I have a suspicion that she is not telling me the truth",
+              "full_vn": "tôi nghi ngờ rằng cô ta không nói cho tôi biết sự thật"
+            },
+            {
+              "full_en": "have you any suspicion about his statement ?",
+              "full_vn": "anh có nghi ngờ gì về lời khai của hắn hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( suspicion of something ) một thoáng, một tí, một chút, số lượng rất ít (của cái gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "above suspicion",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nghi ngờ được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his honesty is above suspicion",
+                      "full_vn": "tính chân thật của anh ta thì không ai còn có thể nghi ngờ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "under suspicion",
+              "list_im": [
+                {
+                  "im_full_vn": "bị nghi ngờ làm điều sai trái"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "add a suspicion of pepper to the soup",
+              "full_vn": "hãy thêm một tí tiêu vào súp"
+            },
+            {
+              "full_en": "a suspicion of garlic in the stew",
+              "full_vn": "thoáng có vị tỏi trong món thịt hầm"
+            },
+            {
+              "full_en": "a suspicion of sadness in her voice",
+              "full_vn": "thoáng một chút buồn trong giọng nói của cô ấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tiếng địa phương) nghi ngờ, ngờ vực"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071800_0a480ac78b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071800_3ddff9d248_o.png",
+      "id_image": "suspicion_6001237"
+    }
+  ]
+}

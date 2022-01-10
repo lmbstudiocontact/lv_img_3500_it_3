@@ -1,0 +1,128 @@
+{
+  "english": "space",
+  "phat_am": "['speis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng trống, khoảng cách (giữa hai hay nhiều vật hoặc điểm)",
+          "list_en_vn": [
+            {
+              "full_en": "the spaces between words",
+              "full_vn": "khoảng trống (cách) giữa hai từ"
+            },
+            {
+              "full_en": "space between the rows",
+              "full_vn": "khoảng cách giữa các hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không trung (khoảng mở rộng vô tận trong đó mọi vật tồn tại và chuyển động)",
+          "list_en_vn": [
+            {
+              "full_en": "he was staring into space",
+              "full_vn": "ông ta chăm chú nhìn vào không trung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng, chỗ (chưa ai chiếm); nơi có thể sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "to take up too much space",
+              "full_vn": "choán mất nhiều chỗ"
+            },
+            {
+              "full_en": "the wide open space",
+              "full_vn": "những vùng rộng mênh mông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng đất trống"
+        },
+        {
+          "m_full_vn": "không gian vũ trụ (như) outer space",
+          "list_en_vn": [
+            {
+              "full_en": "to travel through space to other planets",
+              "full_vn": "du hành trong vũ trụ đến các hành tinh khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "a space of two weeks between appoinments",
+              "full_vn": "khoảng cách hai tuần giữa hai lần hẹn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) khoảng cách chữ; phiến cách chữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "watch this space",
+              "list_im": [
+                {
+                  "im_full_vn": "tỉnh táo vì có điều thú vị hoặc ngạc nhiên sắp xảy ra ở đây (trong tờ báo..)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ (đôi khi to space out )",
+      "list_m": [
+        {
+          "m_full_vn": "đặt cách nhau, để cách nhau, dàn theo từng chặng",
+          "list_en_vn": [
+            {
+              "full_en": "tables are spaced (out ) one metre apart",
+              "full_vn": "bàn được đặt cách nhau một mét"
+            },
+            {
+              "full_en": "to space the rows 10 inches apart",
+              "full_vn": "đặt các hàng cách nhau 10 insơ"
+            },
+            {
+              "full_en": "to space out payments for a house over twenty years",
+              "full_vn": "trả dần tiền ngôi nhà trong 20 năm"
+            },
+            {
+              "full_en": "the letter was well spaced",
+              "full_vn": "chữ đánh cách quãng đẹp (đánh máy với khoảng cách thích hợp giữa các dòng)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370067_a6a4bfed3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370067_e285becee5_o.png",
+      "id_image": "space_327430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440168_aa231cf7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440168_256c40c796_o.png",
+      "id_image": "space_501125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680264_ebd7d92b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680264_8d05dd312e_o.png",
+      "id_image": "space_5928391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680294_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680294_545bec1d1e_o.png",
+      "id_image": "space_749500"
+    }
+  ]
+}

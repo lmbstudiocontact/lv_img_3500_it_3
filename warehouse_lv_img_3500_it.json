@@ -1,0 +1,43 @@
+{
+  "english": "warehouse",
+  "phat_am": "['weəhaus]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kho hàng; kho chứa đồ"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) cửa hàng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cất vào kho, xếp vào kho",
+          "list_en_vn": [
+            {
+              "full_en": "the cost of warehousing goods",
+              "full_vn": "chi phí cho hàng gửi vào kho"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074705_5e08c2a15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074705_d7841d4141_o.png",
+      "id_image": "warehouse_566129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074655_00210d5774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074655_6ee99879e8_o.png",
+      "id_image": "warehouse_869045"
+    }
+  ]
+}

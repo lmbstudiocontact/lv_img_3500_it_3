@@ -1,0 +1,32 @@
+{
+  "english": "tetrahedron",
+  "phat_am": "[,tetrə'hi:drən]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều tetrahedrons",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) khối bốn mặt, tứ diện",
+          "list_en_vn": [
+            {
+              "full_en": "tetrahedron of reference",
+              "full_vn": "tứ diện quy chiếu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088255_a9870324c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088255_7a9d5b97fa_o.png",
+      "id_image": "tetrahedron_3810250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088190_35dc830655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088190_db855833b7_o.png",
+      "id_image": "tetrahedron_5853899"
+    }
+  ]
+}

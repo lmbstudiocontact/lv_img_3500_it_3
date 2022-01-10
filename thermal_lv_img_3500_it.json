@@ -1,0 +1,58 @@
+{
+  "english": "thermal",
+  "phat_am": "['θə:ml]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiệt, nóng",
+          "list_en_vn": [
+            {
+              "full_en": "thermal insulation",
+              "full_vn": "sự cách nhiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ấm, nóng",
+          "list_en_vn": [
+            {
+              "full_en": "thermal spring",
+              "full_vn": "suối nước nóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhằm giữ ấm trong thời tiết lạnh (về quần áo)",
+          "list_en_vn": [
+            {
+              "full_en": "thermal underwear",
+              "full_vn": "quần áo lót ấm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "luồng không khí nóng bốc lên (khi đó tàu lượn lợi dụng để bay lên cao)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087265_93663b0524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087265_d8cce9ed7a_o.png",
+      "id_image": "thermal_1486243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087240_348bd651a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087240_110570f383_o.png",
+      "id_image": "thermal_2332894"
+    }
+  ]
+}

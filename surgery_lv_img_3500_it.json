@@ -1,0 +1,61 @@
+{
+  "english": "surgery",
+  "phat_am": "['sə:dʒəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoa phẫu thuật; sự mổ",
+          "list_en_vn": [
+            {
+              "full_en": "plastic /cosmetic surgery",
+              "full_vn": "phẫu thuật tạo hình/thẩm mỹ"
+            },
+            {
+              "full_en": "qualified in surgery and medicine",
+              "full_vn": "đủ trình độ chuyên môn về phẫu thuật và nội khoa"
+            },
+            {
+              "full_en": "to prepare the patient for surgery",
+              "full_vn": "chuẩn bị người bệnh để mổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng khám bệnh; giờ khám bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "surgery hours",
+              "full_vn": "những giờ khám bệnh"
+            },
+            {
+              "full_en": "surgery lasts from 9 am to 10 am",
+              "full_vn": "giờ khám bệnh (kéo dài) từ 9 đến 10 giờ sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thời gian một nghị sĩ gặp những người dân mà ông ta đại diện để họ hỏi ý kiến; buổi tiếp dân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335686_4dd210d99f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335686_3674f3b17a_o.png",
+      "id_image": "surgery_5154786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690909_9e8033c8f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690909_b5d1cdc008_o.png",
+      "id_image": "surgery_6093461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380692_5e52239072_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380692_30fd899a19_o.png",
+      "id_image": "surgery_6093473"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "sponsorship",
+  "phat_am": "['spɔnsə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trách nhiệm của người đỡ đầu (cha, mẹ)",
+          "list_en_vn": [
+            {
+              "full_en": "we're very grateful for his sponsorship",
+              "full_vn": "chúng tôi rất biết ơn về sự đỡ đầu của ông ấy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353011_381de268a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353011_d031a1077a_o.png",
+      "id_image": "sponsorship_2132459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707719_b0b0369bfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707719_cdcd9fc5e1_o.png",
+      "id_image": "sponsorship_4016321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467753_73b8bbb0c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467753_5ed4c49200_o.png",
+      "id_image": "sponsorship_5853736"
+    }
+  ]
+}

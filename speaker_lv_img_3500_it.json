@@ -1,0 +1,39 @@
+{
+  "english": "speaker",
+  "phat_am": "['spi:kə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nói, người diễn thuyết, người đọc diễn văn; diễn giả; nhà hùng biện"
+        },
+        {
+          "m_full_vn": "người thuyết minh (phim)"
+        },
+        {
+          "m_full_vn": "người nói một thứ tiếng nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "French speakers /speakers of French",
+              "full_vn": "những người nói tiếng Pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) loa phóng thanh (như) loudspeaker"
+        },
+        {
+          "m_full_vn": "( the Speaker ) chủ tịch hạ nghị viện ( Anh, Mỹ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679944_e1fb818295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679944_8632aeeec4_o.png",
+      "id_image": "speaker_422509"
+    }
+  ]
+}

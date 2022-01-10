@@ -1,0 +1,54 @@
+{
+  "english": "shooter",
+  "phat_am": "['∫u:tə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(trong danh từ ghép) người bắn súng",
+          "list_en_vn": [
+            {
+              "full_en": "a sharpshooter",
+              "full_vn": "nhà thiện xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trong danh từ ghép) cái dùng để bắn",
+          "list_en_vn": [
+            {
+              "full_en": "a six-shooter",
+              "full_vn": "súng lục"
+            },
+            {
+              "full_en": "a pea-shooter",
+              "full_vn": "ống xì thổi hạt đậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đi săn"
+        },
+        {
+          "m_full_vn": "quả bóng ( crickê) là là trên mặt đất"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) người sút (bóng đá)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080970_38724da2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080970_6eb213dea0_o.png",
+      "id_image": "shooter_2389318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343511_fdb1709946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343511_8dd51a2f66_o.png",
+      "id_image": "shooter_5542305"
+    }
+  ]
+}

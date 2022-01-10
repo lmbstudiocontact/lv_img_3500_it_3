@@ -1,0 +1,254 @@
+{
+  "english": "straight",
+  "phat_am": "[streit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thẳng, không cong",
+          "list_en_vn": [
+            {
+              "full_en": "straight line",
+              "full_vn": "đường thẳng"
+            },
+            {
+              "full_en": "straight hair",
+              "full_vn": "tóc thẳng, tóc không quăn"
+            },
+            {
+              "full_en": "straight as a post",
+              "full_vn": "thẳng như cái cột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thẳng thắn, trung thực, thật thà (về người, hành vi của anh ta..)",
+          "list_en_vn": [
+            {
+              "full_en": "straight speaking",
+              "full_vn": "nói thẳng"
+            },
+            {
+              "full_en": "to be perfectly straight in one's dealings",
+              "full_vn": "rất chân thật trong việc đối xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chân thật; không sửa đổi, không phức tạp",
+          "list_en_vn": [
+            {
+              "full_en": "tell a straight story",
+              "full_vn": "kể một câu chuyện chân thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc loại thông thường (về một vở kịch, phong cách (sân khấu))",
+          "list_en_vn": [
+            {
+              "full_en": "a straight actor",
+              "full_vn": "một diễn viên bình thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liền một mạch; kế nhau liên tục"
+        },
+        {
+          "m_full_vn": "gọn gàng; ngăn nắp; đúng đắn"
+        },
+        {
+          "m_full_vn": "ngay ngắn; phẳng, thẳng đứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "a straight race",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc đua hào hứng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a straight tip",
+              "list_im": [
+                {
+                  "im_full_vn": "lời mách nước từ nguồn tin đáng tin cậy (đua ngựa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a whisky straight",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) rượu uytky không pha"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to vote the straight ticket",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ phiếu cho danh sách ứng cử viên đảng mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put things straight",
+              "full_vn": "sắp xếp mọi vật cho ngay ngắn"
+            },
+            {
+              "full_en": "to put a room straight",
+              "full_vn": "xếp một căn phòng cho ngăn nắp thứ tự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "không cong, không có góc; thẳng; trực tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "to go straight",
+              "full_vn": "đi thẳng"
+            },
+            {
+              "full_en": "he came straight from home",
+              "full_vn": "anh ấy đi thẳng từ nhà đến đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng con đường thẳng; không trì hoãn, không do dự",
+          "list_en_vn": [
+            {
+              "full_en": "she went straight from school to university",
+              "full_vn": "cô ta học thẳng từ trường trung học lên đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trung thực và thành thật; một cách thẳng thắn",
+          "list_en_vn": [
+            {
+              "full_en": "I told it him straight out",
+              "full_vn": "tôi nói thẳng với anh ta về vấn đề đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, đúng đắn, chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "to see straight",
+              "full_vn": "nhìn đúng"
+            },
+            {
+              "full_en": "to shoot straight",
+              "full_vn": "bắn trúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ngay lập tức",
+          "list_one_mean": [
+            {
+              "id_full_en": "straight away",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay lập tức, không chậm trễ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "straight off",
+              "list_im": [
+                {
+                  "im_full_vn": "không do dự"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) (như) straight away"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go straight",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn lương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "straight from the shoulder",
+              "list_im": [
+                {
+                  "im_full_vn": "thẳng thừng (về phê bình..)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "straight out",
+              "list_im": [
+                {
+                  "im_full_vn": "không do dự; thẳng thắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "straight up",
+              "list_im": [
+                {
+                  "im_full_vn": "thành thật; thật sự (dùng trong câu hỏi và câu trả lời)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thẳng",
+          "list_en_vn": [
+            {
+              "full_en": "to be out of the straight",
+              "full_vn": "không thẳng, cong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ thẳng, đoạn thẳng, phần thẳng (nhất là phần cuối cùng của một vòng đua hoặc một con đường đua ngựa)"
+        },
+        {
+          "m_full_vn": "(đánh bài) suốt (một bộ năm con liên tiếp, trong bài xì, pôcơ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344206_ec9ff5039c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344206_ddeed76813_o.png",
+      "id_image": "straight_1814992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458953_8592d7c7d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458953_3a01f60989_o.png",
+      "id_image": "straight_1815038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389217_77900102c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389217_d9a333f455_o.png",
+      "id_image": "straight_214258"
+    }
+  ]
+}

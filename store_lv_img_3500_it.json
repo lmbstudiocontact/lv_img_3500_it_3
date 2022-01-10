@@ -1,0 +1,171 @@
+{
+  "english": "store",
+  "phat_am": "[stɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) cửa hàng, cửa hiệu (như) shop"
+        },
+        {
+          "m_full_vn": "( + of something ) sự có nhiều, sự dồi dào",
+          "list_en_vn": [
+            {
+              "full_en": "a store of wisdom",
+              "full_vn": "một kho khôn ngoan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dự trữ; khối lượng dự trữ",
+          "list_en_vn": [
+            {
+              "full_en": "to lay in store for winter",
+              "full_vn": "dự trữ cho mùa đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kho hàng"
+        },
+        {
+          "m_full_vn": "cửa hàng bách hoá",
+          "list_en_vn": [
+            {
+              "full_en": "a general store",
+              "full_vn": "cửa hàng bách hoá tổng hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng tích trữ; đồ dự trữ; hàng để cung cấp (cho một mục đích đặc biệt)",
+          "list_en_vn": [
+            {
+              "full_en": "military stores",
+              "full_vn": "quân trang quân dụng dự trữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ dự trữ (trong máy tính)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) ( (thường) trong từ ghép) cửa hàng; cửa hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "the drugstore",
+              "full_vn": "cửa hàng dược phẩm"
+            },
+            {
+              "full_en": "the liquor store",
+              "full_vn": "cửa hàng rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( định ngữ) dự trữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in store (for somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "dự trữ; giữ sẵn để dùng (trong tương lai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have something in store for somebody",
+                      "full_vn": "dành sẵn cho ai cái gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sẽ tới trong tương lai; sắp xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set store by",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set (great /little /no /not much ) store by something",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "store is no sore",
+              "list_im": [
+                {
+                  "im_full_vn": "càng nhiều của càng tốt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "store cattle",
+              "full_vn": "súc vật dự trữ (chưa đem ra vỗ béo)"
+            },
+            {
+              "full_en": "store rice",
+              "full_vn": "gạo dự trữ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tích trữ, để dành"
+        },
+        {
+          "m_full_vn": "cất trong kho, giữ trong kho, cho vào kho"
+        },
+        {
+          "m_full_vn": "cất giữ (cái gì có ích); trau dồi, bồi dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "to store one's mind",
+              "full_vn": "trau dồi trí tuệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa, đựng, tích",
+          "list_en_vn": [
+            {
+              "full_en": "to store energy",
+              "full_vn": "tích năng lượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459828_0755671c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459828_eebf983a67_o.png",
+      "id_image": "store_217806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389972_47ebe9a215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389972_624357064b_o.png",
+      "id_image": "store_390717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700129_5f6334d844_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700129_494d9250db_o.png",
+      "id_image": "store_407810"
+    }
+  ]
+}

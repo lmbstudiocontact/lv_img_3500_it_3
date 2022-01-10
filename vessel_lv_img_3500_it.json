@@ -1,0 +1,64 @@
+{
+  "english": "vessel",
+  "phat_am": "['vesl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình, chậu, vại, lọ, thùng, chai, chén (bất cứ đồ chứa rỗng nào, nhất là thứ dùng để chứa các chất lỏng)",
+          "list_en_vn": [
+            {
+              "full_en": "communicating vessels",
+              "full_vn": "bình thông nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) thuyền lớn, tàu lớn"
+        },
+        {
+          "m_full_vn": "ống, mạch (cấu trúc dạng ống trong cơ thể động vật hay cây cối, dẫn truyền hoặc chứa máu hay chất lỏng khác)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the weaker vessel",
+              "list_im": [
+                {
+                  "im_full_vn": "(kinh) đàn bà"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "blood vessel",
+              "full_vn": "mạch máu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345676_354c2610d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345676_7d2f4e70af_o.png",
+      "id_image": "vessel_1486194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345646_64e267c414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345646_7313ebe9be_o.png",
+      "id_image": "vessel_1631084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345601_719d643696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345601_6ef635aecf_o.png",
+      "id_image": "vessel_3804889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345591_2f94b93cac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345591_0d5d76d43a_o.png",
+      "id_image": "vessel_4463319"
+    }
+  ]
+}

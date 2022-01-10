@@ -1,0 +1,39 @@
+{
+  "english": "wasteful",
+  "phat_am": "['weistfl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gây ra lãng phí",
+          "list_en_vn": [
+            {
+              "full_en": "a wasteful person",
+              "full_vn": "một người hay lãng phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoang phí, tốn phí, ngông cuồng, sử dụng nhiều quá sự cần thiết",
+          "list_en_vn": [
+            {
+              "full_en": "wasteful expenditure",
+              "full_vn": "sự chi tiêu hoang phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm, nghĩa hiếm) phá hoại (chiến tranh)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072955_60e09d84ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072955_743a84bbc6_o.png",
+      "id_image": "wasteful_6164912"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "stump",
+  "phat_am": "[stʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gốc cây (còn lại sau khi đốn)"
+        },
+        {
+          "m_full_vn": "chân răng"
+        },
+        {
+          "m_full_vn": "phần còn lại của chân hoặc tay đã bị cụt"
+        },
+        {
+          "m_full_vn": "mẩu (bút chì, thuốc lá)"
+        },
+        {
+          "m_full_vn": "gốc rạ"
+        },
+        {
+          "m_full_vn": "bàn chải cũ"
+        },
+        {
+          "m_full_vn": "( số nhiều) (đùa cợt) chân, cẳng",
+          "list_en_vn": [
+            {
+              "full_en": "stir your stumps !",
+              "full_vn": "quàng lên!, mau lên!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cọc gôn ( crickê)"
+        },
+        {
+          "m_full_vn": "bút đánh bóng (vẽ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người lùn mập; con vật lùn mập"
+        },
+        {
+          "m_full_vn": "bước đi lộp cộp nặng nề; tiếng bước đi lộp cộp nặng nề"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lời thách thức, sự thách thức",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the stump",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đang đi diễn thuyết (về (chính trị)); đang đi cổ động (trước đây (thường) hay đứng trên một gốc cây)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up a stump",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không thể nghĩ ra được, không thể trả lời được, bí; bối rối, trong tình trạng khó xử; trong tình trạng tiến lui đều khó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi lộp cộp, đi cứng nhắc, đi gây tiếng động ầm ĩ",
+          "list_en_vn": [
+            {
+              "full_en": "they stumped up the hill",
+              "full_vn": "họ rầm rập lên đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) đi diễn thuyết khắp nơi (về (chính trị), để tranh cử...)"
+        },
+        {
+          "m_full_vn": "chấm dứt lượt chơi của (một cầu thủ) bằng cách đưa bóng chạm cọc gôn khi anh ta đang ở ngoài khu việt vị (về người giữ gôn trong cricket)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốn (cây) còn để gốc"
+        },
+        {
+          "m_full_vn": "đào hết gốc (ở khu đất)"
+        },
+        {
+          "m_full_vn": "quay, truy (một thí sinh)"
+        },
+        {
+          "m_full_vn": "(thông tục) làm (ai) bí; gây bối rối; quá khó đối với (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "I am stumped for an answer",
+              "full_vn": "tôi không biết trả lời thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh bóng (một bức tranh)"
+        },
+        {
+          "m_full_vn": "đi khắp (vùng) để diễn thuyết (vận động (chính trị), tranh cử...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) vấp (ngón chân...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) thách, thách thức"
+        },
+        {
+          "m_full_vn": "( + up ) (thông tục) trả (một số tiền)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696179_1c25e6d1fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696179_bdb2cfd53a_o.png",
+      "id_image": "stump_4292728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340856_4955a1ddb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340856_b59614b7ac_o.png",
+      "id_image": "stump_4987014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340931_c8505ebeca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340931_2564e88659_o.png",
+      "id_image": "stump_699660"
+    }
+  ]
+}

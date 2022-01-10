@@ -1,0 +1,198 @@
+{
+  "english": "spare",
+  "phat_am": "[speə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thừa, dư; có để dành; dự trữ; dự phòng (cho lúc khẩn cấp)",
+          "list_en_vn": [
+            {
+              "full_en": "spare cash",
+              "full_vn": "tiền để dành"
+            },
+            {
+              "full_en": "spare room",
+              "full_vn": "buồn ngủ dành riêng cho khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rỗi rãi; có thời gian rỗi; tự do; không bận việc (về thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "spare time",
+              "full_vn": "thì giờ rỗi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh đạm, sơ sài, ít về số lượng",
+          "list_en_vn": [
+            {
+              "full_en": "on a spare diet",
+              "full_vn": "theo một chế độ ăn uống thanh đạm"
+            },
+            {
+              "full_en": "a spare meal",
+              "full_vn": "bữa ăn sơ sài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thặng dư, không cần đến"
+        },
+        {
+          "m_full_vn": "gầy gò",
+          "list_en_vn": [
+            {
+              "full_en": "man of spare frame",
+              "full_vn": "người gầy gò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để thay thế (đồ phụ tùng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "go spare",
+              "list_im": [
+                {
+                  "im_full_vn": "trở nên rất bực mình, trở nên rất khó chịu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dự phòng; phụ tùng thay thế (cho máy móc..; nhất là bánh xe dự trữ cho xe hơi)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để dành, tiết kiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to spare expenses",
+              "full_vn": "tiết kiệm việc chi tiêu"
+            },
+            {
+              "full_en": "to spare no efforts",
+              "full_vn": "không tiếc công sức"
+            },
+            {
+              "full_en": "to spare no pains doing /to do something",
+              "full_vn": "không tiếc công sức để làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không cần đến, có thừa",
+          "list_en_vn": [
+            {
+              "full_en": "we cannot spare him just now",
+              "full_vn": "hiện giờ chúng tôi rất cần đến anh ta"
+            },
+            {
+              "full_en": "I can spare you 10 d",
+              "full_vn": "tôi có thể cho anh vay tạm 10 đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tha, tha thứ, dung thứ; miễn cho",
+          "list_en_vn": [
+            {
+              "full_en": "to spare someone's life",
+              "full_vn": "thay mạng cho ai, tha giết ai"
+            },
+            {
+              "full_en": "to spare someone's feelings",
+              "full_vn": "không chạm đến tình cảm của ai"
+            },
+            {
+              "full_en": "I could have spared the explanation",
+              "full_vn": "đáng lẽ tôi đã có thể miễn việc giải thích"
+            },
+            {
+              "full_en": "spare me these jeremiads",
+              "full_vn": "xin miễn cho tôi những lời than van đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn uống thanh đạm"
+        },
+        {
+          "m_full_vn": "tằn tiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "spare the rod and spoil the child",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rod"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(and ) to spare",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều quá mức cần dùng; dư thừa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they have enough munitions and to spare",
+                      "full_vn": "họ có đủ đạn dược, thừa nữa là khác"
+                    },
+                    {
+                      "full_en": "do you have any milk to spare ?",
+                      "full_vn": "chị có thừa sữa hay không?"
+                    },
+                    {
+                      "full_en": "there's no time to spare",
+                      "full_vn": "chẳng có dư thời giờ đâu!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have enough and to spare",
+              "list_im": [
+                {
+                  "im_full_vn": "có của ăn của để; dư dật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439988_62f5f3d841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439988_40c6c87460_o.png",
+      "id_image": "spare_3476407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439978_83116f56ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439978_77fcf90287_o.png",
+      "id_image": "spare_5613201"
+    }
+  ]
+}

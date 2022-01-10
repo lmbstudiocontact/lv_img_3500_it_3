@@ -1,0 +1,141 @@
+{
+  "english": "swallow",
+  "phat_am": "['swɔlou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nuốt"
+        },
+        {
+          "m_full_vn": "miếng, ngụm",
+          "list_en_vn": [
+            {
+              "full_en": "to take a swallow of beer",
+              "full_vn": "uống một ngụm bia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(động vật học) chim nhạn",
+          "list_one_mean": [
+            {
+              "id_full_en": "one swallow does not make a summer",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) một con én không làm nên mùa xuân"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nuốt (thức ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "Taking pills is easy ; just put them in your mouth and swallow",
+              "full_vn": "uống thuốc viên dễ thôi; chỉ việc cho thuốc vào mồm rồi nuốt"
+            },
+            {
+              "full_en": "chew your food properly before swallowing",
+              "full_vn": "nhai kỹ thức ăn, rồi hẳn nuốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuốt, nén, chịu đựng, không biểu hiện công khai (một cảm xúc..); chấp nhận (một lời chửi rủa..) không phản đối",
+          "list_en_vn": [
+            {
+              "full_en": "to swallow one's anger",
+              "full_vn": "nuốt giận"
+            },
+            {
+              "full_en": "to swallow an affront",
+              "full_vn": "chịu nhục"
+            },
+            {
+              "full_en": "She called you a liar . Are you going to swallow that ?",
+              "full_vn": "Cô ấy gọi anh là đồ dóc láo. Thế mà anh nhịn được sao?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to swallow something / somebody up ) nuốt gọn; nuốt chửng",
+          "list_en_vn": [
+            {
+              "full_en": "the jungle swallowed up the explorers",
+              "full_vn": "rừng rậm đã nuốt chửng các nhà thám hiểm"
+            },
+            {
+              "full_en": "small firms being swallowed up by giant corporations",
+              "full_vn": "các hãng nhỏ bị các công ty khổng lồ nuốt chửng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng hết hoàn toàn",
+          "list_en_vn": [
+            {
+              "full_en": "the cost of the trial swallowed up all their savings",
+              "full_vn": "phí tổn cho vụ xét xử đã ngốn hết tiền tiết kiệm của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cả tin, tin (cái gì) quá dễ dàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "a bitter pill to swallow",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bitter"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swallow the bait",
+              "list_im": [
+                {
+                  "im_full_vn": "chấp nhận cái gì đã được nói, đề nghị... để nhử ai; cắn câu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swallow one's words",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa nhận mình đã nói sai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He told me I wouldn't pass the test , but I'm determined to make him swallow his words",
+                      "full_vn": "Nó nói là tôi sẽ không qua được cuộc sát hạch, nhưng tôi quyết làm cho nó thừa nhận là nó đã nói sai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "He flatters her outrageously , and she swallows it whole",
+              "full_vn": "Nó nịnh hót bà ta một cách quá đáng, nhưng bà ta vẫn tin tất thảy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334421_d1e1d4c5b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334421_5988ced0c1_o.png",
+      "id_image": "swallow_448286"
+    }
+  ]
+}

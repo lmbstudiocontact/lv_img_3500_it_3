@@ -1,0 +1,113 @@
+{
+  "english": "truck",
+  "phat_am": "[trʌk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trao đổi, sự đổi chác"
+        },
+        {
+          "m_full_vn": "đồ linh tinh, hàng vặt"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chuyện nhảm, chuyện tầm bậy"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) rau quả tươi (trồng để bán ở chợ)"
+        },
+        {
+          "m_full_vn": "(sử học) chế độ trả lương bằng hiện vật (như) truck system",
+          "list_one_mean": [
+            {
+              "id_full_en": "have no truck with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không có quan hệ, không có dính dáng gì đến"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán; đổi chác",
+          "list_en_vn": [
+            {
+              "full_en": "to truck a horse for a cow",
+              "full_vn": "đổi con ngựa lấy con bò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán (hàng) rong"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buôn bán; đổi chác",
+          "list_en_vn": [
+            {
+              "full_en": "to truck with someone",
+              "full_vn": "buôn bán với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán rong (hàng hoá)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe đẩy hoặc kéo bằng tay để chở hàng; xe ba gác hoặc xe cútkit"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) toa trần (toa chở hàng, không có mui)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) xe tải (như) lorry"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) xe dỡ hành lý (ở ga xe lửa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chở bằng xe ba gác"
+        },
+        {
+          "m_full_vn": "chở bằng xe tải"
+        },
+        {
+          "m_full_vn": "chở bằng toa chở hàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446663_52d9127245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446663_fb89fa073f_o.png",
+      "id_image": "truck_298325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686629_a102991708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686629_8dc2722925_o.png",
+      "id_image": "truck_698586"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "english": "slip",
+  "phat_am": "[slip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trượt chân",
+          "list_en_vn": [
+            {
+              "full_en": "a slip on a piece of banana-peel",
+              "full_vn": "trượt vỏ chuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều lầm lỗi; sự lỡ (lời...), sự sơ suất",
+          "list_en_vn": [
+            {
+              "full_en": "slip of the tongue",
+              "full_vn": "điều lỡ lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "áo gối, áo choàng; váy trong, coocxê; tạp dề"
+        },
+        {
+          "m_full_vn": "dây xích chó"
+        },
+        {
+          "m_full_vn": "bến tàu; chỗ đóng tàu, chỗ sửa chữa tàu"
+        },
+        {
+          "m_full_vn": "miếng giấy nhỏ, mảnh gỗ nhỏ, thanh gỗ dẹt"
+        },
+        {
+          "m_full_vn": "cành ghép, mầm ghép; cành giâm"
+        },
+        {
+          "m_full_vn": "nước áo (đất sét lỏng để tráng ngoài đồ sứ, đồ đất trước khi nung)"
+        },
+        {
+          "m_full_vn": "( số nhiều) buồng sau sân khấu"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần xi líp"
+        },
+        {
+          "m_full_vn": "cá bơn con"
+        },
+        {
+          "m_full_vn": "bản in thử",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give someone the slip",
+              "list_im": [
+                {
+                  "im_full_vn": "trốn ai, lẩn trốn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a slip of a boy",
+              "list_im": [
+                {
+                  "im_full_vn": "một cậu bé mảnh khảnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thả",
+          "list_en_vn": [
+            {
+              "full_en": "to slip anchor",
+              "full_vn": "thả neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ non (súc vật)",
+          "list_en_vn": [
+            {
+              "full_en": "cow slips calf",
+              "full_vn": "bò đẻ non"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đút nhanh, đút gọn, đút lén, giúi nhanh, nhét nhanh, nhét gọn",
+          "list_en_vn": [
+            {
+              "full_en": "to slip something into one's pocket",
+              "full_vn": "nhét nhanh cái gì vào túi"
+            },
+            {
+              "full_en": "to slip a pill into one's mouth",
+              "full_vn": "đút gọn viên thuốc vào mồm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thoát, tuột ra khỏi",
+          "list_en_vn": [
+            {
+              "full_en": "dog slips his collar",
+              "full_vn": "chó sổng xích"
+            },
+            {
+              "full_en": "the point has slipped my attention",
+              "full_vn": "tôi không chú ý đến điểm đó"
+            },
+            {
+              "full_en": "your name has slipped my momery",
+              "full_vn": "tôi quên tên anh rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trượt, tuột",
+          "list_en_vn": [
+            {
+              "full_en": "blanket slips off bed",
+              "full_vn": "chăn tuột xuống đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trôi qua, chạy qua",
+          "list_en_vn": [
+            {
+              "full_en": "opportunity slipped",
+              "full_vn": "dịp tốt trôi qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lẻn, lủi, lẩn, lỏn",
+          "list_en_vn": [
+            {
+              "full_en": "to slip out of the room",
+              "full_vn": "lẻn ra khỏi phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lỡ lầm, mắc lỗi (vì vô ý)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to slip along",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đi nhanh, phóng vụt đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip aside",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh (đấu gươm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip away",
+              "list_im": [
+                {
+                  "im_full_vn": "chuồn, lẩn, trốn"
+                },
+                {
+                  "im_full_vn": "trôi qua (thời gian)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how time slips away !",
+                      "full_vn": "thời giờ thấm thoắt thoi đưa!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip by",
+              "list_im": [
+                {
+                  "im_full_vn": "trôi qua (thời gian) (như) to slip away"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip into",
+              "list_im": [
+                {
+                  "im_full_vn": "lẻn vào"
+                },
+                {
+                  "im_full_vn": "(từ lóng) đấm thình thình"
+                },
+                {
+                  "im_full_vn": "(từ lóng) tố cáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip on",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc vội áo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip off",
+              "list_im": [
+                {
+                  "im_full_vn": "cởi vội áo, cởi tuột ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip out",
+              "list_im": [
+                {
+                  "im_full_vn": "lẻn, lỏn, lẩn"
+                },
+                {
+                  "im_full_vn": "thoát, tuột ra khỏi"
+                },
+                {
+                  "im_full_vn": "kéo ra dễ dàng (ngăn kéo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip over",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn qua loa, xem xét qua loa (một vấn đề...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lỡ lầm, mắc lỗi"
+                },
+                {
+                  "im_full_vn": "thất bại; gặp điều không may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip a cog",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) (như) to slip up"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slip someone over on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lừa bịp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let slip the gogs of war",
+              "list_im": [
+                {
+                  "im_full_vn": "(thơ ca) bắt đầu chiến tranh, gây cuộc binh đao"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to slip now and then in grammar",
+              "full_vn": "thỉnh thoảng mắc lỗi về ngữ pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332721_e43f21e662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332721_8d62b55d5b_o.png",
+      "id_image": "slip_1971073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687709_6c8986a9ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687709_4e6c3fa4ec_o.png",
+      "id_image": "slip_4482334"
+    }
+  ]
+}

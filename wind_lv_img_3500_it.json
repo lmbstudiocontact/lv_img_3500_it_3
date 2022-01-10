@@ -1,0 +1,490 @@
+{
+  "english": "wind",
+  "phat_am": "[waind]",
+  "list_type": [
+    {
+      "type": "danh từ (thơ ca)",
+      "list_m": [
+        {
+          "m_full_vn": "( wind , the wind ) gió",
+          "list_en_vn": [
+            {
+              "full_en": "north wind",
+              "full_vn": "gió bấc"
+            },
+            {
+              "full_en": "south wind",
+              "full_vn": "gió nam"
+            },
+            {
+              "full_en": "to run like the wind",
+              "full_vn": "chạy nhanh như gió"
+            },
+            {
+              "full_en": "the wind rises",
+              "full_vn": "trời nổi gió, gió thổi mạnh hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mùi do gió đưa đi",
+          "list_en_vn": [
+            {
+              "full_en": "the deer have got our wind",
+              "full_vn": "con hươu đã đánh hơi thấy chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơi thở (đặc biệt cần thiết khi tập thể dục liên tục hoặc để thổi một nhạc khí hơi)",
+          "list_en_vn": [
+            {
+              "full_en": "to lose one's wind",
+              "full_vn": "hết hơi"
+            },
+            {
+              "full_en": "to recover one's wind",
+              "full_vn": "lấy lại hơi"
+            },
+            {
+              "full_en": "to get one's second wind",
+              "full_vn": "thở theo nhịp điệu thường (sau khi thở dốc trong cuộc đua)"
+            },
+            {
+              "full_en": "the runner had to stop and regain her wind",
+              "full_vn": "vận động viên chạy phải dừng lại để thở lấy hơi (tức là đợi cho đến khi có thể thở dễ dàng hơn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương gió, phía gió thổi",
+          "list_en_vn": [
+            {
+              "full_en": "down the wind",
+              "full_vn": "xuôi gió"
+            },
+            {
+              "full_en": "in the teeth of wind ; up the wind",
+              "full_vn": "ngược gió"
+            },
+            {
+              "full_en": "into the wind",
+              "full_vn": "về phía gió thổi"
+            },
+            {
+              "full_en": "off the wind",
+              "full_vn": "chéo gió"
+            },
+            {
+              "full_en": "to sail before (on ) the wind",
+              "full_vn": "căng buồm chạy xuôi gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) các phương trời",
+          "list_en_vn": [
+            {
+              "full_en": "the four winds of heaven",
+              "full_vn": "bốn phương trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự đầy hơi, sự đầy bụng (không khí bị nuốt vào cùng lúc ăn hoặc uống hoặc hơi hình thành trong dạ dày hoặc trong ruột gây nên sự khó ở)",
+          "list_en_vn": [
+            {
+              "full_en": "to be troubled with wind",
+              "full_vn": "đầy hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) ức",
+          "list_en_vn": [
+            {
+              "full_en": "to hit in the wind",
+              "full_vn": "đánh vào ức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời rỗng tuếch; chuyện rỗng tuếch, câu chuyện khoác lác vô bổ"
+        },
+        {
+          "m_full_vn": "( the wind ) (âm nhạc) sự chơi nhạc khí hơi trong ban nhạc (kèn, sáo..); nhạc công chơi nhạc khí hơi trong ban nhạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break wind",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh rắm (thải hơi trong ruột qua hậu môn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's second wind",
+              "list_im": [
+                {
+                  "im_full_vn": "hồi sức lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get /have the wind up (about something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hoảng sợ, bị đe doạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp sửa xảy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh, như gió, như bay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the wind up somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm cho ai hoảng sợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run /sail before the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) chạy thuyền xuôi gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get wind of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe phong phanh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to get wind of a plot",
+                      "full_vn": "nghe phong thanh có một âm mưu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast (fling , throw ) something to the winds",
+              "list_im": [
+                {
+                  "im_full_vn": "coi nhẹ cái gì, không để tâm gìn giữ cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sail close to (near ) the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy gần như ngược chiều gió"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) làm việc gì hầu như không đoan chính lương thiện lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see which way the wind is blowing",
+              "list_im": [
+                {
+                  "im_full_vn": "xem dư luận ra sao; xem thời thế sẽ ra sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the wind out of somebody's sails",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm ai mất tin tưởng, làm ai mất tự hào, làm nhụt chí, làm mất mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is something in the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "có chuyện gì sẽ xảy ra đây, có chuyện gì đang được bí mật chuẩn bị đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the four winds",
+              "list_im": [
+                {
+                  "im_full_vn": "(bị thổi, tung toé...) ra khắp nơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a wind of change",
+              "list_im": [
+                {
+                  "im_full_vn": "ảnh hưởng làm thay đổi, chiều hướng thay đổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get a baby's wind up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho đứa bé hết đầy bụng (xoa nhẹ lưng nó cho nó ợ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, động tính từ quá khứ là winded",
+      "list_m": [
+        {
+          "m_full_vn": "đánh hơi",
+          "list_en_vn": [
+            {
+              "full_en": "the hounds had winded the fox",
+              "full_vn": "những con chó săn đã đánh hơi thấy con cáo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho thở hổn hển, làm mệt đứt hơi",
+          "list_en_vn": [
+            {
+              "full_en": "we were winded by the steep climb",
+              "full_vn": "chúng tôi mệt đứt hơi vì trèo dốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vuốt lưng (em bé) cho ợ tiêu"
+        },
+        {
+          "m_full_vn": "để cho nghỉ lấy hơi, để cho thở",
+          "list_en_vn": [
+            {
+              "full_en": "to wind one's horse",
+              "full_vn": "cho ngựa nghỉ lấy hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi",
+          "list_en_vn": [
+            {
+              "full_en": "to wind a horn",
+              "full_vn": "thổi tù và"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khúc uốn, khúc lượn (của con sông)"
+        },
+        {
+          "m_full_vn": "khúc cong, khúc quanh (trong một tiến trình, đường đi...)"
+        },
+        {
+          "m_full_vn": "một vòng quay khi vặn",
+          "list_en_vn": [
+            {
+              "full_en": "to give the clock another couple of winds",
+              "full_vn": "vặn đồng hồ thêm một vài vòng nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, động tính từ quá khứ là wound /waund/",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn, quấn, xoắn",
+          "list_en_vn": [
+            {
+              "full_en": "to wind itself",
+              "full_vn": "cuộn mình lại (con rắn)"
+            },
+            {
+              "full_en": "to wind up",
+              "full_vn": "quấn len thành một cuộn"
+            },
+            {
+              "full_en": "to wind thread on a reel",
+              "full_vn": "quấn chỉ vào ống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượn, uốn khúc",
+          "list_en_vn": [
+            {
+              "full_en": "the river winds its way to the sea",
+              "full_vn": "con sông lượn khúc chảy ra biển"
+            },
+            {
+              "full_en": "to wind oneself (one's way ) into someone's affection",
+              "full_vn": "(nghĩa bóng) khéo léo được lòng ai"
+            },
+            {
+              "full_en": "she wound her way through the crowd",
+              "full_vn": "cô ta luồn lách qua đám đông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bọc, choàng",
+          "list_en_vn": [
+            {
+              "full_en": "to wind a baby in a shawl",
+              "full_vn": "bọc đứa bé trong một chiếc khăn choàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) quay; trục lên bằng cách quay"
+        },
+        {
+          "m_full_vn": "lên dây (đồng hồ)"
+        },
+        {
+          "m_full_vn": "(điện học) quấn dây",
+          "list_en_vn": [
+            {
+              "full_en": "to wind a transformer",
+              "full_vn": "quấn dây một biến thế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quấn lại, cuộn lại (con rắn...)"
+        },
+        {
+          "m_full_vn": "quanh co, uốn khúc",
+          "list_en_vn": [
+            {
+              "full_en": "the river winds in and out",
+              "full_vn": "con sông quanh co uốn khúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vênh (tấm ván)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to wind off",
+              "list_im": [
+                {
+                  "im_full_vn": "tháo (sợi) ra (khỏi cuộn); lơi ra, tung ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wind on",
+              "list_im": [
+                {
+                  "im_full_vn": "quấn (chỉ) vào (ống chỉ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wind up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dây (đồng hồ, đàn)"
+                },
+                {
+                  "im_full_vn": "quấn (một sợi dây)"
+                },
+                {
+                  "im_full_vn": "giải quyết, thanh toán (công việc...)"
+                },
+                {
+                  "im_full_vn": "kết thúc (cuộc tranh luận); bế mạc (cuộc họp)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be wound up to a high pitch",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đẩy lên một mức cao (cơn giận)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be wound up to a white rage",
+              "list_im": [
+                {
+                  "im_full_vn": "bị kích động đến mức giận điên lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wind someone round one's little finger",
+              "list_im": [
+                {
+                  "im_full_vn": "xỏ dây vào mũi ai (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wind oneself up for an effort",
+              "list_im": [
+                {
+                  "im_full_vn": "ráng sức (làm việc gì)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329286_15d07ea4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329286_822e0f89c2_o.png",
+      "id_image": "wind_1207566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066025_beb61aa641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066025_34262e4c33_o.png",
+      "id_image": "wind_1327631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444248_d72710a62b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444248_b7bf0a4c31_o.png",
+      "id_image": "wind_207740"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "english": "wheel",
+  "phat_am": "[wi:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh xe (ở xe bò. xe ô tô...)",
+          "list_en_vn": [
+            {
+              "full_en": "front wheel",
+              "full_vn": "bánh trước"
+            },
+            {
+              "full_en": "back wheel",
+              "full_vn": "bánh sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là trong các từ ghép) bất cứ loại nào trong một loại máy mà bánh xe là bộ phận thiết yếu",
+          "list_en_vn": [
+            {
+              "full_en": "a potter's wheel",
+              "full_vn": "bàn (gốm) xoay"
+            },
+            {
+              "full_en": "a spinning wheel",
+              "full_vn": "guồng quay tơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) steering wheel",
+          "list_en_vn": [
+            {
+              "full_en": "the driver sat patiently behind the wheel",
+              "full_vn": "người lái xe ngồi kiên nhẫn sau vô lăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quay, sự chuyển động vòng (nhất là chuyển động của một hàng binh lính một đầu giẫm chân tại chỗ, một đầu quay)",
+          "list_en_vn": [
+            {
+              "full_en": "a left /right wheel",
+              "full_vn": "sự quay sang trái/phải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hệ thống bánh xe (của máy...)"
+        },
+        {
+          "m_full_vn": "xe hình (để buộc tội nhân vào mà đánh)",
+          "list_en_vn": [
+            {
+              "full_en": "to break on the wheel",
+              "full_vn": "xử xa hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự thăng trầm",
+          "list_en_vn": [
+            {
+              "full_en": "the wheels of life",
+              "full_vn": "những thăng trầm của cuộc đời"
+            },
+            {
+              "full_en": "fortune's wheel",
+              "full_vn": "sự thăng trầm của số phận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bộ máy, bánh xe",
+          "list_one_mean": [
+            {
+              "id_full_en": "big wheels",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) bọn tai to mặt lớn, bọn quyền cao chức trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a spoke in somebody's wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "xem spoke"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go on wheels",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy, trôi chảy, tiến hành thuận lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at /behind the wheel (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "lái (xe cộ, tàu)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) điều khiển (cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who was at the wheel when the car crashed ?",
+                      "full_vn": "ai lái xe khi chiếc xe đâm?"
+                    },
+                    {
+                      "full_en": "with her at the wheel , the company began to prosper",
+                      "full_vn": "dưới sự điều khiển của cô ấy, công ty đã bắt đầu phát đạt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "wheels within wheels",
+              "list_im": [
+                {
+                  "im_full_vn": "tình huống rối rắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to oil the wheels",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho công việc được suôn sẻ bằng cách đối xử tế nhị hoặc khôn khéo; đút lót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's shoulder to the wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "xem shoulder"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the wheel of history",
+              "full_vn": "bánh xe lịch sử"
+            },
+            {
+              "full_en": "the wheel of government",
+              "full_vn": "bộ máy chính quyền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẩy, kéo (xe có bánh)",
+          "list_en_vn": [
+            {
+              "full_en": "to wheel a barrow (along the street )",
+              "full_vn": "đẩy xe cút kít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chở ( ai/cái gì) trong xe có bánh",
+          "list_en_vn": [
+            {
+              "full_en": "to wheel somebody to the operating theatre on a trolley",
+              "full_vn": "đưa ai đến phòng mổ bằng xe đẩy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho) chuyển động vòng hoặc vòng tròn",
+          "list_en_vn": [
+            {
+              "full_en": "to wheel one's chair",
+              "full_vn": "xoay cái ghế"
+            },
+            {
+              "full_en": "birds wheeling (about ) in the sky above us",
+              "full_vn": "những con chim lượn vòng trên bầu trời phía trên đầu chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to wheel round / around ) quay tròn và hướng về đường khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "wheel and deal",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) thương lượng cửa sau, mặc cả một cách khôn khéo (thường) là bất lương",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there will be a lot of wheeling and dealing before an agreement is reached",
+                      "full_vn": "sẽ có nhiều cuộc thương lượng cửa sau trước khi đạt được một hợp đồng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "left /right wheel !",
+              "full_vn": "bên trái/phải quay!"
+            },
+            {
+              "full_en": "they wheeled round in amazement",
+              "full_vn": "họ quay trở lại mà lòng đầy kinh ngạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376187_759b2926e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376187_c7dc90c5ff_o.png",
+      "id_image": "wheel_1399491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686559_54f57a2990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686559_84a90f4b20_o.png",
+      "id_image": "wheel_545974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376232_85f9304e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376232_47bde5b6c9_o.png",
+      "id_image": "wheel_827194"
+    }
+  ]
+}

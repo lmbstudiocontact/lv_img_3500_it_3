@@ -1,0 +1,303 @@
+{
+  "english": "send",
+  "phat_am": "[sent]",
+  "list_type": [
+    {
+      "type": "ngoại động từ sent",
+      "list_m": [
+        {
+          "m_full_vn": "gửi, đưa, cử, phái (như) scend",
+          "list_en_vn": [
+            {
+              "full_en": "to send word to somebody",
+              "full_vn": "gửi vài chữ cho ai"
+            },
+            {
+              "full_en": "to send a boy a school",
+              "full_vn": "cho một em nhỏ đi học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho, ban cho, phù hộ cho, giáng (trời, Thượng đế...)",
+          "list_en_vn": [
+            {
+              "full_en": "send him victorioussend",
+              "full_vn": "trời phụ hộ cho nó thắng trận!"
+            },
+            {
+              "full_en": "to send a drought",
+              "full_vn": "giáng xuống nạn hạn hán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn ra, làm bốc lên, làm nẩy ra, toả ra",
+          "list_en_vn": [
+            {
+              "full_en": "to send a ball over the trees",
+              "full_vn": "đá tung quả bóng qua rặng cây"
+            },
+            {
+              "full_en": "to send smoke high in the air",
+              "full_vn": "làm bốc khói lên cao trong không trung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đuổi đi, tống đi",
+          "list_en_vn": [
+            {
+              "full_en": "to send somebody about his business",
+              "full_vn": "tống cổ ai đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (mê mẩn)",
+          "list_en_vn": [
+            {
+              "full_en": "to send somebody crazy",
+              "full_vn": "làm ai say mê; (nhạc ja, lóng) làm cho mê li"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hướng tới, đẩy tới",
+          "list_en_vn": [
+            {
+              "full_en": "your question has sent me to the dictionary",
+              "full_vn": "câu hỏi của anh đã khiến tôi đi tìm từ điển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi thư, nhắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to send away",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi đi"
+                },
+                {
+                  "im_full_vn": "đuổi di"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send after",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đi tìm, cho đuổi theo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send down",
+              "list_im": [
+                {
+                  "im_full_vn": "cho xuống"
+                },
+                {
+                  "im_full_vn": "tạm đuổi, đuổi (khỏi trường)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send for",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi đặt mua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to send for something",
+                      "full_vn": "gửi đặt mua cái gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhắn đến, cho đi tìm đến, cho mời đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to send for somebody",
+                      "full_vn": "nhắn ai tìm đến, cho người mời đến"
+                    },
+                    {
+                      "full_en": "to send for somebody",
+                      "full_vn": "nhắn ai đến, cho người mời ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send forth",
+              "list_im": [
+                {
+                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
+                },
+                {
+                  "im_full_vn": "nảy ra (lộc non, lá...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send in",
+              "list_im": [
+                {
+                  "im_full_vn": "nộp, giao (đơn từ...)"
+                },
+                {
+                  "im_full_vn": "ghi, đăng (tên...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to send in one's name",
+                      "full_vn": "đăng tên (ở kỳ thi)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send off",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi đi (thư, quà) phái (ai) đi (công tác)"
+                },
+                {
+                  "im_full_vn": "đuổi đi, tống khứ"
+                },
+                {
+                  "im_full_vn": "tiễn đưa, hoan tống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send out",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi đi, phân phát"
+                },
+                {
+                  "im_full_vn": "toả ra, bốc ra (hương thơm, mùi, khói...)"
+                },
+                {
+                  "im_full_vn": "nảy ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "trees send out young leaves",
+                      "full_vn": "cây ra lá non"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send round",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyền tay, chuyền vòng (vật gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm đứng dậy, làm trèo lên"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) kết án tù"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send coals to Newcastle",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) coal"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send flying",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi đi, bắt hối hả ra đi"
+                },
+                {
+                  "im_full_vn": "làm cho lảo đảo, đánh bật ra (bằng một cái đòn)"
+                },
+                {
+                  "im_full_vn": "làm cho chạy tan tác, làm cho tan tác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send packing",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi đi, tống cổ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send someone to Jericho",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ai đi, tống cổ ai đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send to Coventry",
+              "list_im": [
+                {
+                  "im_full_vn": "phớt lờ, không hợp tác với (ai)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to send to worn somebody",
+              "full_vn": "gửi thư báo cho ai; gửi thư cảnh cáo ai"
+            },
+            {
+              "full_en": "to send to somebody to take care",
+              "full_vn": "nhắn ai phải cẩn thận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350241_a17b9cd11e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350241_7832227d11_o.png",
+      "id_image": "send_1674944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394987_f3484e8832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394987_c254d9cce4_o.png",
+      "id_image": "send_3893142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087425_e2fbdf04d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087425_98c1ed7f97_o.png",
+      "id_image": "send_4313102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350256_f15c2558ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350256_2031b62793_o.png",
+      "id_image": "send_928908"
+    }
+  ]
+}

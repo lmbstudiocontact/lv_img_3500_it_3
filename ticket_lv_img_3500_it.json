@@ -1,0 +1,121 @@
+{
+  "english": "ticket",
+  "phat_am": "['tikit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vé; thẻ",
+          "list_en_vn": [
+            {
+              "full_en": "through ticket",
+              "full_vn": "vé suốt"
+            },
+            {
+              "full_en": "return ticket",
+              "full_vn": "vé khứ hồi"
+            },
+            {
+              "full_en": "library ticket",
+              "full_vn": "thẻ thư viện"
+            },
+            {
+              "full_en": "admission by ticket only",
+              "full_vn": "có vé mới được vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giấy (giấy phép, giấy mời...)",
+          "list_en_vn": [
+            {
+              "full_en": "free ticket ; complimentary ticket",
+              "full_vn": "giấy mời; giấy ưu tiên ra vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bông, phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "ticket for soup",
+              "full_vn": "phiếu cháo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhãn ghi giá; nhãn ghi đặc điểm (hàng hoá...)"
+        },
+        {
+          "m_full_vn": "giấy phạt; biên lai phạt",
+          "list_en_vn": [
+            {
+              "full_en": "to get a parking /speeding ticket",
+              "full_vn": "nhận giấy phạt vì đỗ xe sai quy định/vì chạy quá tốc độ quy định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) danh sách ứng cử viên",
+          "list_en_vn": [
+            {
+              "full_en": "the Democratic ticket",
+              "full_vn": "danh sách ứng cử của đảng Dân chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ( the ticket ) cái đúng điệu, điều đáng mong muốn",
+          "list_en_vn": [
+            {
+              "full_en": "that's the ticket",
+              "full_vn": "vậy là hay lắm!, vậy là đúng điệu!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) giấy chứng nhận tư cách phi công; giấy chứng nhận tư cách thuyền trưởng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get one's ticket",
+              "list_im": [
+                {
+                  "im_full_vn": "được giải ngũ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dán nhãn, viết nhãn (ghi giá, ghi đặc điểm... hàng hoá)"
+        },
+        {
+          "m_full_vn": "phát vé, phát phiếu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702919_4c29684f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702919_9b061483cf_o.png",
+      "id_image": "ticket_169464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393047_113023790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393047_3f8048cbb0_o.png",
+      "id_image": "ticket_218372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348111_e7ef66b047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348111_59e547a5ba_o.png",
+      "id_image": "ticket_884097"
+    }
+  ]
+}

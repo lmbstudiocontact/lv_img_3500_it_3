@@ -1,0 +1,58 @@
+{
+  "english": "waffle",
+  "phat_am": "['wɒfl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh quế (bánh ngọt nhỏ giòn làm bằng bột nhão có hoa văn hình vuông trên bề mặt, (thường) ăn khi uống xi rô)"
+        },
+        {
+          "m_full_vn": "chuyện dông dài"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) nói dông dài, viết dông dài",
+          "list_en_vn": [
+            {
+              "full_en": "he waffled on for hours but no one was listening",
+              "full_vn": "anh ta dông dài hàng tiếng đồng hồ mà chẳng ai nghe"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384632_8522100df8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384632_6593296ba5_o.png",
+      "id_image": "waffle_1999906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339656_3085c42c13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339656_5fa8909130_o.png",
+      "id_image": "waffle_1999918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076835_22bf8b6a88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076835_8f75e246db_o.png",
+      "id_image": "waffle_2442267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384542_99153320ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384542_6382ab540d_o.png",
+      "id_image": "waffle_3200286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339571_5faac92e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339571_9ed0b411a4_o.png",
+      "id_image": "waffle_4524549"
+    }
+  ]
+}

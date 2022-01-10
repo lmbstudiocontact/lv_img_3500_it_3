@@ -1,0 +1,69 @@
+{
+  "english": "stave",
+  "phat_am": "[steiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ván cong, mảnh gỗ cong (để đóng thuyền, thùng rượu...)"
+        },
+        {
+          "m_full_vn": "nấc thang, bậc thang"
+        },
+        {
+          "m_full_vn": "đoạn bài hát; khổ thơ"
+        },
+        {
+          "m_full_vn": "(âm nhạc) khuông nhạc (như) staff"
+        },
+        {
+          "m_full_vn": "cái gậy"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ staved , stove",
+      "list_m": [
+        {
+          "m_full_vn": "( + in ) đập thủng, chọc thủng, đục thủng (thùng, tàu..)"
+        },
+        {
+          "m_full_vn": "( + off ) ngăn chặn; phòng ngừa (nhất là tạm thời)",
+          "list_en_vn": [
+            {
+              "full_en": "to stave off disaster /danger /bankruptcy",
+              "full_vn": "ngăn chặn tai hoạ/mối nguy hiểm/tình trạng phá sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm bẹp (hộp, mũ)"
+        },
+        {
+          "m_full_vn": "ghép ván để làm (thùng rượu)"
+        },
+        {
+          "m_full_vn": "ép (kim loại) cho chắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348171_11f61acb6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348171_be86172d6a_o.png",
+      "id_image": "stave_3172410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702944_1d2d3518a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702944_5792f05859_o.png",
+      "id_image": "stave_343025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085485_5aa3ae2662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085485_747a51bdff_o.png",
+      "id_image": "stave_343030"
+    }
+  ]
+}

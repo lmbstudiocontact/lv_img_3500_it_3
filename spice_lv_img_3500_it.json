@@ -1,0 +1,72 @@
+{
+  "english": "spice",
+  "phat_am": "[spais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ gia vị; gia vị",
+          "list_en_vn": [
+            {
+              "full_en": "mixed spice",
+              "full_vn": "gia vị hỗn hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều làm thêm hấp dẫn, chất làm đậm đà; mắm muối (câu chuyện...)"
+        },
+        {
+          "m_full_vn": "hơi hướng, vẻ; một chút, một ít",
+          "list_en_vn": [
+            {
+              "full_en": "there is a spice of malice in him",
+              "full_vn": "tính nó có hơi hiểm độc một chút"
+            },
+            {
+              "full_en": "a spice of envy in her tone",
+              "full_vn": "vẻ ghen tị trong giọng nói của cô ta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho gia vị, bỏ gia vị (vào thức ăn)"
+        },
+        {
+          "m_full_vn": "làm đậm đà, thêm mắm thêm muối (vào câu chuyện)"
+        },
+        {
+          "m_full_vn": "tăng cường"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368947_0b2b78300c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368947_5dc18c2bfe_o.png",
+      "id_image": "spice_1553048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679234_99f9614f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679234_ea5fb28a06_o.png",
+      "id_image": "spice_2230426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679214_3347bdb2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679214_829475d771_o.png",
+      "id_image": "spice_4993418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439073_a97a128f3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439073_c2af3143d9_o.png",
+      "id_image": "spice_5495595"
+    }
+  ]
+}

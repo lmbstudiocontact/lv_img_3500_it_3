@@ -1,0 +1,31 @@
+{
+  "english": "solstice",
+  "phat_am": "['sɔlstis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thiên văn học) điểm chí (một trong hai lần trong năm khi mặt trời ở xa xích đạo nhất về phía Bắc hoặc phía Nam)",
+          "list_en_vn": [
+            {
+              "full_en": "summer solstice",
+              "full_vn": "hạ chí (tức là khoảng 21 tháng Sáu ở Bắc bán cầu)"
+            },
+            {
+              "full_en": "winter solstice",
+              "full_vn": "đông chí (tức là khoảng 22 tháng Chạp ở Bắc bán cầu)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062890_6398e9511d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062890_836f1f9d6c_o.png",
+      "id_image": "solstice_5570617"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "stab",
+  "phat_am": "[stæb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đâm; sự bị đâm (bằng dao..); vết thương do bị đâm; nhát đâm, cú đâm",
+          "list_en_vn": [
+            {
+              "full_en": "several stab wounds",
+              "full_vn": "nhiều vết thương do đâm"
+            },
+            {
+              "full_en": "a stab in the arm",
+              "full_vn": "một vết đâm trên cánh tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điều làm cho đau lòng; điều xúc phạm đến tình cảm; cơn đau nhói"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự cố gắng; sự làm thử",
+          "list_one_mean": [
+            {
+              "id_full_en": "have a stab at something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thử/gắng sức (làm) cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a stab in the back",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) sự công kích một cách phản bội (danh tiếng, địa vị ai..); sự phản bội"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm (ai) bằng dao găm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho đau đớn (người nào, lương tâm, tình cảm...)"
+        },
+        {
+          "m_full_vn": "chọc rỗ (gạch) trước khi trát vữa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm bằng dao găm",
+          "list_en_vn": [
+            {
+              "full_en": "to stab at someone",
+              "full_vn": "đâm ai bằng dao găm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhằm đánh vào",
+          "list_en_vn": [
+            {
+              "full_en": "to stab at someone's reputation",
+              "full_vn": "nhằm làm hại thanh danh ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đau nhói như dao đâm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stab somebody in the back",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) công kích địa vị của ai, vu khống ai; nói xấu sau lưng ai"
+                },
+                {
+                  "im_full_vn": "đòn ngầm ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395877_00383c290c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395877_39768e92c1_o.png",
+      "id_image": "stab_1256819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395847_cf5efba31d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395847_e2b363e297_o.png",
+      "id_image": "stab_6084847"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "theft",
+  "phat_am": "[θeft]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ăn trộm, sự trộm cắp; hành vi trộm cắp, hành vi ăn trộm",
+          "list_en_vn": [
+            {
+              "full_en": "to commit theft",
+              "full_vn": "phạm tội ăn trộm"
+            },
+            {
+              "full_en": "petty theft",
+              "full_vn": "sự ăn cắp vặt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087675_88f875e4f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087675_d3bac41c6b_o.png",
+      "id_image": "theft_1473825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395272_2f2dac20c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395272_394ebeaf88_o.png",
+      "id_image": "theft_5138771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464988_096f8201a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464988_b78d748c7f_o.png",
+      "id_image": "theft_5434263"
+    }
+  ]
+}

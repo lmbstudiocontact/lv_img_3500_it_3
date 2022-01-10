@@ -1,0 +1,46 @@
+{
+  "english": "sprayer",
+  "phat_am": "['spreiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phun",
+          "list_en_vn": [
+            {
+              "full_en": "he's a paint sprayer in the local factory",
+              "full_vn": "anh ta là công nhân xì sơn ở trong nhà máy địa phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình phun, dụng cụ để phun",
+          "list_en_vn": [
+            {
+              "full_en": "a crop sprayer",
+              "full_vn": "bình phun thuốc cho cây trồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352566_af78bf5614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352566_dc1908907a_o.png",
+      "id_image": "sprayer_1283673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352591_7861899929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352591_7a10723c54_o.png",
+      "id_image": "sprayer_524925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467153_3c4c639338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467153_c8357ebd8e_o.png",
+      "id_image": "sprayer_842858"
+    }
+  ]
+}

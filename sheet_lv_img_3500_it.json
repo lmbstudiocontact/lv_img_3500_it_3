@@ -1,0 +1,131 @@
+{
+  "english": "sheet",
+  "phat_am": "[∫i:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khăn trải giừơng, tấm đra trải giường; tấm phủ, chăn"
+        },
+        {
+          "m_full_vn": "lá, tấm, phiến, tờ",
+          "list_en_vn": [
+            {
+              "full_en": "a sheet of iron",
+              "full_vn": "một tấm sắt"
+            },
+            {
+              "full_en": "loose sheet",
+              "full_vn": "tờ giấy rời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dải, mảng lớn (nước, băng..)",
+          "list_en_vn": [
+            {
+              "full_en": "a sheet of ice",
+              "full_vn": "một dải băng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) vỉa"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây lèo (để điều chỉnh buồm)"
+        },
+        {
+          "m_full_vn": "(thơ ca) buồm"
+        },
+        {
+          "m_full_vn": "dây thừng, xích (để căng buồm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be a sheet in the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) ngà ngà say"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be three sheets in the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) say bí tỉ, say khướt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đậy, phủ, trùm kín"
+        },
+        {
+          "m_full_vn": "làm thành tấm, kết lại thành tấm, hợp lại thành phiến",
+          "list_en_vn": [
+            {
+              "full_en": "sheeted rain",
+              "full_vn": "mưa như đổ nước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ, đậy, kín",
+          "list_en_vn": [
+            {
+              "full_en": "to sheet over a waggon",
+              "full_vn": "phủ kín một toa xe bằng vải bạt"
+            },
+            {
+              "full_en": "the town was sheeted over with snow",
+              "full_vn": "tuyết phủ đầy thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) giữ buồm bằng dây lèo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sheet home",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc căng dây lèo buồm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083345_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083345_6cdff3d21c_o.png",
+      "id_image": "sheet_4780313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390822_dea9e754b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390822_e8f0026329_o.png",
+      "id_image": "sheet_6342027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460568_c61cf3d7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460568_45a838a560_o.png",
+      "id_image": "sheet_6396262"
+    }
+  ]
+}

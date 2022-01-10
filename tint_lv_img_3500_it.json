@@ -1,0 +1,75 @@
+{
+  "english": "tint",
+  "phat_am": "[tint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái khác nhau của màu sắc, sắc thái khác nhau của màu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "he's an artist who excels at flesh tints",
+              "full_vn": "anh ta là một hoạ sĩ điêu luyện về các sắc thái da người"
+            },
+            {
+              "full_en": "red with a bluish tint",
+              "full_vn": "màu đỏ có sắc hơi xanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc màu nhẹ dùng để nhuộm tóc; sự nhuộm tóc bằng màu nhẹ"
+        },
+        {
+          "m_full_vn": "màu nhẹ, màu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "autumn tints",
+              "full_vn": "những màu úa vàng mùa thu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường gạch, nét chải, vết màu (trên hình vẽ...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộm màu, tô màu, phủ màu",
+          "list_en_vn": [
+            {
+              "full_en": "blue-tinted hair",
+              "full_vn": "mái tóc nhuộm sắc xanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084300_94d6b2b6d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084300_60b88424a2_o.png",
+      "id_image": "tint_1941236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391817_4b2617691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391817_a86e8f84b1_o.png",
+      "id_image": "tint_3844786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701829_6d27de85fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701829_4316573d03_o.png",
+      "id_image": "tint_438672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391867_b4ed85f168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391867_6766068527_o.png",
+      "id_image": "tint_438673"
+    }
+  ]
+}

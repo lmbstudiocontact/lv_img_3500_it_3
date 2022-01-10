@@ -1,0 +1,48 @@
+{
+  "english": "verdict",
+  "phat_am": "['və:dikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) lời tuyên án, lời phán quyết",
+          "list_en_vn": [
+            {
+              "full_en": "an open verdict",
+              "full_vn": "một lời tuyên án không nói rõ thủ phạm"
+            },
+            {
+              "full_en": "verdict of not guilty",
+              "full_vn": "sự tuyên án vô tội"
+            },
+            {
+              "full_en": "partial verdict",
+              "full_vn": "sự tuyên án có tội một phần"
+            },
+            {
+              "full_en": "to return a verdict",
+              "full_vn": "tuyên án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quyết định, sự nhận định; dư luận",
+          "list_en_vn": [
+            {
+              "full_en": "popular verdict",
+              "full_vn": "sự nhận định của nhân dân, dư luận nhân dân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346441_b150532dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346441_b6c6661fb0_o.png",
+      "id_image": "verdict_2861325"
+    }
+  ]
+}

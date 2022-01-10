@@ -1,0 +1,137 @@
+{
+  "english": "shadow",
+  "phat_am": "['∫ædou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bóng, bóng tối, bóng râm, bóng mát",
+          "list_en_vn": [
+            {
+              "full_en": "to sit in the shadow",
+              "full_vn": "ngồi dưới bóng mát"
+            },
+            {
+              "full_en": "the shadows of night",
+              "full_vn": "bóng đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bóng (của bức tranh); chỗ tối (trong gian phòng...)"
+        },
+        {
+          "m_full_vn": "hình bóng; (bóng) bạn nối khố, bạn thân, người theo sát như hình với bóng, người đi theo không rời bước"
+        },
+        {
+          "m_full_vn": "điểm báo trước"
+        },
+        {
+          "m_full_vn": "dấu vết, chút, gợn",
+          "list_en_vn": [
+            {
+              "full_en": "without a shadow of doubt",
+              "full_vn": "không một chút nghi ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bóng, vật vô hình",
+          "list_en_vn": [
+            {
+              "full_en": "to catch at shadows ; to run after a shadow",
+              "full_vn": "bắt bóng, theo đuổi một vật vô hình;"
+            },
+            {
+              "full_en": "to throw away the substance for the shadow",
+              "full_vn": "thả mồi bắt bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tối tăm",
+          "list_en_vn": [
+            {
+              "full_en": "to live in the shadow",
+              "full_vn": "sống trong cảnh tối tăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự che chở, sự bảo vệ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be afraid of one's own shadow",
+              "list_im": [
+                {
+                  "im_full_vn": "nhát gan; sợ bóng sợ gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be worn to a shadow",
+              "list_im": [
+                {
+                  "im_full_vn": "lo đến rạc người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have shadows round one's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "mắt thâm quầng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "under the shadow of the Almighty",
+              "full_vn": "dưới sự che chở của thượng đế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) che, che bóng"
+        },
+        {
+          "m_full_vn": "làm tối sầm, làm sa sầm"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đánh bóng (bức tranh)"
+        },
+        {
+          "m_full_vn": "( (thường) + forth ) báo điểm trước, làm mờ hiện ra"
+        },
+        {
+          "m_full_vn": "theo dõi, dò",
+          "list_en_vn": [
+            {
+              "full_en": "to shadow a suspicious character",
+              "full_vn": "theo dõi một người khả nghi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462708_233448e0e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462708_476ba87239_o.png",
+      "id_image": "shadow_4132746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702559_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702559_64ec78bfb8_o.png",
+      "id_image": "shadow_4402889"
+    }
+  ]
+}

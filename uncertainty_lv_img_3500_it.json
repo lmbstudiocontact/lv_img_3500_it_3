@@ -1,0 +1,49 @@
+{
+  "english": "uncertainty",
+  "phat_am": "[ʌn'sə:tnti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự không chắc chắn; tình trạng không biết chắc, tình trạng không rõ ràng",
+          "list_en_vn": [
+            {
+              "full_en": "the uncertainty is unbearable !",
+              "full_vn": "tình trạng không rõ ràng thật là không chịu nổi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) điều không chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "the uncertianties of life on the dole",
+              "full_vn": "những sự bấp bênh của cuộc sống nhờ vào trợ cấp (của người thất nghiệp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính dễ thay đổi, tính có thể thay đổi, tính không kiên định"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091530_9063dc5f39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091530_ab74803f01_o.png",
+      "id_image": "uncertainty_5138296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354236_a88a739f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354236_a2b20df0ff_o.png",
+      "id_image": "uncertainty_6001253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354226_93eb82789a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354226_1ca25e6de6_o.png",
+      "id_image": "uncertainty_6078943"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "wart",
+  "phat_am": "[wɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) hột cơm, mụn cóc (mụn nhỏ, khô cứng mọc trên da)"
+        },
+        {
+          "m_full_vn": "bướu cây",
+          "list_one_mean": [
+            {
+              "id_full_en": "to warts and all",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không che giấu những khuyết tật, nét xấu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you agreed to marry me , warts and all !",
+                      "full_vn": "anh đã đồng ý lấy em, bất kể khuyết tật thế nào ư!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381747_24947d0f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381747_9a47a1fc34_o.png",
+      "id_image": "wart_3411683"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "english": "second",
+  "phat_am": "[si'kɔnd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thứ hai, tiếp ngay sau cái thứ nhất (về thời gian, thứ tự, tầm quan trọng..)",
+          "list_en_vn": [
+            {
+              "full_en": "February is the second month of the year",
+              "full_vn": "tháng hai là tháng thứ hai trong năm"
+            },
+            {
+              "full_en": "Osaka is the second largest city in Japan",
+              "full_vn": "Osaka là thành phố lớn thứ hai ở Nhật Bản"
+            },
+            {
+              "full_en": "who was second in the race ?",
+              "full_vn": "ai về nhì trong cuộc đua?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thêm; cộng thêm; phụ; cái khác sau cái thứ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "a second helping of soup",
+              "full_vn": "phần xúp đưa mời lần thứ hai"
+            },
+            {
+              "full_en": "you'll need a second pair of shoes",
+              "full_vn": "anh sẽ cần thêm một đôi giày nữa"
+            },
+            {
+              "full_en": "second ballot",
+              "full_vn": "cuộc bỏ phiếu bổ sung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thứ yếu; kém hơn, ít quan trọng hơn",
+          "list_en_vn": [
+            {
+              "full_en": "we never use second quality ingredients",
+              "full_vn": "chúng tôi chẳng bao giờ những thành phần thức ăn loại hai"
+            },
+            {
+              "full_en": "the second eleven",
+              "full_vn": "mười một người thứ hai (đội bóng dự bị)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có cùng phẩm chất (công trạng..) như người trước",
+          "list_one_mean": [
+            {
+              "id_full_en": "second only to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ đứng sau ai mà thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he is second only to my own son in my affections",
+                      "full_vn": "trong tình thương của tôi, nó chỉ đứng sau con trai ruột của tôi mà thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "second to none",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt bằng người giỏi nhất; không chịu thua ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as a comedian , he's second to none",
+                      "full_vn": "là một diễn viên hài, anh ta không thua kém ai cả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he thinks he's a second Churchill",
+              "full_vn": "ông ta cho mình là Churchill thứ hai (cũng) có tài năng (như) Churchill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở vị trí thứ hai; thứ nhì (về thứ tự, tầm quan trọng)",
+          "list_en_vn": [
+            {
+              "full_en": "the English swimmer came second",
+              "full_vn": "vận động viên bơi lội người Anh về thứ hai"
+            },
+            {
+              "full_en": "I agreed to speak second",
+              "full_vn": "tôi đồng ý nói sau người đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ & đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the second ) người hoặc vật đến ngay sau người hoặc vật thứ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the second of May",
+              "full_vn": "ngày 2 tháng 5"
+            },
+            {
+              "full_en": "George the Second",
+              "full_vn": "Vua George đệ nhị"
+            },
+            {
+              "full_en": "I was the first to arrive , and she was the second",
+              "full_vn": "tôi là người đến đầu tiên, còn cô ta là người thứ hai"
+            },
+            {
+              "full_en": "he's the second to ask me that",
+              "full_vn": "nó là người thứ hai hỏi tôi về việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giúp đỡ cho một võ sĩ hoặc cho người đấu kiếm"
+        },
+        {
+          "m_full_vn": "( second in something ) bằng đại học hạng hai",
+          "list_en_vn": [
+            {
+              "full_en": "to get an upper , a lower second in chemistry",
+              "full_vn": "có bằng đại học hạng nhì, bậc cao, bậc thấp về hoá học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số hai của hộp số (trên xe hơi, xe đạp..)",
+          "list_en_vn": [
+            {
+              "full_en": "are you in first or second ?",
+              "full_vn": "anh cài số một hay số hai vậy?"
+            },
+            {
+              "full_en": "to change from second to third",
+              "full_vn": "chuyển từ số hai sang số ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng chế tạo có khuyết tật và do đó bán rẻ hơn; hàng thứ phẩm"
+        },
+        {
+          "m_full_vn": "( số nhiều) món thức ăn đưa mời lần thứ hai"
+        },
+        {
+          "m_full_vn": "một phần sáu mươi của phút giờ hoặc số đo góc; giây (ký hiệu '')",
+          "list_en_vn": [
+            {
+              "full_en": "1 minute 5 seconds",
+              "full_vn": "một phút năm giây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) là sec ngay tức thì; ngay đây",
+          "list_en_vn": [
+            {
+              "full_en": "I'll be ready in a second !",
+              "full_vn": "Tôi xong ngay đây!, Tôi xong ngay bây giờ!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp đỡ, ủng hộ; phụ tá cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "I was seconded in this research by my eldest son",
+              "full_vn": "tôi được con trai cả của tôi phụ tá trongcông trình nghiên cứu này"
+            },
+            {
+              "full_en": "will you second me if I ask him ?",
+              "full_vn": "nếu tôi hỏi nó thì anh có ủng hộ tôi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tán thành (một đề nghị..)",
+          "list_en_vn": [
+            {
+              "full_en": "to second a motion",
+              "full_vn": "tán thành một đề nghị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to second somebody from something to something ) chuyển ai từ nhiệm vụ bình thường của họ sang nhiệm vụ khác; thuyên chuyển công tác",
+          "list_en_vn": [
+            {
+              "full_en": "an officer seconded from the Marines to staff headquarters",
+              "full_vn": "một sĩ quan được thuyên chuyển từ Thủy quân lục chiến về bộ tham mưu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060690_d3dc4f219c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060690_33cfcc904d_o.png",
+      "id_image": "second_1021085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368662_96184ccdf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368662_09f31eb57f_o.png",
+      "id_image": "second_6214130"
+    }
+  ]
+}

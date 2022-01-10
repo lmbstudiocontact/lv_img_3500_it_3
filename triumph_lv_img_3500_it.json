@@ -1,0 +1,70 @@
+{
+  "english": "triumph",
+  "phat_am": "['traiʌmf]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiến thắng; thắng lợi; thành tựu",
+          "list_en_vn": [
+            {
+              "full_en": "one of the triumphs of modern science",
+              "full_vn": "một trong những thành tựu lớn của khoa học hiện đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm vui chiến thắng; niềm vui thắng lợi; niềm hân hoan",
+          "list_en_vn": [
+            {
+              "full_en": "shouts of triumph",
+              "full_vn": "những tiếng reo hò chiến thắng"
+            },
+            {
+              "full_en": "the liberation troops returned in triumph",
+              "full_vn": "những đoàn quân giải phóng trở về trong niềm vui chiến thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) đoàn diễu hành thắng trận vào thành Rôm"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to triumph over somebody / something ) thắng; chiến thắng; thành công; thắng lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to triumph over the enemy",
+              "full_vn": "chiến thắng kẻ thù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui mừng (vì chiến thắng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448018_9ff993c6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448018_d5169374c6_o.png",
+      "id_image": "triumph_1805251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069770_0037b9ac62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069770_03229b74f9_o.png",
+      "id_image": "triumph_1961433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377842_e474184aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377842_117277258a_o.png",
+      "id_image": "triumph_708665"
+    }
+  ]
+}

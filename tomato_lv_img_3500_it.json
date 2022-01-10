@@ -1,0 +1,30 @@
+{
+  "english": "tomato",
+  "phat_am": "[tə'mɑ:tou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều tomatoes",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây cà chua"
+        },
+        {
+          "m_full_vn": "quả cà chua",
+          "list_en_vn": [
+            {
+              "full_en": "tomato sause",
+              "full_vn": "nước xốt cà chua"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389692_04490b9049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389692_16a4d0d1c4_o.png",
+      "id_image": "tomato_1054111"
+    }
+  ]
+}

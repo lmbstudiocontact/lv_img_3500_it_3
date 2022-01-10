@@ -1,0 +1,54 @@
+{
+  "english": "submarine",
+  "phat_am": "[,sʌbmə'ri:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dưới mặt biển",
+          "list_en_vn": [
+            {
+              "full_en": "submarine plant",
+              "full_vn": "cây mọc dưới biển"
+            },
+            {
+              "full_en": "submarine volcano",
+              "full_vn": "núi lửa dưới biển"
+            },
+            {
+              "full_en": "submarine cable",
+              "full_vn": "dây cáp ngầm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) tàu ngầm"
+        },
+        {
+          "m_full_vn": "cây mọc dưới biển; động vật sống dưới biển"
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) bánh mì dài bổ theo chiều nhồi thịt, phó mát, sà lách.. (như) submarine sandwich"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340366_0d2466952b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340366_8d6dc0b7b9_o.png",
+      "id_image": "submarine_6032458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340331_72d79bcbf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340331_a20cf89410_o.png",
+      "id_image": "submarine_6387622"
+    }
+  ]
+}

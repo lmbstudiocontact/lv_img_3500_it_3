@@ -1,0 +1,190 @@
+{
+  "english": "seal",
+  "phat_am": "[si:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chó biển; hải cẩu"
+        },
+        {
+          "m_full_vn": "(như) sealskin"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn chó biển, săn hải cẩu"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu niêm phong",
+          "list_en_vn": [
+            {
+              "full_en": "leaden seal",
+              "full_vn": "dấu chì (niêm phong thùng rượu...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con dấu, cái ấn, cái triện",
+          "list_en_vn": [
+            {
+              "full_en": "the seals",
+              "full_vn": "ấn dấu (trao cho chủ tịch thượng nghị viện, bộ trưởng Anh)"
+            },
+            {
+              "full_en": "to return the seals",
+              "full_vn": "treo ấn từ quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điềm báo trước, dấu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "seal of dealth in one's face",
+              "full_vn": "điềm sắp chết hiện ra trên mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái để xác định, cái để bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "seal of love",
+              "full_vn": "cái hôn; sự đẻ con (xác định, bảo đảm tình yêu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xi, chì (để gắn, đóng dấu); cái bịt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to set one's seal to",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng dấu xi vào (phong bì, hộp...)"
+                },
+                {
+                  "im_full_vn": "cho phép; xác định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the seal of secrecy",
+              "list_im": [
+                {
+                  "im_full_vn": "với điều kiện phải giữ bí mật"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "vacuum seal",
+              "full_vn": "xì chân không"
+            },
+            {
+              "full_en": "labyrinth seal",
+              "full_vn": "cái bịt kiểu đường rối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "áp triện, đóng dấu, chứng thực"
+        },
+        {
+          "m_full_vn": "đóng kín, bịt kín, gắn xi",
+          "list_en_vn": [
+            {
+              "full_en": "sealed up windows",
+              "full_vn": "cửa sổ bịt kín"
+            },
+            {
+              "full_en": "to seal up tin",
+              "full_vn": "hàn kín hộp đồ hộp"
+            },
+            {
+              "full_en": "my lips are seal ed",
+              "full_vn": "tôi bị bịt miệng, tôi không được nói"
+            },
+            {
+              "full_en": "a sealed book",
+              "full_vn": "điều không biết, điều không thể biết được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh dấu, dành riêng, chỉ định, định đoạt, quyết định (số mệnh...)",
+          "list_en_vn": [
+            {
+              "full_en": "death has sealed her for his own",
+              "full_vn": "thần chết đã chỉ định nàng"
+            },
+            {
+              "full_en": "his fate is sealed",
+              "full_vn": "số mệnh của ông ta đã được định đoạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính thức chọn, chính thức công nhận",
+          "list_en_vn": [
+            {
+              "full_en": "sealed pattern",
+              "full_vn": "quy cách đã được công nhận; kiểu mẫu đã được công nhận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gắn (vật gì) vào tường; giữ (cái gì) ở một nơi kín",
+          "list_one_mean": [
+            {
+              "id_full_en": "to seal off",
+              "list_im": [
+                {
+                  "im_full_vn": "cắt đứt, chặn (đường (giao thông)...); cô lập; vây chắn không cho vào (một nơi nào)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440343_5718654b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440343_1c1fab4bd6_o.png",
+      "id_image": "seals_1401083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062230_13d06345b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062230_a5f892a314_o.png",
+      "id_image": "seal_184333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680509_7da4d27d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680509_81ce7cd843_o.png",
+      "id_image": "seal_2445326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680474_f091342ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680474_6c26fd3383_o.png",
+      "id_image": "seal_5018461"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "shrug",
+  "phat_am": "[∫rʌg]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhún vai (để biểu lộ sự nghi ngờ, thờ ơ..)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhún, hơi nâng (vai của mình để biểu lộ sự nghi ngờ..)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to shrug off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhún vai coi khinh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to shrug off an insult",
+                      "full_vn": "nhún vai coi khinh một lời thoá mạ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "giũ sạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to shrug off the effects of alcohol",
+                      "full_vn": "giũ sạch hơi men"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhún vai; cái nhún vai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696484_c06806f6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696484_7c7c730906_o.png",
+      "id_image": "shrug_5773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341201_7ea6943aa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341201_4479332ce6_o.png",
+      "id_image": "shrug_5906038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078550_2ea8080389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078550_dd305e6c77_o.png",
+      "id_image": "shrug_6001186"
+    }
+  ]
+}

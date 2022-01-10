@@ -1,0 +1,55 @@
+{
+  "english": "treatment",
+  "phat_am": "['tri:tmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đối xử, sự đối đãi, sự cư xử (với người nào)"
+        },
+        {
+          "m_full_vn": "(y học) sự điều trị; phép trị bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "undergoing medical treatment",
+              "full_vn": "đang chữa bệnh, đang điều trị"
+            },
+            {
+              "full_en": "a new treatment for cancer",
+              "full_vn": "một phép điều trị mới bệnh ung thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) sự xử lý; cách xử lý"
+        },
+        {
+          "m_full_vn": "sự luận bàn, sự nghiên cứu; sự giải quyết (một vấn đề)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335251_0a66346290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335251_81914a5552_o.png",
+      "id_image": "treatment_2358537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072165_718c033fa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072165_0c18965477_o.png",
+      "id_image": "treatment_2688386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380257_13c3989256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380257_48916c2749_o.png",
+      "id_image": "treatment_3027624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690444_81cca986e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690444_6679d52687_o.png",
+      "id_image": "treatment_963310"
+    }
+  ]
+}

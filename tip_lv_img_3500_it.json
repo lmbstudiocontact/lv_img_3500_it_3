@@ -1,0 +1,208 @@
+{
+  "english": "tip",
+  "phat_am": "[tip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu, mút, đỉnh, chóp",
+          "list_en_vn": [
+            {
+              "full_en": "the tips of the fingers",
+              "full_vn": "đầu ngón tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu bịt (của gậy...)",
+          "list_en_vn": [
+            {
+              "full_en": "a cane with a rubber tip",
+              "full_vn": "chiếc ba toong bịt đầu cao su"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu ngậm của điếu thuốc lá"
+        },
+        {
+          "m_full_vn": "bút để thếp vàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "have something on the tip of one's tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp nói ra, sắp nhớ ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bịt đầu, lắp đầu vào",
+          "list_en_vn": [
+            {
+              "full_en": "to tip with silver",
+              "full_vn": "bịt bạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền quà, tiền diêm thuốc"
+        },
+        {
+          "m_full_vn": "lời khuyên, lời mách nước (đánh cá ngựa)"
+        },
+        {
+          "m_full_vn": "mẹo, mánh lới, mánh khoé",
+          "list_one_mean": [
+            {
+              "id_full_en": "to miss one's tip",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại, hỏng việc"
+                },
+                {
+                  "im_full_vn": "(sân khấu), (từ lóng) diễn tồi, chơi tồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho tiền quà, cho tiền diêm thuốc"
+        },
+        {
+          "m_full_vn": "mách nước (đánh cá ngựa)"
+        },
+        {
+          "m_full_vn": "(thông tục) đưa cho, trao",
+          "list_en_vn": [
+            {
+              "full_en": "tip me a cigarette",
+              "full_vn": "vứt cho tôi điếu thuốc lá nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái đánh nhẹ, cái gảy nhẹ, cái đẩy nhẹ, cái chạm nhẹ, cái vỗ nhẹ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh nhẹ, gảy nhẹ, đẩy nhẹ, chạm nhẹ, vỗ nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "to tip the ball",
+              "full_vn": "gảy nhẹ quả bóng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi đổ rác, thùng rác, bãi rác",
+          "list_en_vn": [
+            {
+              "full_en": "the municipal refuse tip",
+              "full_vn": "nơi đổ rác thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) nơi bẩn thỉu, nơi lộn xộn",
+          "list_en_vn": [
+            {
+              "full_en": "their house is an absolute tip",
+              "full_vn": "ngôi nhà của họ là nơi rất lộn xộn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lật nghiêng, làm nghiêng; đổ, rót",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tip out",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tip over",
+              "list_im": [
+                {
+                  "im_full_vn": "lật ngược"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tip up",
+              "list_im": [
+                {
+                  "im_full_vn": "lật úp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to tip water into the sink",
+              "full_vn": "đổ nước vào chậu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461618_e082856338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461618_936eac4b9f_o.png",
+      "id_image": "tip_1900292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461593_66b0d78dbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461593_64bbd1a212_o.png",
+      "id_image": "tip_2132655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391792_05cd1e5b1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391792_5926216293_o.png",
+      "id_image": "tip_705108"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "english": "weight",
+  "phat_am": "['weit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(viết tắt) wt trọng lượng, sức nặng",
+          "list_en_vn": [
+            {
+              "full_en": "he is twice my weight",
+              "full_vn": "anh ấy nặng gấp đôi tôi"
+            },
+            {
+              "full_en": "bananas are usually sold by weight",
+              "full_vn": "chuối thường được bán theo cân"
+            },
+            {
+              "full_en": "her weight has increased to 70 kilos",
+              "full_vn": "trọng lương của bà ta đã tăng lên tới 70 kilô"
+            },
+            {
+              "full_en": "the two boys are (of ) the same weight",
+              "full_vn": "hai đứa trẻ nặng bằng nhau"
+            },
+            {
+              "full_en": "he has grown both in height and weight",
+              "full_vn": "nó đã lớn lên cả về chiều cao lẫn trọng lượng"
+            },
+            {
+              "full_en": "to try the weight of something",
+              "full_vn": "nhấc lên xem nặng bao nhiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chất nặng, sức nặng",
+          "list_en_vn": [
+            {
+              "full_en": "lead is often used because of its weight",
+              "full_vn": "chì thường được dùng vì đặc tính nặng của nó"
+            },
+            {
+              "full_en": "the weight of the overcoat made it uncomfortable to wear",
+              "full_vn": "sức nặng của cái áo choàng làm cho mặc nó không thoải mái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả cân",
+          "list_en_vn": [
+            {
+              "full_en": "set of weights",
+              "full_vn": "một bộ quả cân"
+            },
+            {
+              "full_en": "a 2 lb weight",
+              "full_vn": "một quả cân 2 pao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật nặng (nhất là vật dùng để kéo xuống hoặc giữ cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "a paperweight",
+              "full_vn": "cái chặn giấy"
+            },
+            {
+              "full_en": "a clock worked by weights",
+              "full_vn": "đồng hồ chạy bằng quả lắc"
+            },
+            {
+              "full_en": "the dressmaker put small weights in the hem of the dress",
+              "full_vn": "người thợ may đặt những vải lót nhỏ vào gấu áo dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) hạng (võ sĩ); tạ",
+          "list_en_vn": [
+            {
+              "full_en": "to lift the weights",
+              "full_vn": "nhấc tạ; cử tạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc); (kỹ thuật) tải trọng, sức nặng, khối nặng phải đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "the pillars have to support the weight of the roof",
+              "full_vn": "các cột phải đỡ sức mạnh của mái"
+            },
+            {
+              "full_en": "the weight of the water from the burst pipe caused the ceiling to collapse",
+              "full_vn": "sức nặng của nước từ ống vỡ tràn ra đã làm sụp trần nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) gánh nặng (của trách nhiệm, sự lo lắng)",
+          "list_en_vn": [
+            {
+              "full_en": "the news that he was safe was a weight off her mind",
+              "full_vn": "tin ông ta vô sự đã cất một gánh nặng ra khỏi tâm trí bà ta"
+            },
+            {
+              "full_en": "the full weight of decision-making falls on her",
+              "full_vn": "toàn bộ trọng trách đưa ra quyết định đổ lên đầu bà ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) trọng lực (lực của sức hút kéo một cơ thể xuống)"
+        },
+        {
+          "m_full_vn": "đơn vị hoặc hệ thống các đơn vị dùng để đo lường và biểu hiện trọng lượng",
+          "list_en_vn": [
+            {
+              "full_en": "tables of weights and measures",
+              "full_vn": "các bảng cân đo"
+            },
+            {
+              "full_en": "avoirdupois /troy weight",
+              "full_vn": "hệ thống đo lường Anh Mỹ/hệ thống trọng lượng troi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trọng lượng, tác dụng, mức quan trọng, mức nghiêm trọng, ảnh hưởng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pull one's weight",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức, nỗ lực; đảm đương phần việc của mình, chịu phần trách nhiệm của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose weight ; to take off weight",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt nặng đi, sụt cân (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on weight ; to gain weight",
+              "list_im": [
+                {
+                  "im_full_vn": "lên cân, béo ra, nặng lên (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "over /under weight",
+              "list_im": [
+                {
+                  "im_full_vn": "cân già/cân non, quá nặng/không đủ nặng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the weight off one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngồi xuống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw one's weight about /around",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) cư xử một cách kiêu căng hùng hổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull one's weight",
+              "list_im": [
+                {
+                  "im_full_vn": "xem pull"
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth one's its weight in gold",
+              "list_im": [
+                {
+                  "im_full_vn": "xem worth"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an argument of great weight",
+              "full_vn": "một lý lẽ có sức thuyết phục lớn (có trọng lượng)"
+            },
+            {
+              "full_en": "recent events give added weight to their canvass",
+              "full_vn": "những sự kiện gần đây đã tăng thêm tác dụng cho chiến dịch vận động bầu cử của họ"
+            },
+            {
+              "full_en": "to have no weight with somebody ; to have little /much weight with somebody",
+              "full_vn": "không có uy tín (ảnh hưởng) đối với ai; có ít/nhiều uy tín (ảnh hưởng) đối với ai"
+            },
+            {
+              "full_en": "man of weight",
+              "full_vn": "người quan trọng, người có ảnh hưởng lớn"
+            },
+            {
+              "full_en": "to carry weight",
+              "full_vn": "có tầm quan trọng; có ảnh hưởng lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc thêm vật nặng, làm nặng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to weight a net",
+              "full_vn": "buộc chì vào lưới"
+            },
+            {
+              "full_en": "the stick has been weighted with lead",
+              "full_vn": "chiếc gậy nặng thêm nhờ có đổ chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) xử lý sợi bằng chất vô cơ cho nó nặngthêm",
+          "list_en_vn": [
+            {
+              "full_en": "weighted silk",
+              "full_vn": "lụa đã xử lý vô cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoạch định hoặc tổ chức cái gì theo cách tạo thuận lợi cho một người hoặc nhóm người cụ thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "to weight somebody down (with something )",
+              "list_im": [
+                {
+                  "im_full_vn": "đè nặng lên ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she was weighted down with parcels",
+                      "full_vn": "cô ấy bị những gói hàng đè nặng lên người"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a law weighted against /towards /in favour of those owning land",
+              "full_vn": "luật có thiên hướng chống/ngả về phía/thiên vị những người có đất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687839_54b6837cb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687839_989f150e93_o.png",
+      "id_image": "weight_1201859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377722_75257cacff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377722_bc6451abc0_o.png",
+      "id_image": "weight_523819"
+    }
+  ]
+}

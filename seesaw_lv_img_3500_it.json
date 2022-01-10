@@ -1,0 +1,93 @@
+{
+  "english": "seesaw",
+  "phat_am": "['si:sɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ván bập bênh (trò chơi của trẻ em)"
+        },
+        {
+          "m_full_vn": "trò chơi bập bênh",
+          "list_en_vn": [
+            {
+              "full_en": "to play at seesaw",
+              "full_vn": "chơi bập bênh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển động lên xuống, sự chuyển động qua lại; động tác đẩy tới kéo lui, động tác kéo cưa, tình trạng cò cưa",
+          "list_en_vn": [
+            {
+              "full_en": "the slow seesaw of the branch in the wind",
+              "full_vn": "sự lay động khẽ khàng của cành lá trong cơn gió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẩy tới, kéo lui, cò cưa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go seasaw",
+              "list_im": [
+                {
+                  "im_full_vn": "lắc lư"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "seesaw motion",
+              "full_vn": "chuyển động cò cưa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi bập bênh"
+        },
+        {
+          "m_full_vn": "chuyển động lên xuống, chuyển động qua lại"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) dao động, lưỡng lự, không kiên định",
+          "list_en_vn": [
+            {
+              "full_en": "seesaw policy",
+              "full_vn": "chính sách không kiên định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323101_3c1227a0e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323101_13428e4bc9_o.png",
+      "id_image": "seesaw_1138467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367972_b75879dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367972_ba614f5f87_o.png",
+      "id_image": "seesaw_1588849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323081_3502d03dfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323081_0f87751d73_o.png",
+      "id_image": "seesaw_1787539"
+    }
+  ]
+}

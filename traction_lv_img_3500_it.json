@@ -1,0 +1,39 @@
+{
+  "english": "traction",
+  "phat_am": "['træk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kéo; sức kéo; lực kéo",
+          "list_en_vn": [
+            {
+              "full_en": "electric traction",
+              "full_vn": "sức kéo bằng điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) phương pháp điều trị bằng kéo chân, tay.. liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "she's injured her back and is in traction for a month",
+              "full_vn": "cô ấy đã bị đau lưng và hiện đang điều trị bằng cách kéo giãn trong một tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng bám đất không bị trượt của chiếc lốp xe, bánh xe"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078250_24974c22d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078250_945bb530cb_o.png",
+      "id_image": "traction_1960586"
+    }
+  ]
+}

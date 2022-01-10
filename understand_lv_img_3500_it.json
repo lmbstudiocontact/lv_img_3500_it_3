@@ -1,0 +1,89 @@
+{
+  "english": "understand",
+  "phat_am": "[,ʌndə'stud]",
+  "list_type": [
+    {
+      "type": "ngoại động từ understood",
+      "list_m": [
+        {
+          "m_full_vn": "hiểu, nắm được ý (của một người)",
+          "list_en_vn": [
+            {
+              "full_en": "I don't understandable you",
+              "full_vn": "tôi không hiểu ý anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu, nhận thức được ý nghĩa, nhận thức được tầm quan trọng của (cái gì); nhận thức được cách giải thích, nhận thức được nguyên nhân của (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "do you understand the difficulty of my position ?",
+              "full_vn": "anh có hiểu sự khó khăn trong địa vị của tôi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu, thông cảm; biết cách giải quyết (cái gì/với ai)",
+          "list_en_vn": [
+            {
+              "full_en": "he understand how hard things have been for you",
+              "full_vn": "nó hiểu tình hình đã gay go đối với anh như thế nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu ra, suy ra, biết qua thông tin nhận được",
+          "list_en_vn": [
+            {
+              "full_en": "I understand she is in Paris",
+              "full_vn": "tôi hiểu ra là cô ta đang ở Paris"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi (cái gì) là dĩ nhiên",
+          "list_en_vn": [
+            {
+              "full_en": "your expenses will be paid , that's understood",
+              "full_vn": "những chi tiêu của anh sẽ được thanh toán, điều đó là tất nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiểu ngầm, đoán biết"
+        },
+        {
+          "m_full_vn": "nghe nói, biết được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make oneself understood",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho người ta hiểu mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398667_bf61266c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398667_3a7e3b51c5_o.png",
+      "id_image": "understand_2196303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353691_4f70ed0429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353691_5657b51fc1_o.png",
+      "id_image": "understand_5361244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398632_6f84fb2977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398632_f703396747_o.png",
+      "id_image": "understand_6159589"
+    }
+  ]
+}

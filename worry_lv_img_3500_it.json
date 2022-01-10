@@ -1,0 +1,132 @@
+{
+  "english": "worry",
+  "phat_am": "['wʌri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng bị quấy rầy; sự lo lắng, sự lo nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "worry and illness had made him prematurely old",
+              "full_vn": "lo nghĩ và bệnh tật đã làm cho ông ta già trước tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều gây ra lo lắng, nguyên nhân gây ra lo nghĩ",
+          "list_en_vn": [
+            {
+              "full_en": "forget your worries and enjoy yourself !",
+              "full_vn": "hãy quên đi các lo phiền và hãy vui lên!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái mà ai phải chịu trách nhiệm"
+        },
+        {
+          "m_full_vn": "sự nhạy (của chó săn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ worried",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho lo lắng, làm cho bối rối",
+          "list_en_vn": [
+            {
+              "full_en": "she was worried sick about her missing son",
+              "full_vn": "bà ta lo lắng về đứa con trai mất tích đến phát ốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quấy rầy, làm phiền; làm khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "don't worry her now ; she's busy",
+              "full_vn": "đừng quấy rầy bà ta lúc này; bà ấy đang bận"
+            },
+            {
+              "full_en": "to worry someone with foolish questions",
+              "full_vn": "quấy rầy người nào bằng những câu hỏi ngớ ngẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngoạm (cái gì) bằng răng rồi nhai hoặc quăng đi quăng lại (nhất là về chó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to worry",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đừng lo"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the dog was worrying a rat",
+              "full_vn": "con chó đang nhai một con chuột"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lo lắng, lo nghĩ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to worry along",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn tiến bước mặc dầu gặp khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to worry out",
+              "list_im": [
+                {
+                  "im_full_vn": "lo lắng để giải quyết bằng xong (một vấn đề)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I should worry",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) điều đó chẳng phiền hà gì tôi chút nào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to worry about little things",
+              "full_vn": "lo về những việc linh tinh"
+            },
+            {
+              "full_en": "there's nothing to worry about",
+              "full_vn": "chẳng có gì mà lo nghĩ cả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070195_5d860244a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070195_26abb20348_o.png",
+      "id_image": "worry_2472934"
+    }
+  ]
+}

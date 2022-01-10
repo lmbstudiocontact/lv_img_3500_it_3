@@ -1,0 +1,204 @@
+{
+  "english": "worth",
+  "phat_am": "[wə:θ]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đáng giá, có một giá trị nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "our house is worth about 60000 dollars",
+              "full_vn": "ngôi nhà của chúng tôi trị giá khoảng 60000 đô la"
+            },
+            {
+              "full_en": "it is not worth much",
+              "full_vn": "cái ấy không đáng giá bao nhiêu"
+            },
+            {
+              "full_en": "this contract isn't worth the paper it's written on",
+              "full_vn": "bản hợp đồng này không đáng giá tờ giấy để viết nó (tức là vô giá trị)"
+            },
+            {
+              "full_en": "what's the old man worth ?",
+              "full_vn": "ông già ấy đáng giá bao nhiêu (của cải ông ấy đáng giá bao nhiêu?)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng, bõ công (có thể đem lại đền bù thoả đáng hoặc hài lòng nếu làm cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "the book is worth reading / it's worth reading the book",
+              "full_vn": "quyển sách đáng đọc đấy"
+            },
+            {
+              "full_en": "he felt that his life was no longer worth living",
+              "full_vn": "hắn cảm thấy đời hắn không đáng sống nữa"
+            },
+            {
+              "full_en": "it's an idea that's worth considering",
+              "full_vn": "đó là ý kiến đáng xem xét"
+            },
+            {
+              "full_en": "it's such a small point that it's hardly worth troubling about",
+              "full_vn": "đó là một điểm quá nhỏ hầu như không đáng phải bận tâm"
+            },
+            {
+              "full_en": "it's not worth the effort /trouble",
+              "full_vn": "cái đó không bõ công/không đáng bận tâm"
+            },
+            {
+              "full_en": "to be worth one's salt",
+              "full_vn": "làm công việc thành thạo; xứng đáng với đồng lương được hưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có",
+          "list_one_mean": [
+            {
+              "id_full_en": "for all one is worth",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm hết sức mình, ráng sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for what it's worth",
+              "list_im": [
+                {
+                  "im_full_vn": "dù gì đi nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not worth a damn , a straw , a red cent ...",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) vô giá trị",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "their promises are not worth a damn",
+                      "full_vn": "lời hứa của họ hoàn toàn chẳng có giá trị gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth it",
+              "list_im": [
+                {
+                  "im_full_vn": "chắn chắn, rất có thể sẽ trả lại tiền, đáng cố gắng, đáng bỏ thời gian",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the new car cost a lot of money , but it's certainly worth it",
+                      "full_vn": "chiếc ô tô mới mua tốn nhiều tiền, nhưng chắc chắn là nó đáng đồng tiền bỏ ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth one's/its weight in gold",
+              "list_im": [
+                {
+                  "im_full_vn": "cực kỳ hữu ích, vô giá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "worth somebody's while",
+              "list_im": [
+                {
+                  "im_full_vn": "có lợi, thú vị đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bird in the hand is worth two in the bush",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) thà rằng được sẻ trên tay, còn hơn được hứa trên mây hạc vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the game is not worth the candle",
+              "list_im": [
+                {
+                  "im_full_vn": "xem game"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be worth money",
+              "full_vn": "có tiền"
+            },
+            {
+              "full_en": "to die worth a million",
+              "full_vn": "chết để lại bạc triệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số lượng cái gì mua được bằng một khoản tiền nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "ten pounds' worth of petrol",
+              "full_vn": "mười pao ét xăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng cái gì kéo dài được trong một khoảng thời gian nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a day's worth of fuel",
+              "full_vn": "nhiên liệu dùng cho một ngày"
+            },
+            {
+              "full_en": "two weeks' worth of supplies",
+              "full_vn": "đồ dự trữ cho hai tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá trị, tính hữu ích",
+          "list_en_vn": [
+            {
+              "full_en": "a man of worth",
+              "full_vn": "người có giá trị"
+            },
+            {
+              "full_en": "items of great worth",
+              "full_vn": "những món hàng có giá trị lớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378132_02bdb5a825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378132_a98e3b5011_o.png",
+      "id_image": "worth_1605307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688259_79e60b6b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688259_e8aa580fbc_o.png",
+      "id_image": "worth_4834034"
+    }
+  ]
+}

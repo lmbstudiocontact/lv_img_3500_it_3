@@ -1,0 +1,63 @@
+{
+  "english": "sir",
+  "phat_am": "[sə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tiếng tôn xưng) thưa ông, thưa ngài, thưa tiên sinh; (quân sự) thưa thủ trưởng; (ngôn ngữ nhà trường) thưa thầy"
+        },
+        {
+          "m_full_vn": "( Sir ) (tước hiệu dùng trước tên đầu của một hầu tước hoặc tòng nam tước, (thường) là trước tên thánh)",
+          "list_en_vn": [
+            {
+              "full_en": "Sir Walter Scolt",
+              "full_vn": "ngài Walter Scolt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Sir ) (dùng ở đầu một bức thư chính thức)",
+          "list_one_mean": [
+            {
+              "id_full_en": "no sir !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) (thông tục) chắc chắn là không"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Dear sir /sirs",
+              "full_vn": "Thưa ngài/Thưa các ngài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi bằng ông, gọi bằng ngài, gọi bằng tiên sinh",
+          "list_en_vn": [
+            {
+              "full_en": "don't sir me",
+              "full_vn": "xin đừng gọi tôi bằng ngài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451863_0d3422fa8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451863_ee326d179f_o.png",
+      "id_image": "sir_1464047"
+    }
+  ]
+}

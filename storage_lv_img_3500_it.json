@@ -1,0 +1,46 @@
+{
+  "english": "storage",
+  "phat_am": "['stɔ:ridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cất giữ, sự dự trữ, sự tích trữ (hàng hoá, dữ liệu..)",
+          "list_en_vn": [
+            {
+              "full_en": "storage of energy",
+              "full_vn": "sự tích luỹ năng lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xếp vào kho"
+        },
+        {
+          "m_full_vn": "kho; khu vực kho"
+        },
+        {
+          "m_full_vn": "chi phí cho việc cất giữ; tiền lưu kho"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345126_6856a1ddac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345126_1229d61593_o.png",
+      "id_image": "storage_3944799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459923_ac4df13b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459923_5143425dd2_o.png",
+      "id_image": "storage_4899533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390017_24f8c59171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390017_1b8e5606f8_o.png",
+      "id_image": "storage_4944329"
+    }
+  ]
+}

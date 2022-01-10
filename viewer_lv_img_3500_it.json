@@ -1,0 +1,54 @@
+{
+  "english": "viewer",
+  "phat_am": "['vju:ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người xem; người quan sát",
+          "list_en_vn": [
+            {
+              "full_en": "viewers of the current economic situation",
+              "full_vn": "những người quan sát tình hình kinh tế hiện thời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người xem chương trình TV; khán giả"
+        },
+        {
+          "m_full_vn": "dụng cụ để xem phim đèn chiếu bằng ảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a slide viewer",
+              "full_vn": "đèn chiếu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699599_267efd8e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699599_2cc55893d0_o.png",
+      "id_image": "viewer_1390265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081885_0a32f0036b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081885_57ce061105_o.png",
+      "id_image": "viewer_2201281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699504_5b3277e5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699504_45c4f3e74e_o.png",
+      "id_image": "viewer_4443792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081795_581f51fc3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081795_47a786f672_o.png",
+      "id_image": "viewer_5853632"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "sensitivity",
+  "phat_am": "[,sensə'tivəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính dễ cảm xúc; tính nhạy cảm",
+          "list_en_vn": [
+            {
+              "full_en": "the sensitivity of a writer",
+              "full_vn": "độ nhạy cảm của một nhà văn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nhạy; tính nhạy, độ nhạy",
+          "list_en_vn": [
+            {
+              "full_en": "sensitivity to heat",
+              "full_vn": "sự nhạy nhiệt"
+            },
+            {
+              "full_en": "sensitivity to light",
+              "full_vn": "sự nhạy sáng"
+            },
+            {
+              "full_en": "sensitivity to pain",
+              "full_vn": "sự dễ đau đớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350001_1b6a3280d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350001_30ee87012c_o.png",
+      "id_image": "sensitivity_3603963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704619_e2c09f85e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704619_0a184e1dff_o.png",
+      "id_image": "sensitivity_860458"
+    }
+  ]
+}

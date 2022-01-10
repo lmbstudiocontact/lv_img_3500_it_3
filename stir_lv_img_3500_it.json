@@ -1,0 +1,160 @@
+{
+  "english": "stir",
+  "phat_am": "[stə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) nhà tù, trại giam"
+        },
+        {
+          "m_full_vn": "sự khuấy, sự quấy trộn",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's coffee a stir",
+              "full_vn": "khuấy cà phê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chuyển động",
+          "list_en_vn": [
+            {
+              "full_en": "no stir in the air",
+              "full_vn": "không có một tí gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cời (củi, cho lửa cháy to)",
+          "list_en_vn": [
+            {
+              "full_en": "to give the fire a stir",
+              "full_vn": "cời cho lửa cháy to lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự náo động, sự huyên náo, sự xôn xao; sự kích động; sự om sòm; sự bất ổn",
+          "list_one_mean": [
+            {
+              "id_full_en": "in stir",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tù, ở tù"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make a stir",
+              "full_vn": "gây náo động, làm xôn xao"
+            },
+            {
+              "full_en": "full of stir and movement",
+              "full_vn": "náo nhiệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khuấy, quấy",
+          "list_en_vn": [
+            {
+              "full_en": "to stir tea",
+              "full_vn": "khuấy nước trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm lay động, làm chuyển động",
+          "list_en_vn": [
+            {
+              "full_en": "not a breath stirred the leaves",
+              "full_vn": "không có một tí gió nào làm lay động cành lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cời (củi)",
+          "list_en_vn": [
+            {
+              "full_en": "to stir the fire",
+              "full_vn": "cời củi cho cháy to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + up ) kích thích, khích động, khêu gợi, xúi gục; gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "to stir someone's blood",
+              "full_vn": "kích động nhiệt tình (lòng ham muốn) của ai"
+            },
+            {
+              "full_en": "to stir someone's wrath",
+              "full_vn": "khêu gợi lòng tức giận của ai"
+            },
+            {
+              "full_en": "to stir up curiosity",
+              "full_vn": "khêu gợi tính tò mò"
+            },
+            {
+              "full_en": "to stir up dissensions",
+              "full_vn": "gây mối bất đồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể khuấy được"
+        },
+        {
+          "m_full_vn": "động đậy, nhúc nhích, cựa quậy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stir one's stumps",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ba chân bốn cẳng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he never stirs out of the house",
+              "full_vn": "nó không bao giờ đi ra khỏi nhà"
+            },
+            {
+              "full_en": "he is not stirring yet",
+              "full_vn": "nó vẫn chưa dậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461053_239b0f6dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461053_9a4c9a637e_o.png",
+      "id_image": "stir_1830851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460993_c07853d0a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460993_83654ffc76_o.png",
+      "id_image": "stir_5158727"
+    }
+  ]
+}

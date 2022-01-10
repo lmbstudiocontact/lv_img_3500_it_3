@@ -1,0 +1,51 @@
+{
+  "english": "scientific",
+  "phat_am": "[,saiən'tifik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) khoa học; có tính khoa học",
+          "list_en_vn": [
+            {
+              "full_en": "scientific terminology",
+              "full_vn": "thuật ngữ khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có kỹ thuật; đòi hỏi kỹ thuật cao",
+          "list_en_vn": [
+            {
+              "full_en": "a scientific boxer",
+              "full_vn": "một võ sĩ quyền Anh có kỹ thuật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685114_8533c94737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685114_50d37ee6d9_o.png",
+      "id_image": "scientific_1917567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685049_6607785b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685049_e8b9f96edd_o.png",
+      "id_image": "scientific_2587040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066795_c9c2fa2a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066795_d54b88cf00_o.png",
+      "id_image": "scientific_4507198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066760_ca0ddd0077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066760_f35e31be44_o.png",
+      "id_image": "scientific_5345555"
+    }
+  ]
+}

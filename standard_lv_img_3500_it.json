@@ -1,0 +1,182 @@
+{
+  "english": "standard",
+  "phat_am": "['stændəd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuẩn; tiêu chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "the standard of height required for recruits to the air force",
+              "full_vn": "tiêu chuẩn chiều cao đòi hỏi đối với tân binh của không quân"
+            },
+            {
+              "full_en": "an international standard of weight",
+              "full_vn": "tiêu chuẩn trọng lượng quốc tế"
+            },
+            {
+              "full_en": "people were very poor then , by today's standards",
+              "full_vn": "so với mức sống hiện nay, dân lúc đó nghèo lắm"
+            },
+            {
+              "full_en": "a restaurant with a low standard of hygiene",
+              "full_vn": "nhà hàng có tiêu chuẩn vệ sinh kém"
+            },
+            {
+              "full_en": "a high moral standard",
+              "full_vn": "chuẩn mực đạo đức cao"
+            },
+            {
+              "full_en": "to set low standards of behaviour",
+              "full_vn": "đặt ra chuẩn mực thấp trong cư xử"
+            },
+            {
+              "full_en": "to conform to the standards of society",
+              "full_vn": "phù hợp với các chuẩn mực xã hội"
+            },
+            {
+              "full_en": "conform to the standards of society",
+              "full_vn": "phù hợp với các chuẩn mực xã hội (tức là sống và cư xử theo cách được người khác trong xã hội chấp nhận)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình độ; mức",
+          "list_en_vn": [
+            {
+              "full_en": "to come up to the standard",
+              "full_vn": "đạt trình độ"
+            },
+            {
+              "full_en": "to have /enjoy a high standard of living",
+              "full_vn": "có mức sống cao"
+            },
+            {
+              "full_en": "his work doesn't reach the standard required",
+              "full_vn": "công việc của anh ta không đạt tới trình độ chuyên môn đòi hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cờ nghi thức đặc biệt (nhất là cờ mình trung thành, phụng sự)",
+          "list_en_vn": [
+            {
+              "full_en": "the royal standard",
+              "full_vn": "cờ hoàng gia"
+            },
+            {
+              "full_en": "to raise the standard of solidarity",
+              "full_vn": "giương ngọn cờ đoàn kết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình tượng, hình ảnh (khắc, chạm..) được gắn vào cột và được quân đội mang theo ra chiến trường trước đây)",
+          "list_en_vn": [
+            {
+              "full_en": "a Roman standard",
+              "full_vn": "cờ hiệu của quân La mã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp học (ở các trường cấp hai); hạng, thứ (ở trường cấp một)"
+        },
+        {
+          "m_full_vn": "bản vị (vàng, bạc trong hệ thống tiền tệ)",
+          "list_en_vn": [
+            {
+              "full_en": "gold standard",
+              "full_vn": "bản vị vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột hoặc bệ thẳng đứng (dùng làm vật chống đỡ); trục chống"
+        },
+        {
+          "m_full_vn": "cây, bụi cây đã được ghép trên một gốc cây thẳng đứng (tương phản với cây bụi, cây leo)",
+          "list_en_vn": [
+            {
+              "full_en": "standard rose",
+              "full_vn": "hoa hồng ghép thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Xtanđa (đơn vị đo gỗ bằng khoảng 4, 500 m 3)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be up to /below standard",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt/không đạt mức độ đòi hỏi; đạt/không đạt yêu cầu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tiêu chuẩn, được dùng làm tiêu chuẩn, phù hợp với tiêu chuẩn",
+          "list_en_vn": [
+            {
+              "full_en": "standard sizes of paper",
+              "full_vn": "kích cỡ tiêu chuẩn của giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trung bình, bình thường, thông thường",
+          "list_en_vn": [
+            {
+              "full_en": "standard model of a car",
+              "full_vn": "loại xe ô tô thông dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được thừa nhận, được chấp nhận rộng rãi (về quyền hạn, giá trị)",
+          "list_en_vn": [
+            {
+              "full_en": "this is the standard textbook on the subject",
+              "full_vn": "đây là sách giáo khoa chuẩn về môn đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuẩn; được chấp nhận rộng rãi thành loại hình thông dụng (về đánh vần, phát âm..)",
+          "list_en_vn": [
+            {
+              "full_en": "standard English",
+              "full_vn": "tiếng Anh chuẩn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086910_02404a6131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086910_8a26ca73aa_o.png",
+      "id_image": "standard_3342138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349656_6b98cb049d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349656_c50ab42c72_o.png",
+      "id_image": "standard_5208254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394402_0bb92c8a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394402_e9a60092e3_o.png",
+      "id_image": "standard_5572513"
+    }
+  ]
+}

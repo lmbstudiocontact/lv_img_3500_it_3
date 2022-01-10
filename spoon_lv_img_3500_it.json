@@ -1,0 +1,91 @@
+{
+  "english": "spoon",
+  "phat_am": "[spu:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái thìa",
+          "list_en_vn": [
+            {
+              "full_en": "a large wooden spoon",
+              "full_vn": "một cái thìa gỗ to"
+            },
+            {
+              "full_en": "a tablespoon",
+              "full_vn": "thìa lấy thức ăn; cái muôi"
+            },
+            {
+              "full_en": "a soup-spoon",
+              "full_vn": "thìa xúp"
+            },
+            {
+              "full_en": "a teaspoon",
+              "full_vn": "thìa cà phê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng mà thìa có thể đựng; thìa",
+          "list_en_vn": [
+            {
+              "full_en": "two spoons of sugar",
+              "full_vn": "cho xin hai thìa đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như spoon-bait",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be born with a silver spoon in one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "có bố mẹ giàu có; sướng từ trong trứng sướng ra; đẻ bọc điều"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng thìa múc cái gì lên và đưa đi theo một cách hoặc hướng nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "to spoon sugar from the packet into a bowl",
+              "full_vn": "dùng thìa xúc đường ở trong túi vào bát"
+            },
+            {
+              "full_en": "to spoon up one's soup",
+              "full_vn": "múc xúp bằng thìa"
+            },
+            {
+              "full_en": "to spoon out the peas",
+              "full_vn": "lấy thìa múc đậu Hà Lan ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh nhẹ, tâng (bóng) lên (trong crickê)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467598_47c0d1a09d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467598_d0c2305058_o.png",
+      "id_image": "spoon_263740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397702_75613bacd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397702_51a656b9c4_o.png",
+      "id_image": "spoon_265400"
+    }
+  ]
+}

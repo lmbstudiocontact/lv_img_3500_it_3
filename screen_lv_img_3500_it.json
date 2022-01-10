@@ -1,0 +1,146 @@
+{
+  "english": "screen",
+  "phat_am": "[skri:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bình phong, màn che",
+          "list_en_vn": [
+            {
+              "full_en": "a screen of trees",
+              "full_vn": "màn cây"
+            },
+            {
+              "full_en": "under the screen of night",
+              "full_vn": "dưới màn che của bóng tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) màn, tấm chắn",
+          "list_en_vn": [
+            {
+              "full_en": "electric screen",
+              "full_vn": "màn điện"
+            },
+            {
+              "full_en": "shadow screen",
+              "full_vn": "màn chắn sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức ngăn (nhất là trong các nhà thờ cổ)"
+        },
+        {
+          "m_full_vn": "bảng thông báo (có lưới sắt mắt cáo...)"
+        },
+        {
+          "m_full_vn": "màn ảnh, màn bạc; màn hình (của ti vi, máy tính..)",
+          "list_en_vn": [
+            {
+              "full_en": "panoramic screen",
+              "full_vn": "màn ảnh rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the screen ) phim ảnh (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "write for the screen",
+              "full_vn": "viết kịch bản phim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rạp chiếu bóng (nhất là loại rạp nằm trong một tổ hợp nhiều rạp)"
+        },
+        {
+          "m_full_vn": "cái giần, cái sàng lớn (để sàng than, sỏi...)"
+        },
+        {
+          "m_full_vn": "khung lưới (để ngăn ruồi, muỗi..)"
+        },
+        {
+          "m_full_vn": "bảng nhìn (cấu trúc trắng, to, có thể di chuyển được, đặt ở đầu hoặc cuối bãi chơi để giúp cho người cầm chày nhìn thấy quả bóng trong môn cricket) (như) sight-screen",
+          "list_one_mean": [
+            {
+              "id_full_en": "to act as screen for a criminal",
+              "list_im": [
+                {
+                  "im_full_vn": "che chở một người phạm tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on a screen of indifference",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ra bộ thờ ơ, làm ra vẻ thờ ơ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che chắn; giấu, che chở, bảo vệ ( ai/cái gì) bằng một cái màn",
+          "list_en_vn": [
+            {
+              "full_en": "a bookcase screens off part of the room",
+              "full_vn": "chiếc tủ sách ngăn một phần căn buồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "che chở ai (khỏi bị khiển trách, trừng phạt..)"
+        },
+        {
+          "m_full_vn": "(vật lý) chắn, che (ánh sáng..)"
+        },
+        {
+          "m_full_vn": "giần, sàng, lọc (than, sỏi...)"
+        },
+        {
+          "m_full_vn": "kiểm tra, thử nghiệm ai/cái gì (có bệnh tật, sai sót.. gì không)",
+          "list_en_vn": [
+            {
+              "full_en": "screen women for breast cancer",
+              "full_vn": "kiểm tra phụ nữ xem có bị ung thư vú không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nghiên cứu và thẩm tra lý lịch (người)"
+        },
+        {
+          "m_full_vn": "chiếu (phim, cảnh..) lên màn ảnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682389_0d024304db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682389_63e85373ca_o.png",
+      "id_image": "screen_2123759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327156_e5d5544869_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327156_2c2f3d226d_o.png",
+      "id_image": "screen_5223608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327291_99d8aea046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327291_6b44a748ef_o.png",
+      "id_image": "screen_588239"
+    }
+  ]
+}

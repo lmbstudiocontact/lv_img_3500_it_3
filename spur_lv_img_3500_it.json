@@ -1,0 +1,123 @@
+{
+  "english": "spur",
+  "phat_am": "[spə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đinh thúc ngựa"
+        },
+        {
+          "m_full_vn": "cựa gà"
+        },
+        {
+          "m_full_vn": "cựa sắt (móc và cựa gà khi chọi)"
+        },
+        {
+          "m_full_vn": "(thực vật học) cựa (ở cánh hoa...)"
+        },
+        {
+          "m_full_vn": "mũi núi"
+        },
+        {
+          "m_full_vn": "đoạn đường bộ, đoạn đường sắt rẽ ra từ đường bộ hay đường sắt chính"
+        },
+        {
+          "m_full_vn": "tường cựa gà (chạy ngang bức thành)"
+        },
+        {
+          "m_full_vn": "sự kích thích, sự khuyến khích, sự khích lệ; vật kích thích, điều khuyến khích, điều thúc đẩy",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the spur of the moment",
+              "list_im": [
+                {
+                  "im_full_vn": "do sự thôi thúc của tình thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to need the spur",
+              "list_im": [
+                {
+                  "im_full_vn": "uể oải, cần được lên dây cót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win one's spurs",
+              "list_im": [
+                {
+                  "im_full_vn": "(sử học) được tặng danh hiệu hiệp sĩ"
+                },
+                {
+                  "im_full_vn": "(từ lóng) nổi tiếng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thúc (ngựa)"
+        },
+        {
+          "m_full_vn": "lắp đinh (vào giày)"
+        },
+        {
+          "m_full_vn": "lắp cựa sắt (vào cựa gà)"
+        },
+        {
+          "m_full_vn": "khích lệ, khuyến khích",
+          "list_en_vn": [
+            {
+              "full_en": "to spur someone to do something",
+              "full_vn": "khuyến khích ai làm việc gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thúc ngựa chạy nhanh hơn bằng đinh"
+        },
+        {
+          "m_full_vn": "( (thường) + on , forward ) phi nhanh, chạy nhanh; vội vã"
+        },
+        {
+          "m_full_vn": "nỗ lực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to spur a willing horse",
+              "list_im": [
+                {
+                  "im_full_vn": "làm phiền một cách không cần thiết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466553_b064bb2f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466553_ea4d64dd56_o.png",
+      "id_image": "spur_2968330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352086_b5dccd848d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352086_c66d6f42e5_o.png",
+      "id_image": "spur_996889"
+    }
+  ]
+}

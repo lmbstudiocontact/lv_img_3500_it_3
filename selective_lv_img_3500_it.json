@@ -1,0 +1,45 @@
+{
+  "english": "selective",
+  "phat_am": "[si'lektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tuyển chọn; dựa trên sự tuyển chọn",
+          "list_en_vn": [
+            {
+              "full_en": "the selective training of recruits",
+              "full_vn": "việc huấn luyện tân binh có chọn lựa"
+            },
+            {
+              "full_en": "a selective weed-killer",
+              "full_vn": "máy diệt cỏ dại biết chọn lựa (diệt cỏ dại chứ không diệt các cây khác)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( selective about somebody / something ) có xu hướng chọn lựa cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "I'm very selective about the people I associate with",
+              "full_vn": "Tôi rất kén người mà tôi giao du"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350941_9a17170d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350941_8ba2ecff48_o.png",
+      "id_image": "selective_3317730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088065_b9a89d61ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088065_70dc78cbf4_o.png",
+      "id_image": "selective_943769"
+    }
+  ]
+}

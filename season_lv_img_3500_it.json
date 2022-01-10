@@ -1,0 +1,157 @@
+{
+  "english": "season",
+  "phat_am": "['si:zn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mùa (trong năm)",
+          "list_en_vn": [
+            {
+              "full_en": "the four seasons",
+              "full_vn": "bốn mùa"
+            },
+            {
+              "full_en": "the dry season",
+              "full_vn": "mùa khô"
+            },
+            {
+              "full_en": "the rainy season",
+              "full_vn": "mùa mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời cơ; thời gian hoạt động mạnh; đợt",
+          "list_en_vn": [
+            {
+              "full_en": "a word in season",
+              "full_vn": "lời nói đúng lúc"
+            },
+            {
+              "full_en": "the Parisian season",
+              "full_vn": "thời gian có nhiều hoạt động (văn nghệ, xã giao, tham quan...) ở Pa-ri"
+            },
+            {
+              "full_en": "hunting season",
+              "full_vn": "mùa săn"
+            },
+            {
+              "full_en": "harvest season",
+              "full_vn": "mùa gặt"
+            },
+            {
+              "full_en": "the strawberry season",
+              "full_vn": "mùa dâu tây"
+            },
+            {
+              "full_en": "the football season",
+              "full_vn": "mùa bóng đá"
+            },
+            {
+              "full_en": "the nesting season",
+              "full_vn": "mùa làm tổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một thời gian",
+          "list_en_vn": [
+            {
+              "full_en": "this jacket may still endure for a season",
+              "full_vn": "cái áo này còn có thể chịu đựng được một thời gian"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về con vật cái) mùa chịu đực"
+        },
+        {
+          "m_full_vn": "mùa săn"
+        },
+        {
+          "m_full_vn": "mùa nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "out of season",
+              "full_vn": "hết mùa (về thực phẩm); (nghĩa bóng) vào thời gian mà hầu hết không ai đi nghỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vé mùa (như) season-ticket"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "luyện tập cho quen (với thời tiết, nắng gió...); làm cho thích hợp để sử dụng; làm cho ai có kinh nghiệm qua thực hành (làm cho ai dày dạn)",
+          "list_en_vn": [
+            {
+              "full_en": "to season somebody to the hard life",
+              "full_vn": "làm cho ai dày dạn với cuộc sống gian khổ"
+            },
+            {
+              "full_en": "a politician seasoned by six election campaigns",
+              "full_vn": "một nhà chính trị từng kinh qua sáu chiến dịch bầu cử"
+            },
+            {
+              "full_en": "a seasoned boxer , traveller",
+              "full_vn": "một đấu thủ quyền Anh, du khách dày dạn kinh nghiệm"
+            },
+            {
+              "full_en": "to season a pipe",
+              "full_vn": "làm cho tẩu đóng cao (để hút cho ngon)"
+            },
+            {
+              "full_en": "has this wood been well seasoned ?",
+              "full_vn": "gỗ này đã thật khô chưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho gia vị (vào thức ăn); thêm mắm thêm muối",
+          "list_en_vn": [
+            {
+              "full_en": "conversation was seasoned with humour",
+              "full_vn": "câu chuyện được những câu hài hước làm thêm mặn mà"
+            },
+            {
+              "full_en": "highly seasoned dishes",
+              "full_vn": "những món ăn có nhiều gia vị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm dịu bớt, làm nhẹ bớt, làm đỡ gay gắt",
+          "list_en_vn": [
+            {
+              "full_en": "let mercy season justice",
+              "full_vn": "hãy lấy tình thương mà làm giảm nhẹ công lý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369567_88ac3d0f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369567_c91e5e82d3_o.png",
+      "id_image": "season_2832057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061600_bcb3b2ba67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061600_b05c7541a2_o.png",
+      "id_image": "season_2964502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439703_92482bf24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439703_756a42cb98_o.png",
+      "id_image": "season_4514913"
+    }
+  ]
+}

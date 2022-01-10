@@ -1,0 +1,232 @@
+{
+  "english": "shot",
+  "phat_am": "[∫ɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trả tiền; phiếu tính tiền (ở quán rượu...)"
+        },
+        {
+          "m_full_vn": "phần đóng góp",
+          "list_en_vn": [
+            {
+              "full_en": "to pay one's shot",
+              "full_vn": "góp tiền, đóng phần tiền của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bắn súng; âm thanh của việc bắn súng"
+        },
+        {
+          "m_full_vn": "đạn, viên đạn"
+        },
+        {
+          "m_full_vn": "đạn ghém (như) lead shot"
+        },
+        {
+          "m_full_vn": "phát đạn, phát bắn",
+          "list_en_vn": [
+            {
+              "full_en": "without firing a single shot",
+              "full_vn": "không tốn một phát đạn nào"
+            },
+            {
+              "full_en": "to take a flying shot",
+              "full_vn": "bắn chim đang bay; bắn mục tiêu di động"
+            },
+            {
+              "full_en": "random shot",
+              "full_vn": "phát bắn bừa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý định làm cái gì; sự cố gắng"
+        },
+        {
+          "m_full_vn": "sự làm thử, sự đánh ăn may, sự đoán cầu may",
+          "list_en_vn": [
+            {
+              "full_en": "to have (take ) a shot at",
+              "full_vn": "thử làm (cái gì)"
+            },
+            {
+              "full_en": "to make a bad shot",
+              "full_vn": "đoán nhầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phóng lên vũ trụ (một quả rốc két, tên lửa..)",
+          "list_en_vn": [
+            {
+              "full_en": "the second space shot this year",
+              "full_vn": "vụ phóng tên lửa lên vũ trụ lần thứ hai trong năm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bức ảnh, cảnh được chụp lên ảnh"
+        },
+        {
+          "m_full_vn": "cảnh phim liên tục do một máy quay phim quay"
+        },
+        {
+          "m_full_vn": "(thông tục) sự tiêm (thuốc..); mũi tiêm thuốc"
+        },
+        {
+          "m_full_vn": "tầm (đạn...)"
+        },
+        {
+          "m_full_vn": "người có kỹ năng bắn như thế nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a crack shot",
+              "full_vn": "một tay súng giỏi"
+            },
+            {
+              "full_en": "to be no shot",
+              "full_vn": "bắn kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mìn (phá đá...)"
+        },
+        {
+          "m_full_vn": "( the shot ) quả tạ nặng bằng sắt dùng trong môn đẩy/ném tạ",
+          "list_en_vn": [
+            {
+              "full_en": "to put the shot",
+              "full_vn": "ném tạ, đẩy tạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú đánh (trong cricket, quần vợt..); cú sút bóng (trong bóng đá)"
+        },
+        {
+          "m_full_vn": "liều côcain; phát tiêm mocfin"
+        },
+        {
+          "m_full_vn": "(thông tục) một ngụm rượu"
+        },
+        {
+          "m_full_vn": "lời phê bình sắc, lời nhận xét sắc sảo",
+          "list_one_mean": [
+            {
+              "id_full_en": "like a shot",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngay lập tức; không chần chừ"
+                },
+                {
+                  "im_full_vn": "rất nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to call the shots",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chỉ huy, điều khiển, làm tướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a shot in the arm",
+              "list_im": [
+                {
+                  "im_full_vn": "liều thuốc bổ (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a long shot",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thử làm không chắc thành công"
+                },
+                {
+                  "im_full_vn": "(thông tục) sự đánh cuộc khó thắng"
+                },
+                {
+                  "im_full_vn": "(thông tục) người khó thắng, người khó thành công; việc làm khó thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not by a long shot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không khi nào, không bao giờ, không một chút nào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạp đạn"
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của shoot"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có tia, có vạch; có lốm đốm (màu khác, chất khác...)",
+          "list_en_vn": [
+            {
+              "full_en": "crimson shot with yellow",
+              "full_vn": "màu đỏ thắm có lốm đốm vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đan, nhuộm sao cho óng ánh (có màu sắc khác nhau khi nhìn ở các góc độ khác nhau)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) sờn rách, cũ, tan vỡ, không dùng được nữa",
+          "list_one_mean": [
+            {
+              "id_full_en": "shot through with something",
+              "list_im": [
+                {
+                  "im_full_vn": "chứa đựng nhiều (phẩm chất nào đó); tràn đầy bởi cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697949_fa28aeb63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697949_dfe9241ca5_o.png",
+      "id_image": "shot_1651815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457458_601ed3ebc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457458_0d11c9d80e_o.png",
+      "id_image": "shot_3564467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080210_d8f8a6a6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080210_4963217b19_o.png",
+      "id_image": "shot_572307"
+    }
+  ]
+}

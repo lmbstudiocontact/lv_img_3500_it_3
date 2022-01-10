@@ -1,0 +1,40 @@
+{
+  "english": "surgical",
+  "phat_am": "['sə:dʒikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) phẫu thuật, (thuộc) mổ",
+          "list_en_vn": [
+            {
+              "full_en": "surgical instruments",
+              "full_vn": "dụng cụ phẫu thuật, dụng cụ mổ"
+            },
+            {
+              "full_en": "surgical skills",
+              "full_vn": "những kỹ năng phẫu thuật"
+            },
+            {
+              "full_en": "surgical ward",
+              "full_vn": "phòng mổ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335656_cde4e587d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335656_4c0726e996_o.png",
+      "id_image": "surgical_1225681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450573_0694414fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450573_6ca5e45ab5_o.png",
+      "id_image": "surgical_4829559"
+    }
+  ]
+}

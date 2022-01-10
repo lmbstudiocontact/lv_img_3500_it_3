@@ -1,0 +1,30 @@
+{
+  "english": "wife",
+  "phat_am": "[waif]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều wives",
+      "list_m": [
+        {
+          "m_full_vn": "vợ",
+          "list_en_vn": [
+            {
+              "full_en": "to take to wife",
+              "full_vn": "(từ cổ,nghĩa cổ) lấy làm vợ, cưới làm vợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người đàn bà; bà già"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374137_fc22df1f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374137_d36ab35249_o.png",
+      "id_image": "wife_5526507"
+    }
+  ]
+}

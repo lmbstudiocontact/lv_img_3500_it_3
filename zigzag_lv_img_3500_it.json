@@ -1,0 +1,61 @@
+{
+  "english": "zigzag",
+  "phat_am": "['zigzæg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình chữ chi, đường chữ chi; hầm hào chữ chi",
+          "list_en_vn": [
+            {
+              "full_en": "in zigzags",
+              "full_vn": "hình chữ chi, ngoằn ngoèo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ, phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo hình chữ chi, ngoằn ngoèo",
+          "list_en_vn": [
+            {
+              "full_en": "zigzag road",
+              "full_vn": "đường chữ chi, đường ngoằn ngoèo"
+            },
+            {
+              "full_en": "to run zigzag up the hill",
+              "full_vn": "chạy ngoằn ngoèo lên đồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chạy ngoằn ngoèo, chạy theo đường chữ chi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành đường chữ chi, làm cho chạy ngoằn ngoèo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374852_33bf064804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374852_b10fc1cd39_o.png",
+      "id_image": "zigzag_1655263"
+    }
+  ]
+}

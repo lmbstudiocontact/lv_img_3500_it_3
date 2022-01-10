@@ -1,0 +1,209 @@
+{
+  "english": "tie",
+  "phat_am": "[tai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây buộc, dây cột, dây trói; dây giày"
+        },
+        {
+          "m_full_vn": "cà-vạt (như) necktie"
+        },
+        {
+          "m_full_vn": "đoạn dây thừng, dây kim loại.. dùng để buộc cái gì"
+        },
+        {
+          "m_full_vn": "nơ, nút"
+        },
+        {
+          "m_full_vn": "bím tóc"
+        },
+        {
+          "m_full_vn": "kèo nhà, tà-vẹt (thanh hoặc xà nối những bộ phận của một cấu trúc lại với nhau)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) thanh nối; (từ Mỹ,nghĩa Mỹ) tà vẹt (trên đường sắt) (như) sleeper"
+        },
+        {
+          "m_full_vn": "( (thường) số nhiều) (nghĩa bóng) mối ràng buộc, quan hệ; cái gắn bó mọi người",
+          "list_en_vn": [
+            {
+              "full_en": "ties of blood",
+              "full_vn": "quan hệ dòng máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ràng buộc, sự hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "he doesn't want any ties ; that's why he never married",
+              "full_vn": "anh ta không muốn bị ràng buộc, vì thế cho nên anh ta không bao giờ lấy vợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) trận hoà (tỉ số bằng nhau trong một trận đấu)"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) cuộc thi đấu thể thao giữa hai (hay một nhóm đội, đấu thủ..)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu nối (vạch cong trong một bản nhạc bên trên hai nốt nhạc cùng một độ cao cần được chơi hoặc hát (như) một)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc, cột, trói",
+          "list_en_vn": [
+            {
+              "full_en": "to tie a buffalo to a tree",
+              "full_vn": "buộc một con trâu vào cây"
+            },
+            {
+              "full_en": "to tie one's shoe-laces",
+              "full_vn": "buộc dây giày của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắt",
+          "list_en_vn": [
+            {
+              "full_en": "to tie a knot",
+              "full_vn": "thắt nút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên kết, nối",
+          "list_en_vn": [
+            {
+              "full_en": "a steel bar ties the two columns",
+              "full_vn": "một thanh thép nối hai cột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) rảng buộc, trói buộc, cột; giữ lại",
+          "list_en_vn": [
+            {
+              "full_en": "to be tied to one's work",
+              "full_vn": "bị công việc ràng buộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) đặt dấu nối"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngang điểm, ngang phiếu, hoà nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the two teams tied",
+              "full_vn": "hai đội ngang điểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cột, buộc, cài",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tie down",
+              "list_im": [
+                {
+                  "im_full_vn": "cột, buộc vào, ràng buộc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to tie a man down to a contract",
+                      "full_vn": "ràng buộc một người vào một hợp đồng"
+                    },
+                    {
+                      "full_en": "to tie the knot",
+                      "full_vn": "lấy vợ, lấy chồng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tie on",
+              "list_im": [
+                {
+                  "im_full_vn": "cột, buộc (nhãn hiệu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tie up",
+              "list_im": [
+                {
+                  "im_full_vn": "cột, buộc, trói"
+                },
+                {
+                  "im_full_vn": "(y học) buộc, băng (một vết thương)"
+                },
+                {
+                  "im_full_vn": "(tài chính) giữ lại, giữ nằm im (một số tiền)"
+                },
+                {
+                  "im_full_vn": "(pháp lý) làm cho không huỷ được, làm cho không bán được, làm cho không nhường được (một di sản)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giữ lại, trói buộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be tied up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bắt buộc phải ngừng hoạt động (vì đình công...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get tied up",
+              "list_im": [
+                {
+                  "im_full_vn": "kết hôn, lấy vợ, lấy chồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tie someone's tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "khoá miệng ai lại, bưng miệng ai lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "does this sash tie in front or at the back ?",
+              "full_vn": "cái khăn quàng này buộc đằng trước hay đằng sau?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347931_3a65f0a1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347931_299a8e2fb6_o.png",
+      "id_image": "tie_343341"
+    }
+  ]
+}

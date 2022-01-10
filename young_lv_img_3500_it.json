@@ -1,0 +1,243 @@
+{
+  "english": "young",
+  "phat_am": "[jʌη]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trẻ; non; trẻ tuổi; nhỏ tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "a young man",
+              "full_vn": "một thanh niên"
+            },
+            {
+              "full_en": "young people",
+              "full_vn": "thanh niên"
+            },
+            {
+              "full_en": "his (her ) young woman (man )",
+              "full_vn": "người yêu của nó"
+            },
+            {
+              "full_en": "a young family",
+              "full_vn": "gia đình có nhiều con nhỏ"
+            },
+            {
+              "full_en": "a young person",
+              "full_vn": "người đàn bà trẻ tuổi thuộc tầng lớp dưới (trong ngôn ngữ những người ở của các gia đình tư sản quý tộc Anh)"
+            },
+            {
+              "full_en": "the young person",
+              "full_vn": "người còn ngây thơ cần giữ không cho nghe những điều tục tĩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "non",
+          "list_en_vn": [
+            {
+              "full_en": "young tree",
+              "full_vn": "cây non"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) non trẻ, trẻ tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "a young republic",
+              "full_vn": "nước cộng hoà non trẻ"
+            },
+            {
+              "full_en": "he is young for his age",
+              "full_vn": "nó còn non so với tuổi, nó trẻ hơn tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) non nớt, mới mẻ, chưa có kinh nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "young in mind",
+              "full_vn": "trí óc còn non nớt"
+            },
+            {
+              "full_en": "young in crime",
+              "full_vn": "chưa từng gây tội ác"
+            },
+            {
+              "full_en": "young in business",
+              "full_vn": "chưa có kinh nghiệm kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) còn sớm, còn ở lúc ban đầu, chưa muộn, chưa quá, chưa già",
+          "list_en_vn": [
+            {
+              "full_en": "the night is young yet",
+              "full_vn": "đêm chưa khuya"
+            },
+            {
+              "full_en": "young moon",
+              "full_vn": "trăng non"
+            },
+            {
+              "full_en": "autumn is still young",
+              "full_vn": "thu hãy còn đang ở lúc đầu mùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của tuổi trẻ, của thời thanh niên, của thời niên thiếu, (thuộc) thế hệ trẻ",
+          "list_en_vn": [
+            {
+              "full_en": "young hope",
+              "full_vn": "hy vọng của tuổi trẻ"
+            },
+            {
+              "full_en": "in one's young days",
+              "full_vn": "trong thời kỳ thanh xuân, trong lúc tuổi còn trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) con, nhỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "an angry young man",
+              "list_im": [
+                {
+                  "im_full_vn": "người trẻ tuổi bất bình trước những cảnh chướng tai gai mắt trong xã hội, và mong muốn góp phần canh tân xã hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not so young as one used to be",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn trẻ như ngày nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to get any younger",
+              "list_im": [
+                {
+                  "im_full_vn": "đã luống tuổi, đã già giặn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "young and old (alike )",
+              "list_im": [
+                {
+                  "im_full_vn": "cả người lớn lẫn trẻ em; già trẻ lớn bé",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this is a film for young and old (alike )",
+                      "full_vn": "phim này lứa tuổi nào xem cũng được (bất kể già trẻ lớn bé)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "young at heart",
+              "list_im": [
+                {
+                  "im_full_vn": "có tâm hồn trẻ trung (dù lớn tuổi, nhưng vẫn cảm thấy hoặc cư xử (như) mình còn trẻ); trẻ trung trong tâm hồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an old head on young shoulders",
+              "list_im": [
+                {
+                  "im_full_vn": "còn trẻ nhưng có suy nghĩ già giặn, già giặn trước tuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the young idea",
+              "list_im": [
+                {
+                  "im_full_vn": "tầng lớp trẻ tuổi, tầng lớp thanh niên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "young lady /young man",
+              "list_im": [
+                {
+                  "im_full_vn": "người bạn gái/người bạn trai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you're only young once",
+              "list_im": [
+                {
+                  "im_full_vn": "tuổi trẻ có thì, tuổi xuân chỉ có một thời mà thôi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "young Smith",
+              "full_vn": "thằng Xmít con, cậu Xmít"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thú con, chim con (mới đẻ)",
+          "list_en_vn": [
+            {
+              "full_en": "to be with young",
+              "full_vn": "(nói về thú vật) có chửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the young ) những người trẻ tuổi được xem như một nhóm; thanh niên",
+          "list_en_vn": [
+            {
+              "full_en": "the young in our society need care and protection",
+              "full_vn": "thanh niên trong xã hội ta cần được chăm sóc và bảo vệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375027_0f79870853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375027_dff425965d_o.png",
+      "id_image": "young_2897024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685409_168493e8ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685409_a63851197e_o.png",
+      "id_image": "young_3014426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445278_9813fcbc91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445278_b8b32c0a00_o.png",
+      "id_image": "young_3088339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067190_2c1bd5e472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067190_3a02dd3b2d_o.png",
+      "id_image": "young_3576969"
+    }
+  ]
+}
